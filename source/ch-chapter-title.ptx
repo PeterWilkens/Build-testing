@@ -18,5 +18,5 @@
   </introduction>
   <!-- include sections -->
   <xi:include href="sec-section-name.ptx" />
-
+<xi:include href="sec-free-bass-keyboard-layout.ptx" />
 </chapter>

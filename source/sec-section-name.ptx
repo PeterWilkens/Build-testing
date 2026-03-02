@@ -11,11 +11,8 @@
 \begin{tikzpicture}
 
 % 30 degree grid follows
-% \draw [pattern={Lines[angle=30,distance=1cm]},pattern color=blue] 
-%   (0,0) rectangle (5,11);
-
-% inline node style (avoid separate \tikzset)
-% style: circle, inner sep=0pt, minimum size=1cm, fill=none, draw=black
+%\draw [pattern={Lines[angle=30,distance=1cm]},pattern color=blue] 
+% Grid lines
 
 % Nodes (style inlined)
 \node[circle, inner sep=0pt, minimum size=1cm, fill=none, draw=black] at (2,10.4) {D$\sharp$/E$\flat$};
@@ -77,6 +74,7 @@
 \draw[thick,](-1,0)--(-1,11);
 
 \end{tikzpicture}
+
    </latex-image>
     </image>
 </figure>

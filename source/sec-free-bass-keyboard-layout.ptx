@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-free-bass-keyboard-layout" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>C System Free Bass Keyboard Layout Diagram</title>
+
+          
+  <figure xml:id="freebass">
+    <caption>Free Bass Keyboard. Vertical lines represent Bellows</caption>
+    <image>
+      <latex-image>
+\begin{tikzpicture}
+
+%30 degree grid follows
+% \draw [pattern={Lines[angle=30,distance=1cm]},pattern color=blue] 
+    (0,0) rectangle (5,11);
+
+\tikzset{user/.style={circle, inner sep=0pt, minimum size=0.8cm, fill=none, draw=black}}
+
+
+\node[user] at (3,11) {F};
+\node[user] at (4,11.5) {A};
+\node[user] at (5,12) {C\sh};
+\node[user] at (2,10.4) {F\sh};
+\node[user] at (1.0,9.85){F};
+\node[user] at (0.0,9.35){A};
+
+\node[user] at (5,10.9) {A\fl};
+\node[user] at (4.0,10.43) {E};
+\node[user] at (3.0,9.85) {E\fl};
+\node[user] at (2.0,9.25) {D};
+\node[user] at (1.0,8.65) {C\sh};
+\node[user] at (0.0,8.15) {C};
+
+\node[user] at (5,9.79) {E\fl};
+\node[user] at (4.0,9.27){B};
+\node[user] at (3.0,8.67) {C};
+\node[user] at (2.0,8.1) {B};
+\node[user] at (1.0,7.49) {B\fl};
+\node[user] at (0.0,7.0) {A};
+
+\node[user] at (5.0,8.6) {B\fl};
+\node[user] at (4.00,8.08) {F\sh};
+\node[user] at (3.00,7.46) {A};
+\node[user] at (2.0,6.9) {A\fl};
+\node[user] at (1.0,6.35) {G};
+%\node[user,fill={rgb:red,15;green,2;blue,1,},] at (1,6.35){A\fl};
+\node[user] at (0.0,5.8) {F\sh};
+
+\node[user] at (5.00,7.49) {F};
+\node[user] at (4.00,6.95) {D\fl};
+\node[user] at (3.00,6.35){F\sh};
+\node[user] at (2.0,5.77) {F};
+\node[user] at (1.0,5.2) {E};
+%\node[user,fill={rgb:red,1;green,256;blue,3},] at (4,6.95){G};
+%\node[user,fill={rgb:red,1;green,256;blue,3},] at (4,8.08){B\fl};
+\node[user] at (0.0,4.6) {E\fl};
+
+\node[user] at (5.0,6.3) {C};
+\node[user] at (4.0,5.75) {A\fl};
+\node[user] at (3.0,5.18) {E\fl};
+\node[user] at (2.0, 4.55) {D};
+\node[user] at (1.0,3.99) {C\sh};
+%\node[user,fill={rgb:red,1;green,256;blue,3},] at (4,5.75){E};
+%\node[user,fill={rgb:red,15;green,2;blue,1},] at (1,7.49){G};
+\node[user] at (0.0,3.45) {C};
+
+\node[user] at (5,5.1) {G};
+\node[user] at (4.0,4.55){E\fl};
+\node[user] at (3.0,4.0) {C};
+\node[user] at (2.0,3.40) {B};
+\node[user] at (1,2.85) {B\fl};
+%\node[user,fill={rgb:red,15;green,2;blue,1},] at (2,3.4){A};
+%\node[user,fill={rgb:red,15;green,2;blue,1},] at (1.0,5.18){C\sh/D\fl};
+\node[user] at (0.0,2.3) {A};
+
+\node[user] at (5.00,3.95) {D};
+\node[user] at (4.00,3.35) {B\fl};
+\node[user] at (3.00,2.83) {A};
+\node[user] at (2.0,2.25) {A\fl};
+\node[user] at (1.0,1.7) {G};
+%\node[user,fill={rgb:red,1;green,256;blue,3},] at (5,3.95){C};
+\node[user] at (0.0,1.15) {F\sh};
+
+\node[user] at (5.00,2.8) {A};
+\node[user] at (4.00,2.2) {F};
+\node[user] at (3.00,1.65){F\sh};
+\node[user] at (2.0,1.05) {F};
+%\node[user] at (1.0,0.44) {C\sh/D\fl};\node[user,fill={rgb:red,1;green,256;blue,3},] at (4,5.75){E};
+\node[user] at (0.0,0.0) {E\fl};
+
+%\node[user] at (3.0,0.44) {G\sh/A\fl};
+%\node[user] at (4.0,1.05) {G};
+%\node[user] at (5.0,1.6) {F\sh/G\fl};
+\node[user] at (1.0,0.55) {E};
+%\draw[step=1cm,gray,very thin] (0,0) grid (5,11);
+
+\draw[thick,](7.5,2.0)--(7.5,12.5);
+\draw[thick,](7,2.0)--(7,12.5);
+\draw[thick,](6.5,2.0)--(6.5,12.5);
+
+\end{tikzpicture}
+
+  </latex-image>
+    </image>
+</figure>
+
+</section>
