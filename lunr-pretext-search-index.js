@@ -46,6 +46,24 @@ var ptx_lunr_docs = [
   "body": " Free Bass Keyboard. Vertical lines represent Bellows     "
 },
 {
+  "id": "sec-stradella-bass-keyboard-layout",
+  "level": "1",
+  "url": "sec-stradella-bass-keyboard-layout.html",
+  "type": "Section",
+  "number": "1.3",
+  "title": "Stradella Bass Keyboard Layout",
+  "body": " Stradella Bass Keyboard Layout  This section will cover the layout of the Stradella bass keyboard and its use in chord and scale construction.   Stradella Bass Keyboard. Vertical lines represent Bellows      "
+},
+{
+  "id": "stradella",
+  "level": "2",
+  "url": "sec-stradella-bass-keyboard-layout.html#stradella",
+  "type": "Figure",
+  "number": "1.3.1",
+  "title": "",
+  "body": " Stradella Bass Keyboard. Vertical lines represent Bellows     "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
