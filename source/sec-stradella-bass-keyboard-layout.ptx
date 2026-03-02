@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-stradella-bass-keyboard-layout" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Stradella Bass Keyboard Layout</title>
+  <p>This section will cover the layout of the Stradella bass keyboard and its use in chord and scale construction.</p>
+
+  <figure xml:id="stradella">
+    <caption>Stradella Bass Keyboard. Vertical lines represent Bellows</caption>
+    <image>
+      <latex-image>
+\begin{tikzpicture}
+
+%30 degree grid follows
+% \draw [pattern={Lines[angle=30,distance=1cm]},pattern color=blue] 
+    (0,0) rectangle (5,11);
+
+\tikzset{user/.style={circle, inner sep=0pt, minimum size=0.8cm, fill=none, draw=black}}
+
+\node[user] at (3,12.2) {DM};
+\node[user] at (4,12.6) {D};
+\node[user] at (5,13.12) {F\sh};
+\node[user] at (2,11.5) {Dmi};
+\node[user] at (1.0,10.95){D7};
+\node[user] at (0.0,10.45){D dim};
+
+\node[user] at (3,10.95) {AM};
+\node[user] at (4,11.5) {A};
+\node[user] at (5,12) {D\fl};
+\node[user] at (2,10.4) {Ami};
+\node[user] at (1.0,9.85){A7};
+\node[user] at (0.0,9.35){Adim};
+
+\node[user] at (5,10.9) {A\fl};
+\node[user] at (4.0,10.43) {E};
+\node[user] at (3.0,9.85) {EM};
+\node[user] at (2.0,9.25) {Emi};
+\node[user] at (1.0,8.65) {E7};
+\node[user] at (0.0,8.15) {Edim};
+
+\node[user] at (5,9.79) {E\fl};
+\node[user] at (4.0,9.27){B};
+\node[user] at (3.0,8.67) {BM};
+\node[user] at (2.0,8.1) {Bmi};
+\node[user] at (1.0,7.49) {B7};
+\node[user] at (0.0,7.0) {Bdim};
+
+\node[user] at (5.0,8.6) {B\fl};
+\node[user] at (4.00,8.08) {F\sh};
+\node[user] at (3.00,7.46) {F\sh\ M};
+\node[user] at (2.0,6.9) {F\sh mi};
+\node[user] at (1.0,6.35) {F\sh 7};
+%\node[user,fill={rgb:red,15;green,2;blue,1,},] at (1,6.35){A\fl};
+\node[user] at (0.0,5.8) {F\sh dim};
+
+\node[user] at (5.00,7.49) {F};
+\node[user] at (4.00,6.95) {D\fl};
+\node[user] at (3.00,6.35){D\fl M};
+\node[user] at (2.0,5.77) {D\fl mi};
+\node[user] at (1.0,5.2) {D\fl 7};
+%\node[user,fill={rgb:red,1;green,256;blue,3},] at (4,6.95){G};
+%\node[user,fill={rgb:red,1;green,256;blue,3},] at (4,8.08){B\fl};
+\node[user] at (0.0,4.6) {D\fl dim};
+
+\node[user] at (5.0,6.3) {C};
+\node[user] at (4.0,5.75) {A\fl};
+\node[user] at (3.0,5.18) {A\fl M};
+\node[user] at (2.0, 4.55) {A\fl mi};
+\node[user] at (1.0,3.99) {A\fl 7};
+%\node[user,fill={rgb:red,1;green,256;blue,3},] at (4,5.75){E};
+%\node[user,fill={rgb:red,15;green,2;blue,1},] at (1,7.49){G};
+\node[user] at (0.0,3.45) {A\fl dim};
+
+\node[user] at (5,5.1) {G};
+\node[user] at (4.0,4.55){E\fl};
+\node[user] at (3.0,4.0) {E\fl M};
+\node[user] at (2.0,3.40) {E\fl mi};
+\node[user] at (1,2.85) {E\fl 7};
+%\node[user,fill={rgb:red,15;green,2;blue,1},] at (2,3.4){A};
+%\node[user,fill={rgb:red,15;green,2;blue,1},] at (1.0,5.18){C\sh/D\fl};
+\node[user] at (0.0,2.3) {E\fl dim};
+
+\node[user] at (5.00,3.95) {D};
+\node[user] at (4.00,3.35) {B\fl};
+\node[user] at (3.00,2.83) {B\fl M};
+\node[user] at (2.0,2.25) {B\fl mi};
+\node[user] at (1.0,1.7) {B\fl 7};
+%\node[user,fill={rgb:red,1;green,256;blue,3},] at (5,3.95){C};
+\node[user] at (0.0,1.15) {B\fl dim};
+
+\node[user] at (5.00,2.8) {A};
+\node[user] at (4.00,2.2) {F};
+\node[user] at (3.00,1.65){FM};
+\node[user] at (2.0,1.05) {Fmi};
+%\node[user] at (1.0,0.44) {C\sh/D\fl};\node[user,fill={rgb:red,1;green,256;blue,3},] at (4,5.75){E};
+\node[user] at (0.0,0.0) {F dim};
+
+%\node[user] at (3.0,0.44) {G\sh/A\fl};
+%\node[user] at (4.0,1.05) {G};
+%\node[user] at (5.0,1.6) {F\sh/G\fl};
+\node[user] at (1.0,0.55) {F7};
+%\draw[step=1cm,gray,very thin] (0,0) grid (5,11);
+
+\node[user] at (0.0,-1.15) {Cdim};
+\node[user] at (1.0,-0.6) {C7};
+\node[user] at (2.0,-0.1) {Cmi};
+\node[user] at (3.0,0.5) {CM};
+\node[user] at (4.0,1.05) {C};
+\node[user] at (5.0,1.65) {E};
+
+\node[user] at (0.0,-2.3) {Ddim};
+\node[user] at (1.0,-1.75) {D7};
+\node[user] at (2.0,-1.25) {Dmi};
+\node[user] at (3.0,-0.63) {DM};
+\node[user] at (4.0,-0.095) {D};
+\node[user] at (5.0,0.52) {B};
+
+
+
+
+
+\draw[thick,](7.5,2.0)--(7.5,12.5);
+\draw[thick,](7,2.0)--(7,12.5);
+\draw[thick,](6.5,2.0)--(6.5,12.5);
+
+\end{tikzpicture}
+      </latex-image>
+    </image>
+  </figure>
+
+</section>
