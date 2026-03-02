@@ -28,6 +28,24 @@ var ptx_lunr_docs = [
   "body": " Treble Side Keyboard. Vertical lines represent Bellows     "
 },
 {
+  "id": "sec-free-bass-keyboard-layout",
+  "level": "1",
+  "url": "sec-free-bass-keyboard-layout.html",
+  "type": "Section",
+  "number": "1.2",
+  "title": "C System Free Bass Keyboard Layout Diagram",
+  "body": " C System Free Bass Keyboard Layout Diagram   Free Bass Keyboard. Vertical lines represent Bellows      "
+},
+{
+  "id": "freebass",
+  "level": "2",
+  "url": "sec-free-bass-keyboard-layout.html#freebass",
+  "type": "Figure",
+  "number": "1.2.1",
+  "title": "",
+  "body": " Free Bass Keyboard. Vertical lines represent Bellows     "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
