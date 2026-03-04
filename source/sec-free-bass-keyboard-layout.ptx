@@ -10,18 +10,18 @@
 \begin{tikzpicture}
 
 %30 degree grid follows
-% \draw [pattern={Lines[angle=30,distance=1cm]},pattern color=blue] 
+%\draw [pattern={Lines[angle=30,distance=1cm]},pattern color=blue] 
     (0,0) rectangle (5,11);
 
 \tikzset{user/.style={circle, inner sep=0pt, minimum size=0.8cm, fill=none, draw=black}}
 
 
-\node[user] at (3,11) {F};
+\node[user] at (3,11) {F\sh};
 \node[user] at (4,11.5) {A};
 \node[user] at (5,12) {C\sh};
-\node[user] at (2,10.4) {F\sh};
-\node[user] at (1.0,9.85){F};
-\node[user] at (0.0,9.35){A};
+\node[user] at (2,10.4) {F};
+\node[user] at (1.0,9.85){E};
+\node[user] at (0.0,9.35){E\fl};
 
 \node[user] at (5,10.9) {A\fl};
 \node[user] at (4.0,10.43) {E};
