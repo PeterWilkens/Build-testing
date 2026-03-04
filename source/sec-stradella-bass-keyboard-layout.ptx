@@ -106,11 +106,11 @@
 \node[user] at (4.0,1.05) {C};
 \node[user] at (5.0,1.65) {E};
 
-\node[user] at (0.0,-2.3) {Ddim};
-\node[user] at (1.0,-1.75) {D7};
-\node[user] at (2.0,-1.25) {Dmi};
-\node[user] at (3.0,-0.63) {DM};
-\node[user] at (4.0,-0.095) {D};
+\node[user] at (0.0,-2.3) {Gdim};
+\node[user] at (1.0,-1.75) {G7};
+\node[user] at (2.0,-1.25) {Gmi};
+\node[user] at (3.0,-0.63) {GM};
+\node[user] at (4.0,-0.095) {G};
 \node[user] at (5.0,0.52) {B};
 
 
