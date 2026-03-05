@@ -64,6 +64,24 @@ var ptx_lunr_docs = [
   "body": " Stradella Bass Keyboard. Vertical lines represent Bellows     "
 },
 {
+  "id": "sec-iso-grid-intro",
+  "level": "1",
+  "url": "sec-iso-grid-intro.html",
+  "type": "Section",
+  "number": "2.1",
+  "title": "Isometric Grid",
+  "body": " Isometric Grid  An isometric grid visualization created using TiKZ.   Isometric Grid      "
+},
+{
+  "id": "fig-iso-grid",
+  "level": "2",
+  "url": "sec-iso-grid-intro.html#fig-iso-grid",
+  "type": "Figure",
+  "number": "2.1.1",
+  "title": "",
+  "body": " Isometric Grid     "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
