@@ -11,7 +11,7 @@
 
 %30 degree grid follows
 %\draw [pattern={Lines[angle=30,distance=1cm]},pattern color=blue] 
-    (0,0) rectangle (5,11);
+   (0,0) rectangle (5,11);
 
 \tikzset{user/.style={circle, inner sep=0pt, minimum size=0.8cm, fill=none, draw=black}}
 

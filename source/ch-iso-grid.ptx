@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-iso-grid">
+    <title>ISO Grid</title>
+    
+    <section xml:id="sec-iso-grid-intro">
+        <title>Isometric Grid</title>
+        <p>
+            An isometric grid visualization created using TiKZ.
+        </p>
+        
+        <figure xml:id="fig-iso-grid">
+            <caption>Isometric Grid</caption>
+            <image xml:id="img-iso-grid">
+                <latex-image>
+\begin{tikzpicture}
+% User-adjustable parameters
+\pgfmathsetmacro{\isoangle}{60} % theta
+\pgfmathsetmacro{\vv}{10} % # vertical segments 
+\pgfmathsetmacro{\hh}{6} % # horizontal segments 
+\pgfmathsetmacro{\vlen}{2} % vertical length
+
+% Set up for isometric grid
+\pgfmathsetmacro{\ang}{\isoangle/2} 
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+
+    \begin{scope}
+        % set drawing region (clipped outside)
+        \path[clip] (0,0) rectangle (\xmax,\ymax);
+
+        % interior vertical lines
+        \pgfmathsetmacro{\ii}{\hh-1}
+        \foreach \i in {1,...,\ii} {
+          \draw (\i*\hlen,0) -- ++(0,\ymax);
+        }
+
+        % Rightward lines from bottom and top
+        \pgfmathsetmacro{\dvlen}{2*\vv*\dlen}
+        \foreach \i in {0,2,...,\hh} {
+            \draw (\i*\hlen,0) -- ++(\ang:\dvlen); 
+            \draw (\i*\hlen,\ymax) -- ++(-\ang:\dvlen); 
+        }
+
+        % Lines from left side
+        \pgfmathsetmacro{\jj}{\vv-1}
+        \pgfmathsetmacro{\dhlen}{\hh*\dlen}
+        \foreach \j in {1,...,\jj} {
+            \draw (0,\j*\vlen) -- ++(\ang:\dhlen); 
+            \draw (0,\j*\vlen) -- ++(-\ang:\dhlen); 
+        }
+    \end{scope}
+
+    % outline
+    \draw[gray,thick] rectangle (\xmax,\ymax);	
+
+    % labeling intersections
+    \foreach \i in {0,1,...,\hh} {
+        \pgfmathsetmacro{\jj}{mod(\i,2)==0?\vv:\vv-1)}
+        \pgfmathsetmacro{\ff}{mod(\i,2)==0?0:\vlen/2}
+        \foreach \j in {0,1,...,\jj} {
+            \path (\i*\hlen,\j*\vlen+\ff) 
+            coordinate (I-\i-\j);
+        }
+    }
+
+    % Draw Isometric Axes
+    \begin{scope}[shift=(I-3-2), every path/.style={blue, ultra thick, ->}, every node/.append style={pos=1.25, fill=white}]
+       % \draw (0,0) -- (90:2) node {$z$};
+       % \draw (0,0) -- ++(-\ang:2) node {$x$};
+       %\draw (0,0) -- ++(180+\ang:2) node {$y$};
+    \end{scope}
+
+    \node[circle, draw=green, fill=green!20, inner sep=18pt] at (I-5-1.5) {};
+    \node[circle, draw=green, fill=green!20, inner sep=18pt] at (I-4-2) {};
+    \node[circle, draw=green, fill=green!20, inner sep=18pt] at (I-4-3) {};
+    
+    \end{tikzpicture}
+                
+
+
+</latex-image>
+            </image>
+        </figure>
+    </section>
+    
+</chapter>
