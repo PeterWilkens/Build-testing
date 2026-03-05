@@ -18,7 +18,7 @@
 \pgfmathsetmacro{\isoangle}{60} % theta
 \pgfmathsetmacro{\vv}{10} % # vertical segments 
 \pgfmathsetmacro{\hh}{6} % # horizontal segments 
-\pgfmathsetmacro{\vlen}{2} % vertical length
+\pgfmathsetmacro{\vlen}{0.5} % vertical length
 
 % Set up for isometric grid
 \pgfmathsetmacro{\ang}{\isoangle/2} 
@@ -54,11 +54,11 @@
     \end{scope}
 
     % outline
-    \draw[gray,thick] rectangle (\xmax,\ymax);	
+    \draw[lightgray,very thin] rectangle (\xmax,\ymax);	
 
     % labeling intersections
     \foreach \i in {0,1,...,\hh} {
-        \pgfmathsetmacro{\jj}{mod(\i,2)==0?\vv:\vv-1)}
+        \pgfmathsetmacro{\jj}{mod(\i,2)==0?\vv:\vv-1}
         \pgfmathsetmacro{\ff}{mod(\i,2)==0?0:\vlen/2}
         \foreach \j in {0,1,...,\jj} {
             \path (\i*\hlen,\j*\vlen+\ff) 
@@ -73,10 +73,14 @@
        %\draw (0,0) -- ++(180+\ang:2) node {$y$};
     \end{scope}
 
-    \node[circle, draw=green, fill=green!20, inner sep=18pt] at (I-5-1.5) {};
-    \node[circle, draw=green, fill=green!20, inner sep=18pt] at (I-4-2) {};
-    \node[circle, draw=green, fill=green!20, inner sep=18pt] at (I-4-3) {};
-    
+
+
+
+
+    \node[circle, draw=green, fill=green!10, inner sep=1pt] at (I-5-1) {C};
+    \node[circle, draw=gray, fill=green!10, inner sep=4.6pt] at (I-4-2) {};
+    \node[circle, draw=green, fill=green!10, inner sep=1pt] at (I-4-3) {E};
+    \node[circle, draw=green, fill=green!10, inner sep=1pt] at (I-4-4) {G};
     \end{tikzpicture}
                 
 
