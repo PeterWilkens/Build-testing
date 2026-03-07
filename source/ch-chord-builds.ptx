@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="ch-iso-grid">
-    <title>ISO Grid</title>
+<chapter xml:id="ch-chord-builds">
+    <title>Chord Builds</title>
     
-    <section xml:id="sec-iso-grid-intro">
-        <title>Treble Keyboard Note Layout
-
+    <section xml:id="sec-chord-builds-intro">
+        <title>Chord Builds
         </title>
         <p>
             An isometric grid visualization created using TiKZ.
         </p>
         
-        <figure xml:id="fig-iso-grid">
-            <caption>Treble Keyboard Note Layout
-
+        <figure xml:id="fig-chord-builds">
+            <caption>Chord Builds
             </caption>
-            <image xml:id="img-iso-grid">
+            <image xml:id="img-chord-builds">
                 <latex-image>
 \begin{tikzpicture}
 % User-adjustable parameters
@@ -96,6 +94,7 @@
     \node[circle, draw=green, fill=green!10, inner sep=1pt,minimum size=40pt] at (I-2-4) {G\fl,F\sh};
     \node[circle, draw=green, fill=green!10, inner sep=1pt,minimum size=40pt] at (I-5-3) {G\fl, F\sh};
     \node[circle, draw=green, fill=green!10, inner sep=1pt,minimum size=40pt] at (I-4-4) {G};
+    \node[circle, draw=green, fill=green!10, inner sep=1pt,minimum size=40pt] at (I-4-3) {E};
     \node[circle, draw=green, fill=green!10, inner sep=1pt,minimum size=40pt] at (I-3-4) {A\fl, G\sh};
     \node[circle, draw=green, fill=green!10, inner sep=1pt,minimum size=40pt] at (I-2-5) {A};
     \node[circle, draw=green, fill=green!10, inner sep=1pt,minimum size=40pt] at (I-1-5) {B\fl, A\sh};
@@ -125,7 +124,7 @@
     \node[circle, draw=green, fill=green!10, inner sep=1pt,minimum size=40pt] at (I-2-8) {F\sh,G\fl};
     \node[circle, draw=green, fill=green!10, inner sep=1pt,minimum size=40pt] at (I-5-7) {F\sh,G\fl};
 
-    \node[circle, draw=green, fill=green!10, inner sep=1pt,minimum size=40pt] at (I-3-8) {A\fl, G\sh};
+\node[circle, draw=green, fill=green!10, inner sep=1pt,minimum size=40pt] at (I-3-8) {A\fl, G\sh};
     \node[circle, draw=green, fill=green!10, inner sep=1pt,minimum size=40pt] at (I-2-9) {A};
     \node[circle, draw=green, fill=green!10, inner sep=1pt,minimum size=40pt] at (I-1-9) {B\fl, A\sh};
 
