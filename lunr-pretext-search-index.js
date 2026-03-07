@@ -69,8 +69,8 @@ var ptx_lunr_docs = [
   "url": "sec-iso-grid-intro.html",
   "type": "Section",
   "number": "2.1",
-  "title": "Isometric Grid",
-  "body": " Isometric Grid  An isometric grid visualization created using TiKZ.   Isometric Grid      "
+  "title": "Treble Keyboard Note Layout",
+  "body": " Treble Keyboard Note Layout  An isometric grid visualization created using TiKZ.   Treble Keyboard Note Layout      "
 },
 {
   "id": "fig-iso-grid",
@@ -79,7 +79,43 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "2.1.1",
   "title": "",
-  "body": " Isometric Grid     "
+  "body": " Treble Keyboard Note Layout     "
+},
+{
+  "id": "sec-chord-builds-intro",
+  "level": "1",
+  "url": "sec-chord-builds-intro.html",
+  "type": "Section",
+  "number": "3.1",
+  "title": "Chord Builds",
+  "body": " Chord Builds  An isometric grid visualization created using TiKZ.   Chord Builds      "
+},
+{
+  "id": "fig-chord-builds",
+  "level": "2",
+  "url": "sec-chord-builds-intro.html#fig-chord-builds",
+  "type": "Figure",
+  "number": "3.1.1",
+  "title": "",
+  "body": " Chord Builds     "
+},
+{
+  "id": "sec-Cmaj-allinversions-intro",
+  "level": "1",
+  "url": "sec-Cmaj-allinversions-intro.html",
+  "type": "Section",
+  "number": "4.1",
+  "title": "C Major Chords",
+  "body": " C Major Chords  An isometric grid visualization created using TiKZ.   C Major Chords      "
+},
+{
+  "id": "fig-Cmaj-allinversions",
+  "level": "2",
+  "url": "sec-Cmaj-allinversions-intro.html#fig-Cmaj-allinversions",
+  "type": "Figure",
+  "number": "4.1.1",
+  "title": "",
+  "body": " C Major Chords     "
 },
 {
   "id": "backmatter-2",
