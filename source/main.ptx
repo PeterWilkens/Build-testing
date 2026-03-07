@@ -15,9 +15,10 @@
     <xi:include href="./ch-chapter-title.ptx" />
     <xi:include href="./ch-iso-grid.ptx" />
       <xi:include href="./ch-chord-builds.ptx" />
+      <xi:include href="./ch-Cmaj-allinversions.ptx" />
+      
+          <!-- Include backmatter -->
+          <xi:include href="./backmatter.ptx" />
 
-    <!-- Include backmatter -->
-    <xi:include href="./backmatter.ptx" />
-
-  </book>
-</pretext>
+        </book>
+      </pretext>
