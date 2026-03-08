@@ -1,8 +1,9 @@
-<chapter xml:id="ch-the-chromatic-button-accordion">
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="ch-the-chromatic-button-accordion" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>The Chromatic Button Accordion</title>
-    <para>
+      <p>
         This chapter introduces the chromatic button accordion, its history, design, and musical applications. Further content can be added as needed.
-    </para>
+      </p>
 <!-- include sections -->
   <xi:include href="sec-section-name.ptx" />
   <xi:include href="sec-free-bass-keyboard-layout.ptx" />
