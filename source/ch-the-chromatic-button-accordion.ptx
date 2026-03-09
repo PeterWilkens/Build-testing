@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xml:id="ch-the-chromatic-button-accordion" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>The Chromatic Button Accordion</title>
+     <introduction>
       <p>
-        This chapter introduces the chromatic button accordion, its history, design, and musical applications. Further content can be added as needed.
+      
+        This chapter introduces the chromatic button accordion, showing the key layout of the treble side (normally right hand) and the bass side with key layouts of the Stradella and Free Bass systems.
       </p>
+      </introduction>
+      
+
+
+
 <!-- include sections -->
+  <xi:include href="sec-chromatic-button-accordion-intro.ptx" />
   <xi:include href="sec-section-name.ptx" />
   <xi:include href="sec-free-bass-keyboard-layout.ptx" />
   <xi:include href="sec-stradella-bass-keyboard-layout.ptx" />
