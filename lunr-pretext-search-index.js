@@ -109,6 +109,24 @@ var ptx_lunr_docs = [
   "body": " Chord Builds     "
 },
 {
+  "id": "sec-Cmaj-build",
+  "level": "1",
+  "url": "sec-Cmaj-build.html",
+  "type": "Section",
+  "number": "5.1",
+  "title": "C Major Chords",
+  "body": " C Major Chords  All notes of CMajor Chord (C,E and G shown on grid allowing visualisation of Root, 1st and 2nd inversion triads).   C Major Chords      "
+},
+{
+  "id": "fig-Cmaj-build",
+  "level": "2",
+  "url": "sec-Cmaj-build.html#fig-Cmaj-build",
+  "type": "Figure",
+  "number": "5.1.1",
+  "title": "",
+  "body": " C Major Chords     "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
