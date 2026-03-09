@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-CEG-overall" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>CEG Overall</title>
+  <introduction>
+    <p>This chapter covers the overall structure and relationships of the notes C, E, and G in chord and scale construction for the C System Chromatic Button Accordion.</p>
+  </introduction>
+  <!-- Add sections or content as needed -->
+   <xi:include href="./sec-Cmaj-build.ptx" />
+
+</chapter>

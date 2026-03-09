@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<section xml:id="sec-Cmaj-allinversions-intro" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+<section xml:id="sec-Cmaj-build" xmlns:xi="http://www.w3.org/2001/XInclude"> 
         <title>C Major Chords</title>
         <p>
             All notes of CMajor Chord (C,E and G shown on grid allowing visualisation of Root, 1st and 2nd inversion triads).
         </p>
         
-        <figure xml:id="fig-Cmaj-allinversions">
+        <figure xml:id="fig-Cmaj-build">
             <caption>C Major Chords</caption>
-            <image xml:id="img-Cmaj-allinversions">
+            <image xml:id="img-Cmaj-build">
                 <latex-image>
 <!-- TikZ code copied from iso-grid, update node colors as needed -->
 \begin{tikzpicture}
