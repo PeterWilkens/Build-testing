@@ -24,26 +24,26 @@
 
 \node[user] at (3,10.95) {AM};
 \node[user] at (4,11.5) {A};
-\node[user] at (5,12.05) {D\fl};
+\node[user] at (5,12.05) {D$\flat$};
 \node[user] at (2,10.4) {Ami};
 \node[user] at (1.0,9.83){A7};
 \node[user] at (0.0,9.31){Adim};
 
-\node[user] at (5,10.9) {A\fl};
+\node[user] at (5,10.9) {A$\flat$};
 \node[user] at (4.0,10.36) {E};
 \node[user] at (3.0,9.82) {EM};
 \node[user] at (2.0,9.25) {Emi};
 \node[user] at (1.0,8.65) {E7};
 \node[user] at (-0.07,8.15) {Edim};
 
-\node[user] at (5,9.73) {E\fl};
+\node[user] at (5,9.73) {E$\flat$};
 \node[user] at (4.0,9.23){B};
 \node[user] at (3.0,8.67) {BM};
 \node[user] at (2.0,8.1) {Bmi};
 \node[user] at (1.03,7.51) {B7};
 \node[user] at (0.,7.0) {Bdim};
 
-\node[user] at (5.0,8.6) {B\fl};
+\node[user] at (5.0,8.6) {B$\flat$};
 \node[user] at (4.00,8.08) {F\sh};
 \node[user] at (3.00,7.46) {F\sh\ M};
 \node[user] at (2.0,6.9) {F\sh mi};
@@ -52,39 +52,39 @@
 \node[user] at (0.0,5.8) {F\sh dim};
 
 \node[user] at (5.05,7.47) {F};
-\node[user] at (4.00,6.93) {D\fl};
-\node[user] at (3.00,6.33){D\fl M};
-\node[user] at (2.0,5.77) {D\fl mi};
-\node[user] at (1.0,5.2) {D\fl 7};
+\node[user] at (4.00,6.93) {D$\flat$};
+\node[user] at (3.00,6.33){D$\flat$ M};
+\node[user] at (2.0,5.77) {D$\flat$ mi};
+\node[user] at (1.0,5.2) {D$\flat$ 7};
 %\node[user,fill={rgb:red,1;green,256;blue,3},] at (4,6.95){G};
 %\node[user,fill={rgb:red,1;green,256;blue,3},] at (4,8.08){B\fl};
-\node[user] at (0.0,4.6) {D\fl dim};
+\node[user] at (0.0,4.6) {D$\flat$ dim};
 
 \node[user] at (5.0,6.3) {C};
-\node[user] at (4.0,5.75) {A\fl};
-\node[user] at (3.0,5.18) {A\fl M};
-\node[user] at (2.0, 4.55) {A\fl mi};
-\node[user] at (1.0,3.99) {A\fl 7};
+\node[user] at (4.0,5.75) {A$\flat$};
+\node[user] at (3.0,5.18) {A$\flat$ M};
+\node[user] at (2.0, 4.55) {A$\flat$ mi};
+\node[user] at (1.0,3.99) {A$\flat$ 7};
 %\node[user,fill={rgb:red,1;green,256;blue,3},] at (4,5.75){E};
 %\node[user,fill={rgb:red,15;green,2;blue,1},] at (1,7.49){G};
-\node[user] at (0.0,3.45) {A\fl dim};
+\node[user] at (0.0,3.45) {A$\flat$ dim};
 
 \node[user] at (5,5.1) {G};
-\node[user] at (4.0,4.55){E\fl};
-\node[user] at (3.0,4.0) {E\fl M};
-\node[user] at (2.0,3.40) {E\fl mi};
-\node[user] at (1,2.85) {E\fl 7};
+\node[user] at (4.0,4.55){E$\flat$};
+\node[user] at (3.0,4.0) {E$\flat$ M};
+\node[user] at (2.0,3.40) {E$\flat$ mi};
+\node[user] at (1,2.85) {E$\flat$ 7};
 %\node[user,fill={rgb:red,15;green,2;blue,1},] at (2,3.4){A};
 %\node[user,fill={rgb:red,15;green,2;blue,1},] at (1.0,5.18){C\sh/D\fl};
-\node[user] at (0.0,2.3) {E\fl dim};
+\node[user] at (0.0,2.3) {E$\flat$ dim};
 
 \node[user] at (5.00,3.95) {D};
-\node[user] at (4.00,3.35) {B\fl};
-\node[user] at (3.00,2.83) {B\fl M};
-\node[user] at (2.0,2.25) {B\fl mi};
-\node[user] at (1.0,1.7) {B\fl 7};
+\node[user] at (4.00,3.35) {B$\flat$};
+\node[user] at (3.00,2.83) {B$\flat$ M};
+\node[user] at (2.0,2.25) {B$\flat$ mi};
+\node[user] at (1.0,1.7) {B$\flat$ 7};
 %\node[user,fill={rgb:red,1;green,256;blue,3},] at (5,3.95){C};
-\node[user] at (0.0,1.15) {B\fl dim};
+\node[user] at (0.0,1.15) {B$\flat$ dim};
 
 \node[user] at (5.00,2.8) {A};
 \node[user] at (4.00,2.2) {F};
