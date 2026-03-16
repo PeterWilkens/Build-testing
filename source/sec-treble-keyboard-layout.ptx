@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<section xml:id="sec-iso-grid-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
-        <title>Iso Grid Treble layout
 
-        </title>
-        <p>
-            Treble Keyboard Layout
+<section xml:id="sec-treble-keyboard-layout" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>C System Treble Keyboard</title>
 
-        </p>
-        
-        <figure xml:id="fig-iso-grid">
-            <caption>Treble Keyboard Note Layout. 
-            </caption>
-            <image xml:id="img-iso-grid">
-                <latex-image>
+          
+  <figure xml:id="treble-keyboard">
+    <caption>Treble Side Keyboard. Vertical lines represents Bellows</caption>
+    <image>
+      <latex-image>
 \begin{tikzpicture}
 % User-adjustable parameters
 \pgfmathsetmacro{\isoangle}{60} % theta
@@ -135,9 +130,8 @@
 
     \end{tikzpicture}
                 
+   </latex-image>
+    </image>
+</figure>
 
-</latex-image>
-            </image>
-
-        </figure>
-    </section>
+</section>

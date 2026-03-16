@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section xml:id="sec-free-bass-keyboard-layout" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>C System Free Bass Keyboard Layout Diagram</title>
-
+  <title>C System Free Bass Keyboard Layout</title>
+<p>The two columns of keys nearest the bellows are the same as the stradella bass layout being bass and counter bass</p>
           
   <figure xml:id="freebass">
     <caption>Free Bass Keyboard. Vertical lines represent Bellows</caption>
