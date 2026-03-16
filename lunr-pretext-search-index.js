@@ -37,22 +37,22 @@ var ptx_lunr_docs = [
   "body": " High quality Italian Chromatic Button Accordion with Stradella and Free Bass.   High Quality Italian Chromatic Button Accordion with Free Bass and Stradella. The treble side keyboard is configured in the C System.   "
 },
 {
-  "id": "sec-section-name",
+  "id": "sec-treble-keyboard-layout",
   "level": "1",
-  "url": "sec-section-name.html",
+  "url": "sec-treble-keyboard-layout.html",
   "type": "Section",
   "number": "2.2",
-  "title": "C System Treble Keyboard Layout Diagram",
-  "body": " C System Treble Keyboard Layout Diagram   Treble Side Keyboard. Vertical lines represent Bellows      "
+  "title": "C System Treble Keyboard",
+  "body": " C System Treble Keyboard   Treble Side Keyboard. Vertical lines represents Bellows      "
 },
 {
-  "id": "tikz-example",
+  "id": "treble-keyboard",
   "level": "2",
-  "url": "sec-section-name.html#tikz-example",
+  "url": "sec-treble-keyboard-layout.html#treble-keyboard",
   "type": "Figure",
   "number": "2.2.1",
   "title": "",
-  "body": " Treble Side Keyboard. Vertical lines represent Bellows     "
+  "body": " Treble Side Keyboard. Vertical lines represents Bellows     "
 },
 {
   "id": "sec-free-bass-keyboard-layout",
@@ -60,8 +60,8 @@ var ptx_lunr_docs = [
   "url": "sec-free-bass-keyboard-layout.html",
   "type": "Section",
   "number": "2.3",
-  "title": "C System Free Bass Keyboard Layout Diagram",
-  "body": " C System Free Bass Keyboard Layout Diagram   Free Bass Keyboard. Vertical lines represent Bellows      "
+  "title": "C System Free Bass Keyboard Layout",
+  "body": " C System Free Bass Keyboard Layout  The two columns of keys nearest the bellows are the same as the stradella bass layout being bass and counter bass   Free Bass Keyboard. Vertical lines represent Bellows      "
 },
 {
   "id": "freebass",
@@ -97,7 +97,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.1",
   "title": "Intervals",
-  "body": " Intervals   Before discussing scales it is useful to understand how the distance between notes is described. The musical distance between notes on your instrument keyboard or on a musical staff is known as an interval . This interval is dependant on the number of semitones between notes and the Interval is described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;  The interval between two notes can be obtained by counting between notes on the keyboard or staff but, when counting, the first note, should be counted as one and not zero. Using this type of count the actual number of semitones is 1 less than the count. Considering the C Major scale in Figure 3.1.1 the interval C to D is a Major second because there are 2 semitones between C and D. The Count is 3. That is, C to C :1 semitone. C to D:1 semitone. Count C is 1, C is 2 and D is 3.  Similarly E to F is a Minor Second. One semitone between E and F and a count of 2. Count 1 at E and 2 at F.   "
+  "body": " Intervals   Before discussing scales it is useful to understand how the distance between notes is described. The musical distance between notes on your instrument keyboard or on a musical staff is known as an interval . This interval is dependant on the number of semitones between notes and the Interval is described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;  The interval between two notes can be obtained by counting between notes on the keyboard or staff but, when counting, the first note, should be counted as one and not zero. Using this type of count the actual number of semitones is 1 less than the count. Considering the C Major scale in Figure 3.1.1 the interval C to D is a Major second because there are 2 semitones between C and D. The Count is 3. That is, C to C :1 semitone. C to D:1 semitone. Count C is 1, C is 2 and D is 3. Similarly E to F is a Minor Second. One semitone between E and F and a count of 2. Count 1 at E and 2 at F.   "
 },
 {
   "id": "sec-intervals-2-1",
@@ -178,14 +178,23 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.3",
   "title": "C Harmonic Minor Scale",
-  "body": " C Harmonic Minor Scale  In C harmonic minor, the interval pattern remains the same ascending and descending.  All harmonic minor scales have the same pattern of intervals, so any harmonic minor scale can be built by using this same pattern.  The C harmonic minor scale notes are C, D, E , F, G, A , B, and C. In this scale, the interval from A to B is an augmented second, spanning three semitones while still being spelled as a second.    Examples of intervals with notation and semitone counts (C harmonic minor scale).      "
+  "body": " C Harmonic Minor Scale  In C harmonic minor, the interval pattern remains the same ascending and descending.  All harmonic minor scales have the same pattern of intervals, so any harmonic minor scale can be built by using this same pattern.  The C harmonic minor scale notes are C, D, E , F, G, A , B, and C. In this scale, the interval from A to B is an augmented second, spanning three semitones while still being spelled as a second.   C harmonic minor scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C harmonic minor scale).      "
+},
+{
+  "id": "fig-c-harmonic-minor-scale-notation",
+  "level": "2",
+  "url": "sec-intervals-c-harmonic-minor-scale.html#fig-c-harmonic-minor-scale-notation",
+  "type": "Figure",
+  "number": "4.3.1",
+  "title": "",
+  "body": " C harmonic minor scale notation on a musical staff (ascending and descending).     "
 },
 {
   "id": "fig-intervals-c-harmonic-minor-scale-table",
   "level": "2",
   "url": "sec-intervals-c-harmonic-minor-scale.html#fig-intervals-c-harmonic-minor-scale-table",
   "type": "Figure",
-  "number": "4.3.1",
+  "number": "4.3.2",
   "title": "",
   "body": " Examples of intervals with notation and semitone counts (C harmonic minor scale).     "
 },
@@ -249,8 +258,8 @@ var ptx_lunr_docs = [
   "url": "sec-iso-grid-intro.html",
   "type": "Section",
   "number": "5.1",
-  "title": "Treble Keyboard Note Layout",
-  "body": " Treble Keyboard Note Layout  An isometric grid visualization created using TiKZ.   Treble Keyboard Note Layout      "
+  "title": "Iso Grid Treble layout",
+  "body": " Iso Grid Treble layout  Treble Keyboard Layout   Treble Keyboard Note Layout.      "
 },
 {
   "id": "fig-iso-grid",
@@ -259,7 +268,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "5.1.1",
   "title": "",
-  "body": " Treble Keyboard Note Layout     "
+  "body": " Treble Keyboard Note Layout.     "
 },
 {
   "id": "sec-chord-builds",
