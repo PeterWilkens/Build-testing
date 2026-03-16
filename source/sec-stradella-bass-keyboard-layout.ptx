@@ -13,7 +13,7 @@
 % \draw [pattern={Lines[angle=30,distance=1cm]},pattern color=blue] 
     (0,0) rectangle (5,11);
 
-\tikzset{user/.style={circle, inner sep=0pt, minimum size=1.1cm, fill=gray!10, draw=black}}
+\tikzset{user/.style={circle, inner sep=0pt, minimum size=1.1cm, fill=gray!10, draw=gray!50, very thin}}
 
 \node[user] at (2.96,12.12) {DM};
 \node[user] at (4,12.65) {D};

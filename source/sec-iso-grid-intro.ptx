@@ -34,22 +34,22 @@
         % interior vertical lines
         \pgfmathsetmacro{\ii}{\hh-1}
         \foreach \i in {1,...,\ii} {
-         % \draw[lightgray,very thin] (\i*\hlen,0) -- ++(0,\ymax);
+          \draw[lightgray,very thin] (\i*\hlen,0) -- ++(0,\ymax);
         }
 
         % Rightward lines from bottom and top
         \pgfmathsetmacro{\dvlen}{2*\vv*\dlen}
         \foreach \i in {0,2,...,\hh} {
-            % \draw[lightgray,very thin] (\i*\hlen,0) -- ++(\ang:\dvlen); 
-            %\draw[lightgray,very thin] (\i*\hlen,\ymax) -- ++(-\ang:\dvlen); 
+            \draw[lightgray,very thin] (\i*\hlen,0) -- ++(\ang:\dvlen); 
+            \draw[lightgray,very thin] (\i*\hlen,\ymax) -- ++(-\ang:\dvlen); 
         }
 
         % Lines from left side
         \pgfmathsetmacro{\jj}{\vv-1}
         \pgfmathsetmacro{\dhlen}{\hh*\dlen}
         \foreach \j in {1,...,\jj} {
-           % \draw[lightgray,very thin] (0,\j*\vlen) -- ++(\ang:\dhlen); 
-           % \draw[lightgray,very thin] (0,\j*\vlen) -- ++(-\ang:\dhlen); 
+           \draw[lightgray,very thin] (0,\j*\vlen) -- ++(\ang:\dhlen); 
+            \draw[lightgray,very thin] (0,\j*\vlen) -- ++(-\ang:\dhlen); 
         }
     \end{scope}
 
