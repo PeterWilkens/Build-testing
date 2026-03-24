@@ -12,4 +12,5 @@
    <xi:include href="sec-intervals-C-harmonic-minor-scale.ptx" />
    <xi:include href="sec-intervals-melodic-minor-scale-ascending.ptx" />
    <xi:include href="sec-intervals-C-melodic-minor-descending.ptx" />
- </chapter>
+  
+  </chapter>

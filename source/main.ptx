@@ -16,6 +16,7 @@
     <xi:include href="./ch-the-chromatic-button-accordion.ptx" />
     <xi:include href="./ch-intervals.ptx" />
     <xi:include href="./ch-scales.ptx" />
+      <xi:include href="./ch-main-scale-shapes.ptx" />
    <xi:include href="./ch-iso-grid.ptx" />
    <xi:include href="./ch-chord-builds.ptx" />
     <xi:include href="./ch-CEG-overall.ptx" />

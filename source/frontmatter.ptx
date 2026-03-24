@@ -32,6 +32,8 @@
     <titlepage-items/>
   </titlepage>
 
+    <toc/>
+
   <colophon xml:id="front-colophon">
     <colophon-items/>
   </colophon>
