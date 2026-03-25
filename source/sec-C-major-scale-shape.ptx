@@ -13,7 +13,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.85, transform shape]
 \newif\ifisoGridLines
-<!--\isoGridLinestrue % Default: show grid lines. To hide, use -->\isoGridLinesfalse <!--before the figure.-->
+<!--\isoGridLinestrue % Default: show grid lines. To hide, use--> \isoGridLinesfalse <!--before the figure.-->
 
 % User-adjustable parameters
 \pgfmathsetmacro{\isoangle}{60}

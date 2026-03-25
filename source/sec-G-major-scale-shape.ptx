@@ -47,6 +47,7 @@
 
 %% ── LH bass grid (7 segments, 6 node columns; notes in cols 1–4, cols 5–6 blank) ──
 \begin{scope}
+  \ifisoGridLines
   \begin{scope}
     \path[clip] (0,0) rectangle (\xmaxlh,\ymax);
     \pgfmathsetmacro{\iilh}{\hhlh-1}
@@ -63,6 +64,7 @@
       \draw[lightgray,very thin] (0,\j*\vlen) -- ++(-\ang:\dhlen);
     }
   \end{scope}
+  \fi
   \node[anchor=west, font=\bfseries\small] at (0.25*\hlen,13.5*\vlen) {Bass Hand (LH)};
 
   % Row 1 (G starts here at col2)
@@ -132,6 +134,7 @@
 
 %% ── RH treble grid (6 segments, 5 note columns, mirrored direction) ──
 \begin{scope}[xshift=\xrh cm]
+  \ifisoGridLines
   \begin{scope}
     \path[clip] (0,0) rectangle (\xmaxrh,\ymax);
     \pgfmathsetmacro{\iirh}{\hhrh-1}
@@ -148,6 +151,7 @@
       \draw[lightgray,very thin] (0,\j*\vlen) -- ++(-\ang:\dhlen);
     }
   \end{scope}
+  \fi
   \node[anchor=east, font=\bfseries\small] at (7.75*\hlen,13.5*\vlen) {Treble Hand (RH)};
 
   % Row 1 (G starts here at col4)
