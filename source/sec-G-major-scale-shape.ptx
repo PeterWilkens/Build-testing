@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-G-major-scale-shape" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>G Major Scale Shape</title>
+  <introduction>
+    <p>
+        Use this shape to form other major scales where the shape fits, for example A♯ B♭, C♯ D♭, E. </p>
+  </introduction>
+
+  <figure xml:id="fig-G-major-scale-shape">
+    <caption>Bass-hand scale template (left) and treble-hand scale template (right).</caption>
+    <image xml:id="img-G-major-scale-shape">
+      <latex-image>
+\begin{tikzpicture}[scale=0.75, transform shape]
+\newif\ifisoGridLines
+<!--\isoGridLinestrue % Default: show grid lines. To hide, use--> \isoGridLinesfalse <!--before the figure.-->
+
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{14}
+% LH: 8 segments gives 6 interior node columns (1-6) comfortably inside clip
+\pgfmathsetmacro{\hhlh}{8}
+% RH: 8 segments (even number ensures diagonals reach right edge); cols 1-5 used
+\pgfmathsetmacro{\hhrh}{8}
+\pgfmathsetmacro{\vlen}{1.5}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmaxlh}{\hhlh*\hlen}
+\pgfmathsetmacro{\xmaxrh}{\hhrh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\pgfmathsetmacro{\belx}{\xmaxlh+0.15}
+\pgfmathsetmacro{\xrh}{\xmaxlh+0.3}
+\pgfmathsetmacro{\dvlen}{2*\vv*\dlen}
+\pgfmathsetmacro{\jj}{\vv-1}
+
+% 4 node styles — style 1 is the default, style 2 highlights (gray!40), etc.
+\tikzset{
+  nodestyle1/.style={circle, draw=gray, fill=gray!10, inner sep=1pt, minimum size=40pt},
+  nodestyle2/.style={circle, draw=gray, fill=gray!40, inner sep=1pt, minimum size=40pt},
+  nodestyle3/.style={circle, draw=gray, fill=gray!10, inner sep=1pt, minimum size=40pt},
+  nodestyle4/.style={circle, draw=red, fill=red!20, inner sep=1pt, minimum size=40pt},
+}
+
+% Use \templatenodestyle{col}{row}{label}{styleNumber} for per-node styling
+\newcommand{\templatenodestyle}[4]{
+  \node[nodestyle#4] at (#1*\hlen,#2*\vlen) {#3};
+}
+
+%% ── LH bass grid (7 segments, 6 node columns; notes in cols 1–4, cols 5–6 blank) ──
+\begin{scope}
+  \begin{scope}
+    \path[clip] (0,0) rectangle (\xmaxlh,\ymax);
+    \pgfmathsetmacro{\iilh}{\hhlh-1}
+    \foreach \i in {1,...,\iilh} {
+      \draw[lightgray,very thin] (\i*\hlen,0) -- ++(0,\ymax);
+    }
+    \foreach \i in {0,2,...,\hhlh} {
+      \draw[lightgray,very thin] (\i*\hlen,0)     -- ++(\ang:\dvlen);
+      \draw[lightgray,very thin] (\i*\hlen,\ymax) -- ++(-\ang:\dvlen);
+    }
+    \pgfmathsetmacro{\dhlen}{\hhlh*\dlen}
+    \foreach \j in {1,...,\jj} {
+      \draw[lightgray,very thin] (0,\j*\vlen) -- ++(\ang:\dhlen);
+      \draw[lightgray,very thin] (0,\j*\vlen) -- ++(-\ang:\dhlen);
+    }
+  \end{scope}
+  \node[anchor=west, font=\bfseries\small] at (0.25*\hlen,13.5*\vlen) {Bass Hand (LH)};
+
+  % Row 1 (G starts here at col2)
+  \templatenodestyle{1}{1.5}{}{3}
+  \templatenodestyle{2}{2.0}{G}{2}
+  \templatenodestyle{3}{2.5}{}{3}
+  \templatenodestyle{4}{3.0}{}{3}
+  \templatenodestyle{5}{3.5}{}{3}
+  \templatenodestyle{6}{4.0}{}{3}
+  % Row 2
+  \templatenodestyle{1}{2.5}{A}{2}
+  \templatenodestyle{2}{3.0}{}{3}
+  \templatenodestyle{3}{3.5}{B}{2}
+  \templatenodestyle{4}{4.0}{}{3}
+  \templatenodestyle{5}{4.5}{}{3}
+  \templatenodestyle{6}{5.0}{}{3}
+  % Row 3
+  \templatenodestyle{1}{3.5}{C}{2}
+  \templatenodestyle{2}{4.0}{}{3}
+  \templatenodestyle{3}{4.5}{D}{2}
+  \templatenodestyle{4}{5.0}{}{3}
+  \templatenodestyle{5}{5.5}{}{3}
+  \templatenodestyle{6}{6.0}{}{3}
+  % Row 4
+  \templatenodestyle{1}{4.5}{}{3}
+  \templatenodestyle{2}{5.0}{E}{2}
+  \templatenodestyle{3}{5.5}{}{3}
+  \templatenodestyle{4}{6.0}{}{3}
+  \templatenodestyle{5}{6.5}{}{3}
+  \templatenodestyle{6}{7.0}{}{3}
+  % Row 5
+  \templatenodestyle{1}{5.5}{G$\flat$, F$\sharp$}{2}
+  \templatenodestyle{2}{6.0}{G}{2}
+  \templatenodestyle{3}{6.5}{}{3}
+  \templatenodestyle{4}{7.0}{}{3}
+  \templatenodestyle{5}{7.5}{}{3}
+  \templatenodestyle{6}{8.0}{}{3}
+  % Row 6
+  \templatenodestyle{1}{6.5}{A}{2}
+  \templatenodestyle{2}{7.0}{}{3}
+  \templatenodestyle{3}{7.5}{B}{2}
+  \templatenodestyle{4}{8.0}{}{3}
+  \templatenodestyle{5}{8.5}{}{3}
+  \templatenodestyle{6}{9.0}{}{3}
+  % Row 7
+  \templatenodestyle{1}{7.5}{C}{2}
+  \templatenodestyle{2}{8.0}{}{3}
+  \templatenodestyle{3}{8.5}{D}{2}
+  \templatenodestyle{4}{9.0}{}{3}
+  \templatenodestyle{5}{9.5}{}{3}
+  \templatenodestyle{6}{10.0}{}{3}
+  % Row 8
+  \templatenodestyle{1}{8.5}{}{3}
+  \templatenodestyle{2}{9.0}{E}{2}
+  \templatenodestyle{3}{9.5}{}{3}
+  \templatenodestyle{4}{10.0}{}{3}
+  \templatenodestyle{5}{10.5}{}{3}
+  \templatenodestyle{6}{11.0}{}{3}
+  % Row 9 (F# and G at top)
+  \templatenodestyle{1}{9.5}{G$\flat$, F$\sharp$}{2}
+  \templatenodestyle{2}{10.0}{G}{2}
+  \templatenodestyle{3}{10.5}{}{3}
+  \templatenodestyle{4}{11.0}{}{3}
+  \templatenodestyle{5}{11.5}{}{3}
+  \templatenodestyle{6}{12.0}{}{3}
+\end{scope}
+
+%% ── RH treble grid (6 segments, 5 note columns, mirrored direction) ──
+\begin{scope}[xshift=\xrh cm]
+  \begin{scope}
+    \path[clip] (0,0) rectangle (\xmaxrh,\ymax);
+    \pgfmathsetmacro{\iirh}{\hhrh-1}
+    \foreach \i in {1,...,\iirh} {
+      \draw[lightgray,very thin] (\i*\hlen,0) -- ++(0,\ymax);
+    }
+    \foreach \i in {0,2,...,\hhrh} {
+      \draw[lightgray,very thin] (\i*\hlen,0)     -- ++(\ang:\dvlen);
+      \draw[lightgray,very thin] (\i*\hlen,\ymax) -- ++(-\ang:\dvlen);
+    }
+    \pgfmathsetmacro{\dhlen}{\hhrh*\dlen}
+    \foreach \j in {1,...,\jj} {
+      \draw[lightgray,very thin] (0,\j*\vlen) -- ++(\ang:\dhlen);
+      \draw[lightgray,very thin] (0,\j*\vlen) -- ++(-\ang:\dhlen);
+    }
+  \end{scope}
+  \node[anchor=east, font=\bfseries\small] at (7.75*\hlen,13.5*\vlen) {Treble Hand (RH)};
+
+  % Row 1 (G starts here at col4)
+  \templatenodestyle{5}{1.5}{}{3}
+  \templatenodestyle{4}{2.0}{G}{2}
+  \templatenodestyle{3}{2.5}{}{3}
+  \templatenodestyle{2}{3.0}{}{3}
+  \templatenodestyle{1}{3.5}{}{3}
+  % Row 2
+  \templatenodestyle{5}{2.5}{A}{2}
+  \templatenodestyle{4}{3.0}{}{3}
+  \templatenodestyle{3}{3.5}{B}{2}
+  \templatenodestyle{2}{4.0}{}{3}
+  \templatenodestyle{1}{4.5}{}{3}
+  % Row 3
+  \templatenodestyle{5}{3.5}{C}{2}
+  \templatenodestyle{4}{4.0}{}{3}
+  \templatenodestyle{3}{4.5}{D}{2}
+  \templatenodestyle{2}{5.0}{}{3}
+  \templatenodestyle{1}{5.5}{}{3}
+  % Row 4
+  \templatenodestyle{5}{4.5}{}{3}
+  \templatenodestyle{4}{5.0}{E}{2}
+  \templatenodestyle{3}{5.5}{}{3}
+  \templatenodestyle{2}{6.0}{}{3}
+  \templatenodestyle{1}{6.5}{}{3}
+  % Row 5
+  \templatenodestyle{5}{5.5}{G$\flat$, F$\sharp$}{2}
+  \templatenodestyle{4}{6.0}{G}{2}
+  \templatenodestyle{3}{6.5}{}{3}
+  \templatenodestyle{2}{7.0}{}{3}
+  \templatenodestyle{1}{7.5}{}{3}
+  % Row 6
+  \templatenodestyle{5}{6.5}{A}{2}
+  \templatenodestyle{4}{7.0}{}{3}
+  \templatenodestyle{3}{7.5}{B}{2}
+  \templatenodestyle{2}{8.0}{}{3}
+  \templatenodestyle{1}{8.5}{}{3}
+  % Row 7
+  \templatenodestyle{5}{7.5}{C}{2}
+  \templatenodestyle{4}{8.0}{}{3}
+  \templatenodestyle{3}{8.5}{D}{2}
+  \templatenodestyle{2}{9.0}{}{3}
+  \templatenodestyle{1}{9.5}{}{3}
+  % Row 8
+  \templatenodestyle{5}{8.5}{}{3}
+  \templatenodestyle{4}{9.0}{E}{2}
+  \templatenodestyle{3}{9.5}{}{3}
+  \templatenodestyle{2}{10.0}{}{3}
+  \templatenodestyle{1}{10.5}{}{3}
+  % Row 9 (F# and G at top)
+  \templatenodestyle{5}{9.5}{G$\flat$, F$\sharp$}{2}
+  \templatenodestyle{4}{10.0}{G}{2}
+  \templatenodestyle{3}{10.5}{}{3}
+  \templatenodestyle{2}{11.0}{}{3}
+  \templatenodestyle{1}{11.5}{}{3}
+\end{scope}
+
+% Bellows separator — five gray!40 vertical lines 0.15cm apart with legend
+\pgfmathsetmacro{\belbot}{1.0*\vlen}
+\pgfmathsetmacro{\beltop}{13.5*\vlen}
+\draw[gray!40, very thick] (\belx-0.60, \belbot) -- (\belx-0.60, \beltop);
+\draw[gray!40, very thick] (\belx-0.45, \belbot) -- (\belx-0.45, \beltop);
+\draw[gray!40, very thick] (\belx-0.30, \belbot) -- (\belx-0.30, \beltop);
+\draw[gray!40, very thick] (\belx-0.15, \belbot) -- (\belx-0.15, \beltop);
+\draw[gray!40, very thick] (\belx,      \belbot) -- (\belx,      \beltop);
+\node[font=\small, black] at (\belx-0.30, 0.5*\vlen) {Bellows};
+
+\end{tikzpicture}
+      </latex-image>
+    </image>
+  </figure>
+</section>

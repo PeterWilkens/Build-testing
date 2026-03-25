@@ -5,7 +5,10 @@
     <p>Scale Shapes with fingering on Free Bass and Treble Keyboard</p>
   </introduction>
   
-  <xi:include href="sec-C-scale-shape.ptx" />
 
+    <xi:include href="sec-C-major-scale-shape.ptx" />
 
-</chapter>
+    <xi:include href="sec-D-major-scale-shape.ptx" />
+    <xi:include href="sec-G-major-scale-shape.ptx" />
+
+  </chapter> 
