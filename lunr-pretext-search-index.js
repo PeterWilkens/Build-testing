@@ -123,8 +123,8 @@ var ptx_lunr_docs = [
   "url": "sec-intervals-c-major-scale.html",
   "type": "Section",
   "number": "4.1",
-  "title": "C Major Scale",
-  "body": " C Major Scale  In C major, the interval pattern remains the same ascending and descending.  All major scales have the same pattern of intervals, so any major scale can be built by using this same pattern.  The C major scale notes are C, D, E, F, G, A, B, and C.   C major scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C major scale).      "
+  "title": "C Major Scale Shape",
+  "body": " C Major Scale Shape  In C major, the interval pattern remains the same ascending and descending.  All major scales have the same pattern of intervals, so any major scale can be built by using this same pattern.  The C major scale notes are C, D, E, F, G, A, B, and C.   C major scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C major scale).      "
 },
 {
   "id": "fig-c-major-scale-notation",
@@ -253,47 +253,65 @@ var ptx_lunr_docs = [
   "body": " Examples of intervals with notation and semitone counts (C melodic minor scale descending).     "
 },
 {
-  "id": "sec-iso-grid-intro",
+  "id": "sec-C-major-scale-shape",
   "level": "1",
-  "url": "sec-iso-grid-intro.html",
+  "url": "sec-C-major-scale-shape.html",
   "type": "Section",
   "number": "5.1",
-  "title": "Iso Grid Treble layout",
-  "body": " Iso Grid Treble layout  Treble Keyboard Layout   Treble Keyboard Note Layout.      "
+  "title": "C Major Scale Shape",
+  "body": " C Major Scale Shape   Use this shape to form other major scales where the shape fits, for example E♭ D♯, G♭, A♯.    Bass keyboard (left) and treble keyboard (right) C major scale shape. The first 4 columns in the bass keyboard are Free Bass. Columns 5 and 6 are the same as the Stradella bass arrangement ie. Bass and Counter Bass respectively. The Free Bass notes are arranged chromatically and the Stradella Bass notes are arranged in Fifths.      "
 },
 {
-  "id": "fig-iso-grid",
+  "id": "fig-C-major-scale-shape",
   "level": "2",
-  "url": "sec-iso-grid-intro.html#fig-iso-grid",
+  "url": "sec-C-major-scale-shape.html#fig-C-major-scale-shape",
   "type": "Figure",
   "number": "5.1.1",
   "title": "",
-  "body": " Treble Keyboard Note Layout.     "
+  "body": " Bass keyboard (left) and treble keyboard (right) C major scale shape. The first 4 columns in the bass keyboard are Free Bass. Columns 5 and 6 are the same as the Stradella bass arrangement ie. Bass and Counter Bass respectively. The Free Bass notes are arranged chromatically and the Stradella Bass notes are arranged in Fifths.     "
 },
 {
-  "id": "sec-chord-builds",
+  "id": "sec-D-major-scale-shape",
   "level": "1",
-  "url": "sec-chord-builds.html",
+  "url": "sec-D-major-scale-shape.html",
   "type": "Section",
-  "number": "6.1",
-  "title": "Chord Builds",
-  "body": " Chord Builds  An isometric grid visualization created using TiKZ.   Chord Builds      "
+  "number": "5.2",
+  "title": "D Major Scale Shape",
+  "body": " D Major Scale Shape   Use this shape to form other major scales where the shape fits, for example F, G♯ A♭, B.    Bass keyboard (left) and treble keyboard (right) C major scale shape. The first 4 columns in the bass keyboard are Free Bass. Columns 5 and 6 are the same as the Stradella bass arrangement ie. Bass and Counter Bass respectively. The Free Bass notes are arranged chromatically and the Stradella Bass notes are arranged in Fifths.      "
 },
 {
-  "id": "fig-chord-builds",
+  "id": "fig-D-major-scale-shape",
   "level": "2",
-  "url": "sec-chord-builds.html#fig-chord-builds",
+  "url": "sec-D-major-scale-shape.html#fig-D-major-scale-shape",
   "type": "Figure",
-  "number": "6.1.1",
+  "number": "5.2.1",
   "title": "",
-  "body": " Chord Builds     "
+  "body": " Bass keyboard (left) and treble keyboard (right) C major scale shape. The first 4 columns in the bass keyboard are Free Bass. Columns 5 and 6 are the same as the Stradella bass arrangement ie. Bass and Counter Bass respectively. The Free Bass notes are arranged chromatically and the Stradella Bass notes are arranged in Fifths.     "
+},
+{
+  "id": "sec-G-major-scale-shape",
+  "level": "1",
+  "url": "sec-G-major-scale-shape.html",
+  "type": "Section",
+  "number": "5.3",
+  "title": "G Major Scale Shape",
+  "body": " G Major Scale Shape   Use this shape to form other major scales where the shape fits, for example A♯ B♭, C♯ D♭, E.    Bass-hand scale template (left) and treble-hand scale template (right).      "
+},
+{
+  "id": "fig-G-major-scale-shape",
+  "level": "2",
+  "url": "sec-G-major-scale-shape.html#fig-G-major-scale-shape",
+  "type": "Figure",
+  "number": "5.3.1",
+  "title": "",
+  "body": " Bass-hand scale template (left) and treble-hand scale template (right).     "
 },
 {
   "id": "sec-Cmaj-build",
   "level": "1",
   "url": "sec-Cmaj-build.html",
   "type": "Section",
-  "number": "7.1",
+  "number": "6.1",
   "title": "C Major Chords",
   "body": " C Major Chords  All the notes of a C Major Chord (C,E and G shown on a grid allowing visualisation of Root, 1st and 2nd inversion triads).   C Major Chords      "
 },
@@ -302,7 +320,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Cmaj-build.html#fig-Cmaj-build",
   "type": "Figure",
-  "number": "7.1.1",
+  "number": "6.1.1",
   "title": "",
   "body": " C Major Chords     "
 },
