@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xml:id="ch-intervals" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Intervals</title>
+  <title>Minor 2nd Intervals</title>
   
   <introduction>
  <p>Before discussing scales it is useful to understand how the distance between notes is described. The musical distance between notes on  your instrument keyboard or on a musical staff is known as an <term>interval</term>. This <term>interval</term> is dependant on the number of semitones between notes and the <term>Interval</term> is described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;</p>
@@ -13,11 +13,640 @@
    <title>Intervals</title>
   
   <introduction>
- <p>Before discussing scales it is useful to understand how the distance between notes is described. The musical distance between notes on  your instrument keyboard or on a musical staff is known as an <term>interval</term>. This <term>interval</term> is dependant on the number of semitones between notes and the <term>Interval</term> is described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;</p>
-  <p>The <term>interval</term> between two notes can be obtained by counting between notes on the keyboard or staff but, when counting, the first note, should be counted as one and not zero. Using this type of count the actual number of semitones
-     is 1 less than the count. Considering the C Major scale in Figure 3.1.1 the <term>interval</term> C to D is a Major second because there are 2 semitones between C and D. The <term>Count</term> is 3. That is, C to C<sharp/>:1 semitone. C<sharp/> to D:1 semitone. <term>Count</term> C is 1, C<sharp/> is 2 and D is 3.
- Similarly E to F is a Minor Second. One semitone between E and F and a count of 2. Count 1 at E and 2 at F.</p>
-  </introduction>
- </section>
  
+  </introduction>
+
+    <figure xml:id="fig-intervals">
+      <caption>These same shapes can be moved anywhere on keyboard and remain a minor 2nd..</caption>
+      <image xml:id="img-intervals">
+        <latex-image>
+% -----------------------------------------------------------------------
+% Iso-Grid Treble  –  treble RH grid (90 deg CW rotation) with staff above
+%
+% Same parameters as the bass/treble scale template RH side:
+%   isoangle=60, vlen=1.5cm, scale=0.75, hh=8 segments, vv=10 node rows
+%   hlen = vlen*sqrt(3)/2 = 1.299038 cm
+%   After rotation: x-spacing (half-step) = 0.5*vlen*scale*28.3465 = 15.9449 pt
+%                   row-height (hlen_scaled) = hlen*scale*28.3465  = 27.6174 pt
+%
+% In the rotated frame:
+%   5 horizontal rows  (old peg columns p=1..5; p=5 at bottom, p=1 at top)
+%   Node at (r,p): x = xstart + (2r + 6-p - 3) * halfstep
+%                  y = (5-p) * hlen_pt
+%   Chromatic note at (r,p): semitone = ((r-1)*3 + (5-p)) mod 12  above C4
+%
+% Vertical column lines at every half-step pass through one node per active row.
+% Staff above: one note head per column, chromatic from C4 (col k=3) upward.
+% -----------------------------------------------------------------------
+\begin{tikzpicture}[scale=0.75, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vlen}{1.5}           % cm – row width after rotation
+\pgfmathsetmacro{\ang}{\isoangle/2}   % 30 deg
+\pgfmathsetmacro{\hlen}{(\vlen/2)/tan(\ang)}  % ~1.299 cm – row height after rotation
+\pgfmathsetmacro{\halfstep}{\vlen/2}   % 0.75 cm – basic column unit
+\pgfmathsetmacro{\nrows}{5}            % peg rows (p=1 top .. p=5 bottom)
+\pgfmathsetmacro{\ncyc}{10}            % 10 node cycles along bottom row
+% Grid extents (cm)
+\pgfmathsetmacro{\gridH}{(\nrows-1)*\hlen}          % vertical span 4*hlen
+\pgfmathsetmacro{\kmin}{3}                           % first column index k
+\pgfmathsetmacro{\kmax}{21}                          % last column index k  (bottom row r=10)
+\pgfmathsetmacro{\gridW}{(\kmax-\kmin)*\halfstep}   % = 18*0.75 = 13.5 cm
+\pgfmathsetmacro{\xleft}{0}
+\pgfmathsetmacro{\xright}{\gridW}
+\pgfmathsetmacro{\ybottom}{0}
+\pgfmathsetmacro{\ytop}{\gridH}
+% Helper: x position for column index k
+% x(k) = (k - kmin)*halfstep
+
+% ---- Isometric grid lines (clipped) – hidden ----
+%\begin{scope}
+%  \clip (\xleft-0.01, \ybottom-0.01) rectangle (\xright+0.01, \ytop+0.01);
+%
+%  % Horizontal row lines at y = (5-p)*hlen for p=1..5 and half-boundary lines
+%  \foreach \p in {1,...,5} {
+%    \pgfmathsetmacro{\yy}{(5-\p)*\hlen}
+%    \draw[gray, thin] (\xleft, \yy) -- (\xright, \yy);
+%  }
+%
+%  % Vertical column lines at x = (k-kmin)*halfstep for k=kmin..kmax (every half-step)
+%  \foreach \k in {3,...,21} {
+%    \pgfmathsetmacro{\xx}{(\k-3)*\halfstep}
+%    \draw[lightgray, very thin] (\xx, \ybottom) -- (\xx, \ytop);
+%  }
+%
+%  % Diagonal family 1: at +60 deg from horizontal (bottom-left to top-right in rotated frame)
+%  % These connect adjacent nodes diagonally (iso up-right direction).
+%  % Start points along the bottom edge and left edge, spaced by vlen (2*halfstep).
+%  \pgfmathsetmacro{\diaglen}{(\gridW + \gridH + \vlen) * 1.5}
+%  \foreach \ki in {1,...,12} {
+%    \pgfmathsetmacro{\startx}{(\ki-1)*\vlen}
+%    \draw[lightgray, very thin]
+%      (\startx, \ybottom) -- ({\startx + \diaglen*cos(60)}, {\ybottom + \diaglen*sin(60)});
+%  }
+%  \foreach \pi in {1,...,5} {
+%    \pgfmathsetmacro{\starty}{(\pi-1)*\hlen}
+%    \draw[lightgray, very thin]
+%      (\xleft, \starty) -- ({0 + \diaglen*cos(60)}, {\starty + \diaglen*sin(60)});
+%  }
+%
+%  % Diagonal family 2: at -60 deg (top-left to bottom-right in rotated frame)
+%  \foreach \ki in {0,...,12} {
+%    \pgfmathsetmacro{\startx}{\ki*\vlen}
+%    \draw[lightgray, very thin]
+%      (\startx, \ytop) -- ({\startx + \diaglen*cos(-60)}, {\ytop + \diaglen*sin(-60)});
+%  }
+%  \foreach \pi in {1,...,5} {
+%    \pgfmathsetmacro{\starty}{(\pi-1)*\hlen}
+%    \draw[lightgray, very thin]
+%      (\xleft, \starty + \hlen*4) -- ({0 + \diaglen*cos(-60)}, {\starty + \hlen*4 + \diaglen*sin(-60)});
+%  }
+%
+%\end{scope}
+
+Outer border
+%\draw[gray, thin] (\xleft, \ybottom) rectangle (\xright, \ytop);
+
+% ---- Node circles at each (r, p) intersection ----
+% x(r,p) = (2r + (6-p) - kmin) * halfstep = (2r + 6 - p - 3) * halfstep = (2r + 3 - p)*halfstep
+% y(r,p) = (5-p)*hlen
+% Chromatic notes: semitone = ((r-1)*3 + (5-p)) mod 12 above C4
+% notes in order: C, C#/Db, D, Eb/D#, E, F, F#/Gb, G, Ab/G#, A, Bb/A#, B
+
+% ---- Grid node visibility configuration ----
+% gnvis=0  →  node draws as plain (fill=gray!10).  No staff note for this column.
+% gnvis=1  →  node draws as highlighted (fill=gray!50).  Staff note shown by default.
+%             Set the corresponding \nvis=0 to suppress the staff note even when highlighted.
+% Row E=bottom (p=5), D (p=4), C (p=3), B (p=2), A=top (p=1)
+% Position: i..x = left-to-right r=1..10 within row
+%
+\def\gnvisEi{0}    % p=5 r=1   C
+\def\gnvisEii{0}   % p=5 r=2   Eb
+\def\gnvisEiii{0}  % p=5 r=3   F#
+\def\gnvisEiv{0}   % p=5 r=4   A
+\def\gnvisEv{0}    % p=5 r=5   C
+\def\gnvisEvi{0}   % p=5 r=6   Eb
+\def\gnvisEvii{1}  % p=5 r=7   F#
+\def\gnvisEviii{0} % p=5 r=8   A
+\def\gnvisEix{1}   % p=5 r=9   C
+\def\gnvisEx{0}    % p=5 r=10  Eb
+%
+\def\gnvisDi{0}    % p=4 r=1   C#
+\def\gnvisDii{1}   % p=4 r=2   E     ← select 1 to highlight
+\def\gnvisDiii{0}  % p=4 r=3   G
+\def\gnvisDiv{0}   % p=4 r=4   Bb
+\def\gnvisDv{0}    % p=4 r=5   C#
+\def\gnvisDvi{0}   % p=4 r=6   E
+\def\gnvisDvii{1}  % p=4 r=7   G     ← select 1 to highlight
+\def\gnvisDviii{0} % p=4 r=8   Bb
+\def\gnvisDix{0}   % p=4 r=9   C#
+%
+\def\gnvisCi{0}    % p=3 r=1   D
+\def\gnvisCii{0}   % p=3 r=2   F     ← select 1 to highlight
+\def\gnvisCiii{1}  % p=3 r=3   Ab
+\def\gnvisCiv{0}   % p=3 r=4   B     ← select 1 to highlight
+\def\gnvisCv{1}    % p=3 r=5   D
+\def\gnvisCvi{0}   % p=3 r=6   F
+\def\gnvisCvii{0}  % p=3 r=7   Ab    ← select 1 to highlight
+\def\gnvisCviii{1} % p=3 r=8   B
+\def\gnvisCix{0}   % p=3 r=9   D
+%
+\def\gnvisBi{1}    % p=2 r=1   Eb
+\def\gnvisBii{0}   % p=2 r=2   F#
+\def\gnvisBiii{1}  % p=2 r=3   A
+\def\gnvisBiv{0}   % p=2 r=4   C
+\def\gnvisBv{0}    % p=2 r=5   Eb
+\def\gnvisBvi{0}   % p=2 r=6   F#
+\def\gnvisBvii{0}  % p=2 r=7   A
+\def\gnvisBviii{0} % p=2 r=8   C
+%
+\def\gnvisAi{0}    % p=1 r=1   E
+\def\gnvisAii{0}   % p=1 r=2   G
+\def\gnvisAiii{0}  % p=1 r=3   Bb
+\def\gnvisAiv{1}   % p=1 r=4   C#
+\def\gnvisAv{0}    % p=1 r=5   E
+\def\gnvisAvi{0}   % p=1 r=6   G
+\def\gnvisAvii{0}  % p=1 r=7   Bb
+\def\gnvisAviii{0} % p=1 r=8   C#
+%
+% Row p=5 (bottom, y=0), r=1..10
+\ifnum\gnvisEi=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*1+3-5)*\halfstep},{(5-5)*\hlen}) {\footnotesize C};
+\ifnum\gnvisEii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*2+3-5)*\halfstep},{(5-5)*\hlen}) {\footnotesize E$\boldsymbol{\flat}$};
+\ifnum\gnvisEiii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*3+3-5)*\halfstep},{(5-5)*\hlen}) {\footnotesize F$\boldsymbol{\sharp}$};
+\ifnum\gnvisEiv=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*4+3-5)*\halfstep},{(5-5)*\hlen}) {\footnotesize A};
+\ifnum\gnvisEv=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*5+3-5)*\halfstep},{(5-5)*\hlen}) {\footnotesize C};
+\ifnum\gnvisEvi=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*6+3-5)*\halfstep},{(5-5)*\hlen}) {\footnotesize E$\boldsymbol{\flat}$};
+\ifnum\gnvisEvii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*7+3-5)*\halfstep},{(5-5)*\hlen}) {\footnotesize F$\boldsymbol{\sharp}$};
+\ifnum\gnvisEviii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*8+3-5)*\halfstep},{(5-5)*\hlen}) {\footnotesize A};
+\ifnum\gnvisEix=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*9+3-5)*\halfstep},{(5-5)*\hlen}) {\footnotesize C};
+\ifnum\gnvisEx=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*10+3-5)*\halfstep},{(5-5)*\hlen}) {\footnotesize E$\boldsymbol{\flat}$};
+
+% Row p=4 (y=hlen), r=1..9
+\ifnum\gnvisDi=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*1+3-4)*\halfstep},{(5-4)*\hlen}) {\footnotesize C$\boldsymbol{\sharp}$};
+\ifnum\gnvisDii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*2+3-4)*\halfstep},{(5-4)*\hlen}) {\footnotesize E};
+\ifnum\gnvisDiii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*3+3-4)*\halfstep},{(5-4)*\hlen}) {\footnotesize G};
+\ifnum\gnvisDiv=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*4+3-4)*\halfstep},{(5-4)*\hlen}) {\footnotesize B$\boldsymbol{\flat}$};
+\ifnum\gnvisDv=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*5+3-4)*\halfstep},{(5-4)*\hlen}) {\footnotesize C$\boldsymbol{\sharp}$};
+\ifnum\gnvisDvi=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*6+3-4)*\halfstep},{(5-4)*\hlen}) {\footnotesize E};
+\ifnum\gnvisDvii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*7+3-4)*\halfstep},{(5-4)*\hlen}) {\footnotesize G};
+\ifnum\gnvisDviii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*8+3-4)*\halfstep},{(5-4)*\hlen}) {\footnotesize B$\boldsymbol{\flat}$};
+\ifnum\gnvisDix=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*9+3-4)*\halfstep},{(5-4)*\hlen}) {\footnotesize C$\boldsymbol{\sharp}$};
+
+% Row p=3 (y=2*hlen), r=1..9
+\ifnum\gnvisCi=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*1+3-3)*\halfstep},{(5-3)*\hlen}) {\footnotesize D};
+\ifnum\gnvisCii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*2+3-3)*\halfstep},{(5-3)*\hlen}) {\footnotesize F};
+\ifnum\gnvisCiii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*3+3-3)*\halfstep},{(5-3)*\hlen}) {\footnotesize A$\boldsymbol{\flat}$};
+\ifnum\gnvisCiv=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*4+3-3)*\halfstep},{(5-3)*\hlen}) {\footnotesize B};
+\ifnum\gnvisCv=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*5+3-3)*\halfstep},{(5-3)*\hlen}) {\footnotesize D};
+\ifnum\gnvisCvi=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*6+3-3)*\halfstep},{(5-3)*\hlen}) {\footnotesize F};
+\ifnum\gnvisCvii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*7+3-3)*\halfstep},{(5-3)*\hlen}) {\footnotesize A$\boldsymbol{\flat}$};
+\ifnum\gnvisCviii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*8+3-3)*\halfstep},{(5-3)*\hlen}) {\footnotesize B};
+\ifnum\gnvisCix=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*9+3-3)*\halfstep},{(5-3)*\hlen}) {\footnotesize D};
+
+% Row p=2 (y=3*hlen), r=1..8
+\ifnum\gnvisBi=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*1+3-2)*\halfstep},{(5-2)*\hlen}) {\footnotesize E$\boldsymbol{\flat}$};
+\ifnum\gnvisBii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*2+3-2)*\halfstep},{(5-2)*\hlen}) {\footnotesize F$\boldsymbol{\sharp}$};
+\ifnum\gnvisBiii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*3+3-2)*\halfstep},{(5-2)*\hlen}) {\footnotesize A};
+\ifnum\gnvisBiv=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*4+3-2)*\halfstep},{(5-2)*\hlen}) {\footnotesize C};
+\ifnum\gnvisBv=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*5+3-2)*\halfstep},{(5-2)*\hlen}) {\footnotesize E$\boldsymbol{\flat}$};
+\ifnum\gnvisBvi=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*6+3-2)*\halfstep},{(5-2)*\hlen}) {\footnotesize F$\boldsymbol{\sharp}$};
+\ifnum\gnvisBvii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*7+3-2)*\halfstep},{(5-2)*\hlen}) {\footnotesize A};
+\ifnum\gnvisBviii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*8+3-2)*\halfstep},{(5-2)*\hlen}) {\footnotesize C};
+
+% Row p=1 (top, y=4*hlen), r=1..8
+\ifnum\gnvisAi=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*1+3-1)*\halfstep},{(5-1)*\hlen}) {\footnotesize E};
+\ifnum\gnvisAii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*2+3-1)*\halfstep},{(5-1)*\hlen}) {\footnotesize G};
+\ifnum\gnvisAiii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*3+3-1)*\halfstep},{(5-1)*\hlen}) {\footnotesize B$\boldsymbol{\flat}$};
+\ifnum\gnvisAiv=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*4+3-1)*\halfstep},{(5-1)*\hlen}) {\footnotesize C$\boldsymbol{\sharp}$};
+\ifnum\gnvisAv=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*5+3-1)*\halfstep},{(5-1)*\hlen}) {\footnotesize E};
+\ifnum\gnvisAvi=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*6+3-1)*\halfstep},{(5-1)*\hlen}) {\footnotesize G};
+\ifnum\gnvisAvii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*7+3-1)*\halfstep},{(5-1)*\hlen}) {\footnotesize B$\boldsymbol{\flat}$};
+\ifnum\gnvisAviii=1\def\nfill{gray!50}\else\def\nfill{gray!10}\fi
+\node[circle,draw=gray,fill=\nfill,inner sep=0pt,minimum size=38pt] at ({(2*8+3-1)*\halfstep},{(5-1)*\hlen}) {\footnotesize C$\boldsymbol{\sharp}$};
+
+% ---- TOP label on left of grid ----
+\node[anchor=center, rotate=90, font=\small\bfseries] at ({\xleft - 1.35}, {(\ytop)/2}) {Top of Accordion};
+
+% ---- Treble staff above the grid ----
+% Staff: 5 lines, gap=staffgap cm; bottom staff line (E4) above ytop
+\pgfmathsetmacro{\staffgap}{0.25}                     % cm between staff lines
+\pgfmathsetmacro{\staffbottom}{\ytop + 2.0}           % cm above grid top (gap between grid and staff)
+\pgfmathsetmacro{\staffleft}{\xleft - 1.2}            % extended left to give room for clef before C4
+\pgfmathsetmacro{\staffright}{\xright + 0.04}
+
+\foreach \sl in {0,...,4} {
+  \draw[black, thin] (\staffleft, \staffbottom + \sl*\staffgap)
+                  -- (\staffright, \staffbottom + \sl*\staffgap);
+}
+
+% Treble clef – anchored at start of staff lines, raised so G-line sits on 2nd staff line
+\node[anchor=base west, inner sep=0pt] at ({\staffleft + 0.04}, {\staffbottom + 2*\staffgap - 0.10}) {%
+  \raisebox{-4pt}{\begingroup\normalmusicsize\fontsize{22}{22}\selectfont\trebleclef\endgroup}%
+};
+
+% ---- Notes above staff: each highlighted node shows its correct note ----
+% CONFIGURATION:
+%   \gnvisXX=1  – node is highlighted (fill=gray!50); its staff note will appear.
+%   \gnvisXX=0  – node is plain (fill=gray!10); no staff note for that button.
+%   \nvisYY=1   – (default) allow staff note for column k=YY to show.
+%   \nvisYY=0   – suppress all staff notes in column k=YY, even when a node there is highlighted.
+% Note: multiple nodes in the same column have different pitches; each produces its own note head
+%       at the correct vertical position with the correct accidental for that specific button.
+%
+%   \nvis per column (k=0..XVIII) – set to 0 to mute all notes in that column
+\def\nvisZERO{1}   % k= 0  nodes: C4  (gnvisEi)
+\def\nvisI{1}      % k= 1  nodes: C#4 (gnvisDi)
+\def\nvisII{1}     % k= 2  nodes: Eb4 (gnvisEii), D4 (gnvisCi)
+\def\nvisIII{1}    % k= 3  nodes: E4 (gnvisDii), Eb4 (gnvisBi)
+\def\nvisIV{1}     % k= 4  nodes: F#4 (gnvisEiii), F4 (gnvisCii), E4 (gnvisAi)
+\def\nvisV{1}      % k= 5  nodes: G4 (gnvisDiii), F#4 (gnvisBii)
+\def\nvisVI{1}     % k= 6  nodes: A4 (gnvisEiv), Ab4 (gnvisCiii), G4 (gnvisAii)
+\def\nvisVII{1}    % k= 7  nodes: Bb4 (gnvisDiv), A4 (gnvisBiii)
+\def\nvisVIII{1}   % k= 8  nodes: C5 (gnvisEv), B4 (gnvisCiv), Bb4 (gnvisAiii)
+\def\nvisIX{1}     % k= 9  nodes: C#5 (gnvisDv), C5 (gnvisBiv)
+\def\nvisX{1}      % k=10  nodes: Eb5 (gnvisEvi), D5 (gnvisCv), C#5 (gnvisAiv)
+\def\nvisXI{1}     % k=11  nodes: E5 (gnvisDvi), Eb5 (gnvisBv)
+\def\nvisXII{1}    % k=12  nodes: F#5 (gnvisEvii), F5 (gnvisCvi), E5 (gnvisAv)
+\def\nvisXIII{1}   % k=13  nodes: G5 (gnvisDvii), F#5 (gnvisBvi)
+\def\nvisXIV{1}    % k=14  nodes: A5 (gnvisEviii), Ab5 (gnvisCvii), G5 (gnvisAvi)
+\def\nvisXV{1}     % k=15  nodes: Bb5 (gnvisDviii), A5 (gnvisBvii)
+\def\nvisXVI{1}    % k=16  nodes: C6 (gnvisEix), B5 (gnvisCviii), Bb5 (gnvisAvii)
+\def\nvisXVII{1}   % k=17  nodes: C#6 (gnvisDix), C6 (gnvisBviii)
+\def\nvisXVIII{1}  % k=18  nodes: Eb6 (gnvisEx), D6 (gnvisCix), C#6 (gnvisAviii)
+%
+\pgfmathsetmacro{\hstep}{\staffgap/2}  % cm per diatonic half-line
+\pgfmathsetmacro{\xstaffoffset}{3*\halfstep} % shift notes right to align with grid nodes
+%
+% ---- Per-node staff notes: each highlighted node shows its specific note ----
+% \gnvisXX=1 and \nvisYY=1 (where YY=roman of column k) both required to show note.
+%
+\begin{scope}[shift={(\xstaffoffset,0)}]
+%
+% gnvisEi  k=0  C4  pos=-2  stem=up  (ledger line below staff)
+\ifnum\gnvisEi=1\ifnum\nvisZERO=1
+  \draw[black,thin] ({-3*\halfstep-0.20},{\staffbottom-2*\hstep}) -- ({-3*\halfstep+0.20},{\staffbottom-2*\hstep});
+  \filldraw[black] ({-3*\halfstep},{\staffbottom-2*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({-3*\halfstep+0.13},{\staffbottom-2*\hstep}) -- ({-3*\halfstep+0.13},{\staffbottom-2*\hstep+0.9});
+\fi\fi
+%
+% gnvisDi  k=1  C#4  pos=-2  stem=up  (ledger line below staff)
+\ifnum\gnvisDi=1\ifnum\nvisI=1
+  \draw[black,thin] ({-2*\halfstep-0.20},{\staffbottom-2*\hstep}) -- ({-2*\halfstep+0.20},{\staffbottom-2*\hstep});
+  \filldraw[black] ({-2*\halfstep},{\staffbottom-2*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({-2*\halfstep+0.13},{\staffbottom-2*\hstep}) -- ({-2*\halfstep+0.13},{\staffbottom-2*\hstep+0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({-2*\halfstep-0.22},{\staffbottom-2*\hstep+0.05}) {$\boldsymbol{\sharp}$};
+\fi\fi
+%
+% gnvisCi  k=2  D4  pos=-1  stem=up
+\ifnum\gnvisCi=1\ifnum\nvisII=1
+  \filldraw[black] ({-1*\halfstep},{\staffbottom-1*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({-1*\halfstep+0.13},{\staffbottom-1*\hstep}) -- ({-1*\halfstep+0.13},{\staffbottom-1*\hstep+0.9});
+\fi\fi
+%
+% gnvisEii  k=2  Eb4  pos=0  stem=up  (on bottom staff line, bisected by it)
+\ifnum\gnvisEii=1\ifnum\nvisII=1
+  \filldraw[black] ({-1*\halfstep},{\staffbottom+0*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({-1*\halfstep+0.13},{\staffbottom+0*\hstep}) -- ({-1*\halfstep+0.13},{\staffbottom+0*\hstep+0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({-1*\halfstep-0.22},{\staffbottom+0*\hstep+0.05}) {$\boldsymbol{\flat}$};
+\fi\fi
+%
+% gnvisDii  k=3  E4  pos=0  stem=up
+\ifnum\gnvisDii=1\ifnum\nvisIII=1
+  \filldraw[black] (0,{\staffbottom+0*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({0+0.13},{\staffbottom+0*\hstep}) -- ({0+0.13},{\staffbottom+0*\hstep+0.9});
+\fi\fi
+%
+% gnvisBi  k=3  Eb4  pos=0  stem=up
+\ifnum\gnvisBi=1\ifnum\nvisIII=1
+  \filldraw[black] (0,{\staffbottom+0*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({0+0.13},{\staffbottom+0*\hstep}) -- ({0+0.13},{\staffbottom+0*\hstep+0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({0-0.22},{\staffbottom+0*\hstep+0.05}) {$\boldsymbol{\flat}$};
+\fi\fi
+%
+% gnvisAi  k=4  E4  pos=0  stem=up
+\ifnum\gnvisAi=1\ifnum\nvisIV=1
+  \filldraw[black] (\halfstep,{\staffbottom+0*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({\halfstep+0.13},{\staffbottom+0*\hstep}) -- ({\halfstep+0.13},{\staffbottom+0*\hstep+0.9});
+\fi\fi
+%
+% gnvisEiii  k=4  F#4  pos=1  stem=up
+\ifnum\gnvisEiii=1\ifnum\nvisIV=1
+  \filldraw[black] (\halfstep,{\staffbottom+1*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({\halfstep+0.13},{\staffbottom+1*\hstep}) -- ({\halfstep+0.13},{\staffbottom+1*\hstep+0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({\halfstep-0.22},{\staffbottom+1*\hstep+0.05}) {$\boldsymbol{\sharp}$};
+\fi\fi
+%
+% gnvisCii  k=4  F4  pos=1  stem=up
+\ifnum\gnvisCii=1\ifnum\nvisIV=1
+  \filldraw[black] (\halfstep,{\staffbottom+1*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({\halfstep+0.13},{\staffbottom+1*\hstep}) -- ({\halfstep+0.13},{\staffbottom+1*\hstep+0.9});
+\fi\fi
+%
+% gnvisBii  k=5  F#4  pos=1  stem=up
+\ifnum\gnvisBii=1\ifnum\nvisV=1
+  \filldraw[black] ({2*\halfstep},{\staffbottom+1*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(2*\halfstep)+0.13},{\staffbottom+1*\hstep}) -- ({(2*\halfstep)+0.13},{\staffbottom+1*\hstep+0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({(2*\halfstep)-0.22},{\staffbottom+1*\hstep+0.05}) {$\boldsymbol{\sharp}$};
+\fi\fi
+%
+% gnvisDiii  k=5  G4  pos=2  stem=up
+\ifnum\gnvisDiii=1\ifnum\nvisV=1
+  \filldraw[black] ({2*\halfstep},{\staffbottom+2*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(2*\halfstep)+0.13},{\staffbottom+2*\hstep}) -- ({(2*\halfstep)+0.13},{\staffbottom+2*\hstep+0.9});
+\fi\fi
+%
+% gnvisAii  k=6  G4  pos=2  stem=up
+\ifnum\gnvisAii=1\ifnum\nvisVI=1
+  \filldraw[black] ({3*\halfstep},{\staffbottom+2*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(3*\halfstep)+0.13},{\staffbottom+2*\hstep}) -- ({(3*\halfstep)+0.13},{\staffbottom+2*\hstep+0.9});
+\fi\fi
+%
+% gnvisEiv  k=6  A4  pos=3  stem=up
+\ifnum\gnvisEiv=1\ifnum\nvisVI=1
+  \filldraw[black] ({3*\halfstep},{\staffbottom+3*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(3*\halfstep)+0.13},{\staffbottom+3*\hstep}) -- ({(3*\halfstep)+0.13},{\staffbottom+3*\hstep+0.9});
+\fi\fi
+%
+% gnvisCiii  k=6  Ab4  pos=3  stem=up
+\ifnum\gnvisCiii=1\ifnum\nvisVI=1
+  \filldraw[black] ({3*\halfstep},{\staffbottom+3*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(3*\halfstep)+0.13},{\staffbottom+3*\hstep}) -- ({(3*\halfstep)+0.13},{\staffbottom+3*\hstep+0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({(3*\halfstep)-0.22},{\staffbottom+3*\hstep+0.05}) {$\boldsymbol{\flat}$};
+\fi\fi
+%
+% gnvisBiii  k=7  A4  pos=3  stem=up
+\ifnum\gnvisBiii=1\ifnum\nvisVII=1
+  \filldraw[black] ({4*\halfstep},{\staffbottom+3*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(4*\halfstep)+0.13},{\staffbottom+3*\hstep}) -- ({(4*\halfstep)+0.13},{\staffbottom+3*\hstep+0.9});
+\fi\fi
+%
+% gnvisDiv  k=7  Bb4  pos=4  stem=down
+\ifnum\gnvisDiv=1\ifnum\nvisVII=1
+  \filldraw[black] ({4*\halfstep},{\staffbottom+4*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(4*\halfstep)-0.13},{\staffbottom+4*\hstep}) -- ({(4*\halfstep)-0.13},{\staffbottom+4*\hstep-0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({(4*\halfstep)-0.22},{\staffbottom+4*\hstep+0.05}) {$\boldsymbol{\flat}$};
+\fi\fi
+%
+% gnvisCiv  k=8  B4  pos=4  stem=down
+\ifnum\gnvisCiv=1\ifnum\nvisVIII=1
+  \filldraw[black] ({5*\halfstep},{\staffbottom+4*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(5*\halfstep)-0.13},{\staffbottom+4*\hstep}) -- ({(5*\halfstep)-0.13},{\staffbottom+4*\hstep-0.9});
+\fi\fi
+%
+% gnvisAiii  k=8  Bb4  pos=4  stem=down
+\ifnum\gnvisAiii=1\ifnum\nvisVIII=1
+  \filldraw[black] ({5*\halfstep},{\staffbottom+4*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(5*\halfstep)-0.13},{\staffbottom+4*\hstep}) -- ({(5*\halfstep)-0.13},{\staffbottom+4*\hstep-0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({(5*\halfstep)-0.22},{\staffbottom+4*\hstep+0.05}) {$\boldsymbol{\flat}$};
+\fi\fi
+%
+% gnvisEv  k=8  C5  pos=5  stem=down
+\ifnum\gnvisEv=1\ifnum\nvisVIII=1
+  \filldraw[black] ({5*\halfstep},{\staffbottom+5*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(5*\halfstep)-0.13},{\staffbottom+5*\hstep}) -- ({(5*\halfstep)-0.13},{\staffbottom+5*\hstep-0.9});
+\fi\fi
+%
+% gnvisDv  k=9  C#5  pos=5  stem=down
+\ifnum\gnvisDv=1\ifnum\nvisIX=1
+  \filldraw[black] ({6*\halfstep},{\staffbottom+5*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(6*\halfstep)-0.13},{\staffbottom+5*\hstep}) -- ({(6*\halfstep)-0.13},{\staffbottom+5*\hstep-0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({(6*\halfstep)-0.22},{\staffbottom+5*\hstep+0.05}) {$\boldsymbol{\sharp}$};
+\fi\fi
+%
+% gnvisBiv  k=9  C5  pos=5  stem=down
+\ifnum\gnvisBiv=1\ifnum\nvisIX=1
+  \filldraw[black] ({6*\halfstep},{\staffbottom+5*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(6*\halfstep)-0.13},{\staffbottom+5*\hstep}) -- ({(6*\halfstep)-0.13},{\staffbottom+5*\hstep-0.9});
+\fi\fi
+%
+% gnvisAiv  k=10  C#5  pos=5  stem=down
+\ifnum\gnvisAiv=1\ifnum\nvisX=1
+  \filldraw[black] ({7*\halfstep},{\staffbottom+5*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(7*\halfstep)-0.13},{\staffbottom+5*\hstep}) -- ({(7*\halfstep)-0.13},{\staffbottom+5*\hstep-0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({(7*\halfstep)-0.22},{\staffbottom+5*\hstep+0.05}) {$\boldsymbol{\sharp}$};
+\fi\fi
+%
+% gnvisCv  k=10  D5  pos=6  stem=down
+\ifnum\gnvisCv=1\ifnum\nvisX=1
+  \filldraw[black] ({7*\halfstep},{\staffbottom+6*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(7*\halfstep)-0.13},{\staffbottom+6*\hstep}) -- ({(7*\halfstep)-0.13},{\staffbottom+6*\hstep-0.9});
+\fi\fi
+%
+% gnvisEvi  k=10  Eb5  pos=7  stem=down
+\ifnum\gnvisEvi=1\ifnum\nvisX=1
+  \filldraw[black] ({7*\halfstep},{\staffbottom+7*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(7*\halfstep)-0.13},{\staffbottom+7*\hstep}) -- ({(7*\halfstep)-0.13},{\staffbottom+7*\hstep-0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({(7*\halfstep)-0.22},{\staffbottom+7*\hstep+0.05}) {$\boldsymbol{\flat}$};
+\fi\fi
+%
+% gnvisDvi  k=11  E5  pos=7  stem=down
+\ifnum\gnvisDvi=1\ifnum\nvisXI=1
+  \filldraw[black] ({8*\halfstep},{\staffbottom+7*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(8*\halfstep)-0.13},{\staffbottom+7*\hstep}) -- ({(8*\halfstep)-0.13},{\staffbottom+7*\hstep-0.9});
+\fi\fi
+%
+% gnvisBv  k=11  Eb5  pos=7  stem=down
+\ifnum\gnvisBv=1\ifnum\nvisXI=1
+  \filldraw[black] ({8*\halfstep},{\staffbottom+7*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(8*\halfstep)-0.13},{\staffbottom+7*\hstep}) -- ({(8*\halfstep)-0.13},{\staffbottom+7*\hstep-0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({(8*\halfstep)-0.22},{\staffbottom+7*\hstep+0.05}) {$\boldsymbol{\flat}$};
+\fi\fi
+%
+% gnvisAv  k=12  E5  pos=7  stem=down
+\ifnum\gnvisAv=1\ifnum\nvisXII=1
+  \filldraw[black] ({9*\halfstep},{\staffbottom+7*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(9*\halfstep)-0.13},{\staffbottom+7*\hstep}) -- ({(9*\halfstep)-0.13},{\staffbottom+7*\hstep-0.9});
+\fi\fi
+%
+% gnvisEvii  k=12  F#5  pos=8  stem=down
+\ifnum\gnvisEvii=1\ifnum\nvisXII=1
+  \filldraw[black] ({9*\halfstep},{\staffbottom+8*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(9*\halfstep)-0.13},{\staffbottom+8*\hstep}) -- ({(9*\halfstep)-0.13},{\staffbottom+8*\hstep-0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({(9*\halfstep)-0.22},{\staffbottom+8*\hstep+0.05}) {$\boldsymbol{\sharp}$};
+\fi\fi
+%
+% gnvisCvi  k=12  F5  pos=8  stem=down
+\ifnum\gnvisCvi=1\ifnum\nvisXII=1
+  \filldraw[black] ({9*\halfstep},{\staffbottom+8*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(9*\halfstep)-0.13},{\staffbottom+8*\hstep}) -- ({(9*\halfstep)-0.13},{\staffbottom+8*\hstep-0.9});
+\fi\fi
+%
+% gnvisBvi  k=13  F#5  pos=8  stem=down
+\ifnum\gnvisBvi=1\ifnum\nvisXIII=1
+  \filldraw[black] ({10*\halfstep},{\staffbottom+8*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(10*\halfstep)-0.13},{\staffbottom+8*\hstep}) -- ({(10*\halfstep)-0.13},{\staffbottom+8*\hstep-0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({(10*\halfstep)-0.22},{\staffbottom+8*\hstep+0.05}) {$\boldsymbol{\sharp}$};
+\fi\fi
+%
+% gnvisDvii  k=13  G5  pos=9  stem=down
+\ifnum\gnvisDvii=1\ifnum\nvisXIII=1
+  \filldraw[black] ({10*\halfstep},{\staffbottom+9*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(10*\halfstep)-0.13},{\staffbottom+9*\hstep}) -- ({(10*\halfstep)-0.13},{\staffbottom+9*\hstep-0.9});
+\fi\fi
+%
+% gnvisAvi  k=14  G5  pos=9  stem=down
+\ifnum\gnvisAvi=1\ifnum\nvisXIV=1
+  \filldraw[black] ({11*\halfstep},{\staffbottom+9*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(11*\halfstep)-0.13},{\staffbottom+9*\hstep}) -- ({(11*\halfstep)-0.13},{\staffbottom+9*\hstep-0.9});
+\fi\fi
+%
+% gnvisEviii  k=14  A5  pos=10  stem=down
+\ifnum\gnvisEviii=1\ifnum\nvisXIV=1
+  \draw[black,thin] ({(11*\halfstep)-0.20},{\staffbottom+10*\hstep}) -- ({(11*\halfstep)+0.20},{\staffbottom+10*\hstep});
+  \filldraw[black] ({11*\halfstep},{\staffbottom+10*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(11*\halfstep)-0.13},{\staffbottom+10*\hstep}) -- ({(11*\halfstep)-0.13},{\staffbottom+10*\hstep-0.9});
+\fi\fi
+%
+% gnvisCvii  k=14  Ab5  pos=10  stem=down
+\ifnum\gnvisCvii=1\ifnum\nvisXIV=1
+  \draw[black,thin] ({(11*\halfstep)-0.20},{\staffbottom+10*\hstep}) -- ({(11*\halfstep)+0.20},{\staffbottom+10*\hstep});
+  \filldraw[black] ({11*\halfstep},{\staffbottom+10*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(11*\halfstep)-0.13},{\staffbottom+10*\hstep}) -- ({(11*\halfstep)-0.13},{\staffbottom+10*\hstep-0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({(11*\halfstep)-0.22},{\staffbottom+10*\hstep+0.05}) {$\boldsymbol{\flat}$};
+\fi\fi
+%
+% gnvisBvii  k=15  A5  pos=10  stem=down
+\ifnum\gnvisBvii=1\ifnum\nvisXV=1
+  \draw[black,thin] ({(12*\halfstep)-0.20},{\staffbottom+10*\hstep}) -- ({(12*\halfstep)+0.20},{\staffbottom+10*\hstep});
+  \filldraw[black] ({12*\halfstep},{\staffbottom+10*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(12*\halfstep)-0.13},{\staffbottom+10*\hstep}) -- ({(12*\halfstep)-0.13},{\staffbottom+10*\hstep-0.9});
+\fi\fi
+%
+% gnvisDviii  k=15  Bb5  pos=11  stem=down
+\ifnum\gnvisDviii=1\ifnum\nvisXV=1
+  \draw[black,thin] ({(12*\halfstep)-0.20},{\staffbottom+10*\hstep}) -- ({(12*\halfstep)+0.20},{\staffbottom+10*\hstep});
+  \filldraw[black] ({12*\halfstep},{\staffbottom+11*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(12*\halfstep)-0.13},{\staffbottom+11*\hstep}) -- ({(12*\halfstep)-0.13},{\staffbottom+11*\hstep-0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({(12*\halfstep)-0.22},{\staffbottom+11*\hstep+0.05}) {$\boldsymbol{\flat}$};
+\fi\fi
+%
+% gnvisCviii  k=16  B5  pos=11  stem=down
+\ifnum\gnvisCviii=1\ifnum\nvisXVI=1
+  \draw[black,thin] ({(13*\halfstep)-0.20},{\staffbottom+10*\hstep}) -- ({(13*\halfstep)+0.20},{\staffbottom+10*\hstep});
+  \filldraw[black] ({13*\halfstep},{\staffbottom+11*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(13*\halfstep)-0.13},{\staffbottom+11*\hstep}) -- ({(13*\halfstep)-0.13},{\staffbottom+11*\hstep-0.9});
+\fi\fi
+%
+% gnvisAvii  k=16  Bb5  pos=11  stem=down
+\ifnum\gnvisAvii=1\ifnum\nvisXVI=1
+  \draw[black,thin] ({(13*\halfstep)-0.20},{\staffbottom+10*\hstep}) -- ({(13*\halfstep)+0.20},{\staffbottom+10*\hstep});
+  \filldraw[black] ({13*\halfstep},{\staffbottom+11*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(13*\halfstep)-0.13},{\staffbottom+11*\hstep}) -- ({(13*\halfstep)-0.13},{\staffbottom+11*\hstep-0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({(13*\halfstep)-0.22},{\staffbottom+11*\hstep+0.05}) {$\boldsymbol{\flat}$};
+\fi\fi
+%
+% gnvisEix  k=16  C6  pos=12  stem=down
+\ifnum\gnvisEix=1\ifnum\nvisXVI=1
+  \draw[black,thin] ({(13*\halfstep)-0.20},{\staffbottom+10*\hstep}) -- ({(13*\halfstep)+0.20},{\staffbottom+10*\hstep});
+  \draw[black,thin] ({(13*\halfstep)-0.20},{\staffbottom+12*\hstep}) -- ({(13*\halfstep)+0.20},{\staffbottom+12*\hstep});
+  \filldraw[black] ({13*\halfstep},{\staffbottom+12*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(13*\halfstep)-0.13},{\staffbottom+12*\hstep}) -- ({(13*\halfstep)-0.13},{\staffbottom+12*\hstep-0.9});
+\fi\fi
+%
+% gnvisDix  k=17  C#6  pos=12  stem=down
+\ifnum\gnvisDix=1\ifnum\nvisXVII=1
+  \draw[black,thin] ({(14*\halfstep)-0.20},{\staffbottom+10*\hstep}) -- ({(14*\halfstep)+0.20},{\staffbottom+10*\hstep});
+  \draw[black,thin] ({(14*\halfstep)-0.20},{\staffbottom+12*\hstep}) -- ({(14*\halfstep)+0.20},{\staffbottom+12*\hstep});
+  \filldraw[black] ({14*\halfstep},{\staffbottom+12*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(14*\halfstep)-0.13},{\staffbottom+12*\hstep}) -- ({(14*\halfstep)-0.13},{\staffbottom+12*\hstep-0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({(14*\halfstep)-0.22},{\staffbottom+12*\hstep+0.05}) {$\boldsymbol{\sharp}$};
+\fi\fi
+%
+% gnvisBviii  k=17  C6  pos=12  stem=down
+\ifnum\gnvisBviii=1\ifnum\nvisXVII=1
+  \draw[black,thin] ({(14*\halfstep)-0.20},{\staffbottom+10*\hstep}) -- ({(14*\halfstep)+0.20},{\staffbottom+10*\hstep});
+  \draw[black,thin] ({(14*\halfstep)-0.20},{\staffbottom+12*\hstep}) -- ({(14*\halfstep)+0.20},{\staffbottom+12*\hstep});
+  \filldraw[black] ({14*\halfstep},{\staffbottom+12*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(14*\halfstep)-0.13},{\staffbottom+12*\hstep}) -- ({(14*\halfstep)-0.13},{\staffbottom+12*\hstep-0.9});
+\fi\fi
+%
+% gnvisAviii  k=18  C#6  pos=12  stem=down
+\ifnum\gnvisAviii=1\ifnum\nvisXVIII=1
+  \draw[black,thin] ({(15*\halfstep)-0.20},{\staffbottom+10*\hstep}) -- ({(15*\halfstep)+0.20},{\staffbottom+10*\hstep});
+  \draw[black,thin] ({(15*\halfstep)-0.20},{\staffbottom+12*\hstep}) -- ({(15*\halfstep)+0.20},{\staffbottom+12*\hstep});
+  \filldraw[black] ({15*\halfstep},{\staffbottom+12*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(15*\halfstep)-0.13},{\staffbottom+12*\hstep}) -- ({(15*\halfstep)-0.13},{\staffbottom+12*\hstep-0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({(15*\halfstep)-0.22},{\staffbottom+12*\hstep+0.05}) {$\boldsymbol{\sharp}$};
+\fi\fi
+%
+% gnvisCix  k=18  D6  pos=13  stem=down
+\ifnum\gnvisCix=1\ifnum\nvisXVIII=1
+  \draw[black,thin] ({(15*\halfstep)-0.20},{\staffbottom+10*\hstep}) -- ({(15*\halfstep)+0.20},{\staffbottom+10*\hstep});
+  \draw[black,thin] ({(15*\halfstep)-0.20},{\staffbottom+12*\hstep}) -- ({(15*\halfstep)+0.20},{\staffbottom+12*\hstep});
+  \filldraw[black] ({15*\halfstep},{\staffbottom+13*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(15*\halfstep)-0.13},{\staffbottom+13*\hstep}) -- ({(15*\halfstep)-0.13},{\staffbottom+13*\hstep-0.9});
+\fi\fi
+%
+% gnvisEx  k=18  Eb6  pos=14  stem=down
+\ifnum\gnvisEx=1\ifnum\nvisXVIII=1
+  \draw[black,thin] ({(15*\halfstep)-0.20},{\staffbottom+10*\hstep}) -- ({(15*\halfstep)+0.20},{\staffbottom+10*\hstep});
+  \draw[black,thin] ({(15*\halfstep)-0.20},{\staffbottom+12*\hstep}) -- ({(15*\halfstep)+0.20},{\staffbottom+12*\hstep});
+  \draw[black,thin] ({(15*\halfstep)-0.20},{\staffbottom+14*\hstep}) -- ({(15*\halfstep)+0.20},{\staffbottom+14*\hstep});
+  \filldraw[black] ({15*\halfstep},{\staffbottom+14*\hstep}) ellipse (0.14 and 0.09);
+  \draw[black,thin] ({(15*\halfstep)-0.13},{\staffbottom+14*\hstep}) -- ({(15*\halfstep)-0.13},{\staffbottom+14*\hstep-0.9});
+  \node[anchor=base east,inner sep=0pt,font=\small] at ({(15*\halfstep)-0.22},{\staffbottom+14*\hstep+0.05}) {$\boldsymbol{\flat}$};
+\fi\fi
+\end{scope}
+
+% ---- Connecting vertical lines from staff notes down to grid ----
+% Draw a light vertical line from below each note head down to the top of the grid
+% at the same x position; note range after shift is k*\halfstep for k=3..18
+\foreach \k in {0,...,18} {
+  \pgfmathsetmacro{\nxx}{\k*\halfstep}
+  \draw[lightgray!60, very thin] (\nxx, \ytop) -- (\nxx, {\staffbottom - 2*\hstep - 0.24});
+}
+
+% Bounding box
+\pgfmathsetmacro{\bbleft}{\xleft - 1.75}
+\pgfmathsetmacro{\bbtop}{\staffbottom + 14*\hstep + 0.6}
+\useasboundingbox (\bbleft, \ybottom - 0.5) rectangle ({\xright + 0.15}, \bbtop);
+
+\end{tikzpicture}
+        </latex-image>
+      </image>
+    </figure>
+  </section>
 </chapter>
+

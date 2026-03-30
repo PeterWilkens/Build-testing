@@ -22,7 +22,36 @@
   <!-- If you put any latex-image elements you can include preambles -->
   <!-- for those in the next element. -->
   <latex-image-preamble> \usepackage{tikz, pgfplots, musixtex, adjustbox} \usetikzlibrary{positioning,matrix,arrows} \usetikzlibrary{shapes,decorations,shadows,fadings,patterns} \usetikzlibrary{decorations.markings} % define a shortcut for sharp notes in tikz pictures
-\renewcommand{\sh}{\#} </latex-image-preamble>
+\renewcommand{\sh}{\#}
+\newif\ifisoGridVisible \isoGridVisiblefalse
+\newcommand{\drawgridandnotes}{%
+  \ifisoGridVisible%
+  \begin{scope}%
+    \path[clip] (0,0) rectangle (\xmax,\ymax);%
+    \pgfmathsetmacro{\gridii}{\hh-1}%
+    \foreach \gi in {1,...,\gridii} { \draw[lightgray,very thin] (\gi*\hlen,0) -- ++(0,\ymax); }%
+    \pgfmathsetmacro{\griddvlen}{2*\vv*\dlen}%
+    \foreach \gi in {0,2,...,\hh} {%
+      \draw[lightgray,very thin] (\gi*\hlen,0) -- ++(\ang:\griddvlen);%
+      \draw[lightgray,very thin] (\gi*\hlen,\ymax) -- ++(-\ang:\griddvlen);%
+    }%
+    \pgfmathsetmacro{\gridjj}{\vv-1}%
+    \pgfmathsetmacro{\griddhlen}{\hh*\dlen}%
+    \foreach \gj in {1,...,\gridjj} {%
+      \draw[lightgray,very thin] (0,\gj*\vlen) -- ++(\ang:\griddhlen);%
+      \draw[lightgray,very thin] (0,\gj*\vlen) -- ++(-\ang:\griddhlen);%
+    }%
+  \end{scope}%
+  \draw[lightgray,very thin] rectangle (\xmax,\ymax);%
+  \fi%
+}%
+\newcommand{\gn}[4]{%
+  \ifnum#4=1%
+    \node[circle,draw=gray,fill=gray!40,inner sep=0pt,minimum size=24pt,font=\tiny] at (#1*\hlen,#2*\vlen) {#3};%
+  \else%
+    \node[circle,draw=gray,fill=gray!10,inner sep=0pt,minimum size=24pt,font=\tiny] at (#1*\hlen,#2*\vlen) {#3};%
+  \fi%
+} </latex-image-preamble>
 
   <!-- It is possible to rename elements: -->
   <!-- <rename element="assemblage" xml:lang="en-US">Summary</rename> -->
