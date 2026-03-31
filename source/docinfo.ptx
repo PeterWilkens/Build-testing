@@ -47,9 +47,9 @@
 }%
 \newcommand{\gn}[4]{%
   \ifnum#4=1%
-    \node[circle,draw=gray,fill=gray!40,inner sep=0pt,minimum size=24pt,font=\tiny] at (#1*\hlen,#2*\vlen) {#3};%
+    \node[circle,draw=gray,fill=gray!40,inner sep=0pt,minimum size=24pt,text width=18pt,align=center,font=\tiny] at (#1*\hlen,#2*\vlen) {#3};%
   \else%
-    \node[circle,draw=gray,fill=gray!10,inner sep=0pt,minimum size=24pt,font=\tiny] at (#1*\hlen,#2*\vlen) {#3};%
+    \node[circle,draw=gray,fill=gray!10,inner sep=0pt,minimum size=24pt,text width=18pt,align=center,font=\tiny] at (#1*\hlen,#2*\vlen) {#3};%
   \fi%
 } </latex-image-preamble>
 

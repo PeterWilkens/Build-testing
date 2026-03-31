@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<section xml:id="sec-seventh-chords" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Seventh Chords</title>
+<section xml:id="sec-seventh-chords-page2" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Seventh Chords (2nd Inversion)</title>
   <introduction>
     <p>The Chord Shapes shown can be moved to different positions on the keyboard and take the name of the Root Chord. Thus, if you know the shape of one chord type, you know the shape of all chords of that type in that shape or inversion.</p>
   </introduction>
 
   <!-- ===== Row 1: Root positions ===== -->
-  <figure xml:id="fig-chord-grids-row1">
+  <figure xml:id="fig-chord-grids-p2-row1">
     <caption>7th Chords Root Position</caption>
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <!-- Grid 1: Cmaj7 (C, E, G, B) -->
-      <image xml:id="img-grid-cmaj7">
+      <image xml:id="img-grid-p2-cmaj7">
         <latex-image>
 \begin{tikzpicture}[scale=0.65, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
@@ -59,7 +59,7 @@
       </image>
 
       <!-- Grid 2: C7 (C, E, G, Bb) -->
-      <image xml:id="img-grid-c7">
+      <image xml:id="img-grid-p2-c7">
         <latex-image>
 \begin{tikzpicture}[scale=0.65, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
@@ -107,7 +107,7 @@
       </image>
 
       <!-- Grid 3: Cm7 (C, Eb, G, Bb) -->
-      <image xml:id="img-grid-cm7">
+      <image xml:id="img-grid-p2-cm7">
         <latex-image>
 \begin{tikzpicture}[scale=0.65, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
@@ -155,7 +155,7 @@
       </image>
 
       <!-- Grid 4: Cm7b5 (C, Eb, Gb, Bb) -->
-      <image xml:id="img-grid-cm7b5">
+      <image xml:id="img-grid-p2-cm7b5">
         <latex-image>
 \begin{tikzpicture}[scale=0.65, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
@@ -207,27 +207,27 @@
 
   <!-- Notation row 1 -->
   <sidebyside widths="8% 8% 8% 8%" margins="10%">
-    <image xml:id="img-notation-cmaj7" source="notation/chord-cmaj7.svg">
+    <image xml:id="img-notation-p2-cmaj7" source="notation/chord-cmaj7.svg">
       <shortdescription>Cmaj7 chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-c7" source="notation/chord-c7.svg">
+    <image xml:id="img-notation-p2-c7" source="notation/chord-c7.svg">
       <shortdescription>C7 chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-cm7" source="notation/chord-cm7.svg">
+    <image xml:id="img-notation-p2-cm7" source="notation/chord-cm7.svg">
       <shortdescription>Cm7 chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-cm7b5" source="notation/chord-cm7b5.svg">
+    <image xml:id="img-notation-p2-cm7b5" source="notation/chord-cm7b5.svg">
       <shortdescription>Cm7b5 chord on treble staff</shortdescription>
     </image>
   </sidebyside>
 
-  <!-- ===== Row 2: 1st Inversions ===== -->
-  <figure xml:id="fig-chord-grids-row2">
-    <caption>7th Chords 1st Inversion</caption>
+  <!-- ===== Row 2: 2nd Inversions ===== -->
+  <figure xml:id="fig-chord-grids-p2-row2">
+    <caption>7th Chords 2nd Inversion</caption>
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
-      <!-- Grid 5: Cmaj7 1st inversion (E, G, B, C) -->
-      <image xml:id="img-grid-cmaj7-1st">
+      <!-- Grid 5: Cmaj7 2nd inversion (G, B, C, E) -->
+      <image xml:id="img-grid-cmaj7-2nd">
         <latex-image>
 \begin{tikzpicture}[scale=0.65, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
@@ -246,7 +246,7 @@
 \gn{2}{3}{E$\flat$, D$\sharp$}{0}
 \gn{1}{3.5}{E}{0}
 \gn{5}{2.5}{E$\flat$, D$\sharp$}{0}
-\gn{4}{3}{E}{1}
+\gn{4}{3}{E}{0}
 \gn{3}{3.5}{F}{0}
 \gn{2}{4}{G$\flat$, F$\sharp$}{0}
 \gn{1}{4.5}{G}{0}
@@ -258,15 +258,15 @@
 \gn{5}{4.5}{A}{0}
 \gn{4}{5}{B$\flat$, A$\sharp$}{0}
 \gn{3}{5.5}{B}{1}
-\gn{2}{6}{C}{0}
+\gn{2}{6}{C}{1}
 \gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
-\gn{5}{5.5}{C}{1}
+\gn{5}{5.5}{C}{0}
 \gn{4}{6}{C$\sharp$, D$\flat$}{0}
 \gn{3}{6.5}{D}{0}
 \gn{2}{7}{E$\flat$, D$\sharp$}{0}
 \gn{1}{7.5}{E}{0}
 \gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
-\gn{4}{7}{E}{0}
+\gn{4}{7}{E}{1}
 \gn{3}{7.5}{F}{0}
 \gn{2}{8}{G$\flat$, F$\sharp$}{0}
 \gn{1}{8.5}{G}{0}
@@ -274,8 +274,8 @@
         </latex-image>
       </image>
 
-      <!-- Grid 6: C7 1st inversion (E, G, Bb, C) -->
-      <image xml:id="img-grid-c7-1st">
+      <!-- Grid 6: C7 2nd inversion (G, Bb, C, E) -->
+      <image xml:id="img-grid-c7-2nd">
         <latex-image>
 \begin{tikzpicture}[scale=0.65, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
@@ -294,54 +294,6 @@
 \gn{2}{3}{E$\flat$, D$\sharp$}{0}
 \gn{1}{3.5}{E}{0}
 \gn{5}{2.5}{E$\flat$, D$\sharp$}{0}
-\gn{4}{3}{E}{1}
-\gn{3}{3.5}{F}{0}
-\gn{2}{4}{G$\flat$, F$\sharp$}{0}
-\gn{1}{4.5}{G}{0}
-\gn{5}{3.5}{G$\flat$, F$\sharp$}{0}
-\gn{4}{4}{G}{1}
-\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
-\gn{2}{5}{A}{0}
-\gn{1}{5.5}{B$\flat$, A$\sharp$}{0}
-\gn{5}{4.5}{A}{0}
-\gn{4}{5}{B$\flat$, A$\sharp$}{1}
-\gn{3}{5.5}{B}{0}
-\gn{2}{6}{C}{0}
-\gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
-\gn{5}{5.5}{C}{1}
-\gn{4}{6}{C$\sharp$, D$\flat$}{0}
-\gn{3}{6.5}{D}{0}
-\gn{2}{7}{E$\flat$, D$\sharp$}{0}
-\gn{1}{7.5}{E}{0}
-\gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
-\gn{4}{7}{E}{0}
-\gn{3}{7.5}{F}{0}
-\gn{2}{8}{G$\flat$, F$\sharp$}{0}
-\gn{1}{8.5}{G}{0}
-\end{tikzpicture}
-        </latex-image>
-      </image>
-
-      <!-- Grid 7: Cm7 1st inversion (Eb, G, Bb, C) -->
-      <image xml:id="img-grid-cm7-1st">
-        <latex-image>
-\begin{tikzpicture}[scale=0.65, transform shape]
-\pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{8}
-\pgfmathsetmacro{\hh}{6}
-\pgfmathsetmacro{\vlen}{0.85}
-\pgfmathsetmacro{\ang}{\isoangle/2}
-\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
-\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
-\pgfmathsetmacro{\xmax}{\hh*\hlen}
-\pgfmathsetmacro{\ymax}{\vv*\vlen}
-\drawgridandnotes
-\gn{5}{1.5}{C}{0}
-\gn{4}{2}{C$\sharp$, D$\flat$}{0}
-\gn{3}{2.5}{D}{0}
-\gn{2}{3}{E$\flat$, D$\sharp$}{0}
-\gn{1}{3.5}{E}{0}
-\gn{5}{2.5}{E$\flat$, D$\sharp$}{1}
 \gn{4}{3}{E}{0}
 \gn{3}{3.5}{F}{0}
 \gn{2}{4}{G$\flat$, F$\sharp$}{0}
@@ -354,15 +306,15 @@
 \gn{5}{4.5}{A}{0}
 \gn{4}{5}{B$\flat$, A$\sharp$}{1}
 \gn{3}{5.5}{B}{0}
-\gn{2}{6}{C}{0}
+\gn{2}{6}{C}{1}
 \gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
-\gn{5}{5.5}{C}{1}
+\gn{5}{5.5}{C}{0}
 \gn{4}{6}{C$\sharp$, D$\flat$}{0}
 \gn{3}{6.5}{D}{0}
 \gn{2}{7}{E$\flat$, D$\sharp$}{0}
 \gn{1}{7.5}{E}{0}
 \gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
-\gn{4}{7}{E}{0}
+\gn{4}{7}{E}{1}
 \gn{3}{7.5}{F}{0}
 \gn{2}{8}{G$\flat$, F$\sharp$}{0}
 \gn{1}{8.5}{G}{0}
@@ -370,8 +322,8 @@
         </latex-image>
       </image>
 
-      <!-- Grid 8: Cm7b5 1st inversion (Eb, Gb, Bb, C) -->
-      <image xml:id="img-grid-cm7b5-1st">
+      <!-- Grid 7: Cm7 2nd inversion (G, Bb, C, Eb) -->
+      <image xml:id="img-grid-cm7-2nd">
         <latex-image>
 \begin{tikzpicture}[scale=0.65, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
@@ -389,7 +341,55 @@
 \gn{3}{2.5}{D}{0}
 \gn{2}{3}{E$\flat$, D$\sharp$}{0}
 \gn{1}{3.5}{E}{0}
-\gn{5}{2.5}{E$\flat$, D$\sharp$}{1}
+\gn{5}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{3}{E}{0}
+\gn{3}{3.5}{F}{0}
+\gn{2}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{4.5}{G}{0}
+\gn{5}{3.5}{G$\flat$, F$\sharp$}{0}
+\gn{4}{4}{G}{1}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{2}{5}{A}{0}
+\gn{1}{5.5}{B$\flat$, A$\sharp$}{0}
+\gn{5}{4.5}{A}{0}
+\gn{4}{5}{B$\flat$, A$\sharp$}{1}
+\gn{3}{5.5}{B}{0}
+\gn{2}{6}{C}{1}
+\gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
+\gn{5}{5.5}{C}{0}
+\gn{4}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{D}{0}
+\gn{2}{7}{E$\flat$, D$\sharp$}{1}
+\gn{1}{7.5}{E}{0}
+\gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{7}{E}{0}
+\gn{3}{7.5}{F}{0}
+\gn{2}{8}{G$\flat$, F$\sharp$}{0}
+\gn{1}{8.5}{G}{0}
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Grid 8: Cm7b5 2nd inversion (Gb, Bb, C, Eb) -->
+      <image xml:id="img-grid-cm7b5-2nd">
+        <latex-image>
+\begin{tikzpicture}[scale=0.65, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\gn{5}{1.5}{C}{0}
+\gn{4}{2}{C$\sharp$, D$\flat$}{0}
+\gn{3}{2.5}{D}{0}
+\gn{2}{3}{E$\flat$, D$\sharp$}{0}
+\gn{1}{3.5}{E}{0}
+\gn{5}{2.5}{E$\flat$, D$\sharp$}{0}
 \gn{4}{3}{E}{0}
 \gn{3}{3.5}{F}{0}
 \gn{2}{4}{G$\flat$, F$\sharp$}{0}
@@ -402,12 +402,12 @@
 \gn{5}{4.5}{A}{0}
 \gn{4}{5}{B$\flat$, A$\sharp$}{1}
 \gn{3}{5.5}{B}{0}
-\gn{2}{6}{C}{0}
+\gn{2}{6}{C}{1}
 \gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
-\gn{5}{5.5}{C}{1}
+\gn{5}{5.5}{C}{0}
 \gn{4}{6}{C$\sharp$, D$\flat$}{0}
 \gn{3}{6.5}{D}{0}
-\gn{2}{7}{E$\flat$, D$\sharp$}{0}
+\gn{2}{7}{E$\flat$, D$\sharp$}{1}
 \gn{1}{7.5}{E}{0}
 \gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
 \gn{4}{7}{E}{0}
@@ -421,19 +421,19 @@
     </sidebyside>
   </figure>
 
-  <!-- Notation row 2 (1st Inversions) -->
+  <!-- Notation row 2 (2nd Inversions) -->
   <sidebyside widths="8% 8% 8% 8%" margins="10%">
-    <image xml:id="img-notation-cmaj7-1st" source="notation/chord-cmaj7.svg">
-      <shortdescription>Cmaj7 1st inversion chord on treble staff</shortdescription>
+    <image xml:id="img-notation-p2-cmaj7-2nd" source="notation/chord-cmaj7.svg">
+      <shortdescription>Cmaj7 2nd inversion chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-c7-1st" source="notation/chord-c7.svg">
-      <shortdescription>C7 1st inversion chord on treble staff</shortdescription>
+    <image xml:id="img-notation-p2-c7-2nd" source="notation/chord-c7.svg">
+      <shortdescription>C7 2nd inversion chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-cm7-1st" source="notation/chord-cm7.svg">
-      <shortdescription>Cm7 1st inversion chord on treble staff</shortdescription>
+    <image xml:id="img-notation-p2-cm7-2nd" source="notation/chord-cm7.svg">
+      <shortdescription>Cm7 2nd inversion chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-cm7b5-1st" source="notation/chord-cm7b5.svg">
-      <shortdescription>Cm7b5 1st inversion chord on treble staff</shortdescription>
+    <image xml:id="img-notation-p2-cm7b5-2nd" source="notation/chord-cm7b5.svg">
+      <shortdescription>Cm7b5 2nd inversion chord on treble staff</shortdescription>
     </image>
   </sidebyside>
 
