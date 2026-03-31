@@ -91,38 +91,11 @@ var ptx_lunr_docs = [
   "body": " Stradella Bass Keyboard. Vertical lines represent Bellows     "
 },
 {
-  "id": "sec-intervals",
-  "level": "1",
-  "url": "sec-intervals.html",
-  "type": "Section",
-  "number": "3.1",
-  "title": "Intervals",
-  "body": " Intervals   Before discussing scales it is useful to understand how the distance between notes is described. The musical distance between notes on your instrument keyboard or on a musical staff is known as an interval . This interval is dependant on the number of semitones between notes and the Interval is described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;  The interval between two notes can be obtained by counting between notes on the keyboard or staff but, when counting, the first note, should be counted as one and not zero. Using this type of count the actual number of semitones is 1 less than the count. Considering the C Major scale in Figure 3.1.1 the interval C to D is a Major second because there are 2 semitones between C and D. The Count is 3. That is, C to C :1 semitone. C to D:1 semitone. Count C is 1, C is 2 and D is 3. Similarly E to F is a Minor Second. One semitone between E and F and a count of 2. Count 1 at E and 2 at F.   "
-},
-{
-  "id": "sec-intervals-2-1",
-  "level": "2",
-  "url": "sec-intervals.html#sec-intervals-2-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "interval interval Interval "
-},
-{
-  "id": "sec-intervals-2-2",
-  "level": "2",
-  "url": "sec-intervals.html#sec-intervals-2-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "interval interval Count Count "
-},
-{
   "id": "sec-intervals-c-major-scale",
   "level": "1",
   "url": "sec-intervals-c-major-scale.html",
   "type": "Section",
-  "number": "4.1",
+  "number": "3.1",
   "title": "C Major Scale Shape",
   "body": " C Major Scale Shape  In C major, the interval pattern remains the same ascending and descending.  All major scales have the same pattern of intervals, so any major scale can be built by using this same pattern.  The C major scale notes are C, D, E, F, G, A, B, and C.   C major scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C major scale).      "
 },
@@ -131,7 +104,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-intervals-c-major-scale.html#fig-c-major-scale-notation",
   "type": "Figure",
-  "number": "4.1.1",
+  "number": "3.1.1",
   "title": "",
   "body": " C major scale notation on a musical staff (ascending and descending).     "
 },
@@ -140,7 +113,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-intervals-c-major-scale.html#fig-intervals-c-major-scale-table",
   "type": "Figure",
-  "number": "4.1.2",
+  "number": "3.1.2",
   "title": "",
   "body": " Examples of intervals with notation and semitone counts (C major scale).     "
 },
@@ -149,7 +122,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-intervals-c-natural-minor.html",
   "type": "Section",
-  "number": "4.2",
+  "number": "3.2",
   "title": "C Natural Minor Scale",
   "body": " C Natural Minor Scale  In C natural minor, the interval pattern differs from the major scale in that the third, sixth, and seventh scale degrees are lowered.  All natural minor scales follow the same interval pattern, so any natural minor scale can be built by using this pattern of major and minor seconds.  The C natural minor scale notes are C, D, E , F, G, A , B , and C.  A natural minor scale is the relative minor of a major scale. The A minor natural scale uses these same notes, the sixth note of the major scale becoming the root note of the relative minor. ie.) the notes of the A Minor Natural Scale are A, B, C, D, E, F, G and A.  C minor natural is the relative minor of E major.   C natural minor scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C natural minor scale ascending).      "
 },
@@ -158,7 +131,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-intervals-c-natural-minor.html#fig-c-natural-minor-scale-notation",
   "type": "Figure",
-  "number": "4.2.1",
+  "number": "3.2.1",
   "title": "",
   "body": " C natural minor scale notation on a musical staff (ascending and descending).     "
 },
@@ -167,7 +140,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-intervals-c-natural-minor.html#fig-intervals-c-natural-minor-ascending-table",
   "type": "Figure",
-  "number": "4.2.2",
+  "number": "3.2.2",
   "title": "",
   "body": " Examples of intervals with notation and semitone counts (C natural minor scale ascending).     "
 },
@@ -176,7 +149,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-intervals-c-harmonic-minor-scale.html",
   "type": "Section",
-  "number": "4.3",
+  "number": "3.3",
   "title": "C Harmonic Minor Scale",
   "body": " C Harmonic Minor Scale  In C harmonic minor, the interval pattern remains the same ascending and descending.  All harmonic minor scales have the same pattern of intervals, so any harmonic minor scale can be built by using this same pattern.  The C harmonic minor scale notes are C, D, E , F, G, A , B, and C. In this scale, the interval from A to B is an augmented second, spanning three semitones while still being spelled as a second.   C harmonic minor scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C harmonic minor scale).      "
 },
@@ -185,7 +158,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-intervals-c-harmonic-minor-scale.html#fig-c-harmonic-minor-scale-notation",
   "type": "Figure",
-  "number": "4.3.1",
+  "number": "3.3.1",
   "title": "",
   "body": " C harmonic minor scale notation on a musical staff (ascending and descending).     "
 },
@@ -194,7 +167,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-intervals-c-harmonic-minor-scale.html#fig-intervals-c-harmonic-minor-scale-table",
   "type": "Figure",
-  "number": "4.3.2",
+  "number": "3.3.2",
   "title": "",
   "body": " Examples of intervals with notation and semitone counts (C harmonic minor scale).     "
 },
@@ -203,7 +176,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-intervals-c-melodic-minor-ascending.html",
   "type": "Section",
-  "number": "4.4",
+  "number": "3.4",
   "title": "C Melodic Minor Scale (Ascending)",
   "body": " C Melodic Minor Scale (Ascending)  In C melodic minor ascending, the sixth and seventh scale degrees are raised to A and B.  All melodic minor scales use this same ascending interval pattern, so any melodic minor scale can be written ascending by applying this pattern from tonic to tonic.  The C melodic minor ascending scale notes are C, D, E , F, G, A, B, and C.   C melodic minor scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C melodic minor scale ascending).      "
 },
@@ -212,7 +185,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-intervals-c-melodic-minor-ascending.html#fig-c-melodic-minor-scale-notation",
   "type": "Figure",
-  "number": "4.4.1",
+  "number": "3.4.1",
   "title": "",
   "body": " C melodic minor scale notation on a musical staff (ascending and descending).     "
 },
@@ -221,7 +194,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-intervals-c-melodic-minor-ascending.html#fig-intervals-c-melodic-minor-ascending-table",
   "type": "Figure",
-  "number": "4.4.2",
+  "number": "3.4.2",
   "title": "",
   "body": " Examples of intervals with notation and semitone counts (C melodic minor scale ascending).     "
 },
@@ -230,7 +203,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-intervals-c-melodic-minor-descending.html",
   "type": "Section",
-  "number": "4.5",
+  "number": "3.5",
   "title": "C Melodic Minor Scale (Descending)",
   "body": " C Melodic Minor Scale (Descending)  In C melodic minor descending, the sixth and seventh scale degrees are lowered to A and B , following the C natural minor form.  All melodic minor scales use this same descending interval pattern, so any melodic minor scale can be written descending by applying this pattern from tonic to tonic.  The C melodic minor descending scale notes are C, B , A , G, F, E , D, and C.   C melodic minor scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C melodic minor scale descending).      "
 },
@@ -239,7 +212,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-intervals-c-melodic-minor-descending.html#fig-c-melodic-minor-descending-scale-notation",
   "type": "Figure",
-  "number": "4.5.1",
+  "number": "3.5.1",
   "title": "",
   "body": " C melodic minor scale notation on a musical staff (ascending and descending).     "
 },
@@ -248,9 +221,36 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-intervals-c-melodic-minor-descending.html#fig-intervals-c-melodic-minor-descending-table",
   "type": "Figure",
-  "number": "4.5.2",
+  "number": "3.5.2",
   "title": "",
   "body": " Examples of intervals with notation and semitone counts (C melodic minor scale descending).     "
+},
+{
+  "id": "sec-intervals",
+  "level": "1",
+  "url": "sec-intervals.html",
+  "type": "Section",
+  "number": "4.1",
+  "title": "Intervals on the Keyboard",
+  "body": " Intervals on the Keyboard   The following grid diagrams shows examples of interval pairs on the chromatic button accordion keyboard. Each grid highlights two notes; the interval is identified by the number of semitones between them.                           Minor 2nd  Minor 2nd  Major 2nd  Minor 3rd      Lowest minor 2nd pair: C–D flat    Lowest minor 2nd pair: F–G flat    Lowest major 2nd pair: C–D    Lowest minor 3rd pair: C–E flat                            Major 3rd  Perfect 5th  Flat 5  4th      Lowest major 3rd pair: C–E    Lowest perfect 5th pair: C–G    Lowest flat 5 pair: C–Gb    Lowest perfect 4th pair: C–F    "
+},
+{
+  "id": "fig-interval-grids-row1",
+  "level": "2",
+  "url": "sec-intervals.html#fig-interval-grids-row1",
+  "type": "Figure",
+  "number": "4.1.1",
+  "title": "",
+  "body": "                    "
+},
+{
+  "id": "fig-interval-grids-row2",
+  "level": "2",
+  "url": "sec-intervals.html#fig-interval-grids-row2",
+  "type": "Figure",
+  "number": "4.1.2",
+  "title": "",
+  "body": "                    "
 },
 {
   "id": "sec-C-major-scale-shape",
@@ -307,22 +307,85 @@ var ptx_lunr_docs = [
   "body": " Bass-hand scale template (left) and treble-hand scale template (right).     "
 },
 {
-  "id": "sec-Cmaj-build",
+  "id": "sec-major-minor-triads",
   "level": "1",
-  "url": "sec-Cmaj-build.html",
+  "url": "sec-major-minor-triads.html",
   "type": "Section",
   "number": "6.1",
-  "title": "C Major Chords",
-  "body": " C Major Chords  All the notes of a C Major Chord (C,E and G shown on a grid allowing visualisation of Root, 1st and 2nd inversion triads).   C Major Chords      "
+  "title": "Major and Minor Triads",
+  "body": " Major and Minor Triads   These triad shapes are moveable: the shape stays the same regardless of which button you start on, taking the name of the root note. The first row shows the four root-position triad types; the second row shows their common inversions.                            C major triad notation    C minor triad notation    C augmented triad notation    C diminished triad notation                             C major 1st inversion notation    C minor 1st inversion notation    C major 2nd inversion notation    C minor 2nd inversion notation    "
 },
 {
-  "id": "fig-Cmaj-build",
+  "id": "fig-triad-grids-row1",
   "level": "2",
-  "url": "sec-Cmaj-build.html#fig-Cmaj-build",
+  "url": "sec-major-minor-triads.html#fig-triad-grids-row1",
   "type": "Figure",
   "number": "6.1.1",
   "title": "",
-  "body": " C Major Chords     "
+  "body": "                    "
+},
+{
+  "id": "fig-triad-grids-row2",
+  "level": "2",
+  "url": "sec-major-minor-triads.html#fig-triad-grids-row2",
+  "type": "Figure",
+  "number": "6.1.2",
+  "title": "",
+  "body": "                    "
+},
+{
+  "id": "sec-seventh-chords",
+  "level": "1",
+  "url": "sec-seventh-chords.html",
+  "type": "Section",
+  "number": "6.2",
+  "title": "Seventh Chords",
+  "body": " Seventh Chords   The Chord Shapes shown can be moved to different positions on the keyboard and take the name of the Root Chord. Thus, if you know the shape of one chord type, you know the shape of all chords of that type in that shape or inversion.     7th Chords Root Position                        Cmaj7 chord on treble staff    C7 chord on treble staff    Cm7 chord on treble staff    Cm7b5 chord on treble staff      7th Chords 1st Inversion                        Cmaj7 1st inversion chord on treble staff    C7 1st inversion chord on treble staff    Cm7 1st inversion chord on treble staff    Cm7b5 1st inversion chord on treble staff    "
+},
+{
+  "id": "fig-chord-grids-row1",
+  "level": "2",
+  "url": "sec-seventh-chords.html#fig-chord-grids-row1",
+  "type": "Figure",
+  "number": "6.2.1",
+  "title": "",
+  "body": " 7th Chords Root Position                    "
+},
+{
+  "id": "fig-chord-grids-row2",
+  "level": "2",
+  "url": "sec-seventh-chords.html#fig-chord-grids-row2",
+  "type": "Figure",
+  "number": "6.2.2",
+  "title": "",
+  "body": " 7th Chords 1st Inversion                    "
+},
+{
+  "id": "sec-seventh-chords-page2",
+  "level": "1",
+  "url": "sec-seventh-chords-page2.html",
+  "type": "Section",
+  "number": "6.3",
+  "title": "Seventh Chords (2nd Inversion)",
+  "body": " Seventh Chords (2nd Inversion)   The Chord Shapes shown can be moved to different positions on the keyboard and take the name of the Root Chord. Thus, if you know the shape of one chord type, you know the shape of all chords of that type in that shape or inversion.     7th Chords Root Position                        Cmaj7 chord on treble staff    C7 chord on treble staff    Cm7 chord on treble staff    Cm7b5 chord on treble staff      7th Chords 2nd Inversion                        Cmaj7 2nd inversion chord on treble staff    C7 2nd inversion chord on treble staff    Cm7 2nd inversion chord on treble staff    Cm7b5 2nd inversion chord on treble staff    "
+},
+{
+  "id": "fig-chord-grids-p2-row1",
+  "level": "2",
+  "url": "sec-seventh-chords-page2.html#fig-chord-grids-p2-row1",
+  "type": "Figure",
+  "number": "6.3.1",
+  "title": "",
+  "body": " 7th Chords Root Position                    "
+},
+{
+  "id": "fig-chord-grids-p2-row2",
+  "level": "2",
+  "url": "sec-seventh-chords-page2.html#fig-chord-grids-p2-row2",
+  "type": "Figure",
+  "number": "6.3.2",
+  "title": "",
+  "body": " 7th Chords 2nd Inversion                    "
 },
 {
   "id": "backmatter-2",
