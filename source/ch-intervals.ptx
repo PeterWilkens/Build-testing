@@ -65,16 +65,16 @@
 % All min-2nd pairs: angle 150° from x-axis
 % Pair 1: C (col5,row1.5) – C#/Db (col4,row2)
 \pgfmathsetmacro{\lcx}{4.5*\hlen}\pgfmathsetmacro{\lcy}{1.75*\vlen}
-\draw[black!35, thick, rotate around={150:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
+\draw[black!40, semithick, rotate around={150:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
 % Pair 2: Gb/F# (col2,row4) – G (col1,row4.5)
 \pgfmathsetmacro{\lcx}{1.5*\hlen}\pgfmathsetmacro{\lcy}{4.25*\vlen}
-\draw[black!35, thick, rotate around={150:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
+\draw[black!40, semithick, rotate around={150:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
 % Pair 3: Bb/A# (col4,row5) – B (col3,row5.5)
 \pgfmathsetmacro{\lcx}{3.5*\hlen}\pgfmathsetmacro{\lcy}{5.25*\vlen}
-\draw[black!35, thick, rotate around={150:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
+\draw[black!40, semithick, rotate around={150:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
 % Pair 4: E (col4,row7) – F (col3,row7.5)
 \pgfmathsetmacro{\lcx}{3.5*\hlen}\pgfmathsetmacro{\lcy}{7.25*\vlen}
-\draw[black!35, thick, rotate around={150:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
+\draw[black!40, semithick, rotate around={150:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
 \end{tikzpicture}
         </latex-image>
       </image>
@@ -126,13 +126,13 @@
 % Loop ellipses at angle 0° (horizontal min-2nd direction)
 % Pair 1: F(col3,row3.5) – Gb(col5,row3.5)
 \pgfmathsetmacro{\lcx}{4*\hlen}\pgfmathsetmacro{\lcy}{3.5*\vlen}
-\draw[black!35, thick, rotate around={0:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
+\draw[black!40, semithick, rotate around={0:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
 % Pair 2: B(col3,row5.5) – C(col5,row5.5)
 \pgfmathsetmacro{\lcx}{4*\hlen}\pgfmathsetmacro{\lcy}{5.5*\vlen}
-\draw[black!35, thick, rotate around={0:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
+\draw[black!40, semithick, rotate around={0:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
 % Pair 3: E(col1,row7.5) – F(col3,row7.5)
 \pgfmathsetmacro{\lcx}{2*\hlen}\pgfmathsetmacro{\lcy}{7.5*\vlen}
-\draw[black!35, thick, rotate around={0:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
+\draw[black!40, semithick, rotate around={0:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
 \end{tikzpicture}
         </latex-image>
       </image>
@@ -185,17 +185,17 @@
 % Pairs at 150° (col-2,row+1 direction)
 % Pair 1: C(col5,row1.5) – D(col3,row2.5)
 \pgfmathsetmacro{\lcx}{4*\hlen}\pgfmathsetmacro{\lcy}{2*\vlen}
-\draw[black!35, thick, rotate around={150:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.35cm and 0.65cm);
+\draw[black!40, semithick, rotate around={150:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.35cm and 0.65cm);
 % Pair 4: D(col3,row6.5) – E(col1,row7.5)
 \pgfmathsetmacro{\lcx}{2*\hlen}\pgfmathsetmacro{\lcy}{7*\vlen}
-\draw[black!35, thick, rotate around={150:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.35cm and 0.65cm);
+\draw[black!40, semithick, rotate around={150:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.35cm and 0.65cm);
 % Pairs at 30° (col+1,row+0.5 direction)
 % Pair 2: G(col4,row4) – A(col5,row4.5)
 \pgfmathsetmacro{\lcx}{4.5*\hlen}\pgfmathsetmacro{\lcy}{4.25*\vlen}
-\draw[black!35, thick, rotate around={30:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
+\draw[black!40, semithick, rotate around={30:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
 % Pair 3: G(col1,row4.5) – A(col2,row5)
 \pgfmathsetmacro{\lcx}{1.5*\hlen}\pgfmathsetmacro{\lcy}{4.75*\vlen}
-\draw[black!35, thick, rotate around={30:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
+\draw[black!40, semithick, rotate around={30:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
 \end{tikzpicture}
         </latex-image>
       </image>
@@ -247,13 +247,13 @@
 % Loop ellipses at angle 90° (same-column min-3rd direction)
 % Pair 1: C(col5,row1.5) – Eb(col5,row2.5)
 \pgfmathsetmacro{\lcx}{5*\hlen}\pgfmathsetmacro{\lcy}{2*\vlen}
-\draw[black!35, thick, rotate around={90:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
+\draw[black!40, semithick, rotate around={90:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
 % Pair 2: F(col3,row3.5) – Ab(col3,row4.5)
 \pgfmathsetmacro{\lcx}{3*\hlen}\pgfmathsetmacro{\lcy}{4*\vlen}
-\draw[black!35, thick, rotate around={90:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
+\draw[black!40, semithick, rotate around={90:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
 % Pair 3: E(col1,row7.5) – G(col1,row8.5)
 \pgfmathsetmacro{\lcx}{1*\hlen}\pgfmathsetmacro{\lcy}{8*\vlen}
-\draw[black!35, thick, rotate around={90:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
+\draw[black!40, semithick, rotate around={90:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.15cm and 0.65cm);
 \end{tikzpicture}
         </latex-image>
       </image>
@@ -337,10 +337,10 @@
 % Loop ellipses for maj-3rd pairs
 % Pair 1: C(col5,row1.5) – E(col4,row3), angle 120°
 \pgfmathsetmacro{\lcx}{4.5*\hlen}\pgfmathsetmacro{\lcy}{2.25*\vlen}
-\draw[black!35, thick, rotate around={120:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.25cm and 0.65cm);
+\draw[black!40, semithick, rotate around={120:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.25cm and 0.65cm);
 % Pair 2: G(col1,row4.5) – B(col3,row5.5), angle 30°
 \pgfmathsetmacro{\lcx}{2*\hlen}\pgfmathsetmacro{\lcy}{5*\vlen}
-\draw[black!35, thick, rotate around={30:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.35cm and 0.65cm);
+\draw[black!40, semithick, rotate around={30:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.35cm and 0.65cm);
 \end{tikzpicture}
         </latex-image>
       </image>
@@ -392,13 +392,13 @@
 % P5 ellipses (angle 109, col-1 row+2.5)
 % Pair 1: C(col5,row1.5) -- G(col4,row4)
 \pgfmathsetmacro{\lcx}{4.5*\hlen}\pgfmathsetmacro{\lcy}{2.75*\vlen}
-\draw[black!35, thick, rotate around={109:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.6cm and 0.65cm);
+\draw[black!40, semithick, rotate around={109:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.6cm and 0.65cm);
 % Pair 2: Eb(col2,row3) -- Bb(col1,row5.5)
 \pgfmathsetmacro{\lcx}{1.5*\hlen}\pgfmathsetmacro{\lcy}{4.25*\vlen}
-\draw[black!35, thick, rotate around={109:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.6cm and 0.65cm);
+\draw[black!40, semithick, rotate around={109:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.6cm and 0.65cm);
 % Pair 3: B(col3,row5.5) -- Gb(col2,row8)
 \pgfmathsetmacro{\lcx}{2.5*\hlen}\pgfmathsetmacro{\lcy}{6.75*\vlen}
-\draw[black!35, thick, rotate around={109:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.6cm and 0.65cm);
+\draw[black!40, semithick, rotate around={109:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.6cm and 0.65cm);
 \end{tikzpicture}
         </latex-image>
       </image>
@@ -450,13 +450,13 @@
 % Flat-5 ellipses (angle 90, col0 row+2)
 % Pair 1: C(col5,row1.5) -- Gb(col5,row3.5)
 \pgfmathsetmacro{\lcx}{5*\hlen}\pgfmathsetmacro{\lcy}{2.5*\vlen}
-\draw[black!35, thick, rotate around={90:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.2cm and 0.65cm);
+\draw[black!40, semithick, rotate around={90:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.2cm and 0.65cm);
 % Pair 2: Eb(col2,row3) -- A(col2,row5)
 \pgfmathsetmacro{\lcx}{2*\hlen}\pgfmathsetmacro{\lcy}{4*\vlen}
-\draw[black!35, thick, rotate around={90:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.2cm and 0.65cm);
+\draw[black!40, semithick, rotate around={90:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.2cm and 0.65cm);
 % Pair 3: B(col3,row5.5) -- F(col3,row7.5)
 \pgfmathsetmacro{\lcx}{3*\hlen}\pgfmathsetmacro{\lcy}{6.5*\vlen}
-\draw[black!35, thick, rotate around={90:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.2cm and 0.65cm);
+\draw[black!40, semithick, rotate around={90:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.2cm and 0.65cm);
 \end{tikzpicture}
         </latex-image>
       </image>
@@ -508,10 +508,10 @@
 % P4 ellipses (angle 131, col-2 row+2)
 % Pair 1: C(col5,row1.5) -- F(col3,row3.5)
 \pgfmathsetmacro{\lcx}{4*\hlen}\pgfmathsetmacro{\lcy}{2.5*\vlen}
-\draw[black!35, thick, rotate around={131:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.6cm and 0.65cm);
+\draw[black!40, semithick, rotate around={131:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.6cm and 0.65cm);
 % Pair 2: A(col5,row4.5) -- D(col3,row6.5)
 \pgfmathsetmacro{\lcx}{4*\hlen}\pgfmathsetmacro{\lcy}{5.5*\vlen}
-\draw[black!35, thick, rotate around={131:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.6cm and 0.65cm);
+\draw[black!40, semithick, rotate around={131:(\lcx,\lcy)}] (\lcx,\lcy) ellipse (1.6cm and 0.65cm);
 \end{tikzpicture}
         </latex-image>
       </image>

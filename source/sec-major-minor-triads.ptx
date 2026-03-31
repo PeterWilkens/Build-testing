@@ -54,6 +54,7 @@
 \gn{3}{7.5}{F}{0}
 \gn{2}{8}{G$\flat$, F$\sharp$}{0}
 \gn{1}{8.5}{G}{0}
+\draw[black!40, semithick, rounded corners=6pt] ({4*\hlen- 0.60},{1.5*\vlen- 0.60}) rectangle ({5*\hlen+ 0.60},{4*\vlen+ 0.60});
 \end{tikzpicture}
         </latex-image>
       </image>
@@ -102,6 +103,7 @@
 \gn{3}{7.5}{F}{0}
 \gn{2}{8}{G$\flat$, F$\sharp$}{0}
 \gn{1}{8.5}{G}{0}
+\draw[black!40, semithick, rounded corners=6pt] ({4*\hlen- 0.60},{1.5*\vlen- 0.60}) rectangle ({5*\hlen+ 0.60},{4*\vlen+ 0.60});
 \end{tikzpicture}
         </latex-image>
       </image>
@@ -150,6 +152,7 @@
 \gn{3}{7.5}{F}{0}
 \gn{2}{8}{G$\flat$, F$\sharp$}{0}
 \gn{1}{8.5}{G}{0}
+\draw[black!40, semithick, rounded corners=6pt] ({3*\hlen- 0.60},{1.5*\vlen- 0.60}) rectangle ({5*\hlen+ 0.60},{4.5*\vlen+ 0.60});
 \end{tikzpicture}
         </latex-image>
       </image>
@@ -198,6 +201,7 @@
 \gn{3}{7.5}{F}{0}
 \gn{2}{8}{G$\flat$, F$\sharp$}{0}
 \gn{1}{8.5}{G}{0}
+\draw[black!40, semithick, rounded corners=6pt] ({5*\hlen- 0.60},{1.5*\vlen- 0.60}) rectangle ({5*\hlen+ 0.60},{3.5*\vlen+ 0.60});
 \end{tikzpicture}
         </latex-image>
       </image>
@@ -270,6 +274,7 @@
 \gn{3}{7.5}{F}{0}
 \gn{2}{8}{G$\flat$, F$\sharp$}{0}
 \gn{1}{8.5}{G}{0}
+\draw[black!40, semithick, rounded corners=6pt] ({4*\hlen- 0.60},{3*\vlen- 0.60}) rectangle ({5*\hlen+ 0.60},{5.5*\vlen+ 0.60});
 \end{tikzpicture}
         </latex-image>
       </image>
@@ -318,6 +323,7 @@
 \gn{3}{7.5}{F}{0}
 \gn{2}{8}{G$\flat$, F$\sharp$}{0}
 \gn{1}{8.5}{G}{0}
+\draw[black!40, semithick, rounded corners=6pt] ({4*\hlen- 0.60},{2.5*\vlen- 0.60}) rectangle ({5*\hlen+ 0.60},{5.5*\vlen+ 0.60});
 \end{tikzpicture}
         </latex-image>
       </image>
@@ -366,6 +372,7 @@
 \gn{3}{7.5}{F}{0}
 \gn{2}{8}{G$\flat$, F$\sharp$}{0}
 \gn{1}{8.5}{G}{0}
+\draw[black!40, semithick, rounded corners=6pt] ({2*\hlen- 0.60},{4*\vlen- 0.60}) rectangle ({4*\hlen+ 0.60},{7*\vlen+ 0.60});
 \end{tikzpicture}
         </latex-image>
       </image>
@@ -414,6 +421,7 @@
 \gn{3}{7.5}{F}{0}
 \gn{2}{8}{G$\flat$, F$\sharp$}{0}
 \gn{1}{8.5}{G}{0}
+\draw[black!40, semithick, rounded corners=6pt] ({2*\hlen- 0.60},{4*\vlen- 0.60}) rectangle ({5*\hlen+ 0.60},{6.5*\vlen+ 0.60});
 \end{tikzpicture}
         </latex-image>
       </image>
