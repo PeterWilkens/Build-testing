@@ -307,11 +307,425 @@ var ptx_lunr_docs = [
   "body": " Bass-hand scale template (left) and treble-hand scale template (right).     "
 },
 {
+  "id": "sec-chords-from-intervals",
+  "level": "1",
+  "url": "sec-chords-from-intervals.html",
+  "type": "Section",
+  "number": "6.1",
+  "title": "Building Chords from Intervals",
+  "body": " Building Chords from Intervals   Chords are built by stacking intervals above a root note . The root is the note that names the chord — for example, the root of a C major chord is C. The other notes of the chord are determined by the specific intervals measured from the root.    Stacking Thirds  The most common way to construct a chord is by stacking intervals of a third above the root. There are two types of third:    A major third spans 4 semitones (e.g. C up to E).    A minor third spans 3 semitones (e.g. C up to E ).    By choosing which type of third to place at each position in the stack, we produce chords with different qualities. A basic three-note chord built by stacking two thirds is called a triad .    The Triad Formula  Every triad consists of three notes:   The root — the note the chord is named after.  The third — a third above the root (major or minor).  The fifth — a third above the third (which lands a fifth above the root).   The interval from the root to the fifth may be a perfect fifth (7 semitones), an augmented fifth (8 semitones), or a diminished fifth (6 semitones), depending on the combination of thirds used.   "
+},
+{
+  "id": "sec-chords-from-intervals-2-1",
+  "level": "2",
+  "url": "sec-chords-from-intervals.html#sec-chords-from-intervals-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "root note "
+},
+{
+  "id": "subsec-thirds-2",
+  "level": "2",
+  "url": "sec-chords-from-intervals.html#subsec-thirds-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "third "
+},
+{
+  "id": "subsec-thirds-3-1-1",
+  "level": "2",
+  "url": "sec-chords-from-intervals.html#subsec-thirds-3-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "major third "
+},
+{
+  "id": "subsec-thirds-3-2-1",
+  "level": "2",
+  "url": "sec-chords-from-intervals.html#subsec-thirds-3-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "minor third "
+},
+{
+  "id": "subsec-thirds-4",
+  "level": "2",
+  "url": "sec-chords-from-intervals.html#subsec-thirds-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "triad "
+},
+{
+  "id": "subsec-triad-formula-3-1-1",
+  "level": "2",
+  "url": "sec-chords-from-intervals.html#subsec-triad-formula-3-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "root "
+},
+{
+  "id": "subsec-triad-formula-3-2-1",
+  "level": "2",
+  "url": "sec-chords-from-intervals.html#subsec-triad-formula-3-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "third "
+},
+{
+  "id": "subsec-triad-formula-3-3-1",
+  "level": "2",
+  "url": "sec-chords-from-intervals.html#subsec-triad-formula-3-3-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "fifth "
+},
+{
+  "id": "subsec-triad-formula-4",
+  "level": "2",
+  "url": "sec-chords-from-intervals.html#subsec-triad-formula-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "perfect fifth augmented fifth diminished fifth "
+},
+{
+  "id": "sec-triad-types",
+  "level": "1",
+  "url": "sec-triad-types.html",
+  "type": "Section",
+  "number": "6.2",
+  "title": "Types of Triad",
+  "body": " Types of Triad  The four main triad types differ in the intervals between their notes. Using C as the root, the notes and interval structure for each type are as follows.   Major Triad  A major triad is built from a major third followed by a minor third :   Root to third: major third (4 semitones) — e.g. C to E  Third to fifth: minor third (3 semitones) — e.g. E to G  Root to fifth: perfect fifth (7 semitones) — e.g. C to G   The major triad has a bright, stable sound. The C major triad consists of the notes C, E, and G.    Minor Triad  A minor triad is built from a minor third followed by a major third :   Root to third: minor third (3 semitones) — e.g. C to E  Third to fifth: major third (4 semitones) — e.g. E to G  Root to fifth: perfect fifth (7 semitones) — e.g. C to G   The minor triad has a darker, more melancholic sound. The C minor triad consists of the notes C, E , and G.    Augmented Triad  An augmented triad is built from two consecutive major thirds :   Root to third: major third (4 semitones) — e.g. C to E  Third to fifth: major third (4 semitones) — e.g. E to G  Root to fifth: augmented fifth (8 semitones) — e.g. C to G   The raised fifth gives the augmented triad a tense, unresolved quality. The C augmented triad consists of the notes C, E, and G .    Diminished Triad  A diminished triad is built from two consecutive minor thirds :   Root to third: minor third (3 semitones) — e.g. C to E  Third to fifth: minor third (3 semitones) — e.g. E to G  Root to fifth: diminished fifth (6 semitones) — e.g. C to G   The diminished fifth (also called a tritone) gives the diminished triad a dissonant, unstable sound that strongly seeks resolution. The C diminished triad consists of the notes C, E , and G .    The table below summarises the four triad types using C as the root. The number in brackets in this case is the \"Interval Count\" See the 2nd paragraph in Chapter 3 Scales and Intervals for an explanation of Interval Count which is always 1 more than the number of semitones:   Summary of Triad Types (Root: C)         Triad Type  Root–3rd  3rd–5th  Root–5th  Notes (C root)    Major  Major 3rd (5)  Minor 3rd (4)  Perfect 5th (8)  C – E – G    Minor  Minor 3rd (4)  Major 3rd (5)  Perfect 5th (8)  C – E – G    Augmented  Major 3rd (5)  Major 3rd (5)  Aug. 5th (9)  C – E – G    Diminished  Minor 3rd (4)  Minor 3rd (4)  Dim. 5th (7)  C – E – G      "
+},
+{
+  "id": "subsec-major-triad-2",
+  "level": "2",
+  "url": "sec-triad-types.html#subsec-major-triad-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "major triad "
+},
+{
+  "id": "subsec-minor-triad-2",
+  "level": "2",
+  "url": "sec-triad-types.html#subsec-minor-triad-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "minor triad "
+},
+{
+  "id": "subsec-augmented-triad-2",
+  "level": "2",
+  "url": "sec-triad-types.html#subsec-augmented-triad-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "augmented triad "
+},
+{
+  "id": "subsec-diminished-triad-2",
+  "level": "2",
+  "url": "sec-triad-types.html#subsec-diminished-triad-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "diminished triad "
+},
+{
+  "id": "table-triad-summary",
+  "level": "2",
+  "url": "sec-triad-types.html#table-triad-summary",
+  "type": "Table",
+  "number": "6.2.1",
+  "title": "Summary of Triad Types (Root: C)",
+  "body": " Summary of Triad Types (Root: C)         Triad Type  Root–3rd  3rd–5th  Root–5th  Notes (C root)    Major  Major 3rd (5)  Minor 3rd (4)  Perfect 5th (8)  C – E – G    Minor  Minor 3rd (4)  Major 3rd (5)  Perfect 5th (8)  C – E – G    Augmented  Major 3rd (5)  Major 3rd (5)  Aug. 5th (9)  C – E – G    Diminished  Minor 3rd (4)  Minor 3rd (4)  Dim. 5th (7)  C – E – G    "
+},
+{
+  "id": "sec-seventh-chord-intro",
+  "level": "1",
+  "url": "sec-seventh-chord-intro.html",
+  "type": "Section",
+  "number": "6.3",
+  "title": "Extending Chords: Seventh Chords",
+  "body": " Extending Chords: Seventh Chords  A chord can be extended by adding a further third above the fifth, producing a seventh chord . The added note is a seventh above the root. The quality of the seventh (major, minor, or diminished) combined with the quality of the underlying triad determines the type of seventh chord.  The most commonly used seventh chords are:     Major seventh (maj7) — major triad + major seventh (11 semitones above root). Example: C maj7 = C, E, G, B.     Dominant seventh (7) — major triad + minor seventh (10 semitones above root). Example: C7 = C, E, G, B .     Minor seventh (m7) — minor triad + minor seventh (10 semitones above root). Example: Cm7 = C, E , G, B .     Half-diminished seventh (m7 5) — diminished triad + minor seventh (10 semitones above root). Example: Cm7 5 = C, E , G , B .     Diminished seventh (dim7) — diminished triad + diminished seventh (9 semitones above root). Example: Cdim7 = C, E , G , B (A).    The physical shapes of these chords on the chromatic button accordion keyboard are explored in detail in the following chapter.  "
+},
+{
+  "id": "sec-seventh-chord-intro-2",
+  "level": "2",
+  "url": "sec-seventh-chord-intro.html#sec-seventh-chord-intro-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "seventh chord "
+},
+{
+  "id": "sec-seventh-chord-intro-4-1-1",
+  "level": "2",
+  "url": "sec-seventh-chord-intro.html#sec-seventh-chord-intro-4-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Major seventh (maj7) "
+},
+{
+  "id": "sec-seventh-chord-intro-4-2-1",
+  "level": "2",
+  "url": "sec-seventh-chord-intro.html#sec-seventh-chord-intro-4-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Dominant seventh (7) "
+},
+{
+  "id": "sec-seventh-chord-intro-4-3-1",
+  "level": "2",
+  "url": "sec-seventh-chord-intro.html#sec-seventh-chord-intro-4-3-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Minor seventh (m7) "
+},
+{
+  "id": "sec-seventh-chord-intro-4-4-1",
+  "level": "2",
+  "url": "sec-seventh-chord-intro.html#sec-seventh-chord-intro-4-4-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Half-diminished seventh (m7 5) "
+},
+{
+  "id": "sec-seventh-chord-intro-4-5-1",
+  "level": "2",
+  "url": "sec-seventh-chord-intro.html#sec-seventh-chord-intro-4-5-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Diminished seventh (dim7) "
+},
+{
+  "id": "sec-extended-sus-chords",
+  "level": "1",
+  "url": "sec-extended-sus-chords.html",
+  "type": "Section",
+  "number": "6.4",
+  "title": "Extended and Suspended Chords",
+  "body": " Extended and Suspended Chords   Beyond seventh chords, chords can be extended still further by continuing to stack thirds above the seventh. Each new note is named for its interval above the root when counted through the full scale: the ninth , eleventh , and thirteenth . In practice these are the same pitches as the second, fourth, and sixth — but placed an octave higher and heard as colour tones layered above the harmonic foundation. All extended chords include the seventh; omitting it collapses the chord back to a triad or simple added-note chord.   Suspended chords (sus chords) work differently: the third is replaced by either the second or the fourth, removing the major\/minor quality and creating an open, unresolved sound.    Ninth Chords  A ninth chord extends a seventh chord by adding the note a major ninth (14 semitones) above the root — the same pitch as the major second, an octave higher. The three most common ninth chords, using C as root, are:     Major ninth (maj9) — major seventh chord + major 9th. Formula: 1 – maj3 – per5 – maj7 – maj9. Notes: C – E – G – B – D.     Dominant ninth (9) — dominant seventh chord + major 9th. Formula: 1 – maj3 – per5 – min7 – maj9. Notes: C – E – G – B – D.     Minor ninth (m9) — minor seventh chord + major 9th. Formula: 1 – min3 – per5 – min7 – maj9. Notes: C – E – G – B – D.    A flat ninth ( 9) uses a minor ninth (13 semitones) instead, most commonly over a dominant chord (C7 9 = C – E – G – B – D ), creating a strongly dissonant, tension-building sound widely used in jazz and flamenco.    Eleventh Chords  An eleventh chord adds the perfect eleventh (17 semitones above the root — the same pitch as the perfect fourth, an octave up) to a ninth chord. In major and dominant contexts the third is typically omitted in practice, because it sits only a semitone below the eleventh and causes a harsh clash. The third is retained in minor eleventh chords because the minor third sits a whole tone below the eleventh.     Major eleventh (maj11) — 1 – (3) – 5 – maj7 – 9 – 11. Notes: C – (E) – G – B – D – F. The third E is commonly omitted.     Dominant eleventh (11) — 1 – (3) – 5 – min7 – 9 – 11. Notes: C – (E) – G – B – D – F. The third E is commonly omitted.     Minor eleventh (m11) — 1 – 3 – 5 – min7 – 9 – 11. Notes: C – E – G – B – D – F.    A sharp eleventh ( 11) raises the eleventh by a semitone (18 semitones from the root = F for C root), associated with the Lydian mode. Example: Cmaj7 11 = C – E – G – B – D – F .    Thirteenth Chords  A thirteenth chord completes the stack of thirds by adding the major thirteenth (21 semitones above the root — the same pitch as the major sixth, an octave up). A full thirteenth chord theoretically contains all seven notes of the major scale; in practice the eleventh (and sometimes the ninth) is omitted to keep the voicing playable and avoid excessive dissonance.     Major thirteenth (maj13) — 1 – 3 – 5 – maj7 – 9 – (11) – 13. Notes: C – E – G – B – D – (F) – A.     Dominant thirteenth (13) — 1 – 3 – 5 – min7 – 9 – (11) – 13. Notes: C – E – G – B – D – (F) – A.     Minor thirteenth (m13) — 1 – 3 – 5 – min7 – 9 – (11) – 13. Notes: C – E – G – B – D – (F) – A.      Suspended Chords  In a suspended chord the third is replaced by either the major second or the perfect fourth. This removes the chord's major or minor quality, producing an open, floating sound that traditionally resolves by moving the suspended note back to the third.     Sus2 (suspended second) — the third is replaced by the major second (2 semitones above root). Notes: C – D – G.     Sus4 (suspended fourth) — the third is replaced by the perfect fourth (5 semitones above root). Notes: C – F – G.     Dominant seventh suspended fourth (7sus4) — sus4 triad with a minor seventh added. Extremely common in pop and jazz as an unresolved dominant colour. Notes: C – F – G – B .     Major seventh suspended fourth (maj7sus4) — sus4 triad with a major seventh added. Notes: C – F – G – B.      The matrix below gives a complete overview of seventh, extended, and suspended chord construction using C as the root. Notes shown in parentheses are present in the full theoretical voicing but are commonly omitted in practice. A dash (—) indicates the note is not part of that chord type. The column 3\/sus shows the third, or the note that replaces it in suspended chords (marked *).   Chord Construction Matrix (Root: C)              Chord Type  Symbol  1  3\/sus  5  7  9  11  13  Notes (C root)    Major 7th  Cmaj7  C  E  G  B  —  —  —  C E G B    Dominant 7th  C7  C  E  G  B  —  —  —  C E G B    Minor 7th  Cm7  C  E  G  B  —  —  —  C E G B    Half-diminished  Cm7 5  C  E  G  B  —  —  —  C E G B    Diminished 7th  Cdim7  C  E  G  A  —  —  —  C E G A    Major 9th  Cmaj9  C  E  G  B  D  —  —  C E G B D    Dominant 9th  C9  C  E  G  B  D  —  —  C E G B D    Minor 9th  Cm9  C  E  G  B  D  —  —  C E G B D    Dom. flat 9th  C7 9  C  E  G  B  D  —  —  C E G B D    Major 11th  Cmaj11  C  (E)  G  B  D  F  —  C (E) G B D F    Dominant 11th  C11  C  (E)  G  B  D  F  —  C (E) G B D F    Minor 11th  Cm11  C  E  G  B  D  F  —  C E G B D F    Dom. sharp 11th  C7 11  C  E  G  B  D  F  —  C E G B D F    Major 13th  Cmaj13  C  E  G  B  D  (F)  A  C E G B D (F) A    Dominant 13th  C13  C  E  G  B  D  (F)  A  C E G B D (F) A    Minor 13th  Cm13  C  E  G  B  D  (F)  A  C E G B D (F) A    Suspended 2nd  Csus2  C  D*  G  —  —  —  —  C D G    Suspended 4th  Csus4  C  F*  G  —  —  —  —  C F G    Dom. 7th sus4  C7sus4  C  F*  G  B  —  —  —  C F G B    Maj. 7th sus4  Cmaj7sus4  C  F*  G  B  —  —  —  C F G B     Parentheses ( ) indicate a note that is theoretically present but commonly omitted in practice. An asterisk * in the 3\/sus column indicates a suspended note replacing the third: D (2nd degree) for sus2, F (4th degree) for sus4.   "
+},
+{
+  "id": "sec-extended-sus-chords-2-1",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#sec-extended-sus-chords-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "ninth eleventh thirteenth "
+},
+{
+  "id": "sec-extended-sus-chords-2-2",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#sec-extended-sus-chords-2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Suspended chords "
+},
+{
+  "id": "subsec-ninth-chords-2",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-ninth-chords-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "ninth chord "
+},
+{
+  "id": "subsec-ninth-chords-3-1-1",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-ninth-chords-3-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Major ninth (maj9) "
+},
+{
+  "id": "subsec-ninth-chords-3-2-1",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-ninth-chords-3-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Dominant ninth (9) "
+},
+{
+  "id": "subsec-ninth-chords-3-3-1",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-ninth-chords-3-3-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Minor ninth (m9) "
+},
+{
+  "id": "subsec-ninth-chords-4",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-ninth-chords-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "flat ninth ( 9) "
+},
+{
+  "id": "subsec-eleventh-chords-2",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-eleventh-chords-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "eleventh chord "
+},
+{
+  "id": "subsec-eleventh-chords-3-1-1",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-eleventh-chords-3-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Major eleventh (maj11) "
+},
+{
+  "id": "subsec-eleventh-chords-3-2-1",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-eleventh-chords-3-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Dominant eleventh (11) "
+},
+{
+  "id": "subsec-eleventh-chords-3-3-1",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-eleventh-chords-3-3-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Minor eleventh (m11) "
+},
+{
+  "id": "subsec-eleventh-chords-4",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-eleventh-chords-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "sharp eleventh ( 11) "
+},
+{
+  "id": "subsec-thirteenth-chords-2",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-thirteenth-chords-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "thirteenth chord "
+},
+{
+  "id": "subsec-thirteenth-chords-3-1-1",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-thirteenth-chords-3-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Major thirteenth (maj13) "
+},
+{
+  "id": "subsec-thirteenth-chords-3-2-1",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-thirteenth-chords-3-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Dominant thirteenth (13) "
+},
+{
+  "id": "subsec-thirteenth-chords-3-3-1",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-thirteenth-chords-3-3-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Minor thirteenth (m13) "
+},
+{
+  "id": "subsec-sus-chords-2",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-sus-chords-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "suspended chord "
+},
+{
+  "id": "subsec-sus-chords-3-1-1",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-sus-chords-3-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Sus2 (suspended second) "
+},
+{
+  "id": "subsec-sus-chords-3-2-1",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-sus-chords-3-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Sus4 (suspended fourth) "
+},
+{
+  "id": "subsec-sus-chords-3-3-1",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-sus-chords-3-3-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Dominant seventh suspended fourth (7sus4) "
+},
+{
+  "id": "subsec-sus-chords-3-4-1",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#subsec-sus-chords-3-4-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Major seventh suspended fourth (maj7sus4) "
+},
+{
+  "id": "table-extended-sus-matrix",
+  "level": "2",
+  "url": "sec-extended-sus-chords.html#table-extended-sus-matrix",
+  "type": "Table",
+  "number": "6.4.1",
+  "title": "Chord Construction Matrix (Root: C)",
+  "body": " Chord Construction Matrix (Root: C)              Chord Type  Symbol  1  3\/sus  5  7  9  11  13  Notes (C root)    Major 7th  Cmaj7  C  E  G  B  —  —  —  C E G B    Dominant 7th  C7  C  E  G  B  —  —  —  C E G B    Minor 7th  Cm7  C  E  G  B  —  —  —  C E G B    Half-diminished  Cm7 5  C  E  G  B  —  —  —  C E G B    Diminished 7th  Cdim7  C  E  G  A  —  —  —  C E G A    Major 9th  Cmaj9  C  E  G  B  D  —  —  C E G B D    Dominant 9th  C9  C  E  G  B  D  —  —  C E G B D    Minor 9th  Cm9  C  E  G  B  D  —  —  C E G B D    Dom. flat 9th  C7 9  C  E  G  B  D  —  —  C E G B D    Major 11th  Cmaj11  C  (E)  G  B  D  F  —  C (E) G B D F    Dominant 11th  C11  C  (E)  G  B  D  F  —  C (E) G B D F    Minor 11th  Cm11  C  E  G  B  D  F  —  C E G B D F    Dom. sharp 11th  C7 11  C  E  G  B  D  F  —  C E G B D F    Major 13th  Cmaj13  C  E  G  B  D  (F)  A  C E G B D (F) A    Dominant 13th  C13  C  E  G  B  D  (F)  A  C E G B D (F) A    Minor 13th  Cm13  C  E  G  B  D  (F)  A  C E G B D (F) A    Suspended 2nd  Csus2  C  D*  G  —  —  —  —  C D G    Suspended 4th  Csus4  C  F*  G  —  —  —  —  C F G    Dom. 7th sus4  C7sus4  C  F*  G  B  —  —  —  C F G B    Maj. 7th sus4  Cmaj7sus4  C  F*  G  B  —  —  —  C F G B    "
+},
+{
   "id": "sec-major-minor-triads",
   "level": "1",
   "url": "sec-major-minor-triads.html",
   "type": "Section",
-  "number": "6.1",
+  "number": "7.1",
   "title": "Major and Minor Triads",
   "body": " Major and Minor Triads   These triad shapes are moveable: the shape stays the same regardless of which button you start on, taking the name of the root note. The first row shows the four root-position triad types; the second row shows their common inversions.                            C major triad notation    C minor triad notation    C augmented triad notation    C diminished triad notation                             C major 1st inversion notation    C minor 1st inversion notation    C major 2nd inversion notation    C minor 2nd inversion notation    "
 },
@@ -320,7 +734,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-major-minor-triads.html#fig-triad-grids-row1",
   "type": "Figure",
-  "number": "6.1.1",
+  "number": "7.1.1",
   "title": "",
   "body": "                    "
 },
@@ -329,7 +743,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-major-minor-triads.html#fig-triad-grids-row2",
   "type": "Figure",
-  "number": "6.1.2",
+  "number": "7.1.2",
   "title": "",
   "body": "                    "
 },
@@ -338,7 +752,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-seventh-chords.html",
   "type": "Section",
-  "number": "6.2",
+  "number": "7.2",
   "title": "Seventh Chords",
   "body": " Seventh Chords   The Chord Shapes shown can be moved to different positions on the keyboard and take the name of the Root Chord. Thus, if you know the shape of one chord type, you know the shape of all chords of that type in that shape or inversion.     7th Chords Root Position                        Cmaj7 chord on treble staff    C7 chord on treble staff    Cm7 chord on treble staff    Cm7b5 chord on treble staff      7th Chords 1st Inversion                        Cmaj7 1st inversion chord on treble staff    C7 1st inversion chord on treble staff    Cm7 1st inversion chord on treble staff    Cm7b5 1st inversion chord on treble staff    "
 },
@@ -347,7 +761,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-seventh-chords.html#fig-chord-grids-row1",
   "type": "Figure",
-  "number": "6.2.1",
+  "number": "7.2.1",
   "title": "",
   "body": " 7th Chords Root Position                    "
 },
@@ -356,7 +770,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-seventh-chords.html#fig-chord-grids-row2",
   "type": "Figure",
-  "number": "6.2.2",
+  "number": "7.2.2",
   "title": "",
   "body": " 7th Chords 1st Inversion                    "
 },
@@ -365,7 +779,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-seventh-chords-page2.html",
   "type": "Section",
-  "number": "6.3",
+  "number": "7.3",
   "title": "Seventh Chords (2nd Inversion)",
   "body": " Seventh Chords (2nd Inversion)   The Chord Shapes shown can be moved to different positions on the keyboard and take the name of the Root Chord. Thus, if you know the shape of one chord type, you know the shape of all chords of that type in that shape or inversion.     7th Chords Root Position                        Cmaj7 chord on treble staff    C7 chord on treble staff    Cm7 chord on treble staff    Cm7b5 chord on treble staff      7th Chords 2nd Inversion                        Cmaj7 2nd inversion chord on treble staff    C7 2nd inversion chord on treble staff    Cm7 2nd inversion chord on treble staff    Cm7b5 2nd inversion chord on treble staff    "
 },
@@ -374,7 +788,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-seventh-chords-page2.html#fig-chord-grids-p2-row1",
   "type": "Figure",
-  "number": "6.3.1",
+  "number": "7.3.1",
   "title": "",
   "body": " 7th Chords Root Position                    "
 },
@@ -383,7 +797,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-seventh-chords-page2.html#fig-chord-grids-p2-row2",
   "type": "Figure",
-  "number": "6.3.2",
+  "number": "7.3.2",
   "title": "",
   "body": " 7th Chords 2nd Inversion                    "
 },
@@ -392,7 +806,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-seventh-chords-page3.html",
   "type": "Section",
-  "number": "6.4",
+  "number": "7.4",
   "title": "Seventh Chords (3rd Inversion and Cdim7)",
   "body": " Seventh Chords (3rd Inversion and Cdim7)   The Chord Shapes shown can be moved to different positions on the keyboard and take the name of the Root Chord. Thus, if you know the shape of one chord type, you know the shape of all chords of that type in that shape or inversion.     7th Chords 3rd Inversion                        Cmaj7 3rd inversion chord on treble staff    C7 3rd inversion chord on treble staff    Cm7 3rd inversion chord on treble staff    Cm7b5 3rd inversion chord on treble staff      Cdim7 Root Position and Inversions                        Cdim7 chord on treble staff    Cdim7 1st inversion chord on treble staff    Cdim7 2nd inversion chord on treble staff    Cdim7 3rd inversion chord on treble staff    "
 },
@@ -401,7 +815,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-seventh-chords-page3.html#fig-chord-grids-p3-row1",
   "type": "Figure",
-  "number": "6.4.1",
+  "number": "7.4.1",
   "title": "",
   "body": " 7th Chords 3rd Inversion                    "
 },
@@ -410,7 +824,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-seventh-chords-page3.html#fig-chord-grids-p3-row2",
   "type": "Figure",
-  "number": "6.4.2",
+  "number": "7.4.2",
   "title": "",
   "body": " Cdim7 Root Position and Inversions                    "
 },
