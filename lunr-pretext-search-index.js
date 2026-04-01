@@ -829,6 +829,33 @@ var ptx_lunr_docs = [
   "body": " Cdim7 Root Position and Inversions                    "
 },
 {
+  "id": "sec-diatonic-seventh-chords-cmajor",
+  "level": "1",
+  "url": "sec-diatonic-seventh-chords-cmajor.html",
+  "type": "Section",
+  "number": "8.1",
+  "title": "Diatonic Seventh Chords of C Major",
+  "body": " Diatonic Seventh Chords of C Major   The grids below show each of the seven diatonic seventh chords of C major in root position. Highlighted buttons are the four chord tones. The final grid shows the full C major scale for reference, making it easy to see how the chord tones are drawn from the scale.     Diatonic 7th Chords — Scale Degrees I to IV                            Cmaj7 chord notation (I)    Dm7 chord notation (II)    Em7 chord notation (III)    Fmaj7 chord notation (IV)      I — Cmaj7 (C, E, G, B)  II — Dm7 (D, F, A, C)  III — Em7 (E, G, B, D)  IV — Fmaj7 (F, A, C, E)     Diatonic 7th Chords — Scale Degrees V to VII and C Major Scale                            G7 chord notation (V)    Am7 chord notation (VI)    Bm7b5 chord notation (VII)       V — G7 (G, B, D, F)  VI — Am7 (A, C, E, G)  VII — Bm7 5 (B, D, F, A)  C Major Scale (C–D–E–F–G–A–B–C)   "
+},
+{
+  "id": "fig-scale-chords-row1",
+  "level": "2",
+  "url": "sec-diatonic-seventh-chords-cmajor.html#fig-scale-chords-row1",
+  "type": "Figure",
+  "number": "8.1.1",
+  "title": "",
+  "body": " Diatonic 7th Chords — Scale Degrees I to IV                        "
+},
+{
+  "id": "fig-scale-chords-row2",
+  "level": "2",
+  "url": "sec-diatonic-seventh-chords-cmajor.html#fig-scale-chords-row2",
+  "type": "Figure",
+  "number": "8.1.2",
+  "title": "",
+  "body": " Diatonic 7th Chords — Scale Degrees V to VII and C Major Scale                        "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
