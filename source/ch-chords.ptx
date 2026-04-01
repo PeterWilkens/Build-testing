@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="ch-chords" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Chords</title>
+
+  <introduction>
+    <p>
+      A <term>chord</term> is a combination of three or more notes played simultaneously. Chords are the 
+      harmonic building blocks of music — they define the tonal colour and emotional feel of a piece. 
+      Understanding how chords are constructed from intervals gives the accordion player the ability to 
+      build any chord from any root note, taking full advantage of the isomorphic layout of the chromatic 
+      button accordion.
+    </p>
+    <p>
+      This chapter explains the theory behind chord construction, starting with the intervals that make 
+      up a chord and progressing through triads and seventh chords. Because the chromatic button accordion 
+      keyboard is isomorphic, a chord shape learned in one position works identically in every key — 
+      learning the construction once gives you the chord everywhere on the keyboard.
+    </p>
+  </introduction>
+
+  <section xml:id="sec-chords-from-intervals">
+    <title>Building Chords from Intervals</title>
+
+    <introduction>
+      <p>
+        Chords are built by stacking intervals above a <term>root note</term>. The root is the note 
+        that names the chord — for example, the root of a C major chord is C. The other notes of the 
+        chord are determined by the specific intervals measured from the root.
+      </p>
+    </introduction>
+
+    <subsection xml:id="subsec-thirds">
+      <title>Stacking Thirds</title>
+      <p>
+        The most common way to construct a chord is by stacking intervals of a <term>third</term> 
+        above the root. There are two types of third:
+      </p>
+      <ul>
+        <li>
+          <p>
+            A <term>major third</term> spans 4 semitones (e.g. C up to E).
+          </p>
+        </li>
+        <li>
+          <p>
+            A <term>minor third</term> spans 3 semitones (e.g. C up to E<flat />).
+          </p>
+        </li>
+      </ul>
+      <p>
+        By choosing which type of third to place at each position in the stack, we produce chords with 
+        different qualities. A basic three-note chord built by stacking two thirds is called a 
+        <term>triad</term>.
+      </p>
+    </subsection>
+
+    <subsection xml:id="subsec-triad-formula">
+      <title>The Triad Formula</title>
+      <p>
+        Every triad consists of three notes:
+      </p>
+      <ul>
+        <li><p>The <term>root</term> — the note the chord is named after.</p></li>
+        <li><p>The <term>third</term> — a third above the root (major or minor).</p></li>
+        <li><p>The <term>fifth</term> — a third above the third (which lands a fifth above the root).</p></li>
+      </ul>
+      <p>
+        The interval from the root to the fifth may be a <term>perfect fifth</term> (7 semitones), 
+        an <term>augmented fifth</term> (8 semitones), or a <term>diminished fifth</term> 
+        (6 semitones), depending on the combination of thirds used.
+      </p>
+    </subsection>
+  </section>
+
+  <section xml:id="sec-triad-types">
+    <title>Types of Triad</title>
+
+    <p>
+      The four main triad types differ in the intervals between their notes. Using C as the root, 
+      the notes and interval structure for each type are as follows.
+    </p>
+
+    <subsection xml:id="subsec-major-triad">
+      <title>Major Triad</title>
+      <p>
+        A <term>major triad</term> is built from a <em>major third</em> followed by a <em>minor third</em>:
+      </p>
+      <ul>
+        <li><p>Root to third: major third (4 semitones) — e.g. C to E</p></li>
+        <li><p>Third to fifth: minor third (3 semitones) — e.g. E to G</p></li>
+        <li><p>Root to fifth: perfect fifth (7 semitones) — e.g. C to G</p></li>
+      </ul>
+      <p>
+        The major triad has a bright, stable sound. The C major triad consists of the notes 
+        C, E, and G.
+      </p>
+    </subsection>
+
+    <subsection xml:id="subsec-minor-triad">
+      <title>Minor Triad</title>
+      <p>
+        A <term>minor triad</term> is built from a <em>minor third</em> followed by a <em>major third</em>:
+      </p>
+      <ul>
+        <li><p>Root to third: minor third (3 semitones) — e.g. C to E<flat /></p></li>
+        <li><p>Third to fifth: major third (4 semitones) — e.g. E<flat /> to G</p></li>
+        <li><p>Root to fifth: perfect fifth (7 semitones) — e.g. C to G</p></li>
+      </ul>
+      <p>
+        The minor triad has a darker, more melancholic sound. The C minor triad consists of the notes 
+        C, E<flat />, and G.
+      </p>
+    </subsection>
+
+    <subsection xml:id="subsec-augmented-triad">
+      <title>Augmented Triad</title>
+      <p>
+        An <term>augmented triad</term> is built from two consecutive <em>major thirds</em>:
+      </p>
+      <ul>
+        <li><p>Root to third: major third (4 semitones) — e.g. C to E</p></li>
+        <li><p>Third to fifth: major third (4 semitones) — e.g. E to G<sharp /></p></li>
+        <li><p>Root to fifth: augmented fifth (8 semitones) — e.g. C to G<sharp /></p></li>
+      </ul>
+      <p>
+        The raised fifth gives the augmented triad a tense, unresolved quality. The C augmented 
+        triad consists of the notes C, E, and G<sharp />.
+      </p>
+    </subsection>
+
+    <subsection xml:id="subsec-diminished-triad">
+      <title>Diminished Triad</title>
+      <p>
+        A <term>diminished triad</term> is built from two consecutive <em>minor thirds</em>:
+      </p>
+      <ul>
+        <li><p>Root to third: minor third (3 semitones) — e.g. C to E<flat /></p></li>
+        <li><p>Third to fifth: minor third (3 semitones) — e.g. E<flat /> to G<flat /></p></li>
+        <li><p>Root to fifth: diminished fifth (6 semitones) — e.g. C to G<flat /></p></li>
+      </ul>
+      <p>
+        The diminished fifth (also called a tritone) gives the diminished triad a dissonant, 
+        unstable sound that strongly seeks resolution. The C diminished triad consists of the 
+        notes C, E<flat />, and G<flat />.
+      </p>
+    </subsection>
+
+    <conclusion>
+      <p>
+        The table below summarises the four triad types using C as the root. The number in brackets in this case is the "Interval Count" See the 2nd paragraph in Chapter 3 Scales and Intervals for an explanation of Interval Count which is always 1 more than the number of semitones:
+      </p>
+      <table xml:id="table-triad-summary">
+        <title>Summary of Triad Types (Root: C)</title>
+        <tabular halign="left" top="major" bottom="minor" left="minor" right="minor">
+          <col width="22%" />
+          <col width="18%" />
+          <col width="18%" />
+          <col width="20%" />
+          <col width="22%" />
+          <row header="yes" bottom="major">
+            <cell>Triad Type</cell>
+            <cell>Root–3rd</cell>
+            <cell>3rd–5th</cell>
+            <cell>Root–5th</cell>
+            <cell>Notes (C root)</cell>
+          </row>
+          <row>
+            <cell>Major</cell>
+            <cell>Major 3rd (5)</cell>
+            <cell>Minor 3rd (4)</cell>
+            <cell>Perfect 5th (8)</cell>
+            <cell>C – E – G</cell>
+          </row>
+          <row>
+            <cell>Minor</cell>
+            <cell>Minor 3rd (4)</cell>
+            <cell>Major 3rd (5)</cell>
+            <cell>Perfect 5th (8)</cell>
+            <cell>C – E<flat /> – G</cell>
+          </row>
+          <row>
+            <cell>Augmented</cell>
+            <cell>Major 3rd (5)</cell>
+            <cell>Major 3rd (5)</cell>
+            <cell>Aug. 5th (9)</cell>
+            <cell>C – E – G<sharp /></cell>
+          </row>
+
+          <row bottom="major">
+            <cell>Diminished</cell>
+            <cell>Minor 3rd (4)</cell>
+            <cell>Minor 3rd (4)</cell>
+            <cell>Dim. 5th (7)</cell>
+            <cell>C – E<flat /> – G<flat /></cell>
+          </row>
+        </tabular>
+      </table>
+    </conclusion>
+  </section>
+
+  <section xml:id="sec-seventh-chord-intro">
+    <title>Extending Chords: Seventh Chords</title>
+
+    <p>
+      A chord can be extended by adding a further third above the fifth, producing a 
+      <term>seventh chord</term>. The added note is a seventh above the root. The quality of the 
+      seventh (major, minor, or diminished) combined with the quality of the underlying triad 
+      determines the type of seventh chord.
+    </p>
+    <p>
+      The most commonly used seventh chords are:
+    </p>
+    <ul>
+      <li>
+        <p>
+          <term>Major seventh (maj7)</term> — major triad + major seventh (11 semitones above root). 
+          Example: C maj7 = C, E, G, B.
+        </p>
+      </li>
+      <li>
+        <p>
+          <term>Dominant seventh (7)</term> — major triad + minor seventh (10 semitones above root). 
+          Example: C7 = C, E, G, B<flat />.
+        </p>
+      </li>
+      <li>
+        <p>
+          <term>Minor seventh (m7)</term> — minor triad + minor seventh (10 semitones above root). 
+          Example: Cm7 = C, E<flat />, G, B<flat />.
+        </p>
+      </li>
+      <li>
+        <p>
+          <term>Half-diminished seventh (m7<flat />5)</term> — diminished triad + minor seventh 
+          (10 semitones above root). Example: Cm7<flat />5 = C, E<flat />, G<flat />, B<flat />.
+        </p>
+      </li>
+      <li>
+        <p>
+          <term>Diminished seventh (dim7)</term> — diminished triad + diminished seventh 
+          (9 semitones above root). Example: Cdim7 = C, E<flat />, G<flat />, B<doubleflat /> (A).
+        </p>
+      </li>
+    </ul>
+    <p>
+      The physical shapes of these chords on the chromatic button accordion keyboard are explored 
+      in detail in the following chapter.
+    </p>
+  </section>
+
+  <section xml:id="sec-extended-sus-chords">
+    <title>Extended and Suspended Chords</title>
+
+    <introduction>
+      <p>
+        Beyond seventh chords, chords can be extended still further by continuing to stack thirds 
+        above the seventh. Each new note is named for its interval above the root when counted 
+        through the full scale: the <term>ninth</term>, <term>eleventh</term>, and 
+        <term>thirteenth</term>. In practice these are the same pitches as the second, fourth, and 
+        sixth — but placed an octave higher and heard as colour tones layered above the harmonic 
+        foundation. All extended chords include the seventh; omitting it collapses the chord back 
+        to a triad or simple added-note chord.
+      </p>
+      <p>
+        <term>Suspended chords</term> (sus chords) work differently: the third is 
+        <em>replaced</em> by either the second or the fourth, removing the major/minor quality and 
+        creating an open, unresolved sound.
+      </p>
+    </introduction>
+
+    <subsection xml:id="subsec-ninth-chords">
+      <title>Ninth Chords</title>
+      <p>
+        A <term>ninth chord</term> extends a seventh chord by adding the note a major ninth 
+        (14 semitones) above the root — the same pitch as the major second, an octave higher. 
+        The three most common ninth chords, using C as root, are:
+      </p>
+      <ul>
+        <li>
+          <p>
+            <term>Major ninth (maj9)</term> — major seventh chord + major 9th.
+            Formula: 1 – maj3 – per5 – maj7 – maj9.
+            Notes: C – E – G – B – D.
+          </p>
+        </li>
+        <li>
+          <p>
+            <term>Dominant ninth (9)</term> — dominant seventh chord + major 9th.
+            Formula: 1 – maj3 – per5 – min7 – maj9.
+            Notes: C – E – G – B<flat /> – D.
+          </p>
+        </li>
+        <li>
+          <p>
+            <term>Minor ninth (m9)</term> — minor seventh chord + major 9th.
+            Formula: 1 – min3 – per5 – min7 – maj9.
+            Notes: C – E<flat /> – G – B<flat /> – D.
+          </p>
+        </li>
+      </ul>
+      <p>
+        A <term>flat ninth (<flat />9)</term> uses a minor ninth (13 semitones) instead, most 
+        commonly over a dominant chord (C7<flat />9 = C – E – G – B<flat /> – D<flat />), 
+        creating a strongly dissonant, tension-building sound widely used in jazz and flamenco.
+      </p>
+    </subsection>
+
+    <subsection xml:id="subsec-eleventh-chords">
+      <title>Eleventh Chords</title>
+      <p>
+        An <term>eleventh chord</term> adds the perfect eleventh (17 semitones above the root — 
+        the same pitch as the perfect fourth, an octave up) to a ninth chord. In major and 
+        dominant contexts the third is typically <em>omitted</em> in practice, because it sits 
+        only a semitone below the eleventh and causes a harsh clash. The third is retained in 
+        minor eleventh chords because the minor third sits a whole tone below the eleventh.
+      </p>
+      <ul>
+        <li>
+          <p>
+            <term>Major eleventh (maj11)</term> — 1 – (3) – 5 – maj7 – 9 – 11.
+            Notes: C – (E) – G – B – D – F. The third E is commonly omitted.
+          </p>
+        </li>
+        <li>
+          <p>
+            <term>Dominant eleventh (11)</term> — 1 – (3) – 5 – min7 – 9 – 11.
+            Notes: C – (E) – G – B<flat /> – D – F. The third E is commonly omitted.
+          </p>
+        </li>
+        <li>
+          <p>
+            <term>Minor eleventh (m11)</term> — 1 – <flat />3 – 5 – min7 – 9 – 11.
+            Notes: C – E<flat /> – G – B<flat /> – D – F.
+          </p>
+        </li>
+      </ul>
+      <p>
+        A <term>sharp eleventh (<sharp />11)</term> raises the eleventh by a semitone 
+        (18 semitones from the root = F<sharp /> for C root), associated with the Lydian mode. 
+        Example: Cmaj7<sharp />11 = C – E – G – B – D – F<sharp />.
+      </p>
+    </subsection>
+
+    <subsection xml:id="subsec-thirteenth-chords">
+      <title>Thirteenth Chords</title>
+      <p>
+        A <term>thirteenth chord</term> completes the stack of thirds by adding the major 
+        thirteenth (21 semitones above the root — the same pitch as the major sixth, an octave 
+        up). A full thirteenth chord theoretically contains all seven notes of the major scale; 
+        in practice the eleventh (and sometimes the ninth) is omitted to keep the voicing 
+        playable and avoid excessive dissonance.
+      </p>
+      <ul>
+        <li>
+          <p>
+            <term>Major thirteenth (maj13)</term> — 1 – 3 – 5 – maj7 – 9 – (11) – 13.
+            Notes: C – E – G – B – D – (F) – A.
+          </p>
+        </li>
+        <li>
+          <p>
+            <term>Dominant thirteenth (13)</term> — 1 – 3 – 5 – min7 – 9 – (11) – 13.
+            Notes: C – E – G – B<flat /> – D – (F) – A.
+          </p>
+        </li>
+        <li>
+          <p>
+            <term>Minor thirteenth (m13)</term> — 1 – <flat />3 – 5 – min7 – 9 – (11) – 13.
+            Notes: C – E<flat /> – G – B<flat /> – D – (F) – A.
+          </p>
+        </li>
+      </ul>
+    </subsection>
+
+    <subsection xml:id="subsec-sus-chords">
+      <title>Suspended Chords</title>
+      <p>
+        In a <term>suspended chord</term> the third is replaced by either the major second or the 
+        perfect fourth. This removes the chord's major or minor quality, producing an open, 
+        floating sound that traditionally resolves by moving the suspended note back to the third.
+      </p>
+      <ul>
+        <li>
+          <p>
+            <term>Sus2 (suspended second)</term> — the third is replaced by the major second 
+            (2 semitones above root). Notes: C – D – G.
+          </p>
+        </li>
+        <li>
+          <p>
+            <term>Sus4 (suspended fourth)</term> — the third is replaced by the perfect fourth 
+            (5 semitones above root). Notes: C – F – G.
+          </p>
+        </li>
+        <li>
+          <p>
+            <term>Dominant seventh suspended fourth (7sus4)</term> — sus4 triad with a minor 
+            seventh added. Extremely common in pop and jazz as an unresolved dominant colour.
+            Notes: C – F – G – B<flat />.
+          </p>
+        </li>
+        <li>
+          <p>
+            <term>Major seventh suspended fourth (maj7sus4)</term> — sus4 triad with a major 
+            seventh added. Notes: C – F – G – B.
+          </p>
+        </li>
+      </ul>
+    </subsection>
+
+    <conclusion>
+      <p>
+        The matrix below gives a complete overview of seventh, extended, and suspended chord 
+        construction using C as the root. Notes shown in parentheses are present in the full 
+        theoretical voicing but are <em>commonly omitted</em> in practice. A dash (—) indicates 
+        the note is not part of that chord type. The column <q>3/sus</q> shows the third, or the 
+        note that replaces it in suspended chords (marked *).
+      </p>
+      <table xml:id="table-extended-sus-matrix">
+        <title>Chord Construction Matrix (Root: C)</title>
+        <tabular halign="center" top="major" bottom="minor" left="minor" right="minor">
+          <col width="20%" halign="left"/>
+          <col width="10%"/>
+          <col width="6%"/>
+          <col width="8%"/>
+          <col width="7%"/>
+          <col width="8%"/>
+          <col width="7%"/>
+          <col width="7%"/>
+          <col width="7%"/>
+          <col width="20%" halign="left"/>
+          <row header="yes" bottom="major">
+            <cell halign="left">Chord Type</cell>
+            <cell>Symbol</cell>
+            <cell>1</cell>
+            <cell>3/sus</cell>
+            <cell>5</cell>
+            <cell>7</cell>
+            <cell>9</cell>
+            <cell>11</cell>
+            <cell>13</cell>
+            <cell halign="left">Notes (C root)</cell>
+          </row>
+          <row>
+            <cell halign="left">Major 7th</cell>
+            <cell>Cmaj7</cell>
+            <cell>C</cell>
+            <cell>E</cell>
+            <cell>G</cell>
+            <cell>B</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell halign="left">C  E  G  B</cell>
+          </row>
+          <row>
+            <cell halign="left">Dominant 7th</cell>
+            <cell>C7</cell>
+            <cell>C</cell>
+            <cell>E</cell>
+            <cell>G</cell>
+            <cell>B<flat /></cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell halign="left">C  E  G  B<flat /></cell>
+          </row>
+          <row>
+            <cell halign="left">Minor 7th</cell>
+            <cell>Cm7</cell>
+            <cell>C</cell>
+            <cell>E<flat /></cell>
+            <cell>G</cell>
+            <cell>B<flat /></cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell halign="left">C  E<flat />  G  B<flat /></cell>
+          </row>
+          <row>
+            <cell halign="left">Half-diminished</cell>
+            <cell>Cm7<flat />5</cell>
+            <cell>C</cell>
+            <cell>E<flat /></cell>
+            <cell>G<flat /></cell>
+            <cell>B<flat /></cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell halign="left">C  E<flat />  G<flat />  B<flat /></cell>
+          </row>
+          <row>
+            <cell halign="left">Diminished 7th</cell>
+            <cell>Cdim7</cell>
+            <cell>C</cell>
+            <cell>E<flat /></cell>
+            <cell>G<flat /></cell>
+            <cell>A</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell halign="left">C  E<flat />  G<flat />  A</cell>
+          </row>
+          <row>
+            <cell halign="left">Major 9th</cell>
+            <cell>Cmaj9</cell>
+            <cell>C</cell>
+            <cell>E</cell>
+            <cell>G</cell>
+            <cell>B</cell>
+            <cell>D</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell halign="left">C  E  G  B  D</cell>
+          </row>
+          <row>
+            <cell halign="left">Dominant 9th</cell>
+            <cell>C9</cell>
+            <cell>C</cell>
+            <cell>E</cell>
+            <cell>G</cell>
+            <cell>B<flat /></cell>
+            <cell>D</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell halign="left">C  E  G  B<flat />  D</cell>
+          </row>
+          <row>
+            <cell halign="left">Minor 9th</cell>
+            <cell>Cm9</cell>
+            <cell>C</cell>
+            <cell>E<flat /></cell>
+            <cell>G</cell>
+            <cell>B<flat /></cell>
+            <cell>D</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell halign="left">C  E<flat />  G  B<flat />  D</cell>
+          </row>
+          <row>
+            <cell halign="left">Dom. flat 9th</cell>
+            <cell>C7<flat />9</cell>
+            <cell>C</cell>
+            <cell>E</cell>
+            <cell>G</cell>
+            <cell>B<flat /></cell>
+            <cell>D<flat /></cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell halign="left">C  E  G  B<flat />  D<flat /></cell>
+          </row>
+          <row>
+            <cell halign="left">Major 11th</cell>
+            <cell>Cmaj11</cell>
+            <cell>C</cell>
+            <cell>(E)</cell>
+            <cell>G</cell>
+            <cell>B</cell>
+            <cell>D</cell>
+            <cell>F</cell>
+            <cell>—</cell>
+            <cell halign="left">C  (E)  G  B  D  F</cell>
+          </row>
+          <row>
+            <cell halign="left">Dominant 11th</cell>
+            <cell>C11</cell>
+            <cell>C</cell>
+            <cell>(E)</cell>
+            <cell>G</cell>
+            <cell>B<flat /></cell>
+            <cell>D</cell>
+            <cell>F</cell>
+            <cell>—</cell>
+            <cell halign="left">C  (E)  G  B<flat />  D  F</cell>
+          </row>
+          <row>
+            <cell halign="left">Minor 11th</cell>
+            <cell>Cm11</cell>
+            <cell>C</cell>
+            <cell>E<flat /></cell>
+            <cell>G</cell>
+            <cell>B<flat /></cell>
+            <cell>D</cell>
+            <cell>F</cell>
+            <cell>—</cell>
+            <cell halign="left">C  E<flat />  G  B<flat />  D  F</cell>
+          </row>
+          <row>
+            <cell halign="left">Dom. sharp 11th</cell>
+            <cell>C7<sharp />11</cell>
+            <cell>C</cell>
+            <cell>E</cell>
+            <cell>G</cell>
+            <cell>B<flat /></cell>
+            <cell>D</cell>
+            <cell>F<sharp /></cell>
+            <cell>—</cell>
+            <cell halign="left">C  E  G  B<flat />  D  F<sharp /></cell>
+          </row>
+          <row>
+            <cell halign="left">Major 13th</cell>
+            <cell>Cmaj13</cell>
+            <cell>C</cell>
+            <cell>E</cell>
+            <cell>G</cell>
+            <cell>B</cell>
+            <cell>D</cell>
+            <cell>(F)</cell>
+            <cell>A</cell>
+            <cell halign="left">C  E  G  B  D  (F)  A</cell>
+          </row>
+          <row>
+            <cell halign="left">Dominant 13th</cell>
+            <cell>C13</cell>
+            <cell>C</cell>
+            <cell>E</cell>
+            <cell>G</cell>
+            <cell>B<flat /></cell>
+            <cell>D</cell>
+            <cell>(F)</cell>
+            <cell>A</cell>
+            <cell halign="left">C  E  G  B<flat />  D  (F)  A</cell>
+          </row>
+          <row>
+            <cell halign="left">Minor 13th</cell>
+            <cell>Cm13</cell>
+            <cell>C</cell>
+            <cell>E<flat /></cell>
+            <cell>G</cell>
+            <cell>B<flat /></cell>
+            <cell>D</cell>
+            <cell>(F)</cell>
+            <cell>A</cell>
+            <cell halign="left">C  E<flat />  G  B<flat />  D  (F)  A</cell>
+          </row>
+          <row>
+            <cell halign="left">Suspended 2nd</cell>
+            <cell>Csus2</cell>
+            <cell>C</cell>
+            <cell>D*</cell>
+            <cell>G</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell halign="left">C  D  G</cell>
+          </row>
+          <row>
+            <cell halign="left">Suspended 4th</cell>
+            <cell>Csus4</cell>
+            <cell>C</cell>
+            <cell>F*</cell>
+            <cell>G</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell halign="left">C  F  G</cell>
+          </row>
+          <row>
+            <cell halign="left">Dom. 7th sus4</cell>
+            <cell>C7sus4</cell>
+            <cell>C</cell>
+            <cell>F*</cell>
+            <cell>G</cell>
+            <cell>B<flat /></cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell halign="left">C  F  G  B<flat /></cell>
+          </row>
+          <row bottom="major">
+            <cell halign="left">Maj. 7th sus4</cell>
+            <cell>Cmaj7sus4</cell>
+            <cell>C</cell>
+            <cell>F*</cell>
+            <cell>G</cell>
+            <cell>B</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell halign="left">C  F  G  B</cell>
+          </row>
+        </tabular>
+      </table>
+      <p>
+        Parentheses ( ) indicate a note that is theoretically present but commonly omitted in 
+        practice. An asterisk * in the <q>3/sus</q> column indicates a suspended note replacing 
+        the third: D (2nd degree) for sus2, F (4th degree) for sus4.
+      </p>
+    </conclusion>
+  </section>
+
+</chapter>
