@@ -388,6 +388,33 @@ var ptx_lunr_docs = [
   "body": " 7th Chords 2nd Inversion                    "
 },
 {
+  "id": "sec-seventh-chords-page3",
+  "level": "1",
+  "url": "sec-seventh-chords-page3.html",
+  "type": "Section",
+  "number": "6.4",
+  "title": "Seventh Chords (3rd Inversion and Cdim7)",
+  "body": " Seventh Chords (3rd Inversion and Cdim7)   The Chord Shapes shown can be moved to different positions on the keyboard and take the name of the Root Chord. Thus, if you know the shape of one chord type, you know the shape of all chords of that type in that shape or inversion.     7th Chords 3rd Inversion                        Cmaj7 3rd inversion chord on treble staff    C7 3rd inversion chord on treble staff    Cm7 3rd inversion chord on treble staff    Cm7b5 3rd inversion chord on treble staff      Cdim7 Root Position and Inversions                        Cdim7 chord on treble staff    Cdim7 1st inversion chord on treble staff    Cdim7 2nd inversion chord on treble staff    Cdim7 3rd inversion chord on treble staff    "
+},
+{
+  "id": "fig-chord-grids-p3-row1",
+  "level": "2",
+  "url": "sec-seventh-chords-page3.html#fig-chord-grids-p3-row1",
+  "type": "Figure",
+  "number": "6.4.1",
+  "title": "",
+  "body": " 7th Chords 3rd Inversion                    "
+},
+{
+  "id": "fig-chord-grids-p3-row2",
+  "level": "2",
+  "url": "sec-seventh-chords-page3.html#fig-chord-grids-p3-row2",
+  "type": "Figure",
+  "number": "6.4.2",
+  "title": "",
+  "body": " Cdim7 Root Position and Inversions                    "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
