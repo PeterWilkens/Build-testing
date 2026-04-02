@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="-420 -420 840 840" width="960" height="960">
+  <defs>
+    <style>
+      .note-label { font-family: serif; font-size: 22px; font-weight: bold;
+                    text-anchor: middle; dominant-baseline: central; }
+      .circle-line { fill: none; stroke: #333; stroke-width: 1.5; }
+      .seg-line    { stroke: #333; stroke-width: 1; }
+    </style>
+    <pattern id="crosshatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="8" stroke="#666" stroke-width="1.5" />
+      <line x1="0" y1="0" x2="8" y2="0" stroke="#666" stroke-width="1.5" />
+    </pattern>
+  </defs>
+
+  <!-- Crosshatch: 2nd ring, A to B (3 segments, 75° to 165°) -->
+  <path d="M328.4,-88.0 A340,340 0 0,1 88.0,328.4
+           L71.2,265.6 A275,275 0 0,0 265.6,-71.2 Z"
+        fill="url(#crosshatch)" stroke="none" />
+
+  <!-- Crosshatch: 2nd ring, E♭ to F (3 segments, 255° to 345°) -->
+  <path d="M-328.4,88.0 A340,340 0 0,1 -88.0,-328.4
+           L-71.2,-265.6 A275,275 0 0,0 -265.6,71.2 Z"
+        fill="url(#crosshatch)" stroke="none" />
+
+  <!-- Crosshatch: 4th ring, B to D♭ (3 segments, 135° to 225°) -->
+  <path d="M148.5,148.5 A210,210 0 0,1 -148.5,148.5
+           L-99.0,99.0 A140,140 0 0,0 99.0,99.0 Z"
+        fill="url(#crosshatch)" stroke="none" />
+
+  <!-- Crosshatch: 4th ring, F to G (3 segments, 315° to 45°) -->
+  <path d="M-148.5,-148.5 A210,210 0 0,1 148.5,-148.5
+           L99.0,-99.0 A140,140 0 0,0 -99.0,-99.0 Z"
+        fill="url(#crosshatch)" stroke="none" />
+
+  <!-- Shaded band: ring 1 (r=400 to r=340) -->
+  <path d="M400,0 A400,400 0 1,1 -400,0 A400,400 0 1,1 400,0
+           M340,0 A340,340 0 1,0 -340,0 A340,340 0 1,0 340,0 Z"
+        fill="#e6e6e6" stroke="none" fill-rule="evenodd" />
+  <!-- Shaded band: ring 3 (r=275 to r=210) -->
+  <path d="M275,0 A275,275 0 1,1 -275,0 A275,275 0 1,1 275,0
+           M210,0 A210,210 0 1,0 -210,0 A210,210 0 1,0 210,0 Z"
+        fill="#e6e6e6" stroke="none" fill-rule="evenodd" />
+
+  <!-- Darker shade: 2nd ring, C to D (3 segments, -15° to 75°) -->
+  <path d="M-88.0,-328.4 A340,340 0 0,1 328.4,-88.0
+           L265.6,-71.2 A275,275 0 0,0 -71.2,-265.6 Z"
+        fill="#cccccc" stroke="none" />
+
+  <!-- Darker shade: 3rd ring, G to A (3 segments, 15° to 105°) -->
+  <path d="M71.2,-265.6 A275,275 0 0,1 265.6,71.2
+           L202.8,54.3 A210,210 0 0,0 54.3,-202.8 Z"
+        fill="#cccccc" stroke="none" />
+
+  <!-- Darker shade: 4th ring, D to E (3 segments, 45° to 135°) -->
+  <path d="M148.5,-148.5 A210,210 0 0,1 148.5,148.5
+           L99.0,99.0 A140,140 0 0,0 99.0,-99.0 Z"
+        fill="#cccccc" stroke="none" />
+
+  <!-- Darker shade: 2nd ring, F♯ to A♭ (3 segments, 165° to 255°) -->
+  <path d="M88.0,328.4 A340,340 0 0,1 -328.4,88.0
+           L-265.6,71.2 A275,275 0 0,0 71.2,265.6 Z"
+        fill="#cccccc" stroke="none" />
+
+  <!-- Darker shade: 3rd ring, D♭ to E♭ (3 segments, 195° to 285°) -->
+  <path d="M-71.2,265.6 A275,275 0 0,1 -265.6,-71.2
+           L-202.8,-54.3 A210,210 0 0,0 -54.3,202.8 Z"
+        fill="#cccccc" stroke="none" />
+
+  <!-- Darker shade: 4th ring, A♭ to B♭ (3 segments, 225° to 315°) -->
+  <path d="M-148.5,148.5 A210,210 0 0,1 -148.5,-148.5
+           L-99.0,-99.0 A140,140 0 0,0 -99.0,99.0 Z"
+        fill="#cccccc" stroke="none" />
+
+  <!-- Outer circle -->
+  <circle cx="0" cy="0" r="400" class="circle-line" />
+  <!-- 2nd circle -->
+  <circle cx="0" cy="0" r="340" class="circle-line" />
+  <!-- 3rd circle -->
+  <circle cx="0" cy="0" r="275" class="circle-line" />
+  <!-- 4th circle -->
+  <circle cx="0" cy="0" r="210" class="circle-line" />
+  <!-- 5th circle (innermost) -->
+  <circle cx="0" cy="0" r="140" class="circle-line" />
+
+  <!-- Segment divider lines from r=140 to r=400 -->
+  <line x1="-36.2" y1="-135.2" x2="-103.5" y2="-386.4" class="seg-line" />
+  <line x1="36.2" y1="-135.2" x2="103.5" y2="-386.4" class="seg-line" />
+  <line x1="99.0" y1="-99.0" x2="282.8" y2="-282.8" class="seg-line" />
+  <line x1="135.2" y1="-36.2" x2="386.4" y2="-103.5" class="seg-line" />
+  <line x1="135.2" y1="36.2" x2="386.4" y2="103.5" class="seg-line" />
+  <line x1="99.0" y1="99.0" x2="282.8" y2="282.8" class="seg-line" />
+  <line x1="36.2" y1="135.2" x2="103.5" y2="386.4" class="seg-line" />
+  <line x1="-36.2" y1="135.2" x2="-103.5" y2="386.4" class="seg-line" />
+  <line x1="-99.0" y1="99.0" x2="-282.8" y2="282.8" class="seg-line" />
+  <line x1="-135.2" y1="36.2" x2="-386.4" y2="103.5" class="seg-line" />
+  <line x1="-135.2" y1="-36.2" x2="-386.4" y2="-103.5" class="seg-line" />
+  <line x1="-99.0" y1="-99.0" x2="-282.8" y2="-282.8" class="seg-line" />
+
+  <!-- Ring 1: Major key labels at r=370 -->
+  <text x="0.0" y="-370.0" class="note-label" font-size="22">C</text>
+  <text x="185.0" y="-320.4" class="note-label" font-size="22">G</text>
+  <text x="320.4" y="-185.0" class="note-label" font-size="22">D</text>
+  <text x="370.0" y="0.0" class="note-label" font-size="22">A</text>
+  <text x="320.4" y="185.0" class="note-label" font-size="22">E</text>
+  <text x="185.0" y="320.4" class="note-label" font-size="22">B</text>
+  <text x="0.0" y="370.0" class="note-label" font-size="17">F♯/G♭</text>
+  <text x="-185.0" y="320.4" class="note-label" font-size="22">D♭</text>
+  <text x="-320.4" y="185.0" class="note-label" font-size="22">A♭</text>
+  <text x="-370.0" y="0.0" class="note-label" font-size="22">E♭</text>
+  <text x="-320.4" y="-185.0" class="note-label" font-size="22">B♭</text>
+  <text x="-185.0" y="-320.4" class="note-label" font-size="22">F</text>
+
+  <!-- Ring 2: IMaj7/V7/iim7 labels at r=307.5 -->
+  <text x="0.0" y="-307.5" class="note-label" font-size="18">IMaj7</text>
+  <text x="153.8" y="-266.3" class="note-label" font-size="18">V7</text>
+  <text x="266.3" y="-153.8" class="note-label" font-size="18">iim7</text>
+  <text x="307.5" y="0.0" class="note-label" font-size="18">IMaj7</text>
+  <text x="266.3" y="153.8" class="note-label" font-size="18">V7</text>
+  <text x="153.8" y="266.3" class="note-label" font-size="18">iim7</text>
+  <text x="0.0" y="307.5" class="note-label" font-size="18">IMaj7</text>
+  <text x="-153.8" y="266.3" class="note-label" font-size="18">V7</text>
+  <text x="-266.3" y="153.8" class="note-label" font-size="18">iim7</text>
+  <text x="-307.5" y="0.0" class="note-label" font-size="18">IMaj7</text>
+  <text x="-266.3" y="-153.8" class="note-label" font-size="18">V7</text>
+  <text x="-153.8" y="-266.3" class="note-label" font-size="18">iim7</text>
+
+  <!-- Ring 3: iim7/IMaj7/V7 labels at r=242.5 -->
+  <text x="0.0" y="-242.5" class="note-label" font-size="18">iim7</text>
+  <text x="121.3" y="-210.0" class="note-label" font-size="18">IMaj7</text>
+  <text x="210.0" y="-121.3" class="note-label" font-size="18">V7</text>
+  <text x="242.5" y="0.0" class="note-label" font-size="18">iim7</text>
+  <text x="210.0" y="121.3" class="note-label" font-size="18">IMaj7</text>
+  <text x="121.3" y="210.0" class="note-label" font-size="18">V7</text>
+  <text x="0.0" y="242.5" class="note-label" font-size="18">iim7</text>
+  <text x="-121.3" y="210.0" class="note-label" font-size="18">IMaj7</text>
+  <text x="-210.0" y="121.3" class="note-label" font-size="18">V7</text>
+  <text x="-242.5" y="0.0" class="note-label" font-size="18">iim7</text>
+  <text x="-210.0" y="-121.3" class="note-label" font-size="18">IMaj7</text>
+  <text x="-121.3" y="-210.0" class="note-label" font-size="18">V7</text>
+
+  <!-- Ring 4: V7/IMaj7/iim7 labels at r=175 -->
+  <text x="0.0" y="-175.0" class="note-label" font-size="18">V7</text>
+  <text x="87.5" y="-151.6" class="note-label" font-size="18">iim7</text>
+  <text x="151.6" y="-87.5" class="note-label" font-size="18">IMaj7</text>
+  <text x="175.0" y="0.0" class="note-label" font-size="18">V7</text>
+  <text x="151.6" y="87.5" class="note-label" font-size="18">iim7</text>
+  <text x="87.5" y="151.6" class="note-label" font-size="18">IMaj7</text>
+  <text x="0.0" y="175.0" class="note-label" font-size="18">V7</text>
+  <text x="-87.5" y="151.6" class="note-label" font-size="18">iim7</text>
+  <text x="-151.6" y="87.5" class="note-label" font-size="18">IMaj7</text>
+  <text x="-175.0" y="0.0" class="note-label" font-size="18">V7</text>
+  <text x="-151.6" y="-87.5" class="note-label" font-size="18">iim7</text>
+  <text x="-87.5" y="-151.6" class="note-label" font-size="18">IMaj7</text>
+
+  <!-- Centre title -->
+  <text x="0" y="-5" font-family="serif" font-size="18" font-weight="bold" text-anchor="middle">Circle of</text>
+  <text x="0" y="17" font-family="serif" font-size="18" font-weight="bold" text-anchor="middle">Fifths</text>
+
+</svg>
