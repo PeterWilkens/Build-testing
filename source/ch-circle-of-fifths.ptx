@@ -40,7 +40,7 @@
 
     <figure xml:id="fig-circle-of-fifths">
       <caption>The Circle of Fifths. Outer circle contains Major Keys, the adjacent inner circle shows the Relative Minor.</caption>
-      <image source="circle-of-fifths.svg" width="70%">
+      <image source="circle-of-fifths.svg" width="100%">
         <description>A circle divided into twelve segments showing all major keys arranged by perfect fifths, with key signature accidental counts.</description>
       </image> Shaded circe contains Major Keys the adjacent inner circle shows the Relative Minor.
     </figure>
