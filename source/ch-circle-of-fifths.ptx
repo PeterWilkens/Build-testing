@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="ch-circle-of-fifths" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Circle of Fifths</title>
+
+  <introduction>
+    <p>
+      The <term>Circle of Fifths</term> is a visual representation of the relationships between the
+      twelve tones of the chromatic scale. Moving clockwise around the circle, each key is a
+      <term>perfect fifth</term> (7 semitones) above the previous one. Moving anticlockwise, each
+      key is a <term>perfect fourth</term> (5 semitones) above the previous one. The circle
+      organises all major and minor keys, showing how they are related by the number of sharps or
+      flats in their key signatures.
+    </p>
+    <p>
+      For the chromatic button accordion player, the Circle of Fifths is an especially powerful tool.
+      Because the keyboard layout is isomorphic, the geometric relationships visible on the circle
+      translate directly into physical patterns on the instrument. Understanding the circle helps with
+      transposition, chord progressions, and improvisation.
+    </p>
+  </introduction>
+
+  <section xml:id="sec-circle-structure">
+    <title>Structure of the Circle</title>
+
+    <figure xml:id="fig-circle-of-fifths">
+      <caption>The Circle of Fifths. Each step clockwise adds one sharp; each step anticlockwise adds one flat.</caption>
+      <image source="circle-of-fifths.svg" width="70%">
+        <description>A circle divided into twelve segments showing all major keys arranged by perfect fifths, with key signature accidental counts.</description>
+      </image>
+    </figure>
+
+    <p>
+      Starting from C at the top of the circle and moving clockwise by perfect fifths, the twelve
+      keys appear in the following order:
+    </p>
+
+    <p>
+      C <mdash /> G <mdash /> D <mdash /> A <mdash /> E <mdash /> B <mdash /> F<sharp />/G<flat />
+      <mdash /> D<flat /> <mdash /> A<flat /> <mdash /> E<flat /> <mdash /> B<flat /> <mdash /> F
+      <mdash /> back to C.
+    </p>
+
+    <p>
+      Each step clockwise adds one sharp to the key signature. Each step anticlockwise adds one flat.
+      The key of C major, at the top, has no sharps or flats.
+    </p>
+
+    <table>
+      <title>Key Signatures Around the Circle of Fifths</title>
+      <tabular halign="center">
+        <row header="yes" bottom="medium">
+          <cell>Key</cell>
+          <cell>Sharps / Flats</cell>
+          <cell>Key Signature</cell>
+        </row>
+        <row>
+          <cell>C major</cell>
+          <cell>0</cell>
+          <cell>—</cell>
+        </row>
+        <row>
+          <cell>G major</cell>
+          <cell>1<sharp /></cell>
+          <cell>F<sharp /></cell>
+        </row>
+        <row>
+          <cell>D major</cell>
+          <cell>2<sharp /></cell>
+          <cell>F<sharp />, C<sharp /></cell>
+        </row>
+        <row>
+          <cell>A major</cell>
+          <cell>3<sharp /></cell>
+          <cell>F<sharp />, C<sharp />, G<sharp /></cell>
+        </row>
+        <row>
+          <cell>E major</cell>
+          <cell>4<sharp /></cell>
+          <cell>F<sharp />, C<sharp />, G<sharp />, D<sharp /></cell>
+        </row>
+        <row>
+          <cell>B major</cell>
+          <cell>5<sharp /></cell>
+          <cell>F<sharp />, C<sharp />, G<sharp />, D<sharp />, A<sharp /></cell>
+        </row>
+        <row>
+          <cell>F<sharp />/G<flat /> major</cell>
+          <cell>6<sharp /> / 6<flat /></cell>
+          <cell>Enharmonic equivalent</cell>
+        </row>
+        <row>
+          <cell>D<flat /> major</cell>
+          <cell>5<flat /></cell>
+          <cell>B<flat />, E<flat />, A<flat />, D<flat />, G<flat /></cell>
+        </row>
+        <row>
+          <cell>A<flat /> major</cell>
+          <cell>4<flat /></cell>
+          <cell>B<flat />, E<flat />, A<flat />, D<flat /></cell>
+        </row>
+        <row>
+          <cell>E<flat /> major</cell>
+          <cell>3<flat /></cell>
+          <cell>B<flat />, E<flat />, A<flat /></cell>
+        </row>
+        <row>
+          <cell>B<flat /> major</cell>
+          <cell>2<flat /></cell>
+          <cell>B<flat />, E<flat /></cell>
+        </row>
+        <row bottom="medium">
+          <cell>F major</cell>
+          <cell>1<flat /></cell>
+          <cell>B<flat /></cell>
+        </row>
+      </tabular>
+    </table>
+  </section>
+
+  <section xml:id="sec-relative-minor-keys">
+    <title>Relative Minor Keys</title>
+
+    <p>
+      Every major key has a <term>relative minor</term> that shares the same key signature. The
+      relative minor is found three semitones (a minor third) below the major key. On the Circle of
+      Fifths, the relative minor keys form an inner circle:
+    </p>
+
+    <table>
+      <title>Major Keys and Their Relative Minors</title>
+      <tabular halign="center">
+        <row header="yes" bottom="medium">
+          <cell>Major Key</cell>
+          <cell>Relative Minor</cell>
+        </row>
+        <row><cell>C major</cell><cell>A minor</cell></row>
+        <row><cell>G major</cell><cell>E minor</cell></row>
+        <row><cell>D major</cell><cell>B minor</cell></row>
+        <row><cell>A major</cell><cell>F<sharp /> minor</cell></row>
+        <row><cell>E major</cell><cell>C<sharp /> minor</cell></row>
+        <row><cell>B major</cell><cell>G<sharp /> minor</cell></row>
+        <row><cell>F<sharp /> major</cell><cell>D<sharp /> minor</cell></row>
+        <row><cell>D<flat /> major</cell><cell>B<flat /> minor</cell></row>
+        <row><cell>A<flat /> major</cell><cell>F minor</cell></row>
+        <row><cell>E<flat /> major</cell><cell>C minor</cell></row>
+        <row><cell>B<flat /> major</cell><cell>G minor</cell></row>
+        <row bottom="medium"><cell>F major</cell><cell>D minor</cell></row>
+      </tabular>
+    </table>
+  </section>
+
+  <section xml:id="sec-circle-chord-progressions">
+    <title>Chord Progressions and the Circle</title>
+
+    <p>
+      The Circle of Fifths reveals the most common chord progressions in Western music. Chords that
+      are adjacent on the circle sound naturally connected. The most important progressions follow
+      the circle:
+    </p>
+
+    <ul>
+      <li>
+        <p>
+          <term>V <mdash /> I (dominant to tonic)</term>: Moving one step anticlockwise. For example,
+          G to C. This is the strongest resolution in tonal music.
+        </p>
+      </li>
+      <li>
+        <p>
+          <term>ii <mdash /> V <mdash /> I</term>: Moving two steps anticlockwise. For example,
+          Dm <mdash /> G <mdash /> C. This is the most common jazz and popular music progression.
+        </p>
+      </li>
+      <li>
+        <p>
+          <term>IV <mdash /> I (subdominant to tonic)</term>: Moving one step clockwise. For example,
+          F to C. A plagal cadence, often heard as the <q>Amen</q> cadence.
+        </p>
+      </li>
+      <li>
+        <p>
+          <term>I <mdash /> IV <mdash /> V <mdash /> I</term>: The three primary chords of any key
+          are always adjacent on the circle. In C major: C, F, and G sit next to each other.
+        </p>
+      </li>
+    </ul>
+
+    <p>
+      Recognising these relationships on the Circle of Fifths helps the accordion player anticipate
+      chord changes and navigate progressions fluently across the keyboard.
+    </p>
+  </section>
+
+  <section xml:id="sec-circle-on-cba">
+    <title>The Circle of Fifths on the Chromatic Button Accordion</title>
+
+    <p>
+      On the C-system chromatic button accordion, the perfect fifth interval always corresponds to
+      the same physical movement on the keyboard, regardless of the starting note. This means that
+      moving around the Circle of Fifths is a repeating geometric pattern on the instrument.
+    </p>
+
+    <p>
+      On the Stradella bass system, the Circle of Fifths is built directly into the layout. The bass
+      note rows are arranged in fifths, so adjacent bass buttons follow the circle exactly. This
+      makes common chord progressions (such as ii<mdash />V<mdash />I) physically adjacent on the
+      bass side of the instrument.
+    </p>
+
+    <p>
+      Practising scales and chord progressions around the Circle of Fifths is one of the most
+      effective ways to build fluency on the chromatic button accordion. Start from any key, move
+      through all twelve keys by fifths, and observe how the same finger patterns repeat across the
+      entire keyboard.
+    </p>
+  </section>
+
+</chapter>
