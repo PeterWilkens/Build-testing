@@ -916,39 +916,48 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.3",
   "title": "Chord Progressions and the Circle",
-  "body": " Chord Progressions and the Circle  The Circle of Fifths reveals the most common chord progressions in Western music. Chords that are adjacent on the circle sound naturally connected. The most important progressions follow the circle:     V I (dominant to tonic) : Moving one step anticlockwise. For example, G to C. This is the strongest resolution in tonal music.     ii V I : Moving two steps anticlockwise. For example, Dm G C. This is the most common jazz and popular music progression.     IV I (subdominant to tonic) : Moving one step clockwise. For example, F to C. A plagal cadence, often heard as the Amen cadence.     I IV V I : The three primary chords of any key are always adjacent on the circle. In C major: C, F, and G sit next to each other.    Recognising these relationships on the Circle of Fifths helps the accordion player anticipate chord changes and navigate progressions fluently across the keyboard.  "
+  "body": " Chord Progressions and the Circle  An accordion player can access important Chord Progressions Using The Circle of Fifths:    By adding a Chord Quality to each Pitch Identity on the Circle some of the most important Chord Progressions, used in all types of music, can be obtained by using the Circle Diagram.  For this purpose all cycling through the Circle will be Counterclockwise.  Direction of travel Chordwise will therefore be C to F to B to E and so on using the \"pitch labels\" in the Circle.  Figure 4.0.2 illustrates all the possible ii-V-I progressions. Probably the most frequently occurring progression in all modern music.  Figure 4.0.2 also shows one of the more important chord resolutions in music, The Dominant 7 (V7) to Major(Maj7)  Figure 4.0.3 illustrates all the Dominants of Dominants, another frequently used chordal device. V7 to V7.  Figure 4.0.4 is a iii-VI7-ii-V7-I progression eg; C mi\/F7\/B mi\/E 7 \/A Maj7. Another common progression which again cycles though the circle in an anticlockwise direction.  In all this discussion the information given in the Diagram remains the same. The \"main-note-name\" positions around the circle, remain fixed but the Chord Quality changes eg; from a Major Chord to a Minor etc; .  All progressions cycle in an anticlockwise direction through the same Root note sequence, but with different Chord Qualities.    In Summary,the Circle of Fifths reveals the most common chord progressions in Western music. Chords that are adjacent on the circle sound naturally connected. The most important progressions follow the circle:     V I (dominant to tonic) : Moving one step anticlockwise. For example, G to C. This is the strongest resolution in tonal music.     ii V I : Moving two steps anticlockwise. For example, Dm G C. This is the most common jazz and popular music progression.     IV I (subdominant to tonic) : Moving one step clockwise. For example, F to C. A plagal cadence, often heard as the Amen cadence.     I IV V I : The three primary chords of any key are always adjacent on the circle. In C major: C, F, and G sit next to each other.    Recognising these relationships on the Circle of Fifths helps the accordion player anticipate chord changes and navigate progressions fluently across the keyboard.  "
 },
 {
-  "id": "sec-circle-chord-progressions-3-1-1",
+  "id": "sec-circle-chord-progressions-2",
   "level": "2",
-  "url": "sec-circle-chord-progressions.html#sec-circle-chord-progressions-3-1-1",
+  "url": "sec-circle-chord-progressions.html#sec-circle-chord-progressions-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "The Circle of Fifths: "
+},
+{
+  "id": "sec-circle-chord-progressions-5-1-1",
+  "level": "2",
+  "url": "sec-circle-chord-progressions.html#sec-circle-chord-progressions-5-1-1",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "V I (dominant to tonic) "
 },
 {
-  "id": "sec-circle-chord-progressions-3-2-1",
+  "id": "sec-circle-chord-progressions-5-2-1",
   "level": "2",
-  "url": "sec-circle-chord-progressions.html#sec-circle-chord-progressions-3-2-1",
+  "url": "sec-circle-chord-progressions.html#sec-circle-chord-progressions-5-2-1",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "ii V I "
 },
 {
-  "id": "sec-circle-chord-progressions-3-3-1",
+  "id": "sec-circle-chord-progressions-5-3-1",
   "level": "2",
-  "url": "sec-circle-chord-progressions.html#sec-circle-chord-progressions-3-3-1",
+  "url": "sec-circle-chord-progressions.html#sec-circle-chord-progressions-5-3-1",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "IV I (subdominant to tonic) "
 },
 {
-  "id": "sec-circle-chord-progressions-3-4-1",
+  "id": "sec-circle-chord-progressions-5-4-1",
   "level": "2",
-  "url": "sec-circle-chord-progressions.html#sec-circle-chord-progressions-3-4-1",
+  "url": "sec-circle-chord-progressions.html#sec-circle-chord-progressions-5-4-1",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
