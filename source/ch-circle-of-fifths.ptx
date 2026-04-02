@@ -3,14 +3,30 @@
   <title>The Circle of Fifths</title>
 
   <introduction>
-    <p>
-      The <term>Circle of Fifths</term> is a visual representation of the relationships between the
-      twelve tones of the chromatic scale. Moving clockwise around the circle, each key is a
-      <term>perfect fifth</term> (7 semitones) above the previous one. Moving anticlockwise, each
-      key is a <term>perfect fourth</term> (5 semitones) above the previous one. The circle
-      organises all major and minor keys, showing how they are related by the number of sharps or
-      flats in their key signatures.
-    </p>
+<p>The <term>Circle of Fifths</term> is useful in understanding musical concepts far beyond showing the different Key Signatures.</p>
+
+<p>The <term>The Circle of Fifths</term> can be confusing. It is important to realise that you can progress round the circle clockwise or anticlockwise. It is also important to appreciate that the pitch may be ascending or descending as progress is made round the circle in either direction.</p>
+<p>
+<ul>
+   
+  <li>It is a diagram showing the 12 musical Keys laid out in a circular format.</li>
+  <li>The notes are written such that, if travelling round the circle in a clockwise direction, and they are ascending in pitch they are separated by an Interval of a <term>Perfect 5th.</term> </li>
+  <li>If travelling in an anticlockwise direction and the notes are ascending in pitch, they are separated by an Interval of a <term>Perfect 4th</term>.</li>
+  <li>If travelling in a clockwise direction and the notes are descending in pitch, they are separated by an Interval of a <term>Perfect 4th</term>.</li>
+  <li>If travelling in an anticlockwise direction and the notes are descending in pitch, they are seperated by an Interval of a <term>Perfect 5th</term>.</li>
+  <li>You can see from the above, that the Circle could be legitimately called The Circle of Fourths and sometimes is. It all depends on direction of travel and ascending or falling pitch.</li>
+  <li>With C at the 12 O'Clock position, C Major has no Accidentals in its' Key Signature, going clockwise G Major has 1<sharp/>, D Major has 2<sharp/>'s, A Major has 3<sharp/>'s and so on.</li>
+  <li>From C going anticlockwise F Major has 1<flat/>, B<flat/>Major has 2 <flat/>'s, E<flat/>Major has 3 <flat/>'s etc;</li>
+  <li>The Relative Minor is shown on an inner circle opposite its' Relative Major, eg; A Minor is at the 12 O'clock position opposite to C Major.</li>
+  <li>On a musical staff the position of the accidental symbol (<sharp/> or <flat/>) is positioned where the <sharp/> or <flat/> note would be printed. From this you can see that in D Major the <sharp/> notes are F and C, similarly in E<flat/> Major the <flat/>notes are E, B and A.</li>
+  
+</ul>
+</p>
+
+
+
+
+
     <p>
       For the chromatic button accordion player, the Circle of Fifths is an especially powerful tool.
       Because the keyboard layout is isomorphic, the geometric relationships visible on the circle
@@ -151,9 +167,25 @@
 
   <section xml:id="sec-circle-chord-progressions">
     <title>Chord Progressions and the Circle</title>
-
+<p>An accordion player can access important Chord Progressions Using <term>The Circle of Fifths:</term></p>
+ 
+<p>
+<ul>
+   
+  <li>By adding a Chord Quality to each Pitch Identity on the Circle some of the most important Chord Progressions, used in all types of music, can be obtained by using the Circle Diagram.</li>
+  <li>For this purpose all cycling through the Circle will be Counterclockwise.</li>
+  <li>Direction of travel Chordwise will therefore be C to F to B<flat/> to E<flat/> and so on using the "pitch  labels" in the Circle.</li>
+  <li>Figure 4.0.2 illustrates all the possible ii-V-I progressions. Probably the most frequently occurring progression in all modern music. </li>
+  <li>Figure 4.0.2 also shows one of the more important chord resolutions in music, The Dominant 7 (V7) to Major(Maj7)</li>
+  <li>Figure 4.0.3 illustrates all the Dominants of Dominants, another frequently used chordal device. V7 to V7.</li>
+  <li>Figure 4.0.4 is a iii-VI7-ii-V7-I progression eg; C mi/F7/B<flat/> mi/E<flat/>7
+    /A<flat/>Maj7. Another common progression which again cycles though the circle in an anticlockwise direction.</li>
+  <li>In all this discussion the information given in the Diagram remains the same. The "main-note-name" positions around the circle, remain fixed but the Chord Quality changes eg; from a Major Chord to a Minor etc;  .</li>
+  <li> All progressions cycle in an anticlockwise direction through the same Root note sequence, but with different Chord Qualities.</li>
+</ul>
+</p>
     <p>
-      The Circle of Fifths reveals the most common chord progressions in Western music. Chords that
+      In Summary,the Circle of Fifths reveals the most common chord progressions in Western music. Chords that
       are adjacent on the circle sound naturally connected. The most important progressions follow
       the circle:
     </p>

@@ -26,7 +26,7 @@ R_MIDDLE = 210   # middle circle
 R_INNER  = 150
 R_MAJOR  = 255   # major labels (outer band centre)
 R_MINOR  = 180   # minor labels (inner band centre)
-R_KEYSIG = 370   # centre of key-sig images
+R_KEYSIG = 340   # centre of key-sig images
 
 def polar(r, angle_deg):
     """Return (x, y) for angle measured clockwise from 12 o'clock."""
@@ -76,7 +76,7 @@ def extract_inner_svg(filepath):
 # ---------- build SVG ----------
 parts = []
 parts.append('''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     viewBox="-480 -480 960 960" width="960" height="960">
+     viewBox="-420 -420 840 840" width="960" height="960">
   <defs>
     <style>
       .note-label { font-family: serif; font-size: 22px; font-weight: bold;
@@ -130,7 +130,7 @@ parts.append('')
 parts.append('  <!-- Key signatures (LilyPond staves) -->')
 
 # Embed key signatures outside the circle
-KEYSIG_DISPLAY_H = 55   # pixel height for each keysig image
+KEYSIG_DISPLAY_H = 82   # pixel height for each keysig image
 
 for angle, label, fname, _ in KEYS:
     fpath = os.path.join(NOTATION_DIR, fname)
