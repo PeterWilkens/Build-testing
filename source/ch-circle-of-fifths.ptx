@@ -221,6 +221,18 @@
       Recognising these relationships on the Circle of Fifths helps the accordion player anticipate
       chord changes and navigate progressions fluently across the keyboard.
     </p>
+
+    <figure xml:id="fig-circle-chord-progressions">
+      <caption>Example of ii-V-I progression using the circle diagram.
+        .</caption>
+      <image source="circle-of-fifths-progressions.svg" width="70%">
+        <description></description>
+      </image>
+    </figure>
+
+    <p>
+      The three inner rings show how the <term>ii–V–I</term> progression — the most common chord movement in tonal music — sits within each key around the circle. For any major key in the outer ring, the IMaj7, iim7 and V7 chords always appear together in the same shaded section in the annular bands. Reading anticlockwise, the pattern repeats every three segments: the V7 chord resolves to the IMaj7, and the iim7 chord sets up the V7. Because the circle is arranged in fifths, every adjacent key shares two of these three chords, which is why modulation between neighbouring keys sounds so natural.
+    </p>
   </section>
 
   <section xml:id="sec-circle-on-cba">

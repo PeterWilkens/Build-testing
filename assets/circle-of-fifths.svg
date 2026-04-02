@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     viewBox="-420 -420 840 840" width="960" height="960">
+     viewBox="-480 -480 960 960" width="960" height="960">
   <defs>
     <style>
       .note-label { font-family: serif; font-size: 22px; font-weight: bold;
@@ -62,7 +62,7 @@
 
   <!-- Key signatures (LilyPond staves) -->
   <!-- C key signature -->
-  <svg x="-24.6" y="-373.6" width="49.2" height="82" viewBox="0.0000 -0.0210 5.5700 9.2746" overflow="visible">
+  <svg x="-16.5" y="-392.5" width="33.0" height="55" viewBox="0.0000 -0.0210 5.5700 9.2746" overflow="visible">
 <g transform="translate(0.0000, 5.7790)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="5.0700" y2="0"/>
 </g>
@@ -88,7 +88,7 @@ c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 
 </g>
   </svg>
   <!-- G key signature -->
-  <svg x="139.9" y="-328.0" width="60.1" height="82" viewBox="0.0000 -0.0210 6.8000 9.2746" overflow="visible">
+  <svg x="164.8" y="-343.0" width="40.3" height="55" viewBox="0.0000 -0.0210 6.8000 9.2746" overflow="visible">
 <g transform="translate(0.0000, 5.7790)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="5.0700" y2="0"/>
 </g>
@@ -118,7 +118,7 @@ c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 
 </g>
   </svg>
   <!-- D key signature -->
-  <svg x="259.5" y="-203.6" width="69.8" height="82" viewBox="0.0000 -0.0210 7.9000 9.2746" overflow="visible">
+  <svg x="297.0" y="-207.5" width="46.8" height="55" viewBox="0.0000 -0.0210 7.9000 9.2746" overflow="visible">
 <g transform="translate(0.0000, 5.7790)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="5.0700" y2="0"/>
 </g>
@@ -152,7 +152,7 @@ c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 
 </g>
   </svg>
   <!-- A key signature -->
-  <svg x="301.1" y="-34.6" width="77.9" height="82" viewBox="0.0000 -0.0000 9.0000 9.4746" overflow="visible">
+  <svg x="343.9" y="-23.2" width="52.2" height="55" viewBox="0.0000 -0.0000 9.0000 9.4746" overflow="visible">
 <g transform="translate(0.0000, 6.0000)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="5.0700" y2="0"/>
 </g>
@@ -190,7 +190,7 @@ c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 
 </g>
   </svg>
   <!-- E key signature -->
-  <svg x="250.7" y="135.4" width="87.4" height="82" viewBox="0.0000 -0.0000 10.1000 9.4746" overflow="visible">
+  <svg x="291.1" y="161.8" width="58.6" height="55" viewBox="0.0000 -0.0000 10.1000 9.4746" overflow="visible">
 <g transform="translate(0.0000, 6.0000)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="5.0700" y2="0"/>
 </g>
@@ -232,7 +232,7 @@ c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 
 </g>
   </svg>
   <!-- B key signature -->
-  <svg x="121.5" y="259.8" width="96.9" height="82" viewBox="0.0000 -0.0000 11.2000 9.4746" overflow="visible">
+  <svg x="152.5" y="297.2" width="65.0" height="55" viewBox="0.0000 -0.0000 11.2000 9.4746" overflow="visible">
 <g transform="translate(0.0000, 6.0000)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="5.0700" y2="0"/>
 </g>
@@ -278,7 +278,7 @@ c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 
 </g>
   </svg>
   <!-- F♯/G♭ key signature -->
-  <svg x="-53.2" y="305.4" width="106.5" height="82" viewBox="0.0000 -0.0000 12.3000 9.4746" overflow="visible">
+  <svg x="-35.7" y="346.8" width="71.4" height="55" viewBox="0.0000 -0.0000 12.3000 9.4746" overflow="visible">
 <g transform="translate(0.0000, 6.0000)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="5.0700" y2="0"/>
 </g>
@@ -328,7 +328,7 @@ c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 
 </g>
   </svg>
   <!-- D♭ key signature -->
-  <svg x="-216.9" y="260.9" width="93.7" height="82" viewBox="0.0000 -0.0210 10.6001 9.2746" overflow="visible">
+  <svg x="-216.4" y="297.9" width="62.9" height="55" viewBox="0.0000 -0.0210 10.6001 9.2746" overflow="visible">
 <g transform="translate(0.0000, 5.7790)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="5.0700" y2="0"/>
 </g>
@@ -374,7 +374,7 @@ c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 
 </g>
   </svg>
   <!-- A♭ key signature -->
-  <svg x="-337.2" y="136.4" width="85.6" height="82" viewBox="0.0000 -0.0210 9.6801 9.2746" overflow="visible">
+  <svg x="-349.1" y="162.5" width="57.4" height="55" viewBox="0.0000 -0.0210 9.6801 9.2746" overflow="visible">
 <g transform="translate(0.0000, 5.7790)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="5.0700" y2="0"/>
 </g>
@@ -416,7 +416,7 @@ c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 
 </g>
   </svg>
   <!-- E♭ key signature -->
-  <svg x="-378.7" y="-33.6" width="77.5" height="82" viewBox="0.0000 -0.0210 8.7600 9.2746" overflow="visible">
+  <svg x="-396.0" y="-22.5" width="51.9" height="55" viewBox="0.0000 -0.0210 8.7600 9.2746" overflow="visible">
 <g transform="translate(0.0000, 5.7790)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="5.0700" y2="0"/>
 </g>
@@ -454,7 +454,7 @@ c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 
 </g>
   </svg>
   <!-- B♭ key signature -->
-  <svg x="-329.1" y="-203.6" width="69.3" height="82" viewBox="0.0000 -0.0210 7.8400 9.2746" overflow="visible">
+  <svg x="-343.7" y="-207.5" width="46.5" height="55" viewBox="0.0000 -0.0210 7.8400 9.2746" overflow="visible">
 <g transform="translate(0.0000, 5.7790)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="5.0700" y2="0"/>
 </g>
@@ -488,7 +488,7 @@ c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 
 </g>
   </svg>
   <!-- F key signature -->
-  <svg x="-200.6" y="-328.0" width="61.2" height="82" viewBox="0.0000 -0.0210 6.9200 9.2746" overflow="visible">
+  <svg x="-205.5" y="-343.0" width="41.0" height="55" viewBox="0.0000 -0.0210 6.9200 9.2746" overflow="visible">
 <g transform="translate(0.0000, 5.7790)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="5.0700" y2="0"/>
 </g>
