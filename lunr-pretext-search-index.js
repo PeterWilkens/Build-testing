@@ -856,6 +856,114 @@ var ptx_lunr_docs = [
   "body": " Diatonic 7th Chords — Scale Degrees V to VII and C Major Scale                        "
 },
 {
+  "id": "sec-circle-structure",
+  "level": "1",
+  "url": "sec-circle-structure.html",
+  "type": "Section",
+  "number": "9.1",
+  "title": "Structure of the Circle",
+  "body": " Structure of the Circle   The Circle of Fifths. Outer circle contains Major Keys, the adjacent inner circle shows the Relative Minor.   A circle divided into twelve segments showing all major keys arranged by perfect fifths, with key signature accidental counts.  Shaded circe contains Major Keys the adjacent inner circle shows the Relative Minor.  Starting from C at the top of the circle and moving clockwise by perfect fifths, the twelve keys appear in the following order:  C G D A E B F \/G  D  A  E  B  F back to C.  Each step clockwise adds one sharp to the key signature. Each step anticlockwise adds one flat. The key of C major, at the top, has no sharps or flats.   Key Signatures Around the Circle of Fifths    Key  Sharps \/ Flats  Key Signature    C major  0  —    G major  1  F    D major  2  F , C    A major  3  F , C , G    E major  4  F , C , G , D    B major  5  F , C , G , D , A    F \/G major  6 \/ 6  Enharmonic equivalent    D major  5  B , E , A , D , G    A major  4  B , E , A , D    E major  3  B , E , A    B major  2  B , E    F major  1  B     "
+},
+{
+  "id": "fig-circle-of-fifths",
+  "level": "2",
+  "url": "sec-circle-structure.html#fig-circle-of-fifths",
+  "type": "Figure",
+  "number": "9.1.1",
+  "title": "",
+  "body": " The Circle of Fifths. Outer circle contains Major Keys, the adjacent inner circle shows the Relative Minor.   A circle divided into twelve segments showing all major keys arranged by perfect fifths, with key signature accidental counts.  Shaded circe contains Major Keys the adjacent inner circle shows the Relative Minor. "
+},
+{
+  "id": "sec-circle-structure-6",
+  "level": "2",
+  "url": "sec-circle-structure.html#sec-circle-structure-6",
+  "type": "Table",
+  "number": "9.1.2",
+  "title": "Key Signatures Around the Circle of Fifths",
+  "body": " Key Signatures Around the Circle of Fifths    Key  Sharps \/ Flats  Key Signature    C major  0  —    G major  1  F    D major  2  F , C    A major  3  F , C , G    E major  4  F , C , G , D    B major  5  F , C , G , D , A    F \/G major  6 \/ 6  Enharmonic equivalent    D major  5  B , E , A , D , G    A major  4  B , E , A , D    E major  3  B , E , A    B major  2  B , E    F major  1  B    "
+},
+{
+  "id": "sec-relative-minor-keys",
+  "level": "1",
+  "url": "sec-relative-minor-keys.html",
+  "type": "Section",
+  "number": "9.2",
+  "title": "Relative Minor Keys",
+  "body": " Relative Minor Keys  Every major key has a relative minor that shares the same key signature. The relative minor is found three semitones (a minor third) below the major key. On the Circle of Fifths, the relative minor keys form an inner circle:   Major Keys and Their Relative Minors    Major Key  Relative Minor   C major A minor  G major E minor  D major B minor  A major F minor  E major C minor  B major G minor  F major D minor  D major B minor  A major F minor  E major C minor  B major G minor  F major D minor    "
+},
+{
+  "id": "sec-relative-minor-keys-2",
+  "level": "2",
+  "url": "sec-relative-minor-keys.html#sec-relative-minor-keys-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "relative minor "
+},
+{
+  "id": "sec-relative-minor-keys-3",
+  "level": "2",
+  "url": "sec-relative-minor-keys.html#sec-relative-minor-keys-3",
+  "type": "Table",
+  "number": "9.2.1",
+  "title": "Major Keys and Their Relative Minors",
+  "body": " Major Keys and Their Relative Minors    Major Key  Relative Minor   C major A minor  G major E minor  D major B minor  A major F minor  E major C minor  B major G minor  F major D minor  D major B minor  A major F minor  E major C minor  B major G minor  F major D minor   "
+},
+{
+  "id": "sec-circle-chord-progressions",
+  "level": "1",
+  "url": "sec-circle-chord-progressions.html",
+  "type": "Section",
+  "number": "9.3",
+  "title": "Chord Progressions and the Circle",
+  "body": " Chord Progressions and the Circle  The Circle of Fifths reveals the most common chord progressions in Western music. Chords that are adjacent on the circle sound naturally connected. The most important progressions follow the circle:     V I (dominant to tonic) : Moving one step anticlockwise. For example, G to C. This is the strongest resolution in tonal music.     ii V I : Moving two steps anticlockwise. For example, Dm G C. This is the most common jazz and popular music progression.     IV I (subdominant to tonic) : Moving one step clockwise. For example, F to C. A plagal cadence, often heard as the Amen cadence.     I IV V I : The three primary chords of any key are always adjacent on the circle. In C major: C, F, and G sit next to each other.    Recognising these relationships on the Circle of Fifths helps the accordion player anticipate chord changes and navigate progressions fluently across the keyboard.  "
+},
+{
+  "id": "sec-circle-chord-progressions-3-1-1",
+  "level": "2",
+  "url": "sec-circle-chord-progressions.html#sec-circle-chord-progressions-3-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "V I (dominant to tonic) "
+},
+{
+  "id": "sec-circle-chord-progressions-3-2-1",
+  "level": "2",
+  "url": "sec-circle-chord-progressions.html#sec-circle-chord-progressions-3-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "ii V I "
+},
+{
+  "id": "sec-circle-chord-progressions-3-3-1",
+  "level": "2",
+  "url": "sec-circle-chord-progressions.html#sec-circle-chord-progressions-3-3-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "IV I (subdominant to tonic) "
+},
+{
+  "id": "sec-circle-chord-progressions-3-4-1",
+  "level": "2",
+  "url": "sec-circle-chord-progressions.html#sec-circle-chord-progressions-3-4-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "I IV V I "
+},
+{
+  "id": "sec-circle-on-cba",
+  "level": "1",
+  "url": "sec-circle-on-cba.html",
+  "type": "Section",
+  "number": "9.4",
+  "title": "The Circle of Fifths on the Chromatic Button Accordion",
+  "body": " The Circle of Fifths on the Chromatic Button Accordion  On the C-system chromatic button accordion, the perfect fifth interval always corresponds to the same physical movement on the keyboard, regardless of the starting note. This means that moving around the Circle of Fifths is a repeating geometric pattern on the instrument.  On the Stradella bass system, the Circle of Fifths is built directly into the layout. The bass note rows are arranged in fifths, so adjacent bass buttons follow the circle exactly. This makes common chord progressions (such as ii V I) physically adjacent on the bass side of the instrument.  Practising scales and chord progressions around the Circle of Fifths is one of the most effective ways to build fluency on the chromatic button accordion. Start from any key, move through all twelve keys by fifths, and observe how the same finger patterns repeat across the entire keyboard.  "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
