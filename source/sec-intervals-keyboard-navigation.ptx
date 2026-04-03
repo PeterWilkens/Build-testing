@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-intervals-keyboard-navigation" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Using Intervals to Navigate the C System Keyboard
+
+  </title>
+
+  <introduction>
+    <p>
+      Because the C System Free Bass mirrors the arrangement of the Treble keyboard, every interval on the freebass keyboard is
+      a mirror image of the shape on the treble keyboard. The diagrams below show the Free Bass keyboard (left) and
+      the Treble keyboard (right) side by side, as they appear on the accordion. The bellows are indicated
+      by the four vertical lines between the two keyboards. Recognising these physical relationships is important as the player is unable to view the keyboards directly and must rely on tactile feedback and muscle memory to navigate the buttons.
+     
+    </p>
+    <p>It is also important to recognise the three directions that are used for navigating the buttons of the keyboard. The playing directions are vertical, horizontal and diagonal as shown below. This aspect of the accordion will be discussed further in this chapter.
+    </p> 
+  </introduction>
+
+  <!-- ===== Grid Pair 1 ===== -->
+  <figure xml:id="fig-nav-pair-1">
+    <caption>Playing Directions on each keyboard</caption>
+    <sidebyside widths="45% 45%" margins="2%">
+
+      <!-- Free Bass keyboard — columns mirrored, bellows right (centre) -->
+      <image xml:id="img-nav-freebass-1">
+        <latex-image>
+\begin{tikzpicture}[scale=0.65, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\gn{1}{1.5}{C}{0}
+\gn{2}{2}{C$\sharp$, D$\flat$}{0}
+\gn{3}{2.5}{D}{0}
+\gn{4}{3}{E$\flat$, D$\sharp$}{0}
+\gn{1}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{2}{3}{E}{0}
+\gn{3}{3.5}{F}{0}
+\gn{4}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{3.5}{G$\flat$, F$\sharp$}{0}
+\gn{2}{4}{G}{0}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{4}{5}{A}{0}
+\gn{1}{4.5}{A}{0}
+\gn{2}{5}{B$\flat$, A$\sharp$}{0}
+\gn{3}{5.5}{B}{0}
+\gn{4}{6}{C}{0}
+\gn{1}{5.5}{C}{0}
+\gn{2}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{D}{0}
+\gn{4}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{2}{7}{E}{0}
+\gn{3}{7.5}{F}{0}
+\gn{4}{8}{G$\flat$, F$\sharp$}{0}
+% Bellows markers (centre)
+\draw[gray, thin] (5.4*\hlen, 2.1*\vlen) -- (5.4*\hlen, 8.5*\vlen);
+\draw[gray, thin] (5.7*\hlen, 2.1*\vlen) -- (5.7*\hlen, 8.5*\vlen);
+\draw[gray, thin] (6.0*\hlen, 2.1*\vlen) -- (6.0*\hlen, 8.5*\vlen);
+\draw[gray, thin] (6.3*\hlen, 2.1*\vlen) -- (6.3*\hlen, 8.5*\vlen);
+% Interval indicators — mirror of treble, anchored at bottom Eb boundary (col 1, row 2.5)
+\pgfmathsetmacro{\noderadius}{10/72.27*2.54}
+% 1. Vertical: start at top edge of Eb, end at bottom edge of top Eb
+\draw[gray, very thick, ->] ({1*\hlen}, {2.5*\vlen + \noderadius}) -- ({1*\hlen}, {6.5*\vlen - \noderadius});
+% 2. Horizontal: start at right edge of Eb, end at left edge of D
+\draw[gray, very thick, ->] ({1*\hlen + \noderadius}, {2.5*\vlen}) -- ({3*\hlen - \noderadius}, {2.5*\vlen});
+% 3. Diagonal: start at lower-right boundary of Eb, end at lower-left boundary of Gfl
+\draw[gray, very thick, ->] ({1*\hlen + sqrt(3)/2*\noderadius}, {2.5*\vlen + 0.5*\noderadius}) -- ({4*\hlen - sqrt(3)/2*\noderadius}, {4.0*\vlen - 0.5*\noderadius});
+\end{tikzpicture}
+
+        </latex-image>
+      </image>
+
+      <!-- Treble keyboard — no bellows markers -->
+      <image xml:id="img-nav-treble-1">
+        <latex-image>
+\begin{tikzpicture}[scale=0.65, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\gn{5}{1.5}{C}{0}
+\gn{4}{2}{C$\sharp$, D$\flat$}{0}
+\gn{3}{2.5}{D}{0}
+\gn{2}{3}{E$\flat$, D$\sharp$}{0}
+\gn{1}{3.5}{E}{0}
+\gn{5}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{3}{E}{0}
+\gn{3}{3.5}{F}{0}
+\gn{2}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{4.5}{G}{0}
+\gn{5}{3.5}{G$\flat$, F$\sharp$}{0}
+\gn{4}{4}{G}{0}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{2}{5}{A}{0}
+\gn{1}{5.5}{B$\flat$, A$\sharp$}{0}
+\gn{5}{4.5}{A}{0}
+\gn{4}{5}{B$\flat$, A$\sharp$}{0}
+\gn{3}{5.5}{B}{0}
+\gn{2}{6}{C}{0}
+\gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
+\gn{5}{5.5}{C}{0}
+\gn{4}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{D}{0}
+\gn{2}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{7.5}{E}{0}
+\gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{7}{E}{0}
+\gn{3}{7.5}{F}{0}
+\gn{2}{8}{G$\flat$, F$\sharp$}{0}
+\gn{1}{8.5}{G}{0}
+% Interval indicators anchored at bottom Eb boundary (col 5, row 2.5)
+\pgfmathsetmacro{\noderadius}{10/72.27*2.54}
+% 1. Vertical: start at top edge of Eb, end at bottom edge of top Eb
+\draw[gray, very thick, ->] ({5*\hlen}, {2.5*\vlen + \noderadius}) -- ({5*\hlen}, {6.5*\vlen - \noderadius});
+% 2. Horizontal: start at left edge of Eb, end at right edge of D
+\draw[gray, very thick, ->] ({5*\hlen - \noderadius}, {2.5*\vlen}) -- ({3*\hlen + \noderadius}, {2.5*\vlen});
+% 3. Diagonal: start at lower-left boundary of Eb, end at lower-right boundary of G
+\draw[gray, very thick, ->] ({5*\hlen - sqrt(3)/2*\noderadius}, {2.5*\vlen + 0.5*\noderadius}) -- ({1*\hlen + sqrt(3)/2*\noderadius}, {4.5*\vlen - 0.5*\noderadius});
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+    </sidebyside>
+  </figure>
+
+  <!--<sidebyside widths="45% 45%" margins="2%">
+    <p><em>Free Bass</em></p>
+    <p><em>Treble</em></p>
+  </sidebyside>-->
+
+  <!-- ===== Grid Pair 2 ===== -->
+  <figure xml:id="fig-nav-pair-2">
+    <caption>The Vertical Direction</caption>
+    <introduction>
+      <p>
+        Now considering first the vertical direction. The treble keyboard has 5 vertical columns and the freebass keyboard has 4 useable vertical columns. Any 2 immediately adjacent vertical buttons on either keyboard, played together, form a minor third eg; C and E<flat />, D and F, E and G, F and A<flat />, G and B<flat /> etc.</p>
+      <p>If a 2nd minor third is stacked on top of the first this forms a tritone (an interval consisting of 3 whole tones). For example C to E<flat /> to G<flat />, D to F to A<flat />. The tritone being the interval between C and G<flat />, D and A<flat /> etc.</p>
+      <p>Continuing in a vertical direction adding a third minor third gives a minor 6th interval eg: C to A, D to B etc; Adding a fourth minor third forms a perfect octave: C to C, C<sharp /> to C<sharp /> etc.
+      </p>
+    </introduction> 
+    <sidebyside widths="45% 45%" margins="2%">
+
+      <!-- Free Bass keyboard — columns mirrored, bellows right (centre) -->
+      <image xml:id="img-nav-freebass-2">
+        <latex-image>
+\begin{tikzpicture}[scale=0.65, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\gn{1}{1.5}{C}{0}
+\gn{2}{2}{C$\sharp$, D$\flat$}{0}
+\gn{3}{2.5}{D}{0}
+\gn{4}{3}{E$\flat$, D$\sharp$}{0}
+\gn{1}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{2}{3}{E}{0}
+\gn{3}{3.5}{F}{0}
+\gn{4}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{3.5}{G$\flat$, F$\sharp$}{0}
+\gn{2}{4}{G}{0}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{4}{5}{A}{0}
+\gn{1}{4.5}{A}{0}
+\gn{2}{5}{B$\flat$, A$\sharp$}{0}
+\gn{3}{5.5}{B}{0}
+\gn{4}{6}{C}{0}
+\gn{1}{5.5}{C}{0}
+\gn{2}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{D}{0}
+\gn{4}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{2}{7}{E}{0}
+\gn{3}{7.5}{F}{0}
+\gn{4}{8}{G$\flat$, F$\sharp$}{0}
+% Vertical column lines
+\draw[lightgray, thin] (1*\hlen, 1.5*\vlen) -- (1*\hlen, 6.5*\vlen);
+\draw[lightgray, thin] (2*\hlen, 2.0*\vlen) -- (2*\hlen, 7.0*\vlen);
+\draw[lightgray, thin] (3*\hlen, 2.5*\vlen) -- (3*\hlen, 7.5*\vlen);
+\draw[lightgray, thin] (4*\hlen, 3.0*\vlen) -- (4*\hlen, 8.0*\vlen);
+% Bellows markers (centre)
+\draw[gray, thin] (5.4*\hlen, 2.1*\vlen) -- (5.4*\hlen, 8.5*\vlen);
+\draw[gray, thin] (5.7*\hlen, 2.1*\vlen) -- (5.7*\hlen, 8.5*\vlen);
+\draw[gray, thin] (6.0*\hlen, 2.1*\vlen) -- (6.0*\hlen, 8.5*\vlen);
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Treble keyboard — no bellows markers -->
+      <image xml:id="img-nav-treble-2">
+        <latex-image>
+\begin{tikzpicture}[scale=0.65, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\gn{5}{1.5}{C}{0}
+\gn{4}{2}{C$\sharp$, D$\flat$}{0}
+\gn{3}{2.5}{D}{0}
+\gn{2}{3}{E$\flat$, D$\sharp$}{0}
+\gn{1}{3.5}{E}{0}
+\gn{5}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{3}{E}{0}
+\gn{3}{3.5}{F}{0}
+\gn{2}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{4.5}{G}{0}
+\gn{5}{3.5}{G$\flat$, F$\sharp$}{0}
+\gn{4}{4}{G}{0}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{2}{5}{A}{0}
+\gn{1}{5.5}{B$\flat$, A$\sharp$}{0}
+\gn{5}{4.5}{A}{0}
+\gn{4}{5}{B$\flat$, A$\sharp$}{0}
+\gn{3}{5.5}{B}{0}
+\gn{2}{6}{C}{0}
+\gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
+\gn{5}{5.5}{C}{0}
+\gn{4}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{D}{0}
+\gn{2}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{7.5}{E}{0}
+\gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{7}{E}{0}
+\gn{3}{7.5}{F}{0}
+\gn{2}{8}{G$\flat$, F$\sharp$}{0}
+\gn{1}{8.5}{G}{0}
+% Vertical column lines
+\draw[lightgray, thin] (1*\hlen, 3.5*\vlen) -- (1*\hlen, 8.5*\vlen);
+\draw[lightgray, thin] (2*\hlen, 3.0*\vlen) -- (2*\hlen, 8.0*\vlen);
+\draw[lightgray, thin] (3*\hlen, 2.5*\vlen) -- (3*\hlen, 7.5*\vlen);
+\draw[lightgray, thin] (4*\hlen, 2.0*\vlen) -- (4*\hlen, 7.0*\vlen);
+\draw[lightgray, thin] (5*\hlen, 1.5*\vlen) -- (5*\hlen, 6.5*\vlen);
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+    </sidebyside>
+  </figure>
+
+  <!--<sidebyside widths="45% 45%" margins="2%">
+    <p><em>Free Bass</em></p>
+    <p><em>Treble</em></p>
+  </sidebyside>-->
+
+  ===== Grid Pair 3 ===== -->
+  <figure xml:id="fig-nav-pair-3">
+    <caption>Stacking minor 3rds. A summary</caption>
+    <sidebyside widths="45% 45%" margins="2%">
+
+      <!-- Free Bass keyboard — columns mirrored, bellows right (centre) -->
+      <image xml:id="img-nav-freebass-3">
+        <latex-image>
+\begin{tikzpicture}[scale=0.60, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang) * 1.6}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\gn{1}{1.5}{C}{1}
+\gn{2}{2}{C$\sharp$, D$\flat$}{1}
+\gn{3}{2.5}{D}{1}
+\gn{4}{3}{E$\flat$, D$\sharp$}{1}
+\gn{1}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{2}{3}{E}{0}
+\gn{3}{3.5}{F}{0}
+\gn{4}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{3.5}{G$\flat$, F$\sharp$}{1}
+\gn{2}{4}{G}{0}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{4}{5}{A}{0}
+\gn{1}{4.5}{A}{0}
+\gn{2}{5}{B$\flat$, A$\sharp$}{1}
+\gn{3}{5.5}{B}{0}
+\gn{4}{6}{C}{0}
+\gn{1}{5.5}{C}{0}
+\gn{2}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{D}{1}
+\gn{4}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{2}{7}{E}{0}
+\gn{3}{7.5}{F}{0}
+\gn{4}{8}{G$\flat$, F$\sharp$}{1}
+% Bellows markers (centre)
+\draw[gray, thin] (5.4*\hlen, 2.1*\vlen) -- (5.4*\hlen, 8.5*\vlen);
+\draw[gray, thin] (5.7*\hlen, 2.1*\vlen) -- (5.7*\hlen, 8.5*\vlen);
+\draw[gray, thin] (6.0*\hlen, 2.1*\vlen) -- (6.0*\hlen, 8.5*\vlen);
+% Interval brackets
+\pgfmathsetmacro{\halfnode}{11/72.27*2.54}
+\pgfmathsetmacro{\brgap}{0.04}
+\pgfmathsetmacro{\brarm}{0.25}
+\pgfmathsetmacro{\brarmin}{0.14}
+% Col 1 left: tritone C-F# (2 stacked minor thirds)
+\draw[gray] ({1*\hlen-\halfnode-\brgap}, {1.5*\vlen}) -- ({1*\hlen-\halfnode-\brgap-\brarm}, {1.5*\vlen}) -- ({1*\hlen-\halfnode-\brgap-\brarm}, {3.5*\vlen}) -- ({1*\hlen-\halfnode-\brgap}, {3.5*\vlen});
+% Col 2 left: dim 7th C#-Bb (3 stacked minor thirds)
+\draw[gray] ({2*\hlen-\halfnode-\brgap}, {2.0*\vlen}) -- ({2*\hlen-\halfnode-\brgap-\brarmin}, {2.0*\vlen}) -- ({2*\hlen-\halfnode-\brgap-\brarmin}, {5.0*\vlen}) -- ({2*\hlen-\halfnode-\brgap}, {5.0*\vlen});
+% Col 3 left: octave D-D (4 stacked minor thirds)
+\draw[gray] ({3*\hlen-\halfnode-\brgap}, {2.5*\vlen}) -- ({3*\hlen-\halfnode-\brgap-\brarm}, {2.5*\vlen}) -- ({3*\hlen-\halfnode-\brgap-\brarm}, {6.5*\vlen}) -- ({3*\hlen-\halfnode-\brgap}, {6.5*\vlen});
+% Col 4 left: Eb to high Gb (5 minor thirds)
+\draw[gray] ({4*\hlen-\halfnode-\brgap}, {3.0*\vlen}) -- ({4*\hlen-\halfnode-\brgap-\brarmin}, {3.0*\vlen}) -- ({4*\hlen-\halfnode-\brgap-\brarmin}, {8.0*\vlen}) -- ({4*\hlen-\halfnode-\brgap}, {8.0*\vlen});
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Treble keyboard — no bellows markers -->
+      <image xml:id="img-nav-treble-3">
+        <latex-image>
+\begin{tikzpicture}[scale=0.60, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang) * 1.6}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\gn{5}{1.5}{C}{1}
+\gn{4}{2}{C$\sharp$, D$\flat$}{1}
+\gn{3}{2.5}{D}{1}
+\gn{2}{3}{E$\flat$, D$\sharp$}{1}
+\gn{1}{3.5}{E}{0}
+\gn{5}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{3}{E}{0}
+\gn{3}{3.5}{F}{0}
+\gn{2}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{4.5}{G}{0}
+\gn{5}{3.5}{G$\flat$, F$\sharp$}{1}
+\gn{4}{4}{G}{0}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{2}{5}{A}{0}
+\gn{1}{5.5}{B$\flat$, A$\sharp$}{0}
+\gn{5}{4.5}{A}{0}
+\gn{4}{5}{B$\flat$, A$\sharp$}{1}
+\gn{3}{5.5}{B}{0}
+\gn{2}{6}{C}{0}
+\gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
+\gn{5}{5.5}{C}{0}
+\gn{4}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{D}{1}
+\gn{2}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{7.5}{E}{0}
+\gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{7}{E}{0}
+\gn{3}{7.5}{F}{0}
+\gn{2}{8}{G$\flat$, F$\sharp$}{1}
+\gn{1}{8.5}{G}{0}
+% Interval brackets — right side of each column
+\pgfmathsetmacro{\halfnode}{11/72.27*2.54}
+\pgfmathsetmacro{\brgap}{0.04}
+\pgfmathsetmacro{\brarm}{0.25}
+\pgfmathsetmacro{\brarmin}{0.14}
+% Col 5 right: tritone C-Gb (2 minor thirds)
+\draw[gray] ({5*\hlen+\halfnode+\brgap}, {1.5*\vlen}) -- ({5*\hlen+\halfnode+\brgap+\brarmin}, {1.5*\vlen}) -- ({5*\hlen+\halfnode+\brgap+\brarmin}, {3.5*\vlen}) -- ({5*\hlen+\halfnode+\brgap}, {3.5*\vlen});
+% Col 4 right: dim 7th C#-Bb (3 minor thirds)
+\draw[gray] ({4*\hlen+\halfnode+\brgap}, {2.0*\vlen}) -- ({4*\hlen+\halfnode+\brgap+\brarmin}, {2.0*\vlen}) -- ({4*\hlen+\halfnode+\brgap+\brarmin}, {5.0*\vlen}) -- ({4*\hlen+\halfnode+\brgap}, {5.0*\vlen});
+% Col 3 right: octave D-D (4 minor thirds)
+\draw[gray] ({3*\hlen+\halfnode+\brgap}, {2.5*\vlen}) -- ({3*\hlen+\halfnode+\brgap+\brarm}, {2.5*\vlen}) -- ({3*\hlen+\halfnode+\brgap+\brarm}, {6.5*\vlen}) -- ({3*\hlen+\halfnode+\brgap}, {6.5*\vlen});
+% Col 2 right: Eb to high Gb (5 minor thirds)
+\draw[gray] ({2*\hlen+\halfnode+\brgap}, {3.0*\vlen}) -- ({2*\hlen+\halfnode+\brgap+\brarmin}, {3.0*\vlen}) -- ({2*\hlen+\halfnode+\brgap+\brarmin}, {8.0*\vlen}) -- ({2*\hlen+\halfnode+\brgap}, {8.0*\vlen});
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+    </sidebyside>
+  </figure>
+
+  <!--0<sidebyside widths="45% 45%" margins="2%">
+    <p><em>Free Bass</em></p>
+    <p><em>Treble</em></p>
+  </sidebyside>-->
+
+</section>

@@ -2,7 +2,9 @@
 <chapter xml:id="ch-intervals" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Intervals and the Button Keyboard</title>
   
-  <introduction> <p> Because of the isomorphic nature of the Button Accordion, for any particular interval, the relative button positions remain the same all over the keyboard. It is therefore easy to identify the interval between notes once the physical button relationships are understood </p>
+  <introduction> 
+    <p> An understanding of Intervals and their relative position on the keyboard are an essential requirement in gaining a thorough understanding of the accordion; as well as, in their practice, developing a muscle memory of the relationships on an instrument where you are unable to view the keyboard directly.</p> 
+    <p>Because of the isomorphic nature of the Button Accordion, for any particular interval, the relative button positions remain the same all over the keyboard. It is therefore easy to identify the interval between notes once the physical button relationships are understood </p>
   <p>The next part of this chapter will provide diagrams showing the main intervals as configured on the accordion keyboard.</p>  </introduction>
   
  <section xml:id="sec-intervals">
@@ -544,5 +546,8 @@
   </sidebyside>
 
   </section>
+
+  <xi:include href="sec-intervals-keyboard-navigation.ptx" />
+
 </chapter>
 
