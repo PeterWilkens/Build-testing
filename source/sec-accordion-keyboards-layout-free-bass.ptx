@@ -135,7 +135,7 @@
 }
 \path (\toff+1*\hlen,19*\vlen+\vlen/2+\tyoff) coordinate (T-1-19);
 \path (\toff+3*\hlen,19*\vlen+\vlen/2+\tyoff) coordinate (T-3-19);
-\pgfkeys{/tikz/treb/.style={circle, inner sep=0pt, minimum size=0.80cm,
+\pgfkeys{/tikz/treb/.style={circle, inner sep=0pt, minimum size=0.82cm,
          fill=gray!30, draw=gray!70, line width=0.4pt}}
 \pgfkeys{/tikz/trebacc/.style={treb, fill=gray!55, draw=gray!85}}
 
@@ -272,8 +272,8 @@
 
 
 % Labels
-\node[below] at (2.5*\bhlen, -0.5) {\textit{Free Bass}};
-\node[below] at (\toff+\xmax/2, \tyoff-0.5) {\textit{Treble}};
+\node[below] at (2.5*\bhlen, 1.0) {\textbf{\textit{Free Bass}}};
+\node[below] at (\toff+\xmax/2, \tyoff-0.5) {\textbf{\textit{Treble}}};
 
 \end{tikzpicture}
       </latex-image>
