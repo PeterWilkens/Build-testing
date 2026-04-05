@@ -37,58 +37,40 @@ var ptx_lunr_docs = [
   "body": " High quality Italian Chromatic Button Accordion with Stradella and Free Bass.   High Quality Italian Chromatic Button Accordion with Free Bass and Stradella. The treble side keyboard is configured in the C System.   "
 },
 {
-  "id": "sec-treble-keyboard-layout",
+  "id": "sec-accordion-keyboards-layout-free-bass",
   "level": "1",
-  "url": "sec-treble-keyboard-layout.html",
+  "url": "sec-accordion-keyboards-layout-free-bass.html",
   "type": "Section",
   "number": "2.2",
-  "title": "C System Treble Keyboard",
-  "body": " C System Treble Keyboard   Treble Side Keyboard. Vertical lines represents Bellows      "
+  "title": "C System Accordion Keyboards with Free Bass",
+  "body": " C System Accordion Keyboards with Free Bass  This section shows the complete accordion keyboard in Free Bass configuration. The left (bass) side shows the four chromatic free-bass columns alongside the standard Bass and Counter Bass columns. The right (treble) side is the same C‑system chromatic button layout as Section 2.5. Three faint vertical lines represent the bellows.   Full Accordion Keyboard — Free Bass. Vertical lines represent Bellows.      "
 },
 {
-  "id": "treble-keyboard",
+  "id": "fig-free-bass-accordion-layout",
   "level": "2",
-  "url": "sec-treble-keyboard-layout.html#treble-keyboard",
+  "url": "sec-accordion-keyboards-layout-free-bass.html#fig-free-bass-accordion-layout",
   "type": "Figure",
   "number": "2.2.1",
   "title": "",
-  "body": " Treble Side Keyboard. Vertical lines represents Bellows     "
+  "body": " Full Accordion Keyboard — Free Bass. Vertical lines represent Bellows.     "
 },
 {
-  "id": "sec-free-bass-keyboard-layout",
+  "id": "sec-accordion-keyboards-layout-stradella-bass",
   "level": "1",
-  "url": "sec-free-bass-keyboard-layout.html",
+  "url": "sec-accordion-keyboards-layout-stradella-bass.html",
   "type": "Section",
   "number": "2.3",
-  "title": "C System Free Bass Keyboard Layout",
-  "body": " C System Free Bass Keyboard Layout  The two columns of keys nearest the bellows are the same as the stradella bass layout being bass and counter bass   Free Bass Keyboard. Vertical lines represent Bellows      "
+  "title": "C System Accordion Keyboards with Stradella Bass",
+  "body": " C System Accordion Keyboards with Stradella Bass  This section shows the complete accordion keyboard in Stradella Bass configuration. The left (bass) side shows the standard Bass and Counter Bass columns alongside four additional blank columns reserved for later population. The right (treble) side is the same C‑system chromatic button layout as Section 2.5. Three faint vertical lines represent the bellows.   Full Accordion Keyboard — Stradella Bass. Vertical lines represent Bellows.      "
 },
 {
-  "id": "freebass",
+  "id": "fig-stradella-bass-accordion-layout",
   "level": "2",
-  "url": "sec-free-bass-keyboard-layout.html#freebass",
+  "url": "sec-accordion-keyboards-layout-stradella-bass.html#fig-stradella-bass-accordion-layout",
   "type": "Figure",
   "number": "2.3.1",
   "title": "",
-  "body": " Free Bass Keyboard. Vertical lines represent Bellows     "
-},
-{
-  "id": "sec-stradella-bass-keyboard-layout",
-  "level": "1",
-  "url": "sec-stradella-bass-keyboard-layout.html",
-  "type": "Section",
-  "number": "2.4",
-  "title": "Stradella Bass Keyboard Layout",
-  "body": " Stradella Bass Keyboard Layout  This section will cover the layout of the Stradella bass keyboard and its use in chord and scale construction.   Stradella Bass Keyboard. Vertical lines represent Bellows      "
-},
-{
-  "id": "stradella",
-  "level": "2",
-  "url": "sec-stradella-bass-keyboard-layout.html#stradella",
-  "type": "Figure",
-  "number": "2.4.1",
-  "title": "",
-  "body": " Stradella Bass Keyboard. Vertical lines represent Bellows     "
+  "body": " Full Accordion Keyboard — Stradella Bass. Vertical lines represent Bellows.     "
 },
 {
   "id": "sec-intervals-c-major-scale",
@@ -259,7 +241,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.2",
   "title": "Using Intervals to Navigate the C System Keyboard",
-  "body": " Using Intervals to Navigate the C System Keyboard   Because the C System Free Bass mirrors the arrangement of the Treble keyboard, every interval on the freebass keyboard is a mirror image of the shape on the treble keyboard. The diagrams below show the Free Bass keyboard (left) and the Treble keyboard (right) side by side, as they appear on the accordion. The bellows are indicated by the four vertical lines between the two keyboards. Recognising these physical relationships is important as the player is unable to view the keyboards directly and must rely on tactile feedback and muscle memory to navigate the buttons.  It is also important to recognise the three directions that are used for navigating the buttons of the keyboard. The playing directions are vertical, horizontal and diagonal as shown below. This aspect of the accordion will be discussed further in this chapter.     Playing Directions on each keyboard                The Vertical Direction   Now considering first the vertical direction. The treble keyboard has 5 vertical columns and the freebass keyboard has 4 useable vertical columns. Any 2 immediately adjacent vertical buttons on either keyboard, played together, form a minor third eg; C and E , D and F, E and G, F and A , G and B etc.  If a 2nd minor third is stacked on top of the first this forms a tritone (an interval consisting of 3 whole tones). For example C to E to G , D to F to A . The tritone being the interval between C and G , D and A etc.  Continuing in a vertical direction adding a third minor third gives a minor 6th interval eg: C to A, D to B etc; Adding a fourth minor third forms a perfect octave: C to C, C to C etc.              ===== Grid Pair 3 ===== -->  Stacking minor 3rds. A summary              "
+  "body": " Using Intervals to Navigate the C System Keyboard   Because the C System Free Bass mirrors the arrangement of the Treble keyboard, every interval on the freebass keyboard is a mirror image of the shape on the treble keyboard. The diagrams below show the Free Bass keyboard (left) and the Treble keyboard (right) side by side, as they appear on the accordion. The bellows are indicated by the four vertical lines between the two keyboards. Recognising these physical relationships is important as the player is unable to view the keyboards directly and must rely on tactile feedback and muscle memory to navigate the buttons.  It is also important to recognise the four directions that are used for navigating the buttons of the keyboard. The playing directions are vertical, horizontal and diagonal as shown below. This aspect of the accordion will be discussed further in this chapter.     Playing Directions on each keyboard                The Vertical Direction   Now considering first the vertical direction. The treble keyboard has 5 vertical columns and the freebass keyboard has 4 useable vertical columns. Any 2 immediately adjacent vertical buttons on either keyboard, played together, form a minor third eg; C and E , D and F, E and G, F and A , G and B etc.  If a 2nd minor third is stacked on top of the first this forms a tritone (an interval consisting of 3 whole tones). For example C to E to G , D to F to A . The tritone being the interval between C and G , D and A etc.  Continuing in a vertical direction adding a third minor third gives a minor 6th interval eg: C to A, D to B etc; Adding a fourth minor third forms a perfect octave: C to C, C to C etc.              ===== Grid Pair 3 ===== -->  Stacking minor 3rds. A summary              "
 },
 {
   "id": "fig-nav-pair-1",
