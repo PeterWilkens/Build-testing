@@ -12,7 +12,7 @@
       by the four vertical lines between the two keyboards. Recognising these physical relationships is important as the player is unable to view the keyboards directly and must rely on tactile feedback and muscle memory to navigate the buttons.
      
     </p>
-    <p>It is also important to recognise the three directions that are used for navigating the buttons of the keyboard. The playing directions are vertical, horizontal and diagonal as shown below. This aspect of the accordion will be discussed further in this chapter.
+    <p>It is also important to recognise the four directions that are used for navigating the buttons of the keyboard. The playing directions are vertical, horizontal and diagonal as shown below. This aspect of the accordion will be discussed further in this chapter.
     </p> 
   </introduction>
 
@@ -72,6 +72,8 @@
 \draw[gray, very thick, ->] ({1*\hlen + \noderadius}, {2.5*\vlen}) -- ({3*\hlen - \noderadius}, {2.5*\vlen});
 % 3. Diagonal: start at lower-right boundary of Eb, end at lower-left boundary of Gfl
 \draw[gray, very thick, ->] ({1*\hlen + sqrt(3)/2*\noderadius}, {2.5*\vlen + 0.5*\noderadius}) -- ({4*\hlen - sqrt(3)/2*\noderadius}, {4.0*\vlen - 0.5*\noderadius});
+% 4. Diagonal mirror: from Gfl (col 4, row 4.0) to Efl top (col 1, row 6.5), arrowhead at Efl
+\draw[gray, very thick, ->] ({4*\hlen - 3*sqrt(3)/2/sqrt(13)*\noderadius}, {4.0*\vlen + 2.5/sqrt(13)*\noderadius}) -- ({1*\hlen + 3*sqrt(3)/2/sqrt(13)*\noderadius}, {6.5*\vlen - 2.5/sqrt(13)*\noderadius});
 \end{tikzpicture}
 
         </latex-image>
@@ -129,6 +131,8 @@
 \draw[gray, very thick, ->] ({5*\hlen - \noderadius}, {2.5*\vlen}) -- ({3*\hlen + \noderadius}, {2.5*\vlen});
 % 3. Diagonal: start at lower-left boundary of Eb, end at lower-right boundary of G
 \draw[gray, very thick, ->] ({5*\hlen - sqrt(3)/2*\noderadius}, {2.5*\vlen + 0.5*\noderadius}) -- ({1*\hlen + sqrt(3)/2*\noderadius}, {4.5*\vlen - 0.5*\noderadius});
+% 4. Diagonal: from G (col 1, row 4.5) to Efl top (col 5, row 6.5), arrowhead at Efl
+\draw[gray, very thick, ->] ({1*\hlen + sqrt(3)/2*\noderadius}, {4.5*\vlen + 0.5*\noderadius}) -- ({5*\hlen - sqrt(3)/2*\noderadius}, {6.5*\vlen - 0.5*\noderadius});
 \end{tikzpicture}
         </latex-image>
       </image>
@@ -326,6 +330,20 @@
 \draw[gray] ({3*\hlen-\halfnode-\brgap}, {2.5*\vlen}) -- ({3*\hlen-\halfnode-\brgap-\brarm}, {2.5*\vlen}) -- ({3*\hlen-\halfnode-\brgap-\brarm}, {6.5*\vlen}) -- ({3*\hlen-\halfnode-\brgap}, {6.5*\vlen});
 % Col 4 left: Eb to high Gb (5 minor thirds)
 \draw[gray] ({4*\hlen-\halfnode-\brgap}, {3.0*\vlen}) -- ({4*\hlen-\halfnode-\brgap-\brarmin}, {3.0*\vlen}) -- ({4*\hlen-\halfnode-\brgap-\brarmin}, {8.0*\vlen}) -- ({4*\hlen-\halfnode-\brgap}, {8.0*\vlen});
+% Bracket labels with light leader lines (midpoint of each arm)
+\pgfmathsetmacro{\lbloff}{0.08}
+% Col 1 label: Tritone
+\draw[lightgray, very thin] ({1*\hlen-\halfnode-\brgap-\brarm}, {2.5*\vlen}) -- ({1*\hlen-\halfnode-\brgap-\brarm-\lbloff}, {2.5*\vlen});
+\node[rotate=90, font=\tiny, text=gray] at ({1*\hlen-\halfnode-\brgap-\brarm-\lbloff}, {2.5*\vlen}) {Tritone};
+% Col 2 label: 6th
+\draw[lightgray, very thin] ({2*\hlen-\halfnode-\brgap-\brarmin}, {3.5*\vlen}) -- ({2*\hlen-\halfnode-\brgap-\brarmin-\lbloff}, {3.5*\vlen});
+\node[rotate=90, font=\tiny, text=gray] at ({2*\hlen-\halfnode-\brgap-\brarmin-\lbloff}, {3.5*\vlen}) {6th};
+% Col 3 label: Octave
+\draw[lightgray, very thin] ({3*\hlen-\halfnode-\brgap-\brarm}, {4.5*\vlen}) -- ({3*\hlen-\halfnode-\brgap-\brarm-\lbloff}, {4.5*\vlen});
+\node[rotate=90, font=\tiny, text=gray] at ({3*\hlen-\halfnode-\brgap-\brarm-\lbloff}, {4.5*\vlen}) {Octave};
+% Col 4 label: Min 10th
+\draw[lightgray, very thin] ({4*\hlen-\halfnode-\brgap-\brarmin}, {5.5*\vlen}) -- ({4*\hlen-\halfnode-\brgap-\brarmin-\lbloff}, {5.5*\vlen});
+\node[rotate=90, font=\tiny, text=gray] at ({4*\hlen-\halfnode-\brgap-\brarmin-\lbloff}, {5.5*\vlen}) {Min 10th};
 \end{tikzpicture}
         </latex-image>
       </image>
@@ -387,6 +405,20 @@
 \draw[gray] ({3*\hlen+\halfnode+\brgap}, {2.5*\vlen}) -- ({3*\hlen+\halfnode+\brgap+\brarm}, {2.5*\vlen}) -- ({3*\hlen+\halfnode+\brgap+\brarm}, {6.5*\vlen}) -- ({3*\hlen+\halfnode+\brgap}, {6.5*\vlen});
 % Col 2 right: Eb to high Gb (5 minor thirds)
 \draw[gray] ({2*\hlen+\halfnode+\brgap}, {3.0*\vlen}) -- ({2*\hlen+\halfnode+\brgap+\brarmin}, {3.0*\vlen}) -- ({2*\hlen+\halfnode+\brgap+\brarmin}, {8.0*\vlen}) -- ({2*\hlen+\halfnode+\brgap}, {8.0*\vlen});
+% Bracket labels with light leader lines (midpoint of each arm)
+\pgfmathsetmacro{\lbloff}{0.08}
+% Col 5 label: Tritone
+\draw[lightgray, very thin] ({5*\hlen+\halfnode+\brgap+\brarmin}, {2.5*\vlen}) -- ({5*\hlen+\halfnode+\brgap+\brarmin+\lbloff}, {2.5*\vlen});
+\node[rotate=90, font=\tiny, text=gray] at ({5*\hlen+\halfnode+\brgap+\brarmin+\lbloff}, {2.5*\vlen}) {Tritone};
+% Col 4 label: 6th
+\draw[lightgray, very thin] ({4*\hlen+\halfnode+\brgap+\brarmin}, {3.5*\vlen}) -- ({4*\hlen+\halfnode+\brgap+\brarmin+\lbloff}, {3.5*\vlen});
+\node[rotate=90, font=\tiny, text=gray] at ({4*\hlen+\halfnode+\brgap+\brarmin+\lbloff}, {3.5*\vlen}) {6th};
+% Col 3 label: Octave
+\draw[lightgray, very thin] ({3*\hlen+\halfnode+\brgap+\brarm}, {4.5*\vlen}) -- ({3*\hlen+\halfnode+\brgap+\brarm+\lbloff}, {4.5*\vlen});
+\node[rotate=90, font=\tiny, text=gray] at ({3*\hlen+\halfnode+\brgap+\brarm+\lbloff}, {4.5*\vlen}) {Octave};
+% Col 2 label: Min 10th
+\draw[lightgray, very thin] ({2*\hlen+\halfnode+\brgap+\brarmin}, {5.5*\vlen}) -- ({2*\hlen+\halfnode+\brgap+\brarmin+\lbloff}, {5.5*\vlen});
+\node[rotate=90, font=\tiny, text=gray] at ({2*\hlen+\halfnode+\brgap+\brarmin+\lbloff}, {5.5*\vlen}) {Min 10th};
 \end{tikzpicture}
         </latex-image>
       </image>

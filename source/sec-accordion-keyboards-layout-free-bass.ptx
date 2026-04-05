@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-accordion-keyboards-layout-free-bass" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>C System Accordion Keyboards with Free Bass</title>
+  <p>
+    This section shows the complete accordion keyboard in Free Bass configuration.
+    The left (bass) side shows the four chromatic free-bass columns alongside the
+    standard Bass and Counter Bass columns. The right (treble) side is the same
+    C&#x2011;system chromatic button layout as Section 2.5. Three faint vertical
+    lines represent the bellows.
+  </p>
+
+  <figure xml:id="fig-free-bass-accordion-layout">
+    <caption>Full Accordion Keyboard &#x2014; Free Bass. Vertical lines represent Bellows.</caption>
+    <image xml:id="img-free-bass-accordion-layout">
+      <latex-image>
+\begin{tikzpicture}[font=\tiny]
+
+%----------------------------------------------------------------------
+% BASS SIDE  –  6 cols x 20 rows = 120 buttons
+%   Cols 0-3 : Free Bass (chromatic, start Eb2 bottom-left)
+%   Cols 4-5 : Stradella Bass / Counter Bass (unchanged)
+\pgfmathsetmacro{\bvlen}{0.90}
+\pgfmathsetmacro{\bisoangle}{60}
+\pgfmathsetmacro{\bang}{\bisoangle/2}
+\pgfmathsetmacro{\bhlen}{(\bvlen/2)/tan(\bang)}
+\pgfmathsetmacro{\byoff}{0.75}
+
+\foreach \bi in {0,1,...,5} {
+  \pgfmathsetmacro{\bff}{mod(\bi,2)==0?0:\bvlen/2}
+  \foreach \bj in {1,...,22} {
+    \path (\bi*\bhlen,\bj*\bvlen+\bff+\byoff) coordinate (B-\bi-\bj);
+  }
+}
+
+
+\pgfkeys{/tikz/bass/.style={circle, inner sep=0pt, minimum size=0.75cm,
+         fill=gray!30, draw=gray!70, line width=0.4pt}}
+
+% 20 rows with diagonal top and bottom edges, stepping by column pairs
+\foreach \r/\nzero/\none/\ntwo/\nthree in {
+  1/{E$\flat$2}/{E}/{F}/{G$\flat$},
+  2/{G$\flat$}/{G}/{G$\sharp$}/{A},
+  3/{A}/{B$\flat$}/{B}/{C},
+  4/{C}/{C$\sharp$}/{D}/{E$\flat$},
+  5/{E$\flat$}/{E}/{F}/{G$\flat$},
+  6/{G$\flat$}/{G}/{G$\sharp$}/{A},
+  7/{A}/{B$\flat$}/{B}/{C},
+  8/{C}/{C$\sharp$}/{D}/{E$\flat$},
+  9/{E$\flat$}/{E}/{F}/{G$\flat$},
+  10/{G$\flat$}/{G}/{G$\sharp$}/{A},
+  11/{A}/{B$\flat$}/{B}/{C},
+  12/{C}/{C$\sharp$}/{D}/{E$\flat$},
+  13/{E$\flat$}/{E}/{F}/{G$\flat$},
+  14/{G$\flat$}/{G}/{G$\sharp$}/{A},
+  15/{A}/{B$\flat$}/{B}/{C},
+  16/{C}/{C$\sharp$}/{D}/{E$\flat$},
+  17/{E$\flat$}/{E}/{F}/{G$\flat$},
+  18/{G$\flat$}/{G}/{G$\sharp$}/{A},
+  19/{A}/{B$\flat$}/{B}/{C},
+  20/{C}/{C$\sharp$}/{D}/{E$\flat$}
+} {
+  \pgfmathtruncatemacro{\rdiag}{\r+1}
+  \node[bass] at (B-0-\r) {\nzero};
+  \node[bass] at (B-1-\r) {\none};
+  \node[bass] at (B-2-\rdiag) {\ntwo};
+  \node[bass] at (B-3-\rdiag) {\nthree};
+}
+\node[bass] at (B-4-3) {F};
+\node[bass] at (B-4-4) {B$\flat$};
+\node[bass] at (B-4-5) {E$\flat$};
+\node[bass] at (B-4-6) {A$\flat$};
+\node[bass] at (B-4-7) {D$\flat$};
+\node[bass] at (B-4-8) {G$\flat$};
+\node[bass] at (B-4-9) {B};
+\node[bass] at (B-4-10) {E};
+\node[bass] at (B-4-11) {A};
+\node[bass] at (B-4-12) {D};
+\node[bass] at (B-4-13) {G};
+\node[bass] at (B-4-14) {C};
+\node[bass] at (B-4-15) {F};
+\node[bass] at (B-4-16) {B$\flat$};
+\node[bass] at (B-4-17) {E$\flat$};
+\node[bass] at (B-4-18) {A$\flat$};
+\node[bass] at (B-4-19) {D$\flat$};
+\node[bass] at (B-4-20) {G$\flat$};
+\node[bass] at (B-4-21) {B};
+\node[bass] at (B-4-22) {E};
+\node[bass] at (B-5-3) {A};
+\node[bass] at (B-5-4) {D};
+\node[bass] at (B-5-5) {G};
+\node[bass] at (B-5-6) {C};
+\node[bass] at (B-5-7) {F};
+\node[bass] at (B-5-8) {B$\flat$};
+\node[bass] at (B-5-9) {E$\flat$};
+\node[bass] at (B-5-10) {A$\flat$};
+\node[bass] at (B-5-11) {D$\flat$};
+\node[bass] at (B-5-12) {F$\sharp$};
+\node[bass] at (B-5-13) {B};
+\node[bass] at (B-5-14) {E};
+\node[bass] at (B-5-15) {A};
+\node[bass] at (B-5-16) {D};
+\node[bass] at (B-5-17) {G};
+\node[bass] at (B-5-18) {C};
+\node[bass] at (B-5-19) {F};
+\node[bass] at (B-5-20) {B$\flat$};
+\node[bass] at (B-5-21) {E$\flat$};
+\node[bass] at (B-5-22) {A$\flat$};
+%----------------------------------------------------------------------
+% BELLOWS  –  2 faint vertical lines centred between keyboards
+%----------------------------------------------------------------------
+\draw[lightgray, thin] (4.60, 2.0) -- (4.60, 20.0);
+\draw[lightgray, thin] (4.90, 2.0) -- (4.90, 20.0);
+
+%----------------------------------------------------------------------
+% TREBLE KEYBOARD  –  C-system, 5 cols x 19 rows
+%----------------------------------------------------------------------
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{19}
+\pgfmathsetmacro{\hh}{4}
+\pgfmathsetmacro{\vlen}{0.90}
+\pgfmathsetmacro{\toff}{5.6}
+
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\tyoff}{2.25}
+
+\foreach \i in {0,1,...,\hh} {
+    \pgfmathsetmacro{\jj}{mod(\i,2)==0?\vv:\vv-1}
+    \pgfmathsetmacro{\ff}{mod(\i,2)==0?0:\vlen/2}
+    \foreach \j in {0,1,...,\jj} {
+        \path (\toff+\i*\hlen,\j*\vlen+\ff+\tyoff) coordinate (T-\i-\j);
+    }
+}
+\path (\toff+1*\hlen,19*\vlen+\vlen/2+\tyoff) coordinate (T-1-19);
+\path (\toff+3*\hlen,19*\vlen+\vlen/2+\tyoff) coordinate (T-3-19);
+\pgfkeys{/tikz/treb/.style={circle, inner sep=0pt, minimum size=0.80cm,
+         fill=gray!30, draw=gray!70, line width=0.4pt}}
+\pgfkeys{/tikz/trebacc/.style={treb, fill=gray!55, draw=gray!85}}
+
+% Treble row 1
+\node[treb] at (T-4-1) {C};
+\node[trebacc] at (T-3-1) {C$\sharp$,D$\flat$};
+\node[treb] at (T-2-1) {B};
+\node[treb] at (T-1-1) {C};
+\node[trebacc] at (T-0-1) {B$\flat$,A$\sharp$};
+
+% Treble row 2
+\node[trebacc] at (T-4-2) {E$\flat$,D$\sharp$};
+\node[treb] at (T-3-2) {E};
+\node[treb] at (T-2-2) {D};
+\node[trebacc] at (T-1-2) {E$\flat$,D$\sharp$};
+\node[trebacc] at (T-0-2) {C$\sharp$,D$\flat$};
+
+% Treble row 3
+\node[trebacc] at (T-4-3) {G$\flat$,F$\sharp$};
+\node[treb] at (T-3-3) {G};
+\node[treb] at (T-2-3) {F};
+\node[trebacc] at (T-1-3) {G$\flat$,F$\sharp$};
+\node[treb] at (T-0-3) {E};
+
+% Treble row 4
+\node[treb] at (T-4-4) {A};
+\node[trebacc] at (T-3-4) {B$\flat$,A$\sharp$};
+\node[trebacc] at (T-2-4) {A$\flat$,G$\sharp$};
+\node[treb] at (T-1-4) {A};
+\node[treb] at (T-0-4) {G};
+
+% Treble row 5
+\node[treb] at (T-4-5) {C};
+\node[trebacc] at (T-3-5) {C$\sharp$,D$\flat$};
+\node[treb] at (T-2-5) {B};
+\node[treb] at (T-1-5) {C};
+\node[trebacc] at (T-0-5) {B$\flat$,A$\sharp$};
+
+% Treble row 6
+\node[trebacc] at (T-4-6) {E$\flat$,D$\sharp$};
+\node[treb] at (T-3-6) {E};
+\node[treb] at (T-2-6) {D};
+\node[trebacc] at (T-1-6) {E$\flat$,D$\sharp$};
+\node[trebacc] at (T-0-6) {C$\sharp$,D$\flat$};
+
+% Treble row 7
+\node[trebacc] at (T-4-7) {G$\flat$,F$\sharp$};
+\node[treb] at (T-3-7) {G};
+\node[treb] at (T-2-7) {F};
+\node[trebacc] at (T-1-7) {G$\flat$,F$\sharp$};
+\node[treb] at (T-0-7) {E};
+
+% Treble row 8
+\node[treb] at (T-4-8) {A};
+\node[trebacc] at (T-3-8) {B$\flat$,A$\sharp$};
+\node[trebacc] at (T-2-8) {A$\flat$,G$\sharp$};
+\node[treb] at (T-1-8) {A};
+\node[treb] at (T-0-8) {G};
+
+% Treble row 9
+\node[treb] at (T-4-9) {C};
+\node[trebacc] at (T-3-9) {C$\sharp$,D$\flat$};
+\node[treb] at (T-2-9) {B};
+\node[treb] at (T-1-9) {C};
+\node[trebacc] at (T-0-9) {B$\flat$,A$\sharp$};
+
+% Treble row 10
+\node[trebacc] at (T-4-10) {E$\flat$,D$\sharp$};
+\node[treb] at (T-3-10) {E};
+\node[treb] at (T-2-10) {D};
+\node[trebacc] at (T-1-10) {E$\flat$,D$\sharp$};
+\node[trebacc] at (T-0-10) {C$\sharp$,D$\flat$};
+
+% Treble row 11
+\node[trebacc] at (T-4-11) {G$\flat$,F$\sharp$};
+\node[treb] at (T-3-11) {G};
+\node[treb] at (T-2-11) {F};
+\node[trebacc] at (T-1-11) {G$\flat$,F$\sharp$};
+\node[treb] at (T-0-11) {E};
+
+% Treble row 12
+\node[treb] at (T-4-12) {A};
+\node[trebacc] at (T-3-12) {B$\flat$,A$\sharp$};
+\node[trebacc] at (T-2-12) {A$\flat$,G$\sharp$};
+\node[treb] at (T-1-12) {A};
+\node[treb] at (T-0-12) {G};
+
+% Treble row 13
+\node[treb] at (T-4-13) {C};
+\node[trebacc] at (T-3-13) {C$\sharp$,D$\flat$};
+\node[treb] at (T-2-13) {B};
+\node[treb] at (T-1-13) {C};
+\node[trebacc] at (T-0-13) {B$\flat$,A$\sharp$};
+
+% Treble row 14
+\node[trebacc] at (T-4-14) {E$\flat$,D$\sharp$};
+\node[treb] at (T-3-14) {E};
+\node[treb] at (T-2-14) {D};
+\node[trebacc] at (T-1-14) {E$\flat$,D$\sharp$};
+\node[trebacc] at (T-0-14) {C$\sharp$,D$\flat$};
+
+% Treble row 15
+\node[trebacc] at (T-4-15) {G$\flat$,F$\sharp$};
+\node[treb] at (T-3-15) {G};
+\node[treb] at (T-2-15) {F};
+\node[trebacc] at (T-1-15) {G$\flat$,F$\sharp$};
+\node[treb] at (T-0-15) {E};
+
+% Treble row 16
+\node[treb] at (T-4-16) {A};
+\node[trebacc] at (T-3-16) {B$\flat$,A$\sharp$};
+\node[trebacc] at (T-2-16) {A$\flat$,G$\sharp$};
+\node[treb] at (T-1-16) {A};
+\node[treb] at (T-0-16) {G};
+
+% Treble row 17
+\node[treb] at (T-4-17) {C};
+\node[trebacc] at (T-3-17) {C$\sharp$,D$\flat$};
+\node[treb] at (T-2-17) {B};
+\node[treb] at (T-1-17) {C};
+\node[trebacc] at (T-0-17) {B$\flat$,A$\sharp$};
+
+% Treble row 18
+\node[trebacc] at (T-4-18) {E$\flat$,D$\sharp$};
+\node[treb] at (T-3-18) {E};
+\node[treb] at (T-2-18) {D};
+\node[trebacc] at (T-1-18) {E$\flat$,D$\sharp$};
+\node[trebacc] at (T-0-18) {C$\sharp$,D$\flat$};
+
+% Treble row 19
+\node[trebacc] at (T-4-19) {G$\flat$,F$\sharp$};
+\node[treb] at (T-2-19) {F};
+\node[treb] at (T-0-19) {E};
+
+
+% Labels
+\node[below] at (2.5*\bhlen, -0.5) {\textit{Free Bass}};
+\node[below] at (\toff+\xmax/2, \tyoff-0.5) {\textit{Treble}};
+
+\end{tikzpicture}
+      </latex-image>
+    </image>
+  </figure>
+
+</section>
