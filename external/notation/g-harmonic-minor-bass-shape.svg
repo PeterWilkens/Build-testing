@@ -1,0 +1,581 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="240.00mm" height="72.00mm" viewBox="0.0000 -0.0000 227.6220 68.2866">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(1.8969, 8.4484)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="55.5956" y2="0"/>
+</g>
+<g transform="translate(1.8969, 7.4484)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="55.5956" y2="0"/>
+</g>
+<g transform="translate(1.8969, 6.4484)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="55.5956" y2="0"/>
+</g>
+<g transform="translate(1.8969, 5.4484)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="55.5956" y2="0"/>
+</g>
+<g transform="translate(1.8969, 4.4484)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="55.5956" y2="0"/>
+</g>
+<g transform="translate(34.2122, 6.4484)">
+<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(47.2234, 6.4484)">
+<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(21.2553, 6.4484)">
+<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(57.2912, 6.4484)">
+<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(56.5865, 6.4484)">
+<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(1.8969, 3.4484)">
+<rect x="52.4459" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+</g>
+<g transform="translate(1.8969, 3.4484)">
+<rect x="49.6407" y="-0.1219" width="1.7930" height="0.2438" ry="0.1219" fill="currentColor"/>
+</g>
+<g transform="translate(1.8969, 9.4484)">
+<rect x="10.3408" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+</g>
+<g transform="translate(1.8969, 9.4484)">
+<rect x="7.4427" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:50:37:38">
+<g transform="translate(41.3715, 4.9484)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:6:46:47">
+<g transform="translate(40.7668, 12.4654)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>11</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(41.4650, 6.4484)">
+<rect x="-0.0935" y="-1.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:50:39:40">
+<g transform="translate(44.3254, 4.4484)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:6:51:52">
+<g transform="translate(43.7207, 12.4654)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>12</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(44.4189, 6.4484)">
+<rect x="-0.0935" y="-1.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:50:41:42">
+<g transform="translate(48.5681, 3.9484)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:6:56:57">
+<g transform="translate(47.9634, 12.4654)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>13</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(48.6616, 6.4484)">
+<rect x="-0.0935" y="-2.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:6:36:37">
+<g transform="translate(35.5409, 12.4654)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>9</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(35.6131, 6.4484)">
+<rect x="-0.0935" y="-0.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:50:35:36">
+<g transform="translate(38.4177, 5.4484)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:6:41:42">
+<g transform="translate(37.8130, 12.4654)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>10</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(38.5112, 6.4484)">
+<rect x="-0.0935" y="-0.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<g transform="translate(51.8060, 6.4484)">
+<rect x="-0.0935" y="-2.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:50:45:46">
+<g transform="translate(51.7125, 3.4484)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:6:61:62">
+<g transform="translate(51.1078, 12.4654)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>14</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(50.2625, 3.4484)">
+<path transform="scale(0.0040, -0.0040)" d="M0 112c0 13 8 25 20 30l34 13v148c0 13 10 24 23 24s24 -11 24 -24v-129l73 29v148c0 13 11 24 24 24s23 -11 23 -24v-129l10 4c4 2 8 2 12 2c17 0 32 -14 32 -32v-46c0 -13 -8 -24 -20 -29l-34 -14v-148l10 4c4 2 8 3 12 3c17 0 32 -14 32 -32v-46c0 -13 -8 -25 -20 -30
+l-34 -13v-148c0 -13 -10 -24 -23 -24s-24 11 -24 24v129l-73 -29v-148c0 -13 -11 -24 -24 -24s-23 11 -23 24v129l-10 -4c-4 -2 -8 -2 -12 -2c-17 0 -32 14 -32 32v46c0 13 8 24 20 29l34 14v148l-10 -4c-4 -2 -8 -3 -12 -3c-17 0 -32 14 -32 32v46zM174 89l-73 -30v-148
+l73 30v148z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:50:50:51">
+<g transform="translate(54.6664, 2.9484)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:6:66:67">
+<g transform="translate(54.0616, 12.4654)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>15</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(54.7598, 6.4484)">
+<rect x="-0.0935" y="-3.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<g transform="translate(10.8641, 6.4484)">
+<rect x="-0.0935" y="-0.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:6:4:5">
+<g transform="translate(9.6844, 12.4654)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:50:19:20">
+<g transform="translate(18.3573, 4.9484)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:6:16:17">
+<g transform="translate(18.3785, 12.4654)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(18.4508, 6.4484)">
+<rect x="-0.0935" y="-1.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:50:33:34">
+<g transform="translate(35.5197, 5.9484)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:50:21:22">
+<g transform="translate(22.6200, 4.4484)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:6:20:21">
+<g transform="translate(22.6412, 12.4654)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(22.7135, 6.4484)">
+<rect x="-0.0935" y="-1.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:6:8:9">
+<g transform="translate(12.5824, 12.4654)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:50:14:15">
+<g transform="translate(12.5612, 9.4484)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(13.7621, 6.4484)">
+<rect x="-0.0935" y="-0.5000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:50:17:18">
+<g transform="translate(15.4593, 5.4484)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:6:12:13">
+<g transform="translate(15.4805, 12.4654)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(15.5527, 6.4484)">
+<rect x="-0.0935" y="-0.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:50:27:28">
+<g transform="translate(28.4161, 6.9484)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:6:28:29">
+<g transform="translate(28.4373, 12.4654)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>7</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(29.6170, 6.4484)">
+<rect x="-0.0935" y="-3.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<g transform="translate(26.9661, 6.9484)">
+<path transform="scale(0.0040, -0.0040)" d="M0 112c0 13 8 25 20 30l34 13v148c0 13 10 24 23 24s24 -11 24 -24v-129l73 29v148c0 13 11 24 24 24s23 -11 23 -24v-129l10 4c4 2 8 2 12 2c17 0 32 -14 32 -32v-46c0 -13 -8 -24 -20 -29l-34 -14v-148l10 4c4 2 8 3 12 3c17 0 32 -14 32 -32v-46c0 -13 -8 -25 -20 -30
+l-34 -13v-148c0 -13 -10 -24 -23 -24s-24 11 -24 24v129l-73 -29v-148c0 -13 -11 -24 -24 -24s-23 11 -23 24v129l-10 -4c-4 -2 -8 -2 -12 -2c-17 0 -32 14 -32 32v46c0 13 8 24 20 29l34 14v148l-10 -4c-4 -2 -8 -3 -12 -3c-17 0 -32 14 -32 32v46zM174 89l-73 -30v-148
+l73 30v148z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:50:31:32">
+<g transform="translate(31.3141, 6.4484)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:6:32:33">
+<g transform="translate(31.3354, 12.4654)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>8</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(31.4076, 6.4484)">
+<rect x="-0.0935" y="0.1504" width="0.1870" height="3.1829" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:50:10:11">
+<g transform="translate(9.6632, 9.9484)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:47:6:7">
+<g transform="translate(6.3632, 7.4484)">
+<path transform="scale(0.0040, -0.0040)" d="M34 33l-1 -58v-10c0 -21 2 -43 5 -64c41 38 85 80 85 136c0 31 -13 63 -40 63c-31 0 -48 -33 -49 -67zM32 441l-8 -333c25 27 60 42 97 42c49 0 79 -52 79 -106c0 -76 -78 -117 -133 -169c-19 -18 -27 -52 -55 -52c-17 0 -30 17 -30 35l-14 583c10 6 21 9 32 9
+s22 -3 32 -9z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(2.6969, 5.4484)">
+<path transform="scale(0.0040, -0.0040)" d="M559 -125c0 27 22 49 49 49s49 -22 49 -49s-22 -49 -49 -49s-49 22 -49 49zM559 125c0 27 22 49 49 49s49 -22 49 -49s-22 -49 -49 -49s-49 22 -49 49zM229 267c174 0 296 -90 296 -255c0 -263 -262 -415 -513 -524c-4 -4 -8 -6 -12 -6c-9 0 -18 9 -18 18c0 4 2 8 6 12
+c198 117 403 264 403 489c0 117 -57 232 -162 232c-65 0 -107 -50 -128 -115c4 1 7 1 11 1c55 0 100 -45 100 -100c0 -58 -44 -107 -100 -107c-60 0 -112 48 -112 107c0 134 99 248 229 248z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:50:23:24">
+<g transform="translate(25.5180, 3.9484)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:6:24:25">
+<g transform="translate(25.5393, 12.4654)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>6</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(25.6115, 6.4484)">
+<rect x="-0.0935" y="-2.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<g transform="translate(1.8969, 27.4931)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.4958" y2="0"/>
+</g>
+<g transform="translate(1.8969, 26.4931)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.4958" y2="0"/>
+</g>
+<g transform="translate(1.8969, 25.4931)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.4958" y2="0"/>
+</g>
+<g transform="translate(1.8969, 24.4931)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.4958" y2="0"/>
+</g>
+<g transform="translate(1.8969, 23.4931)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.4958" y2="0"/>
+</g>
+<g transform="translate(34.4585, 25.4931)">
+<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(48.4855, 25.4931)">
+<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(21.5017, 25.4931)">
+<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(58.1913, 25.4931)">
+<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(57.4866, 25.4931)">
+<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(1.8969, 28.4931)">
+<rect x="53.3460" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+</g>
+<g transform="translate(1.8969, 28.4931)">
+<rect x="50.3922" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+</g>
+<g transform="translate(1.8969, 22.4931)">
+<rect x="10.7357" y="-0.1219" width="1.7930" height="0.2438" ry="0.1219" fill="currentColor"/>
+</g>
+<g transform="translate(1.8969, 22.4931)">
+<rect x="7.4427" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+</g>
+<g transform="translate(46.7884, 25.4931)">
+<rect x="-0.0935" y="-1.5000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:66:42:43">
+<g transform="translate(42.6336, 26.9931)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:10:46:47">
+<g transform="translate(42.0289, 31.5101)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>11</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(43.8346, 25.4931)">
+<rect x="-0.0935" y="-2.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:66:45:46">
+<g transform="translate(45.5875, 27.4931)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:10:51:52">
+<g transform="translate(44.9828, 31.5101)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>12</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:66:48:49">
+<g transform="translate(49.6588, 27.9931)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:10:56:57">
+<g transform="translate(49.0541, 31.5101)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>13</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(35.3318, 25.9931)">
+<path transform="scale(0.0040, -0.0040)" d="M0 112c0 13 8 25 20 30l34 13v148c0 13 10 24 23 24s24 -11 24 -24v-129l73 29v148c0 13 11 24 24 24s23 -11 23 -24v-129l10 4c4 2 8 2 12 2c17 0 32 -14 32 -32v-46c0 -13 -8 -24 -20 -29l-34 -14v-148l10 4c4 2 8 3 12 3c17 0 32 -14 32 -32v-46c0 -13 -8 -25 -20 -30
+l-34 -13v-148c0 -13 -10 -24 -23 -24s-24 11 -24 24v129l-73 -29v-148c0 -13 -11 -24 -24 -24s-23 11 -23 24v129l-10 -4c-4 -2 -8 -2 -12 -2c-17 0 -32 14 -32 32v46c0 13 8 24 20 29l34 14v148l-10 -4c-4 -2 -8 -3 -12 -3c-17 0 -32 14 -32 32v46zM174 89l-73 -30v-148
+l73 30v148z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:10:36:37">
+<g transform="translate(36.8030, 31.5101)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>9</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(37.9827, 25.4931)">
+<rect x="-0.0935" y="-3.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<g transform="translate(50.8597, 25.4931)">
+<rect x="-0.0935" y="-1.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:66:37:38">
+<g transform="translate(39.6798, 26.4931)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:10:41:42">
+<g transform="translate(39.0751, 31.5101)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>10</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(40.8807, 25.4931)">
+<rect x="-0.0935" y="-2.5000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:66:51:52">
+<g transform="translate(52.6126, 28.4931)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:10:61:62">
+<g transform="translate(52.0079, 31.5101)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>14</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(53.8135, 25.4931)">
+<rect x="-0.0935" y="-0.5000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:66:54:55">
+<g transform="translate(55.5665, 28.9931)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:10:66:67">
+<g transform="translate(54.9617, 31.5101)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>15</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(56.7674, 25.4931)">
+<rect x="-0.0935" y="-0.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<g transform="translate(15.7991, 25.4931)">
+<rect x="-0.0935" y="-2.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:66:14:15">
+<g transform="translate(12.8076, 22.4931)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:10:8:9">
+<g transform="translate(12.8288, 31.5101)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(12.9010, 25.4931)">
+<rect x="-0.0935" y="-2.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<g transform="translate(11.3576, 22.4931)">
+<path transform="scale(0.0040, -0.0040)" d="M0 112c0 13 8 25 20 30l34 13v148c0 13 10 24 23 24s24 -11 24 -24v-129l73 29v148c0 13 11 24 24 24s23 -11 23 -24v-129l10 4c4 2 8 2 12 2c17 0 32 -14 32 -32v-46c0 -13 -8 -24 -20 -29l-34 -14v-148l10 4c4 2 8 3 12 3c17 0 32 -14 32 -32v-46c0 -13 -8 -25 -20 -30
+l-34 -13v-148c0 -13 -10 -24 -23 -24s-24 11 -24 24v129l-73 -29v-148c0 -13 -11 -24 -24 -24s-23 11 -23 24v129l-10 -4c-4 -2 -8 -2 -12 -2c-17 0 -32 14 -32 32v46c0 13 8 24 20 29l34 14v148l-10 -4c-4 -2 -8 -3 -12 -3c-17 0 -32 14 -32 32v46zM174 89l-73 -30v-148
+l73 30v148z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:66:19:20">
+<g transform="translate(15.7056, 22.9931)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:10:12:13">
+<g transform="translate(15.7269, 31.5101)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:66:23:24">
+<g transform="translate(18.6037, 23.4931)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:10:16:17">
+<g transform="translate(18.6249, 31.5101)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(18.6971, 25.4931)">
+<rect x="-0.0935" y="-1.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:66:33:34">
+<g transform="translate(36.7818, 25.9931)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:66:25:26">
+<g transform="translate(22.8663, 23.9931)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(9.7566, 25.4931)">
+<rect x="-0.0935" y="-3.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:66:10:11">
+<g transform="translate(9.6632, 21.9931)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(2.6969, 24.4931)">
+<path transform="scale(0.0040, -0.0040)" d="M559 -125c0 27 22 49 49 49s49 -22 49 -49s-22 -49 -49 -49s-49 22 -49 49zM559 125c0 27 22 49 49 49s49 -22 49 -49s-22 -49 -49 -49s-49 22 -49 49zM229 267c174 0 296 -90 296 -255c0 -263 -262 -415 -513 -524c-4 -4 -8 -6 -12 -6c-9 0 -18 9 -18 18c0 4 2 8 6 12
+c198 117 403 264 403 489c0 117 -57 232 -162 232c-65 0 -107 -50 -128 -115c4 1 7 1 11 1c55 0 100 -45 100 -100c0 -58 -44 -107 -100 -107c-60 0 -112 48 -112 107c0 134 99 248 229 248z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:63:6:7">
+<g transform="translate(6.3632, 26.4931)">
+<path transform="scale(0.0040, -0.0040)" d="M34 33l-1 -58v-10c0 -21 2 -43 5 -64c41 38 85 80 85 136c0 31 -13 63 -40 63c-31 0 -48 -33 -49 -67zM32 441l-8 -333c25 27 60 42 97 42c49 0 79 -52 79 -106c0 -76 -78 -117 -133 -169c-19 -18 -27 -52 -55 -52c-17 0 -30 17 -30 35l-14 583c10 6 21 9 32 9
+s22 -3 32 -9z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:10:4:5">
+<g transform="translate(9.6844, 31.5101)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(28.7559, 25.4931)">
+<rect x="-0.0935" y="-0.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:66:27:28">
+<g transform="translate(25.7644, 24.4931)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:10:24:25">
+<g transform="translate(25.7856, 31.5101)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>6</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(25.8579, 25.4931)">
+<rect x="-0.0935" y="-0.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:66:29:30">
+<g transform="translate(28.6624, 24.9931)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:10:28:29">
+<g transform="translate(28.6837, 31.5101)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>7</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:66:31:32">
+<g transform="translate(31.5605, 25.4931)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:10:32:33">
+<g transform="translate(31.5817, 31.5101)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>8</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(31.6540, 25.4931)">
+<rect x="-0.0935" y="0.1504" width="0.1870" height="3.1829" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/g-harmonic-minor-bass-shape.ly:10:20:21">
+<g transform="translate(22.8876, 31.5101)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(22.9598, 25.4931)">
+<rect x="-0.0935" y="-1.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+</svg>

@@ -277,7 +277,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.1",
   "title": "C Major Scale Shape",
-  "body": " C Major Scale Shape   Use this shape to form other major scales where the shape fits, for example E♭ D♯, G♭, A♯.    Bass keyboard (left) and treble keyboard (right) C major scale shape. The first 4 columns in the bass keyboard are Free Bass. Columns 5 and 6 are the same as the Stradella bass arrangement ie. Bass and Counter Bass respectively. The Free Bass notes are arranged chromatically and the Stradella Bass notes are arranged in Fifths.      "
+  "body": " C Major Scale Shape   Use this shape to form other major scales where the shape fits, for example E♭ D♯, G♭, A♯.    Basic C Shape Scale   Basic C shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
 {
   "id": "fig-C-major-scale-shape",
@@ -286,7 +286,16 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.1.1",
   "title": "",
-  "body": " Bass keyboard (left) and treble keyboard (right) C major scale shape. The first 4 columns in the bass keyboard are Free Bass. Columns 5 and 6 are the same as the Stradella bass arrangement ie. Bass and Counter Bass respectively. The Free Bass notes are arranged chromatically and the Stradella Bass notes are arranged in Fifths.     "
+  "body": " Basic C shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.     "
+},
+{
+  "id": "fig-C-major-scale-shape-notation",
+  "level": "2",
+  "url": "sec-C-major-scale-shape.html#fig-C-major-scale-shape-notation",
+  "type": "Figure",
+  "number": "4.1.2",
+  "title": "",
+  "body": "       "
 },
 {
   "id": "sec-D-major-scale-shape",
@@ -295,7 +304,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.2",
   "title": "D Major Scale Shape",
-  "body": " D Major Scale Shape   Use this shape to form other major scales where the shape fits, for example F, G♯ A♭, B.    Bass keyboard (left) and treble keyboard (right) C major scale shape. The first 4 columns in the bass keyboard are Free Bass. Columns 5 and 6 are the same as the Stradella bass arrangement ie. Bass and Counter Bass respectively. The Free Bass notes are arranged chromatically and the Stradella Bass notes are arranged in Fifths.      "
+  "body": " D Major Scale Shape   Use this shape to form other major scales where the shape fits, for example F, G♯ A♭, B.    Basic D Shape Scale   Basic D shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
 {
   "id": "fig-D-major-scale-shape",
@@ -304,7 +313,16 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.2.1",
   "title": "",
-  "body": " Bass keyboard (left) and treble keyboard (right) C major scale shape. The first 4 columns in the bass keyboard are Free Bass. Columns 5 and 6 are the same as the Stradella bass arrangement ie. Bass and Counter Bass respectively. The Free Bass notes are arranged chromatically and the Stradella Bass notes are arranged in Fifths.     "
+  "body": " Basic D shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.     "
+},
+{
+  "id": "fig-D-major-scale-shape-notation",
+  "level": "2",
+  "url": "sec-D-major-scale-shape.html#fig-D-major-scale-shape-notation",
+  "type": "Figure",
+  "number": "4.2.2",
+  "title": "",
+  "body": "       "
 },
 {
   "id": "sec-G-major-scale-shape",
@@ -313,7 +331,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.3",
   "title": "G Major Scale Shape",
-  "body": " G Major Scale Shape   Use this shape to form other major scales where the shape fits, for example A♯ B♭, C♯ D♭, E.    Bass-hand scale template (left) and treble-hand scale template (right).      "
+  "body": " G Major Scale Shape   Use this shape to form other major scales where the shape fits, for example A♯ B♭, C♯ D♭, E.    Basic G Shape Scale   Basic G shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
 {
   "id": "fig-G-major-scale-shape",
@@ -322,7 +340,178 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.3.1",
   "title": "",
-  "body": " Bass-hand scale template (left) and treble-hand scale template (right).     "
+  "body": " Basic G shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.     "
+},
+{
+  "id": "fig-G-major-scale-shape-notation",
+  "level": "2",
+  "url": "sec-G-major-scale-shape.html#fig-G-major-scale-shape-notation",
+  "type": "Figure",
+  "number": "4.3.2",
+  "title": "",
+  "body": "       "
+},
+{
+  "id": "sec-C-harmonic-minor-scale-shape",
+  "level": "1",
+  "url": "sec-C-harmonic-minor-scale-shape.html",
+  "type": "Section",
+  "number": "4.4",
+  "title": "C Harmonic Minor Scale Shape",
+  "body": " C Harmonic Minor Scale Shape     Button grid for C harmonic minor scale. Only the 3 outer columns are used for the scale, but all grid nodes are present.         Notation for C harmonic minor scale, bass and treble clef.    "
+},
+{
+  "id": "shapegrid-c-harmonic-minor-scale-shape-grid-unique",
+  "level": "2",
+  "url": "sec-C-harmonic-minor-scale-shape.html#shapegrid-c-harmonic-minor-scale-shape-grid-unique",
+  "type": "Figure",
+  "number": "4.4.1",
+  "title": "",
+  "body": "  Button grid for C harmonic minor scale. Only the 3 outer columns are used for the scale, but all grid nodes are present.  "
+},
+{
+  "id": "shapegrid-c-harmonic-minor-scale-shape-notation-unique",
+  "level": "2",
+  "url": "sec-C-harmonic-minor-scale-shape.html#shapegrid-c-harmonic-minor-scale-shape-notation-unique",
+  "type": "Figure",
+  "number": "4.4.2",
+  "title": "",
+  "body": "      Notation for C harmonic minor scale, bass and treble clef.  "
+},
+{
+  "id": "sec-C-melodic-minor-scale-shape",
+  "level": "1",
+  "url": "sec-C-melodic-minor-scale-shape.html",
+  "type": "Section",
+  "number": "4.5",
+  "title": "C Melodic Minor Scale Shape",
+  "body": " C Melodic Minor Scale Shape     Button grid for C melodic minor scale. Only the 3 outer columns are used for the scale, but all grid nodes are present.         Notation for C melodic minor scale, bass and treble clef.    "
+},
+{
+  "id": "shapegrid-c-melodic-minor-scale-shape-grid-unique",
+  "level": "2",
+  "url": "sec-C-melodic-minor-scale-shape.html#shapegrid-c-melodic-minor-scale-shape-grid-unique",
+  "type": "Figure",
+  "number": "4.5.1",
+  "title": "",
+  "body": "  Button grid for C melodic minor scale. Only the 3 outer columns are used for the scale, but all grid nodes are present.  "
+},
+{
+  "id": "shapegrid-c-melodic-minor-scale-shape-notation-unique",
+  "level": "2",
+  "url": "sec-C-melodic-minor-scale-shape.html#shapegrid-c-melodic-minor-scale-shape-notation-unique",
+  "type": "Figure",
+  "number": "4.5.2",
+  "title": "",
+  "body": "      Notation for C melodic minor scale, bass and treble clef.  "
+},
+{
+  "id": "sec-D-harmonic-minor-scale-shape",
+  "level": "1",
+  "url": "sec-D-harmonic-minor-scale-shape.html",
+  "type": "Section",
+  "number": "4.6",
+  "title": "D Harmonic Minor Scale Shape (relative to F Major)",
+  "body": " D Harmonic Minor Scale Shape (relative to F Major)     Button grid for D harmonic minor scale, aligned to F major. Only the 3 outer columns are used for the scale, but all grid nodes are present.         Notation for D harmonic minor scale, bass and treble clef. (Placeholder, to be filled in.)    "
+},
+{
+  "id": "fig-D-harmonic-minor-scale-shape-grid",
+  "level": "2",
+  "url": "sec-D-harmonic-minor-scale-shape.html#fig-D-harmonic-minor-scale-shape-grid",
+  "type": "Figure",
+  "number": "4.6.1",
+  "title": "",
+  "body": "  Button grid for D harmonic minor scale, aligned to F major. Only the 3 outer columns are used for the scale, but all grid nodes are present.  "
+},
+{
+  "id": "fig-D-harmonic-minor-scale-shape-notation",
+  "level": "2",
+  "url": "sec-D-harmonic-minor-scale-shape.html#fig-D-harmonic-minor-scale-shape-notation",
+  "type": "Figure",
+  "number": "4.6.2",
+  "title": "",
+  "body": "      Notation for D harmonic minor scale, bass and treble clef. (Placeholder, to be filled in.)  "
+},
+{
+  "id": "sec-D-melodic-minor-scale-shape",
+  "level": "1",
+  "url": "sec-D-melodic-minor-scale-shape.html",
+  "type": "Section",
+  "number": "4.7",
+  "title": "D Melodic Minor Scale Shape (relative to F Major)",
+  "body": " D Melodic Minor Scale Shape (relative to F Major)     Button grid for D melodic minor scale, aligned to F major. Only the 3 outer columns are used for the scale, but all grid nodes are present.         Notation for D melodic minor scale, bass and treble clef. (Placeholder, to be filled in.)    "
+},
+{
+  "id": "fig-D-melodic-minor-scale-shape-grid",
+  "level": "2",
+  "url": "sec-D-melodic-minor-scale-shape.html#fig-D-melodic-minor-scale-shape-grid",
+  "type": "Figure",
+  "number": "4.7.1",
+  "title": "",
+  "body": "  Button grid for D melodic minor scale, aligned to F major. Only the 3 outer columns are used for the scale, but all grid nodes are present.  "
+},
+{
+  "id": "fig-D-melodic-minor-scale-shape-notation",
+  "level": "2",
+  "url": "sec-D-melodic-minor-scale-shape.html#fig-D-melodic-minor-scale-shape-notation",
+  "type": "Figure",
+  "number": "4.7.2",
+  "title": "",
+  "body": "      Notation for D melodic minor scale, bass and treble clef. (Placeholder, to be filled in.)  "
+},
+{
+  "id": "sec-G-harmonic-minor-scale-shape",
+  "level": "1",
+  "url": "sec-G-harmonic-minor-scale-shape.html",
+  "type": "Section",
+  "number": "4.8",
+  "title": "G Harmonic Minor Scale Shape (relative to Bb Major)",
+  "body": " G Harmonic Minor Scale Shape (relative to Bb Major)     Button grid for G harmonic minor scale, aligned to Bb major. Only the 3 outer columns are used for the scale, but all grid nodes are present.         Notation for G harmonic minor scale, bass and treble clef. (Placeholder, to be filled in.)    "
+},
+{
+  "id": "fig-G-harmonic-minor-scale-shape-grid",
+  "level": "2",
+  "url": "sec-G-harmonic-minor-scale-shape.html#fig-G-harmonic-minor-scale-shape-grid",
+  "type": "Figure",
+  "number": "4.8.1",
+  "title": "",
+  "body": "  Button grid for G harmonic minor scale, aligned to Bb major. Only the 3 outer columns are used for the scale, but all grid nodes are present.  "
+},
+{
+  "id": "fig-G-harmonic-minor-scale-shape-notation",
+  "level": "2",
+  "url": "sec-G-harmonic-minor-scale-shape.html#fig-G-harmonic-minor-scale-shape-notation",
+  "type": "Figure",
+  "number": "4.8.2",
+  "title": "",
+  "body": "      Notation for G harmonic minor scale, bass and treble clef. (Placeholder, to be filled in.)  "
+},
+{
+  "id": "sec-G-melodic-minor-scale-shape",
+  "level": "1",
+  "url": "sec-G-melodic-minor-scale-shape.html",
+  "type": "Section",
+  "number": "4.9",
+  "title": "G Melodic Minor Scale Shape (relative to Bb Major)",
+  "body": " G Melodic Minor Scale Shape (relative to Bb Major)     Button grid for G melodic minor scale, aligned to Bb major. Only the 3 outer columns are used for the scale, but all grid nodes are present.         Notation for G melodic minor scale, bass and treble clef. (Placeholder, to be filled in.)    "
+},
+{
+  "id": "fig-G-melodic-minor-scale-shape-grid",
+  "level": "2",
+  "url": "sec-G-melodic-minor-scale-shape.html#fig-G-melodic-minor-scale-shape-grid",
+  "type": "Figure",
+  "number": "4.9.1",
+  "title": "",
+  "body": "  Button grid for G melodic minor scale, aligned to Bb major. Only the 3 outer columns are used for the scale, but all grid nodes are present.  "
+},
+{
+  "id": "fig-G-melodic-minor-scale-shape-notation",
+  "level": "2",
+  "url": "sec-G-melodic-minor-scale-shape.html#fig-G-melodic-minor-scale-shape-notation",
+  "type": "Figure",
+  "number": "4.9.2",
+  "title": "",
+  "body": "      Notation for G melodic minor scale, bass and treble clef. (Placeholder, to be filled in.)  "
 },
 {
   "id": "sec-chords-from-intervals",
