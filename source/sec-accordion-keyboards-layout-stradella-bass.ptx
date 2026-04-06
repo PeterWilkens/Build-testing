@@ -19,7 +19,7 @@
 % BASS SIDE  –  6 cols x 20 rows = 120 buttons
 %   Cols 0-3 : Blank columns for later population
 %   Cols 4-5 : Stradella Bass / Counter Bass
-\pgfmathsetmacro{\bvlen}{0.90}
+\pgfmathsetmacro{\bvlen}{0.78}
 \pgfmathsetmacro{\bisoangle}{60}
 \pgfmathsetmacro{\bang}{\bisoangle/2}
 \pgfmathsetmacro{\bhlen}{(\bvlen/2)/tan(\bang)}
@@ -32,7 +32,7 @@
   }
 }
 
-\pgfkeys{/tikz/bass/.style={circle, inner sep=0pt, minimum size=0.75cm,
+\pgfkeys{/tikz/bass/.style={circle, inner sep=0pt, minimum size=0.62cm,
          fill=gray!30, draw=gray!70, line width=0.4pt}}
 
 % 20 rows with diagonal top and bottom edges, stepping by column pairs
@@ -325,6 +325,7 @@
 % Labels
 \node[below] at (2.5*\bhlen, 1.0) {\textbf{\textit{Stradella Bass}}};
 \node[below] at (\toff+\xmax/2, \tyoff-0.5) {\textbf{\textit{Treble}}};
+\node[below] at ({(\toff+\xmax)/2}, 0.35) {\textbf{\textit{Top of Accordion}}};
 
 \end{tikzpicture}
       </latex-image>

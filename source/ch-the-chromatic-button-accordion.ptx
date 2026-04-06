@@ -17,8 +17,9 @@
   <!--<xi:include href="sec-treble-keyboard-layout.ptx" />
   <xi:include href="sec-free-bass-keyboard-layout.ptx" />
   <xi:include href="sec-stradella-bass-keyboard-layout.ptx" />-->
-  <xi:include href="sec-accordion-keyboards-layout-free-bass.ptx" />
   <xi:include href="sec-accordion-keyboards-layout-stradella-bass.ptx" />
-
+  <xi:include href="sec-accordion-keyboards-layout-free-bass.ptx" />
+  
+  
 
 </chapter>
