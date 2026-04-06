@@ -32,7 +32,9 @@
     <titlepage-items/>
   </titlepage>
 
-    <toc/>
+  <xi:include href="./ch-chapter-title.ptx" />
+
+  <toc/>
 
   <colophon xml:id="front-colophon">
     <colophon-items/>

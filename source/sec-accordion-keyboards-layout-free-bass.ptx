@@ -5,12 +5,12 @@
     This section shows the complete accordion keyboard in Free Bass configuration.
     The left (bass) side shows the four chromatic free-bass columns alongside the
     standard Bass and Counter Bass columns. The right (treble) side is the same
-    C&#x2011;system chromatic button layout as Section 2.5. Three faint vertical
+    C system chromatic button layout as Section 2.2.1 Three faint vertical
     lines represent the bellows.
   </p>
 
   <figure xml:id="fig-free-bass-accordion-layout">
-    <caption>Full Accordion Keyboard &#x2014; Free Bass. Vertical lines represent Bellows.</caption>
+    <caption>Accordion Keyboards  Free Bass. </caption>
     <image xml:id="img-free-bass-accordion-layout">
       <latex-image>
 \begin{tikzpicture}[font=\tiny]

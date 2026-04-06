@@ -3,14 +3,13 @@
   <title>C System Accordion Keyboards with Stradella Bass</title>
   <p>
     This section shows the complete accordion keyboard in Stradella Bass configuration.
-    The left (bass) side shows the standard Bass and Counter Bass columns alongside
-    four additional blank columns reserved for later population. The right (treble)
-    side is the same C&#x2011;system chromatic button layout as Section 2.5. Three faint
+    The left (bass) side shows the Counter Bass column closest to the bellows then the Standard Bass, Major Chord, Minor Chord, 7th Chord and Diminished Chord columns.</p>
+   <p>The right (treble) side is the same C system chromatic button layout as Section 2.3.1. Three faint
     vertical lines represent the bellows.
   </p>
 
   <figure xml:id="fig-stradella-bass-accordion-layout">
-    <caption>Full Accordion Keyboard &#x2014; Stradella Bass. Vertical lines represent Bellows.</caption>
+    <caption>Accordion Keyboards Stradella Bass. </caption>
     <image xml:id="img-stradella-bass-accordion-layout">
       <latex-image>
 \begin{tikzpicture}[font=\tiny]
