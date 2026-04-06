@@ -2,23 +2,23 @@
 <section xml:id="sec-G-major-scale-shape" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>G Major Scale Shape</title>
   <introduction>
-    <p>
-        Use this shape to form other major scales where the shape fits, for example A♯ B♭, C♯ D♭, E. </p>
+    <p>Use this shape to form other major scales where the shape fits, for example A♯ B♭, C♯ D♭, E.</p>
   </introduction>
 
-  <figure xml:id="fig-G-major-scale-shape">
-    <caption>Bass-hand scale template (left) and treble-hand scale template (right).</caption>
-    <image xml:id="img-G-major-scale-shape">
-      <latex-image>
+  <subsection xml:id="subsec-G-major-scale-shape-layout">
+    <title>Basic G Shape Scale</title>
+
+    <figure xml:id="fig-G-major-scale-shape">
+      <caption>Basic G shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.</caption>
+      <image xml:id="img-G-major-scale-shape">
+        <latex-image>
 \begin{tikzpicture}[scale=0.75, transform shape]
 \newif\ifisoGridLines
 <!--\isoGridLinestrue % Default: show grid lines. To hide, use--> \isoGridLinesfalse <!--before the figure.-->
 
 \pgfmathsetmacro{\isoangle}{60}
 \pgfmathsetmacro{\vv}{14}
-% LH: 8 segments gives 6 interior node columns (1-6) comfortably inside clip
 \pgfmathsetmacro{\hhlh}{8}
-% RH: 8 segments (even number ensures diagonals reach right edge); cols 1-5 used
 \pgfmathsetmacro{\hhrh}{8}
 \pgfmathsetmacro{\vlen}{1.5}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -32,20 +32,31 @@
 \pgfmathsetmacro{\dvlen}{2*\vv*\dlen}
 \pgfmathsetmacro{\jj}{\vv-1}
 
-% 4 node styles — style 1 is the default, style 2 highlights (gray!40), etc.
-\tikzset{
+\csname tikzset\endcsname{
   nodestyle1/.style={circle, draw=gray, fill=gray!10, inner sep=1pt, minimum size=40pt},
   nodestyle2/.style={circle, draw=gray, fill=gray!40, inner sep=1pt, minimum size=40pt},
   nodestyle3/.style={circle, draw=gray, fill=gray!10, inner sep=1pt, minimum size=40pt},
   nodestyle4/.style={circle, draw=red, fill=red!20, inner sep=1pt, minimum size=40pt},
 }
 
-% Use \templatenodestyle{col}{row}{label}{styleNumber} for per-node styling
 \newcommand{\templatenodestyle}[4]{
   \node[nodestyle#4] at (#1*\hlen,#2*\vlen) {#3};
 }
 
-%% ── LH bass grid (7 segments, 6 node columns; notes in cols 1–4, cols 5–6 blank) ──
+\newcommand{\templatesplitnodestyle}[6]{
+  \node[nodestyle#6] at (#1*\hlen,#2*\vlen) {};
+  \node[font=\bfseries\small] at (#1*\hlen,#2*\vlen) {#3};
+  \node[font=\bfseries\scriptsize] at (#1*\hlen-0.23,#2*\vlen+0.23) {#4};
+  \node[font=\bfseries\scriptsize] at (#1*\hlen+0.23,#2*\vlen-0.23) {#5};
+}
+
+\newcommand{\templatesplitnodestylebass}[6]{
+  \node[nodestyle#6] at (#1*\hlen,#2*\vlen) {};
+  \node[font=\bfseries\small] at (#1*\hlen,#2*\vlen) {#3};
+  \node[font=\bfseries\scriptsize] at (#1*\hlen-0.25,#2*\vlen+0.24) {#4};
+  \node[font=\bfseries\scriptsize] at (#1*\hlen+0.25,#2*\vlen-0.24) {#5};
+}
+
 \begin{scope}
   \ifisoGridLines
   \begin{scope}
@@ -55,7 +66,7 @@
       \draw[lightgray,very thin] (\i*\hlen,0) -- ++(0,\ymax);
     }
     \foreach \i in {0,2,...,\hhlh} {
-      \draw[lightgray,very thin] (\i*\hlen,0)     -- ++(\ang:\dvlen);
+      \draw[lightgray,very thin] (\i*\hlen,0) -- ++(\ang:\dvlen);
       \draw[lightgray,very thin] (\i*\hlen,\ymax) -- ++(-\ang:\dvlen);
     }
     \pgfmathsetmacro{\dhlen}{\hhlh*\dlen}
@@ -67,72 +78,70 @@
   \fi
   \node[anchor=west, font=\bfseries\small] at (0.25*\hlen,13.5*\vlen) {Bass Hand (LH)};
 
-  % Row 1 (G starts here at col2)
-  \templatenodestyle{1}{1.5}{}{3}
-  \templatenodestyle{2}{2.0}{G}{2}
-  \templatenodestyle{3}{2.5}{}{3}
-  \templatenodestyle{4}{3.0}{}{3}
-  \templatenodestyle{5}{3.5}{}{3}
-  \templatenodestyle{6}{4.0}{}{3}
-  % Row 2
-  \templatenodestyle{1}{2.5}{A}{2}
-  \templatenodestyle{2}{3.0}{}{3}
-  \templatenodestyle{3}{3.5}{B}{2}
-  \templatenodestyle{4}{4.0}{}{3}
-  \templatenodestyle{5}{4.5}{}{3}
-  \templatenodestyle{6}{5.0}{}{3}
-  % Row 3
-  \templatenodestyle{1}{3.5}{C}{2}
-  \templatenodestyle{2}{4.0}{}{3}
-  \templatenodestyle{3}{4.5}{D}{2}
-  \templatenodestyle{4}{5.0}{}{3}
-  \templatenodestyle{5}{5.5}{}{3}
-  \templatenodestyle{6}{6.0}{}{3}
-  % Row 4
-  \templatenodestyle{1}{4.5}{}{3}
-  \templatenodestyle{2}{5.0}{E}{2}
-  \templatenodestyle{3}{5.5}{}{3}
-  \templatenodestyle{4}{6.0}{}{3}
-  \templatenodestyle{5}{6.5}{}{3}
-  \templatenodestyle{6}{7.0}{}{3}
-  % Row 5
-  \templatenodestyle{1}{5.5}{G$\flat$, F$\sharp$}{2}
-  \templatenodestyle{2}{6.0}{G}{2}
-  \templatenodestyle{3}{6.5}{}{3}
-  \templatenodestyle{4}{7.0}{}{3}
-  \templatenodestyle{5}{7.5}{}{3}
-  \templatenodestyle{6}{8.0}{}{3}
-  % Row 6
-  \templatenodestyle{1}{6.5}{A}{2}
-  \templatenodestyle{2}{7.0}{}{3}
-  \templatenodestyle{3}{7.5}{B}{2}
-  \templatenodestyle{4}{8.0}{}{3}
-  \templatenodestyle{5}{8.5}{}{3}
-  \templatenodestyle{6}{9.0}{}{3}
-  % Row 7
-  \templatenodestyle{1}{7.5}{C}{2}
-  \templatenodestyle{2}{8.0}{}{3}
-  \templatenodestyle{3}{8.5}{D}{2}
-  \templatenodestyle{4}{9.0}{}{3}
-  \templatenodestyle{5}{9.5}{}{3}
-  \templatenodestyle{6}{10.0}{}{3}
-  % Row 8
-  \templatenodestyle{1}{8.5}{}{3}
-  \templatenodestyle{2}{9.0}{E}{2}
-  \templatenodestyle{3}{9.5}{}{3}
-  \templatenodestyle{4}{10.0}{}{3}
-  \templatenodestyle{5}{10.5}{}{3}
-  \templatenodestyle{6}{11.0}{}{3}
-  % Row 9 (F# and G at top)
-  \templatenodestyle{1}{9.5}{G$\flat$, F$\sharp$}{2}
-  \templatenodestyle{2}{10.0}{G}{2}
-  \templatenodestyle{3}{10.5}{}{3}
-  \templatenodestyle{4}{11.0}{}{3}
-  \templatenodestyle{5}{11.5}{}{3}
-  \templatenodestyle{6}{12.0}{}{3}
+  \csname templatenodestyle\endcsname{1}{1.5}{}{3}
+  \csname templatesplitnodestylebass\endcsname{2}{2.0}{G}{1}{15}{2}
+  \csname templatenodestyle\endcsname{3}{2.5}{}{3}
+  \csname templatenodestyle\endcsname{4}{3.0}{}{3}
+  \csname templatenodestyle\endcsname{5}{3.5}{}{3}
+  \csname templatenodestyle\endcsname{6}{4.0}{}{3}
+
+  \csname templatesplitnodestylebass\endcsname{1}{2.5}{A}{2}{14}{2}
+  \csname templatenodestyle\endcsname{2}{3.0}{}{3}
+  \csname templatesplitnodestylebass\endcsname{3}{3.5}{B}{3}{13}{2}
+  \csname templatenodestyle\endcsname{4}{4.0}{}{3}
+  \csname templatenodestyle\endcsname{5}{4.5}{}{3}
+  \csname templatenodestyle\endcsname{6}{5.0}{}{3}
+
+  \csname templatesplitnodestylebass\endcsname{1}{3.5}{C}{4}{12}{2}
+  \csname templatenodestyle\endcsname{2}{4.0}{}{3}
+  \csname templatesplitnodestylebass\endcsname{3}{4.5}{D}{5}{11}{2}
+  \csname templatenodestyle\endcsname{4}{5.0}{}{3}
+  \csname templatenodestyle\endcsname{5}{5.5}{}{3}
+  \csname templatenodestyle\endcsname{6}{6.0}{}{3}
+
+  \csname templatenodestyle\endcsname{1}{4.5}{}{3}
+  \csname templatesplitnodestylebass\endcsname{2}{5.0}{E}{6}{10}{2}
+  \csname templatenodestyle\endcsname{3}{5.5}{}{3}
+  \csname templatenodestyle\endcsname{4}{6.0}{}{3}
+  \csname templatenodestyle\endcsname{5}{6.5}{}{3}
+  \csname templatenodestyle\endcsname{6}{7.0}{}{3}
+
+  \csname templatesplitnodestylebass\endcsname{1}{5.5}{F$\sharp$}{7}{9}{2}
+  \csname templatesplitnodestylebass\endcsname{2}{6.0}{G}{8}{8}{2}
+  \csname templatenodestyle\endcsname{3}{6.5}{}{3}
+  \csname templatenodestyle\endcsname{4}{7.0}{}{3}
+  \csname templatenodestyle\endcsname{5}{7.5}{}{3}
+  \csname templatenodestyle\endcsname{6}{8.0}{}{3}
+
+  \csname templatesplitnodestylebass\endcsname{1}{6.5}{A}{9}{7}{2}
+  \csname templatenodestyle\endcsname{2}{7.0}{}{3}
+  \csname templatesplitnodestylebass\endcsname{3}{7.5}{B}{10}{6}{2}
+  \csname templatenodestyle\endcsname{4}{8.0}{}{3}
+  \csname templatenodestyle\endcsname{5}{8.5}{}{3}
+  \csname templatenodestyle\endcsname{6}{9.0}{}{3}
+
+  \csname templatesplitnodestylebass\endcsname{1}{7.5}{C}{11}{5}{2}
+  \csname templatenodestyle\endcsname{2}{8.0}{}{3}
+  \csname templatesplitnodestylebass\endcsname{3}{8.5}{D}{12}{4}{2}
+  \csname templatenodestyle\endcsname{4}{9.0}{}{3}
+  \csname templatenodestyle\endcsname{5}{9.5}{}{3}
+  \csname templatenodestyle\endcsname{6}{10.0}{}{3}
+
+  \csname templatenodestyle\endcsname{1}{8.5}{}{3}
+  \csname templatesplitnodestylebass\endcsname{2}{9.0}{E}{13}{3}{2}
+  \csname templatenodestyle\endcsname{3}{9.5}{}{3}
+  \csname templatenodestyle\endcsname{4}{10.0}{}{3}
+  \csname templatenodestyle\endcsname{5}{10.5}{}{3}
+  \csname templatenodestyle\endcsname{6}{11.0}{}{3}
+
+  \csname templatesplitnodestylebass\endcsname{1}{9.5}{F$\sharp$}{14}{2}{2}
+  \csname templatesplitnodestylebass\endcsname{2}{10.0}{G}{15}{1}{2}
+  \csname templatenodestyle\endcsname{3}{10.5}{}{3}
+  \csname templatenodestyle\endcsname{4}{11.0}{}{3}
+  \csname templatenodestyle\endcsname{5}{11.5}{}{3}
+  \csname templatenodestyle\endcsname{6}{12.0}{}{3}
 \end{scope}
 
-%% ── RH treble grid (6 segments, 5 note columns, mirrored direction) ──
 \begin{scope}[xshift=\xrh cm]
   \ifisoGridLines
   \begin{scope}
@@ -142,7 +151,7 @@
       \draw[lightgray,very thin] (\i*\hlen,0) -- ++(0,\ymax);
     }
     \foreach \i in {0,2,...,\hhrh} {
-      \draw[lightgray,very thin] (\i*\hlen,0)     -- ++(\ang:\dvlen);
+      \draw[lightgray,very thin] (\i*\hlen,0) -- ++(\ang:\dvlen);
       \draw[lightgray,very thin] (\i*\hlen,\ymax) -- ++(-\ang:\dvlen);
     }
     \pgfmathsetmacro{\dhlen}{\hhrh*\dlen}
@@ -154,63 +163,61 @@
   \fi
   \node[anchor=east, font=\bfseries\small] at (7.75*\hlen,13.5*\vlen) {Treble Hand (RH)};
 
-  % Row 1 (G starts here at col4)
-  \templatenodestyle{5}{1.5}{}{3}
-  \templatenodestyle{4}{2.0}{G}{2}
-  \templatenodestyle{3}{2.5}{}{3}
-  \templatenodestyle{2}{3.0}{}{3}
-  \templatenodestyle{1}{3.5}{}{3}
-  % Row 2
-  \templatenodestyle{5}{2.5}{A}{2}
-  \templatenodestyle{4}{3.0}{}{3}
-  \templatenodestyle{3}{3.5}{B}{2}
-  \templatenodestyle{2}{4.0}{}{3}
-  \templatenodestyle{1}{4.5}{}{3}
-  % Row 3
-  \templatenodestyle{5}{3.5}{C}{2}
-  \templatenodestyle{4}{4.0}{}{3}
-  \templatenodestyle{3}{4.5}{D}{2}
-  \templatenodestyle{2}{5.0}{}{3}
-  \templatenodestyle{1}{5.5}{}{3}
-  % Row 4
-  \templatenodestyle{5}{4.5}{}{3}
-  \templatenodestyle{4}{5.0}{E}{2}
-  \templatenodestyle{3}{5.5}{}{3}
-  \templatenodestyle{2}{6.0}{}{3}
-  \templatenodestyle{1}{6.5}{}{3}
-  % Row 5
-  \templatenodestyle{5}{5.5}{G$\flat$, F$\sharp$}{2}
-  \templatenodestyle{4}{6.0}{G}{2}
-  \templatenodestyle{3}{6.5}{}{3}
-  \templatenodestyle{2}{7.0}{}{3}
-  \templatenodestyle{1}{7.5}{}{3}
-  % Row 6
-  \templatenodestyle{5}{6.5}{A}{2}
-  \templatenodestyle{4}{7.0}{}{3}
-  \templatenodestyle{3}{7.5}{B}{2}
-  \templatenodestyle{2}{8.0}{}{3}
-  \templatenodestyle{1}{8.5}{}{3}
-  % Row 7
-  \templatenodestyle{5}{7.5}{C}{2}
-  \templatenodestyle{4}{8.0}{}{3}
-  \templatenodestyle{3}{8.5}{D}{2}
-  \templatenodestyle{2}{9.0}{}{3}
-  \templatenodestyle{1}{9.5}{}{3}
-  % Row 8
-  \templatenodestyle{5}{8.5}{}{3}
-  \templatenodestyle{4}{9.0}{E}{2}
-  \templatenodestyle{3}{9.5}{}{3}
-  \templatenodestyle{2}{10.0}{}{3}
-  \templatenodestyle{1}{10.5}{}{3}
-  % Row 9 (F# and G at top)
-  \templatenodestyle{5}{9.5}{G$\flat$, F$\sharp$}{2}
-  \templatenodestyle{4}{10.0}{G}{2}
-  \templatenodestyle{3}{10.5}{}{3}
-  \templatenodestyle{2}{11.0}{}{3}
-  \templatenodestyle{1}{11.5}{}{3}
+  \csname templatenodestyle\endcsname{5}{1.5}{}{3}
+  \csname templatesplitnodestyle\endcsname{4}{2.0}{G}{1}{15}{2}
+  \csname templatenodestyle\endcsname{3}{2.5}{}{3}
+  \csname templatenodestyle\endcsname{2}{3.0}{}{3}
+  \csname templatenodestyle\endcsname{1}{3.5}{}{3}
+
+  \csname templatesplitnodestyle\endcsname{5}{2.5}{A}{2}{14}{2}
+  \csname templatenodestyle\endcsname{4}{3.0}{}{3}
+  \csname templatesplitnodestyle\endcsname{3}{3.5}{B}{3}{13}{2}
+  \csname templatenodestyle\endcsname{2}{4.0}{}{3}
+  \csname templatenodestyle\endcsname{1}{4.5}{}{3}
+
+  \csname templatesplitnodestyle\endcsname{5}{3.5}{C}{4}{12}{2}
+  \csname templatenodestyle\endcsname{4}{4.0}{}{3}
+  \csname templatesplitnodestyle\endcsname{3}{4.5}{D}{5}{11}{2}
+  \csname templatenodestyle\endcsname{2}{5.0}{}{3}
+  \csname templatenodestyle\endcsname{1}{5.5}{}{3}
+
+  \csname templatenodestyle\endcsname{5}{4.5}{}{3}
+  \csname templatesplitnodestyle\endcsname{4}{5.0}{E}{6}{10}{2}
+  \csname templatenodestyle\endcsname{3}{5.5}{}{3}
+  \csname templatenodestyle\endcsname{2}{6.0}{}{3}
+  \csname templatenodestyle\endcsname{1}{6.5}{}{3}
+
+  \csname templatesplitnodestyle\endcsname{5}{5.5}{F$\sharp$}{7}{9}{2}
+  \csname templatesplitnodestyle\endcsname{4}{6.0}{G}{8}{8}{2}
+  \csname templatenodestyle\endcsname{3}{6.5}{}{3}
+  \csname templatenodestyle\endcsname{2}{7.0}{}{3}
+  \csname templatenodestyle\endcsname{1}{7.5}{}{3}
+
+  \csname templatesplitnodestyle\endcsname{5}{6.5}{A}{9}{7}{2}
+  \csname templatenodestyle\endcsname{4}{7.0}{}{3}
+  \csname templatesplitnodestyle\endcsname{3}{7.5}{B}{10}{6}{2}
+  \csname templatenodestyle\endcsname{2}{8.0}{}{3}
+  \csname templatenodestyle\endcsname{1}{8.5}{}{3}
+
+  \csname templatesplitnodestyle\endcsname{5}{7.5}{C}{11}{5}{2}
+  \csname templatenodestyle\endcsname{4}{8.0}{}{3}
+  \csname templatesplitnodestyle\endcsname{3}{8.5}{D}{12}{4}{2}
+  \csname templatenodestyle\endcsname{2}{9.0}{}{3}
+  \csname templatenodestyle\endcsname{1}{9.5}{}{3}
+
+  \csname templatenodestyle\endcsname{5}{8.5}{}{3}
+  \csname templatesplitnodestyle\endcsname{4}{9.0}{E}{13}{3}{2}
+  \csname templatenodestyle\endcsname{3}{9.5}{}{3}
+  \csname templatenodestyle\endcsname{2}{10.0}{}{3}
+  \csname templatenodestyle\endcsname{1}{10.5}{}{3}
+
+  \csname templatesplitnodestyle\endcsname{5}{9.5}{F$\sharp$}{14}{2}{2}
+  \csname templatesplitnodestyle\endcsname{4}{10.0}{G}{15}{1}{2}
+  \csname templatenodestyle\endcsname{3}{10.5}{}{3}
+  \csname templatenodestyle\endcsname{2}{11.0}{}{3}
+  \csname templatenodestyle\endcsname{1}{11.5}{}{3}
 \end{scope}
 
-% Bellows separator — five gray!40 vertical lines 0.15cm apart with legend
 \pgfmathsetmacro{\belbot}{1.0*\vlen}
 \pgfmathsetmacro{\beltop}{13.5*\vlen}
 \draw[gray!40, very thick] (\belx-0.60, \belbot) -- (\belx-0.60, \beltop);
@@ -221,7 +228,17 @@
 \node[font=\small, black] at (\belx-0.30, 0.5*\vlen) {Bellows};
 
 \end{tikzpicture}
-      </latex-image>
-    </image>
-  </figure>
+        </latex-image>
+      </image>
+    </figure>
+
+    <figure xml:id="fig-G-major-scale-shape-notation">
+      <caption></caption>
+      <sidebyside widths="45% 4% 45%" margins="2%">
+        <image xml:id="img-G-major-scale-shape-lh-notation" source="notation/g-major-scale-bass-shape.svg" width="100%" />
+        <p></p>
+        <image xml:id="img-G-major-scale-shape-rh-notation" source="notation/g-major-scale-two-octave.svg" width="100%" />
+      </sidebyside>
+    </figure>
+  </subsection>
 </section>

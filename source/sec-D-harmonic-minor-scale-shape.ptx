@@ -1,0 +1,17 @@
+<section xml:id="sec-D-harmonic-minor-scale-shape">
+  <title>D Harmonic Minor Scale Shape (relative to F Major)</title>
+  <subsection xml:id="subsec-D-harmonic-minor-scale-shape-layout">
+  <figure xml:id="fig-D-harmonic-minor-scale-shape-grid">
+    <image source="assets/notation/grid-d-harmonic-minor.svg" width="100%"/>
+    <caption>Button grid for D harmonic minor scale, aligned to F major. Only the 3 outer columns are used for the scale, but all grid nodes are present.</caption>
+  </figure>
+  <figure xml:id="fig-D-harmonic-minor-scale-shape-notation">
+    <sidebyside widths="45% 4% 45%" margins="2%">
+      <image source="assets/notation/d-harmonic-minor-bass-shape.svg" width="100%"/>
+      <p></p>
+      <image source="assets/notation/d-harmonic-minor-two-octave.svg" width="100%"/>
+    </sidebyside>
+    <caption>Notation for D harmonic minor scale, bass and treble clef. (Placeholder, to be filled in.)</caption>
+  </figure>
+</subsection>
+</section>

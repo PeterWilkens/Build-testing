@@ -1,0 +1,17 @@
+<section xml:id="sec-G-harmonic-minor-scale-shape">
+  <title>G Harmonic Minor Scale Shape (relative to Bb Major)</title>
+  <subsection xml:id="subsec-G-harmonic-minor-scale-shape-layout">
+  <figure xml:id="fig-G-harmonic-minor-scale-shape-grid">
+    <image source="assets/notation/grid-g-harmonic-minor.svg" width="100%"/>
+    <caption>Button grid for G harmonic minor scale, aligned to Bb major. Only the 3 outer columns are used for the scale, but all grid nodes are present.</caption>
+  </figure>
+  <figure xml:id="fig-G-harmonic-minor-scale-shape-notation">
+    <sidebyside widths="45% 4% 45%" margins="2%">
+      <image source="assets/notation/g-harmonic-minor-bass-shape.svg" width="100%"/>
+      <p></p>
+      <image source="assets/notation/g-harmonic-minor-two-octave.svg" width="100%"/>
+    </sidebyside>
+    <caption>Notation for G harmonic minor scale, bass and treble clef. (Placeholder, to be filled in.)</caption>
+  </figure>
+</subsection>
+</section>

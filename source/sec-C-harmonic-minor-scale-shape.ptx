@@ -1,0 +1,17 @@
+<section xml:id="sec-C-harmonic-minor-scale-shape">
+  <title>C Harmonic Minor Scale Shape</title>
+  <subsection xml:id="shapegrid-c-harmonic-minor-scale-shape-layout-unique">
+  <figure xml:id="shapegrid-c-harmonic-minor-scale-shape-grid-unique">
+    <image source="assets/notation/grid-c-harmonic-minor.svg" width="100%"/>
+    <caption>Button grid for C harmonic minor scale. Only the 3 outer columns are used for the scale, but all grid nodes are present.</caption>
+  </figure>
+  <figure xml:id="shapegrid-c-harmonic-minor-scale-shape-notation-unique">
+    <sidebyside widths="45% 4% 45%" margins="2%">
+      <image source="assets/notation/c-harmonic-minor-bass-shape.svg" width="100%"/>
+      <p></p>
+      <image source="assets/notation/c-harmonic-minor-two-octave.svg" width="100%"/>
+    </sidebyside>
+    <caption>Notation for C harmonic minor scale, bass and treble clef.</caption>
+  </figure>
+</subsection>
+</section>
