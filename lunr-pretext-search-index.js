@@ -37,29 +37,11 @@ var ptx_lunr_docs = [
   "body": " High quality Italian Chromatic Button Accordion with Stradella and Free Bass.   High Quality Italian Chromatic Button Accordion with Free Bass and Stradella. The treble side keyboard is configured in the C System.   "
 },
 {
-  "id": "sec-accordion-keyboards-layout-free-bass",
-  "level": "1",
-  "url": "sec-accordion-keyboards-layout-free-bass.html",
-  "type": "Section",
-  "number": "2.2",
-  "title": "C System Accordion Keyboards with Free Bass",
-  "body": " C System Accordion Keyboards with Free Bass  This section shows the complete accordion keyboard in Free Bass configuration. The left (bass) side shows the four chromatic free-bass columns alongside the standard Bass and Counter Bass columns. The right (treble) side is the same C‑system chromatic button layout as Section 2.5. Three faint vertical lines represent the bellows.   Full Accordion Keyboard — Free Bass. Vertical lines represent Bellows.      "
-},
-{
-  "id": "fig-free-bass-accordion-layout",
-  "level": "2",
-  "url": "sec-accordion-keyboards-layout-free-bass.html#fig-free-bass-accordion-layout",
-  "type": "Figure",
-  "number": "2.2.1",
-  "title": "",
-  "body": " Full Accordion Keyboard — Free Bass. Vertical lines represent Bellows.     "
-},
-{
   "id": "sec-accordion-keyboards-layout-stradella-bass",
   "level": "1",
   "url": "sec-accordion-keyboards-layout-stradella-bass.html",
   "type": "Section",
-  "number": "2.3",
+  "number": "2.2",
   "title": "C System Accordion Keyboards with Stradella Bass",
   "body": " C System Accordion Keyboards with Stradella Bass  This section shows the complete accordion keyboard in Stradella Bass configuration. The left (bass) side shows the standard Bass and Counter Bass columns alongside four additional blank columns reserved for later population. The right (treble) side is the same C‑system chromatic button layout as Section 2.5. Three faint vertical lines represent the bellows.   Full Accordion Keyboard — Stradella Bass. Vertical lines represent Bellows.      "
 },
@@ -68,9 +50,27 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-accordion-keyboards-layout-stradella-bass.html#fig-stradella-bass-accordion-layout",
   "type": "Figure",
-  "number": "2.3.1",
+  "number": "2.2.1",
   "title": "",
   "body": " Full Accordion Keyboard — Stradella Bass. Vertical lines represent Bellows.     "
+},
+{
+  "id": "sec-accordion-keyboards-layout-free-bass",
+  "level": "1",
+  "url": "sec-accordion-keyboards-layout-free-bass.html",
+  "type": "Section",
+  "number": "2.3",
+  "title": "C System Accordion Keyboards with Free Bass",
+  "body": " C System Accordion Keyboards with Free Bass  This section shows the complete accordion keyboard in Free Bass configuration. The left (bass) side shows the four chromatic free-bass columns alongside the standard Bass and Counter Bass columns. The right (treble) side is the same C‑system chromatic button layout as Section 2.5. Three faint vertical lines represent the bellows.   Full Accordion Keyboard — Free Bass. Vertical lines represent Bellows.      "
+},
+{
+  "id": "fig-free-bass-accordion-layout",
+  "level": "2",
+  "url": "sec-accordion-keyboards-layout-free-bass.html#fig-free-bass-accordion-layout",
+  "type": "Figure",
+  "number": "2.3.1",
+  "title": "",
+  "body": " Full Accordion Keyboard — Free Bass. Vertical lines represent Bellows.     "
 },
 {
   "id": "sec-intervals-c-major-scale",
