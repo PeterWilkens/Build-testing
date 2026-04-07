@@ -31,6 +31,8 @@
 \pgfmathsetmacro{\xoffset}{\xmax + 0.9}
 \pgfmathsetmacro{\leftshift}{0.3}
 \pgfmathsetmacro{\rightshift}{\leftshift + \xoffset}
+\pgfmathsetmacro{\bellowscenter}{\leftshift + \xmax - 0.02}
+\pgfmathsetmacro{\bellowsspacing}{0.18}
 
 \newcommand{\drawisogrid}{
   \ifisoGridLines
@@ -165,6 +167,13 @@
   \node[anchor=north, rotate=90, font=\bfseries\scriptsize] at (5*\hlen,2.2*\vlen) {Bass};
   \node[anchor=north, rotate=90, font=\bfseries\scriptsize] at (6*\hlen,2.2*\vlen) {Counter Bass};
 \end{scope}
+
+\foreach \x in {\bellowscenter-\bellowsspacing,\bellowscenter,\bellowscenter+\bellowsspacing} {
+  \draw[gray,thin] (\x,3.5*\vlen) -- (\x,11.5*\vlen);
+}
+\node[font=\bfseries\scriptsize] at (\bellowscenter,12.6*\vlen) {Lap};
+\node[font=\bfseries\scriptsize] at (\bellowscenter,2.2*\vlen) {Bellows};
+\node[font=\bfseries\scriptsize] at (\bellowscenter,1.0*\vlen) {Chin};
 
 % Right grid: treble keyboard (RH)
 \begin{scope}[xshift=\rightshift cm]
