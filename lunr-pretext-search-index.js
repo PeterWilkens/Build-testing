@@ -43,7 +43,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "C System Accordion Keyboards with Stradella Bass",
-  "body": " C System Accordion Keyboards with Stradella Bass  This section shows the complete accordion keyboard in Stradella Bass configuration. The left (bass) side shows the Counter Bass column closest to the bellows then the Standard Bass, Major Chord, Minor Chord, 7th Chord and Diminished Chord columns.  The right (treble) side is the same C system chromatic button layout as Section 2.3.1. Three faint vertical lines represent the bellows.   Accordion Keyboards Stradella Bass.      "
+  "body": " C System Accordion Keyboards with Stradella Bass  This section shows the complete accordion keyboard in Stradella Bass configuration. The left (bass) side shows the Counter Bass column closest to the bellows then the Standard Bass, Major Chord, Minor Chord, 7th Chord and Diminished Chord columns.  The right (treble) side is the same C system chromatic button layout as Section 1.2.1. Three faint vertical lines represent the bellows.   Accordion Keyboards Stradella Bass.      "
 },
 {
   "id": "fig-stradella-bass-accordion-layout",
@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "C System Accordion Keyboards with Free Bass",
-  "body": " C System Accordion Keyboards with Free Bass  This section shows the complete accordion keyboard in Free Bass configuration. The left (bass) side shows the four chromatic free-bass columns alongside the standard Bass and Counter Bass columns. The right (treble) side is the same C system chromatic button layout as Section 2.2.1 Three faint vertical lines represent the bellows.   Accordion Keyboards Free Bass.      "
+  "body": " C System Accordion Keyboards with Free Bass  This section shows the complete accordion keyboard in Free Bass configuration. The left (bass) side shows the four chromatic free-bass columns alongside the standard Bass and Counter Bass columns. The right (treble) side is the same C system chromatic button layout as Section 1.3.1 Three faint vertical lines represent the bellows.   Accordion Keyboards Free Bass.      "
 },
 {
   "id": "fig-free-bass-accordion-layout",
@@ -78,8 +78,8 @@ var ptx_lunr_docs = [
   "url": "sec-intervals-c-major-scale.html",
   "type": "Section",
   "number": "2.1",
-  "title": "C Major Scale Shape",
-  "body": " C Major Scale Shape  In C major, the interval pattern remains the same ascending and descending.  All major scales have the same pattern of intervals, so any major scale can be built by using this same pattern.  The C major scale notes are C, D, E, F, G, A, B, and C.   C major scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C major scale).      "
+  "title": "C Major Scale Construction",
+  "body": " C Major Scale Construction  In C major, the interval pattern remains the same ascending and descending.  All major scales have the same pattern of intervals, so any major scale can be built by using this same pattern.  The C major scale notes are C, D, E, F, G, A, B, and C.   C major scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C major scale).      "
 },
 {
   "id": "fig-c-major-scale-notation",
@@ -105,8 +105,8 @@ var ptx_lunr_docs = [
   "url": "sec-intervals-c-natural-minor.html",
   "type": "Section",
   "number": "2.2",
-  "title": "C Natural Minor Scale",
-  "body": " C Natural Minor Scale  In C natural minor, the interval pattern differs from the major scale in that the third, sixth, and seventh scale degrees are lowered.  All natural minor scales follow the same interval pattern, so any natural minor scale can be built by using this pattern of major and minor seconds.  The C natural minor scale notes are C, D, E , F, G, A , B , and C.  A natural minor scale is the relative minor of a major scale. The A minor natural scale uses these same notes, the sixth note of the major scale becoming the root note of the relative minor. ie.) the notes of the A Minor Natural Scale are A, B, C, D, E, F, G and A.  C minor natural is the relative minor of E major.   C natural minor scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C natural minor scale ascending).      "
+  "title": "C Natural Minor Scale Construction",
+  "body": " C Natural Minor Scale Construction  In C natural minor, the interval pattern differs from the major scale in that the third, sixth, and seventh scale degrees are lowered.  All natural minor scales follow the same interval pattern, so any natural minor scale can be built by using this pattern of major and minor seconds.  The C natural minor scale notes are C, D, E , F, G, A , B , and C.  A natural minor scale is the relative minor of a major scale. The A minor natural scale uses these same notes, the sixth note of the major scale becoming the root note of the relative minor. ie.) the notes of the A Minor Natural Scale are A, B, C, D, E, F, G and A.  C minor natural is the relative minor of E major.   C natural minor scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C natural minor scale ascending).      "
 },
 {
   "id": "fig-c-natural-minor-scale-notation",
@@ -132,8 +132,8 @@ var ptx_lunr_docs = [
   "url": "sec-intervals-c-harmonic-minor-scale.html",
   "type": "Section",
   "number": "2.3",
-  "title": "C Harmonic Minor Scale",
-  "body": " C Harmonic Minor Scale  In C harmonic minor, the interval pattern remains the same ascending and descending.  All harmonic minor scales have the same pattern of intervals, so any harmonic minor scale can be built by using this same pattern.  The C harmonic minor scale notes are C, D, E , F, G, A , B, and C. In this scale, the interval from A to B is an augmented second, spanning three semitones while still being spelled as a second.   C harmonic minor scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C harmonic minor scale).      "
+  "title": "C Harmonic Minor Scale Construction",
+  "body": " C Harmonic Minor Scale Construction  In C harmonic minor, the interval pattern remains the same ascending and descending.  All harmonic minor scales have the same pattern of intervals, so any harmonic minor scale can be built by using this same pattern.  The C harmonic minor scale notes are C, D, E , F, G, A , B, and C. In this scale, the interval from A to B is an augmented second, spanning three semitones while still being spelled as a second.   C harmonic minor scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C harmonic minor scale).      "
 },
 {
   "id": "fig-c-harmonic-minor-scale-notation",
@@ -159,8 +159,8 @@ var ptx_lunr_docs = [
   "url": "sec-intervals-c-melodic-minor-ascending.html",
   "type": "Section",
   "number": "2.4",
-  "title": "C Melodic Minor Scale (Ascending)",
-  "body": " C Melodic Minor Scale (Ascending)  In C melodic minor ascending, the sixth and seventh scale degrees are raised to A and B.  All melodic minor scales use this same ascending interval pattern, so any melodic minor scale can be written ascending by applying this pattern from tonic to tonic.  The C melodic minor ascending scale notes are C, D, E , F, G, A, B, and C.   C melodic minor scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C melodic minor scale ascending).      "
+  "title": "C Melodic Minor Scale Construction (Ascending)",
+  "body": " C Melodic Minor Scale Construction (Ascending)  In C melodic minor ascending, the sixth and seventh scale degrees are raised to A and B.  All melodic minor scales use this same ascending interval pattern, so any melodic minor scale can be written ascending by applying this pattern from tonic to tonic.  The C melodic minor ascending scale notes are C, D, E , F, G, A, B, and C.   C melodic minor scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C melodic minor scale ascending).      "
 },
 {
   "id": "fig-c-melodic-minor-scale-notation",
@@ -186,8 +186,8 @@ var ptx_lunr_docs = [
   "url": "sec-intervals-c-melodic-minor-descending.html",
   "type": "Section",
   "number": "2.5",
-  "title": "C Melodic Minor Scale (Descending)",
-  "body": " C Melodic Minor Scale (Descending)  In C melodic minor descending, the sixth and seventh scale degrees are lowered to A and B , following the C natural minor form.  All melodic minor scales use this same descending interval pattern, so any melodic minor scale can be written descending by applying this pattern from tonic to tonic.  The C melodic minor descending scale notes are C, B , A , G, F, E , D, and C.   C melodic minor scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C melodic minor scale descending).      "
+  "title": "C Melodic Minor Scale Construction (Descending)",
+  "body": " C Melodic Minor Scale Construction (Descending)  In C melodic minor descending, the sixth and seventh scale degrees are lowered to A and B , following the C natural minor form.  All melodic minor scales use this same descending interval pattern, so any melodic minor scale can be written descending by applying this pattern from tonic to tonic.  The C melodic minor descending scale notes are C, B , A , G, F, E , D, and C.   C melodic minor scale notation on a musical staff (ascending and descending).       Examples of intervals with notation and semitone counts (C melodic minor scale descending).      "
 },
 {
   "id": "fig-c-melodic-minor-descending-scale-notation",
@@ -358,25 +358,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.4",
   "title": "C Harmonic Minor Scale Shape",
-  "body": " C Harmonic Minor Scale Shape     Button grid for C harmonic minor scale. Only the 3 outer columns are used for the scale, but all grid nodes are present.         Notation for C harmonic minor scale, bass and treble clef.    "
+  "body": " C Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic C Harmonic Minor Shape   Basic C harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
 {
-  "id": "shapegrid-c-harmonic-minor-scale-shape-grid-unique",
+  "id": "fig-C-harmonic-minor-scale-shape",
   "level": "2",
-  "url": "sec-C-harmonic-minor-scale-shape.html#shapegrid-c-harmonic-minor-scale-shape-grid-unique",
+  "url": "sec-C-harmonic-minor-scale-shape.html#fig-C-harmonic-minor-scale-shape",
   "type": "Figure",
   "number": "4.4.1",
   "title": "",
-  "body": "  Button grid for C harmonic minor scale. Only the 3 outer columns are used for the scale, but all grid nodes are present.  "
+  "body": " Basic C harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.     "
 },
 {
-  "id": "shapegrid-c-harmonic-minor-scale-shape-notation-unique",
+  "id": "fig-C-harmonic-minor-scale-shape-notation",
   "level": "2",
-  "url": "sec-C-harmonic-minor-scale-shape.html#shapegrid-c-harmonic-minor-scale-shape-notation-unique",
+  "url": "sec-C-harmonic-minor-scale-shape.html#fig-C-harmonic-minor-scale-shape-notation",
   "type": "Figure",
   "number": "4.4.2",
   "title": "",
-  "body": "      Notation for C harmonic minor scale, bass and treble clef.  "
+  "body": "       "
 },
 {
   "id": "sec-C-melodic-minor-scale-shape",
@@ -385,25 +385,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.5",
   "title": "C Melodic Minor Scale Shape",
-  "body": " C Melodic Minor Scale Shape     Button grid for C melodic minor scale. Only the 3 outer columns are used for the scale, but all grid nodes are present.         Notation for C melodic minor scale, bass and treble clef.    "
+  "body": " C Melodic Minor Scale Shape   Use this shape to form other melodic minor scales where the shape fits.    Basic C Melodic Minor Shape   Basic C melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
 {
-  "id": "shapegrid-c-melodic-minor-scale-shape-grid-unique",
+  "id": "fig-C-melodic-minor-scale-shape",
   "level": "2",
-  "url": "sec-C-melodic-minor-scale-shape.html#shapegrid-c-melodic-minor-scale-shape-grid-unique",
+  "url": "sec-C-melodic-minor-scale-shape.html#fig-C-melodic-minor-scale-shape",
   "type": "Figure",
   "number": "4.5.1",
   "title": "",
-  "body": "  Button grid for C melodic minor scale. Only the 3 outer columns are used for the scale, but all grid nodes are present.  "
+  "body": " Basic C melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.     "
 },
 {
-  "id": "shapegrid-c-melodic-minor-scale-shape-notation-unique",
+  "id": "fig-C-melodic-minor-scale-shape-notation",
   "level": "2",
-  "url": "sec-C-melodic-minor-scale-shape.html#shapegrid-c-melodic-minor-scale-shape-notation-unique",
+  "url": "sec-C-melodic-minor-scale-shape.html#fig-C-melodic-minor-scale-shape-notation",
   "type": "Figure",
   "number": "4.5.2",
   "title": "",
-  "body": "      Notation for C melodic minor scale, bass and treble clef.  "
+  "body": "       "
 },
 {
   "id": "sec-D-harmonic-minor-scale-shape",
@@ -411,17 +411,17 @@ var ptx_lunr_docs = [
   "url": "sec-D-harmonic-minor-scale-shape.html",
   "type": "Section",
   "number": "4.6",
-  "title": "D Harmonic Minor Scale Shape (relative to F Major)",
-  "body": " D Harmonic Minor Scale Shape (relative to F Major)     Button grid for D harmonic minor scale, aligned to F major. Only the 3 outer columns are used for the scale, but all grid nodes are present.         Notation for D harmonic minor scale, bass and treble clef. (Placeholder, to be filled in.)    "
+  "title": "D Harmonic Minor Scale Shape",
+  "body": " D Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic D Harmonic Minor Shape   Basic D harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
 {
-  "id": "fig-D-harmonic-minor-scale-shape-grid",
+  "id": "fig-D-harmonic-minor-scale-shape",
   "level": "2",
-  "url": "sec-D-harmonic-minor-scale-shape.html#fig-D-harmonic-minor-scale-shape-grid",
+  "url": "sec-D-harmonic-minor-scale-shape.html#fig-D-harmonic-minor-scale-shape",
   "type": "Figure",
   "number": "4.6.1",
   "title": "",
-  "body": "  Button grid for D harmonic minor scale, aligned to F major. Only the 3 outer columns are used for the scale, but all grid nodes are present.  "
+  "body": " Basic D harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.     "
 },
 {
   "id": "fig-D-harmonic-minor-scale-shape-notation",
@@ -430,7 +430,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.6.2",
   "title": "",
-  "body": "      Notation for D harmonic minor scale, bass and treble clef. (Placeholder, to be filled in.)  "
+  "body": "       "
 },
 {
   "id": "sec-D-melodic-minor-scale-shape",
@@ -438,17 +438,17 @@ var ptx_lunr_docs = [
   "url": "sec-D-melodic-minor-scale-shape.html",
   "type": "Section",
   "number": "4.7",
-  "title": "D Melodic Minor Scale Shape (relative to F Major)",
-  "body": " D Melodic Minor Scale Shape (relative to F Major)     Button grid for D melodic minor scale, aligned to F major. Only the 3 outer columns are used for the scale, but all grid nodes are present.         Notation for D melodic minor scale, bass and treble clef. (Placeholder, to be filled in.)    "
+  "title": "D Melodic Minor Scale Shape",
+  "body": " D Melodic Minor Scale Shape   Use this shape to form other melodic minor scales where the shape fits.    Basic D Melodic Minor Shape   Basic D melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
 {
-  "id": "fig-D-melodic-minor-scale-shape-grid",
+  "id": "fig-D-melodic-minor-scale-shape",
   "level": "2",
-  "url": "sec-D-melodic-minor-scale-shape.html#fig-D-melodic-minor-scale-shape-grid",
+  "url": "sec-D-melodic-minor-scale-shape.html#fig-D-melodic-minor-scale-shape",
   "type": "Figure",
   "number": "4.7.1",
   "title": "",
-  "body": "  Button grid for D melodic minor scale, aligned to F major. Only the 3 outer columns are used for the scale, but all grid nodes are present.  "
+  "body": " Basic D melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.     "
 },
 {
   "id": "fig-D-melodic-minor-scale-shape-notation",
@@ -457,7 +457,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.7.2",
   "title": "",
-  "body": "      Notation for D melodic minor scale, bass and treble clef. (Placeholder, to be filled in.)  "
+  "body": "       "
 },
 {
   "id": "sec-G-harmonic-minor-scale-shape",
@@ -465,17 +465,17 @@ var ptx_lunr_docs = [
   "url": "sec-G-harmonic-minor-scale-shape.html",
   "type": "Section",
   "number": "4.8",
-  "title": "G Harmonic Minor Scale Shape (relative to Bb Major)",
-  "body": " G Harmonic Minor Scale Shape (relative to Bb Major)     Button grid for G harmonic minor scale, aligned to Bb major. Only the 3 outer columns are used for the scale, but all grid nodes are present.         Notation for G harmonic minor scale, bass and treble clef. (Placeholder, to be filled in.)    "
+  "title": "G Harmonic Minor Scale Shape",
+  "body": " G Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic G Harmonic Minor Shape   Basic G harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
 {
-  "id": "fig-G-harmonic-minor-scale-shape-grid",
+  "id": "fig-G-harmonic-minor-scale-shape",
   "level": "2",
-  "url": "sec-G-harmonic-minor-scale-shape.html#fig-G-harmonic-minor-scale-shape-grid",
+  "url": "sec-G-harmonic-minor-scale-shape.html#fig-G-harmonic-minor-scale-shape",
   "type": "Figure",
   "number": "4.8.1",
   "title": "",
-  "body": "  Button grid for G harmonic minor scale, aligned to Bb major. Only the 3 outer columns are used for the scale, but all grid nodes are present.  "
+  "body": " Basic G harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.     "
 },
 {
   "id": "fig-G-harmonic-minor-scale-shape-notation",
@@ -484,7 +484,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.8.2",
   "title": "",
-  "body": "      Notation for G harmonic minor scale, bass and treble clef. (Placeholder, to be filled in.)  "
+  "body": "       "
 },
 {
   "id": "sec-G-melodic-minor-scale-shape",
@@ -492,17 +492,17 @@ var ptx_lunr_docs = [
   "url": "sec-G-melodic-minor-scale-shape.html",
   "type": "Section",
   "number": "4.9",
-  "title": "G Melodic Minor Scale Shape (relative to Bb Major)",
-  "body": " G Melodic Minor Scale Shape (relative to Bb Major)     Button grid for G melodic minor scale, aligned to Bb major. Only the 3 outer columns are used for the scale, but all grid nodes are present.         Notation for G melodic minor scale, bass and treble clef. (Placeholder, to be filled in.)    "
+  "title": "G Melodic Minor Scale Shape",
+  "body": " G Melodic Minor Scale Shape   Use this shape to form other melodic minor scales where the shape fits.    Basic G Melodic Minor Shape   Basic G melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
 {
-  "id": "fig-G-melodic-minor-scale-shape-grid",
+  "id": "fig-G-melodic-minor-scale-shape",
   "level": "2",
-  "url": "sec-G-melodic-minor-scale-shape.html#fig-G-melodic-minor-scale-shape-grid",
+  "url": "sec-G-melodic-minor-scale-shape.html#fig-G-melodic-minor-scale-shape",
   "type": "Figure",
   "number": "4.9.1",
   "title": "",
-  "body": "  Button grid for G melodic minor scale, aligned to Bb major. Only the 3 outer columns are used for the scale, but all grid nodes are present.  "
+  "body": " Basic G melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.     "
 },
 {
   "id": "fig-G-melodic-minor-scale-shape-notation",
@@ -511,7 +511,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.9.2",
   "title": "",
-  "body": "      Notation for G melodic minor scale, bass and treble clef. (Placeholder, to be filled in.)  "
+  "body": "       "
 },
 {
   "id": "sec-chords-from-intervals",
@@ -610,7 +610,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.2",
   "title": "Types of Triad",
-  "body": " Types of Triad  The four main triad types differ in the intervals between their notes. Using C as the root, the notes and interval structure for each type are as follows.   Major Triad  A major triad is built from a major third followed by a minor third :   Root to third: major third (4 semitones) — e.g. C to E  Third to fifth: minor third (3 semitones) — e.g. E to G  Root to fifth: perfect fifth (7 semitones) — e.g. C to G   The major triad has a bright, stable sound. The C major triad consists of the notes C, E, and G.    Minor Triad  A minor triad is built from a minor third followed by a major third :   Root to third: minor third (3 semitones) — e.g. C to E  Third to fifth: major third (4 semitones) — e.g. E to G  Root to fifth: perfect fifth (7 semitones) — e.g. C to G   The minor triad has a darker, more melancholic sound. The C minor triad consists of the notes C, E , and G.    Augmented Triad  An augmented triad is built from two consecutive major thirds :   Root to third: major third (4 semitones) — e.g. C to E  Third to fifth: major third (4 semitones) — e.g. E to G  Root to fifth: augmented fifth (8 semitones) — e.g. C to G   The raised fifth gives the augmented triad a tense, unresolved quality. The C augmented triad consists of the notes C, E, and G .    Diminished Triad  A diminished triad is built from two consecutive minor thirds :   Root to third: minor third (3 semitones) — e.g. C to E  Third to fifth: minor third (3 semitones) — e.g. E to G  Root to fifth: diminished fifth (6 semitones) — e.g. C to G   The diminished fifth (also called a tritone) gives the diminished triad a dissonant, unstable sound that strongly seeks resolution. The C diminished triad consists of the notes C, E , and G .    The table below summarises the four triad types using C as the root. The number in brackets in this case is the \"Interval Count\" See the 2nd paragraph in Chapter 3 Scales and Intervals for an explanation of Interval Count which is always 1 more than the number of semitones:   Summary of Triad Types (Root: C)         Triad Type  Root–3rd  3rd–5th  Root–5th  Notes (C root)    Major  Major 3rd (5)  Minor 3rd (4)  Perfect 5th (8)  C – E – G    Minor  Minor 3rd (4)  Major 3rd (5)  Perfect 5th (8)  C – E – G    Augmented  Major 3rd (5)  Major 3rd (5)  Aug. 5th (9)  C – E – G    Diminished  Minor 3rd (4)  Minor 3rd (4)  Dim. 5th (7)  C – E – G      "
+  "body": " Types of Triad   The four main triad types differ in the intervals between their notes. Using C as the root, the notes and interval structure for each type are as follows.    Major Triad  A major triad is built from a major third followed by a minor third :   Root to third: major third (4 semitones) — e.g. C to E  Third to fifth: minor third (3 semitones) — e.g. E to G  Root to fifth: perfect fifth (7 semitones) — e.g. C to G   The major triad has a bright, stable sound. The C major triad consists of the notes C, E, and G.    Minor Triad  A minor triad is built from a minor third followed by a major third :   Root to third: minor third (3 semitones) — e.g. C to E  Third to fifth: major third (4 semitones) — e.g. E to G  Root to fifth: perfect fifth (7 semitones) — e.g. C to G   The minor triad has a darker, more melancholic sound. The C minor triad consists of the notes C, E , and G.    Augmented Triad  An augmented triad is built from two consecutive major thirds :   Root to third: major third (4 semitones) — e.g. C to E  Third to fifth: major third (4 semitones) — e.g. E to G  Root to fifth: augmented fifth (8 semitones) — e.g. C to G   The raised fifth gives the augmented triad a tense, unresolved quality. The C augmented triad consists of the notes C, E, and G .    Diminished Triad  A diminished triad is built from two consecutive minor thirds :   Root to third: minor third (3 semitones) — e.g. C to E  Third to fifth: minor third (3 semitones) — e.g. E to G  Root to fifth: diminished fifth (6 semitones) — e.g. C to G   The diminished fifth (also called a tritone) gives the diminished triad a dissonant, unstable sound that strongly seeks resolution. The C diminished triad consists of the notes C, E , and G .    The table below summarises the four triad types using C as the root. The number in brackets in this case is the \"Interval Count\" See the 2nd paragraph in Chapter 3 Scales and Intervals for an explanation of Interval Count which is always 1 more than the number of semitones:   Summary of Triad Types (Root: C)         Triad Type  Root–3rd  3rd–5th  Root–5th  Notes (C root)    Major  Major 3rd (5)  Minor 3rd (4)  Perfect 5th (8)  C – E – G    Minor  Minor 3rd (4)  Major 3rd (5)  Perfect 5th (8)  C – E – G    Augmented  Major 3rd (5)  Major 3rd (5)  Aug. 5th (9)  C – E – G    Diminished  Minor 3rd (4)  Minor 3rd (4)  Dim. 5th (7)  C – E – G      "
 },
 {
   "id": "subsec-major-triad-2",

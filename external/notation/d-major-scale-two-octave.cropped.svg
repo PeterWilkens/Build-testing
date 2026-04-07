@@ -1,37 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="59.38mm" height="33.94mm" viewBox="0.0000 -0.0240 56.3193 32.1894">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="59.15mm" height="33.94mm" viewBox="0.0000 -0.0240 56.0961 32.1895">
 <style type="text/css">
 <![CDATA[
 tspan { white-space: pre; }
 ]]>
 </style>
 <g transform="translate(0.0000, 5.7760)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.2474" y2="0"/>
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.0242" y2="0"/>
 </g>
 <g transform="translate(0.0000, 4.7760)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.2474" y2="0"/>
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.0242" y2="0"/>
 </g>
 <g transform="translate(0.0000, 3.7760)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.2474" y2="0"/>
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.0242" y2="0"/>
 </g>
 <g transform="translate(0.0000, 2.7760)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.2474" y2="0"/>
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.0242" y2="0"/>
 </g>
 <g transform="translate(0.0000, 1.7760)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.2474" y2="0"/>
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.0242" y2="0"/>
 </g>
 <g transform="translate(33.3576, 3.7760)">
 <rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(46.2346, 3.7760)">
+<g transform="translate(46.1230, 3.7760)">
 <rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
 <g transform="translate(20.5922, 3.7760)">
 <rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(56.0460, 3.7760)">
+<g transform="translate(55.8229, 3.7760)">
 <rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(55.3414, 3.7760)">
+<g transform="translate(55.1182, 3.7760)">
 <rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
 <g transform="translate(0.0000, 6.7760)">
@@ -83,54 +83,54 @@ tspan { white-space: pre; }
 <rect x="8.6764" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:51:41:42">
-<g transform="translate(40.3827, 4.7760)">
+<g transform="translate(40.3269, 4.7760)">
 <path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:46:47">
-<g transform="translate(39.7780, 12.2930)">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:44:45">
+<g transform="translate(40.3482, 12.2930)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>11</tspan>
+<tspan>3</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(41.5837, 3.7760)">
+<g transform="translate(41.5279, 3.7760)">
 <rect x="-0.0935" y="-2.5000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:51:44:45">
-<g transform="translate(43.3366, 4.2760)">
+<g transform="translate(43.2250, 4.2760)">
 <path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:51:52">
-<g transform="translate(42.7319, 12.2930)">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:48:49">
+<g transform="translate(43.2462, 12.2930)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>12</tspan>
+<tspan>1</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(44.5375, 3.7760)">
+<g transform="translate(44.4259, 3.7760)">
 <rect x="-0.0935" y="-3.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:51:47:48">
-<g transform="translate(47.5136, 3.7760)">
+<g transform="translate(47.4020, 3.7760)">
 <path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:56:57">
-<g transform="translate(46.9088, 12.2930)">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:52:53">
+<g transform="translate(47.4232, 12.2930)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>13</tspan>
+<tspan>2</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(47.6070, 3.7760)">
+<g transform="translate(47.4954, 3.7760)">
 <rect x="-0.0935" y="0.1504" width="0.1870" height="3.1829" ry="0.0667" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:36:37">
 <g transform="translate(34.5521, 12.2930)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>9</tspan>
+<tspan>4</tspan>
 </text>
 </g>
 </a>
@@ -142,44 +142,44 @@ tspan { white-space: pre; }
 <path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:41:42">
-<g transform="translate(36.8242, 12.2930)">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:40:41">
+<g transform="translate(37.4501, 12.2930)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>10</tspan>
+<tspan>1</tspan>
 </text>
 </g>
 </a>
 <g transform="translate(38.6298, 3.7760)">
 <rect x="-0.0935" y="-2.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:61:62">
-<g transform="translate(49.8627, 12.2930)">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:56:57">
+<g transform="translate(50.3212, 12.2930)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>14</tspan>
+<tspan>3</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:51:50:51">
-<g transform="translate(50.4674, 3.2760)">
+<g transform="translate(50.3000, 3.2760)">
 <path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(50.5609, 3.7760)">
+<g transform="translate(50.3935, 3.7760)">
 <rect x="-0.0935" y="-0.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:51:56:57">
-<g transform="translate(53.4212, 2.7760)">
+<g transform="translate(53.1981, 2.7760)">
 <path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:66:67">
-<g transform="translate(52.8165, 12.2930)">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:60:61">
+<g transform="translate(53.2193, 12.2930)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>15</tspan>
+<tspan>4</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(53.5147, 3.7760)">
+<g transform="translate(53.2915, 3.7760)">
 <rect x="-0.0935" y="-0.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:51:13:14">
@@ -190,7 +190,7 @@ tspan { white-space: pre; }
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:8:9">
 <g transform="translate(11.9193, 12.2930)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>2</tspan>
+<tspan>3</tspan>
 </text>
 </g>
 </a>
@@ -205,7 +205,7 @@ tspan { white-space: pre; }
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:12:13">
 <g transform="translate(14.8174, 12.2930)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>3</tspan>
+<tspan>1</tspan>
 </text>
 </g>
 </a>
@@ -220,7 +220,7 @@ tspan { white-space: pre; }
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:16:17">
 <g transform="translate(17.7154, 12.2930)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>4</tspan>
+<tspan>3</tspan>
 </text>
 </g>
 </a>
@@ -266,7 +266,7 @@ l73 30v148z" fill="currentColor"/>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:4:5">
 <g transform="translate(9.0213, 12.2930)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>1</tspan>
+<tspan>2</tspan>
 </text>
 </g>
 </a>
@@ -276,7 +276,7 @@ l73 30v148z" fill="currentColor"/>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:32:33">
 <g transform="translate(30.4808, 12.2930)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>8</tspan>
+<tspan>3</tspan>
 </text>
 </g>
 </a>
@@ -293,7 +293,7 @@ l73 30v148z" fill="currentColor"/>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:24:25">
 <g transform="translate(24.6847, 12.2930)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>6</tspan>
+<tspan>2</tspan>
 </text>
 </g>
 </a>
@@ -311,339 +311,339 @@ l73 30v148z" fill="currentColor"/>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:28:29">
 <g transform="translate(27.5828, 12.2930)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>7</tspan>
+<tspan>1</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:6:20:21">
 <g transform="translate(21.7867, 12.2930)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>5</tspan>
+<tspan>1</tspan>
 </text>
 </g>
 </a>
 <g transform="translate(22.9664, 3.7760)">
 <rect x="-0.0935" y="-0.0000" width="0.1870" height="3.8496" ry="0.0667" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 25.6207)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.1417" y2="0"/>
+<g transform="translate(0.0000, 25.6208)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="55.9185" y2="0"/>
 </g>
-<g transform="translate(0.0000, 24.6207)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.1417" y2="0"/>
+<g transform="translate(0.0000, 24.6208)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="55.9185" y2="0"/>
 </g>
-<g transform="translate(0.0000, 23.6207)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.1417" y2="0"/>
+<g transform="translate(0.0000, 23.6208)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="55.9185" y2="0"/>
 </g>
-<g transform="translate(0.0000, 22.6207)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.1417" y2="0"/>
+<g transform="translate(0.0000, 22.6208)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="55.9185" y2="0"/>
 </g>
-<g transform="translate(0.0000, 21.6207)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.1417" y2="0"/>
+<g transform="translate(0.0000, 21.6208)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="55.9185" y2="0"/>
 </g>
-<g transform="translate(33.3576, 23.6207)">
+<g transform="translate(33.3576, 23.6208)">
 <rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(46.2346, 23.6207)">
+<g transform="translate(46.1230, 23.6208)">
 <rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(20.5922, 23.6207)">
+<g transform="translate(20.5922, 23.6208)">
 <rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(55.9404, 23.6207)">
+<g transform="translate(55.7172, 23.6208)">
 <rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(55.2357, 23.6207)">
+<g transform="translate(55.0125, 23.6208)">
 <rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 26.6207)">
-<rect x="52.9920" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 26.6208)">
+<rect x="52.7688" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 27.6207)">
-<rect x="52.9920" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 27.6208)">
+<rect x="52.7688" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 28.6207)">
-<rect x="52.9920" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 28.6208)">
+<rect x="52.7688" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 29.6207)">
-<rect x="52.9920" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 29.6208)">
+<rect x="52.7688" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 26.6207)">
-<rect x="50.0381" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 26.6208)">
+<rect x="49.8707" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 27.6207)">
-<rect x="50.0381" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 27.6208)">
+<rect x="49.8707" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 28.6207)">
-<rect x="50.0381" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 28.6208)">
+<rect x="49.8707" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 26.6207)">
-<rect x="47.0843" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 26.6208)">
+<rect x="46.9727" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 27.6207)">
-<rect x="47.0843" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 27.6208)">
+<rect x="46.9727" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 28.6207)">
-<rect x="47.0843" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 28.6208)">
+<rect x="46.9727" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 26.6207)">
-<rect x="43.0130" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 26.6208)">
+<rect x="42.9014" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 27.6207)">
-<rect x="43.0130" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 27.6208)">
+<rect x="42.9014" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 26.6207)">
-<rect x="40.0591" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 26.6208)">
+<rect x="40.0033" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 27.6207)">
-<rect x="40.0591" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 27.6208)">
+<rect x="40.0033" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 26.6207)">
+<g transform="translate(0.0000, 26.6208)">
 <rect x="37.1053" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 26.6207)">
+<g transform="translate(0.0000, 26.6208)">
 <rect x="34.2073" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:48:49">
-<g transform="translate(40.3827, 27.6207)">
+<g transform="translate(40.3269, 27.6208)">
 <path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:46:47">
-<g transform="translate(39.7780, 32.1377)">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:44:45">
+<g transform="translate(40.3482, 32.1378)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>11</tspan>
+<tspan>1</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(41.5837, 23.6207)">
+<g transform="translate(41.5279, 23.6208)">
 <rect x="-0.0935" y="-0.0000" width="0.1870" height="3.8496" ry="0.0667" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:50:51">
-<g transform="translate(43.3366, 28.1207)">
+<g transform="translate(43.2250, 28.1208)">
 <path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:51:52">
-<g transform="translate(42.7319, 32.1377)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>12</tspan>
-</text>
-</g>
-</a>
-<g transform="translate(44.5375, 23.6207)">
-<rect x="-0.0935" y="-0.0000" width="0.1870" height="4.3496" ry="0.0667" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:52:53">
-<g transform="translate(47.4079, 28.6207)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:56:57">
-<g transform="translate(46.8032, 32.1377)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>13</tspan>
-</text>
-</g>
-</a>
-<g transform="translate(48.6088, 23.6207)">
-<rect x="-0.0935" y="-0.0000" width="0.1870" height="4.8496" ry="0.0667" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:36:37">
-<g transform="translate(34.5521, 32.1377)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>9</tspan>
-</text>
-</g>
-</a>
-<g transform="translate(35.7318, 23.6207)">
-<rect x="-0.0935" y="-0.5000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:46:47">
-<g transform="translate(37.4289, 27.1207)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:41:42">
-<g transform="translate(36.8242, 32.1377)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>10</tspan>
-</text>
-</g>
-</a>
-<g transform="translate(38.6298, 23.6207)">
-<rect x="-0.0935" y="-0.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:61:62">
-<g transform="translate(49.7570, 32.1377)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>14</tspan>
-</text>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:56:57">
-<g transform="translate(50.3617, 29.1207)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(51.5626, 23.6207)">
-<rect x="-0.0935" y="-0.0000" width="0.1870" height="5.3496" ry="0.0667" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:58:59">
-<g transform="translate(53.3156, 29.6207)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:66:67">
-<g transform="translate(52.7108, 32.1377)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>15</tspan>
-</text>
-</g>
-</a>
-<g transform="translate(54.5165, 23.6207)">
-<rect x="-0.0935" y="-0.0000" width="0.1870" height="5.8496" ry="0.0667" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:15:16">
-<g transform="translate(11.8981, 23.1207)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:8:9">
-<g transform="translate(11.9193, 32.1377)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>2</tspan>
-</text>
-</g>
-</a>
-<g transform="translate(11.9915, 23.6207)">
-<rect x="-0.0935" y="-0.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:21:22">
-<g transform="translate(14.7961, 23.6207)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:12:13">
-<g transform="translate(14.8174, 32.1377)">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:48:49">
+<g transform="translate(43.2462, 32.1378)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
 <tspan>3</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(14.8896, 23.6207)">
+<g transform="translate(44.4259, 23.6208)">
+<rect x="-0.0935" y="-0.0000" width="0.1870" height="4.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:52:53">
+<g transform="translate(47.2963, 28.6208)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:52:53">
+<g transform="translate(47.3175, 32.1378)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(48.4972, 23.6208)">
+<rect x="-0.0935" y="-0.0000" width="0.1870" height="4.8496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:36:37">
+<g transform="translate(34.5521, 32.1378)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(35.7318, 23.6208)">
+<rect x="-0.0935" y="-0.5000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:46:47">
+<g transform="translate(37.4289, 27.1208)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:40:41">
+<g transform="translate(37.4501, 32.1378)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(38.6298, 23.6208)">
+<rect x="-0.0935" y="-0.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:56:57">
+<g transform="translate(50.2156, 32.1378)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:56:57">
+<g transform="translate(50.1943, 29.1208)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(51.3952, 23.6208)">
+<rect x="-0.0935" y="-0.0000" width="0.1870" height="5.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:58:59">
+<g transform="translate(53.0924, 29.6208)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:60:61">
+<g transform="translate(53.1136, 32.1378)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(54.2933, 23.6208)">
+<rect x="-0.0935" y="-0.0000" width="0.1870" height="5.8496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:15:16">
+<g transform="translate(11.8981, 23.1208)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:8:9">
+<g transform="translate(11.9193, 32.1378)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(11.9915, 23.6208)">
+<rect x="-0.0935" y="-0.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:21:22">
+<g transform="translate(14.7961, 23.6208)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:12:13">
+<g transform="translate(14.8174, 32.1378)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(14.8896, 23.6208)">
 <rect x="-0.0935" y="0.1504" width="0.1870" height="3.1829" ry="0.0667" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:24:25">
-<g transform="translate(17.6942, 24.1207)">
+<g transform="translate(17.6942, 24.1208)">
 <path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:16:17">
-<g transform="translate(17.7154, 32.1377)">
+<g transform="translate(17.7154, 32.1378)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>4</tspan>
+<tspan>1</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(18.8951, 23.6207)">
+<g transform="translate(18.8951, 23.6208)">
 <rect x="-0.0935" y="-3.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:41:42">
-<g transform="translate(34.5309, 26.6207)">
+<g transform="translate(34.5309, 26.6208)">
 <path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:27:28">
-<g transform="translate(21.7654, 24.6207)">
+<g transform="translate(21.7654, 24.6208)">
 <path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(9.0935, 23.6207)">
+<g transform="translate(9.0935, 23.6208)">
 <rect x="-0.0935" y="-0.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:10:11">
-<g transform="translate(9.0000, 22.6207)">
+<g transform="translate(9.0000, 22.6208)">
 <path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(0.8000, 24.6207)">
+<g transform="translate(0.8000, 24.6208)">
 <path transform="scale(0.0040, -0.0040)" d="M181 905c0 182 139 289 161 289c6 0 11 -2 16 -6c69 -77 137 -241 137 -356c0 -141 -80 -253 -170 -362c22 -67 41 -135 58 -203h7c158 0 259 -130 259 -265c0 -115 -75 -215 -179 -249c2 -31 4 -63 4 -94c0 -22 -1 -44 -2 -66c-8 -123 -94 -231 -214 -231
 c-109 0 -197 88 -197 197c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-7 0 -13 1 -20 3c25 -34 64 -56 108 -56c92 0 155 89 161 189c1 20 2 41 2 61c0 27 -1 53 -3 80c-5 -1 -43 -8 -86 -8c-195 0 -333 183 -333 379c0 176 126 308 239 444
 c-39 110 -60 172 -60 349zM466 -199c8 3 105 45 105 158c0 85 -61 169 -159 185c27 -130 46 -261 54 -343zM338 -217c1 0 46 1 80 6c-7 70 -26 211 -57 357c-78 -7 -123 -59 -123 -116c0 -42 25 -87 78 -118c6 -5 8 -12 8 -18c0 -13 -11 -25 -25 -25c-17 0 -130 63 -130 190
 c0 91 60 180 165 203c-14 55 -30 109 -47 163c-103 -123 -206 -246 -206 -405c0 -142 140 -237 257 -237zM236 781c0 -41 16 -99 43 -179c76 97 138 199 138 322c0 54 -8 76 -19 106c-99 -44 -162 -141 -162 -249z" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:65:6:7">
-<g transform="translate(4.3000, 21.6207)">
+<g transform="translate(4.3000, 21.6208)">
 <path transform="scale(0.0040, -0.0040)" d="M0 112c0 13 8 25 20 30l34 13v148c0 13 10 24 23 24s24 -11 24 -24v-129l73 29v148c0 13 11 24 24 24s23 -11 23 -24v-129l10 4c4 2 8 2 12 2c17 0 32 -14 32 -32v-46c0 -13 -8 -24 -20 -29l-34 -14v-148l10 4c4 2 8 3 12 3c17 0 32 -14 32 -32v-46c0 -13 -8 -25 -20 -30
 l-34 -13v-148c0 -13 -10 -24 -23 -24s-24 11 -24 24v129l-73 -29v-148c0 -13 -11 -24 -24 -24s-23 11 -23 24v129l-10 -4c-4 -2 -8 -2 -12 -2c-17 0 -32 14 -32 32v46c0 13 8 24 20 29l34 14v148l-10 -4c-4 -2 -8 -3 -12 -3c-17 0 -32 14 -32 32v46zM174 89l-73 -30v-148
 l73 30v148z" fill="currentColor"/>
 </g>
-<g transform="translate(5.4000, 23.1207)">
+<g transform="translate(5.4000, 23.1208)">
 <path transform="scale(0.0040, -0.0040)" d="M0 112c0 13 8 25 20 30l34 13v148c0 13 10 24 23 24s24 -11 24 -24v-129l73 29v148c0 13 11 24 24 24s23 -11 23 -24v-129l10 4c4 2 8 2 12 2c17 0 32 -14 32 -32v-46c0 -13 -8 -24 -20 -29l-34 -14v-148l10 4c4 2 8 3 12 3c17 0 32 -14 32 -32v-46c0 -13 -8 -25 -20 -30
 l-34 -13v-148c0 -13 -10 -24 -23 -24s-24 11 -24 24v129l-73 -29v-148c0 -13 -11 -24 -24 -24s-23 11 -23 24v129l-10 -4c-4 -2 -8 -2 -12 -2c-17 0 -32 14 -32 32v46c0 13 8 24 20 29l34 14v148l-10 -4c-4 -2 -8 -3 -12 -3c-17 0 -32 14 -32 32v46zM174 89l-73 -30v-148
 l73 30v148z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:4:5">
-<g transform="translate(9.0213, 32.1377)">
+<g transform="translate(9.0213, 32.1378)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(31.6605, 23.6208)">
+<rect x="-0.0935" y="-1.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:32:33">
+<g transform="translate(30.4808, 32.1378)">
+<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:38:39">
+<g transform="translate(30.4596, 26.1208)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:30:31">
+<g transform="translate(24.6635, 25.1208)">
+<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:24:25">
+<g transform="translate(24.6847, 32.1378)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
 <tspan>1</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(31.6605, 23.6207)">
-<rect x="-0.0935" y="-1.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:32:33">
-<g transform="translate(30.4808, 32.1377)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>8</tspan>
-</text>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:38:39">
-<g transform="translate(30.4596, 26.1207)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:30:31">
-<g transform="translate(24.6635, 25.1207)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:24:25">
-<g transform="translate(24.6847, 32.1377)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>6</tspan>
-</text>
-</g>
-</a>
-<g transform="translate(25.8644, 23.6207)">
+<g transform="translate(25.8644, 23.6208)">
 <rect x="-0.0935" y="-2.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:69:35:36">
-<g transform="translate(27.5615, 25.6207)">
+<g transform="translate(27.5615, 25.6208)">
 <path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(28.7625, 23.6207)">
+<g transform="translate(28.7625, 23.6208)">
 <rect x="-0.0935" y="-1.5000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:28:29">
-<g transform="translate(27.5828, 32.1377)">
+<g transform="translate(27.5828, 32.1378)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>7</tspan>
+<tspan>4</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/d-major-scale-two-octave.ly:10:20:21">
-<g transform="translate(21.7867, 32.1377)">
+<g transform="translate(21.7867, 32.1378)">
 <text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
-<tspan>5</tspan>
+<tspan>3</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(22.9664, 23.6207)">
+<g transform="translate(22.9664, 23.6208)">
 <rect x="-0.0935" y="-2.5000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
 </g>
 </svg>
