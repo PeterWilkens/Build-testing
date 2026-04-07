@@ -140,6 +140,9 @@
   \csname templatenodestyle\endcsname{4}{11.0}{}{3}
   \csname templatenodestyle\endcsname{5}{11.5}{}{3}
   \csname templatenodestyle\endcsname{6}{12.0}{}{3}
+
+  \node[anchor=north, rotate=90, font=\bfseries\scriptsize] at (5*\hlen,2.2*\vlen) {Bass};
+  \node[anchor=north, rotate=90, font=\bfseries\scriptsize] at (6*\hlen,2.2*\vlen) {Counter Bass};
 \end{scope}
 
 \begin{scope}[xshift=\xrh cm]
