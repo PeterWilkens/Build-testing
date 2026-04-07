@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-intervals-c-melodic-minor-ascending" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>C Melodic Minor Scale (Ascending)</title>
+  <title>C Melodic Minor Scale Construction (Ascending)</title>
 
   <p>In C melodic minor ascending, the sixth and seventh scale degrees are raised to A and B.</p>
   <p>All melodic minor scales use this same ascending interval pattern, so any melodic minor scale can be written ascending by applying this pattern from tonic to tonic.</p>

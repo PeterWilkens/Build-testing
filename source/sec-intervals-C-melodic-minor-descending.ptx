@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-intervals-c-melodic-minor-descending" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>C Melodic Minor Scale (Descending)</title>
+  <title>C Melodic Minor Scale Construction (Descending)</title>
 
   <p>In C melodic minor descending, the sixth and seventh scale degrees are lowered to A<flat/> and B<flat/>, following the C natural minor form.</p>
   <p>All melodic minor scales use this same descending interval pattern, so any melodic minor scale can be written descending by applying this pattern from tonic to tonic.</p>

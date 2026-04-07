@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-intervals-c-natural-minor" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>C Natural Minor Scale</title>
+  <title>C Natural Minor Scale Construction</title>
 
   <p>In C natural minor, the interval pattern differs from the major scale in that the third, sixth, and seventh scale degrees are lowered.</p>
   <p>All natural minor scales follow the same interval pattern, so any natural minor scale can be built by using this pattern of major and minor seconds.</p>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-intervals-c-harmonic-minor-scale" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>C Harmonic Minor Scale</title>
+  <title>C Harmonic Minor Scale Construction</title>
 
   <p>In C harmonic minor, the interval pattern remains the same ascending and descending.</p>
   <p>All harmonic minor scales have the same pattern of intervals, so any harmonic minor scale can be built by using this same pattern.</p>
