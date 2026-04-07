@@ -1,577 +1,595 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="240.00mm" height="72.00mm" viewBox="0.0000 -0.0000 227.6220 68.2866">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="71.06mm" height="34.61mm" viewBox="0.0000 0.0280 57.7676 28.1368">
 <style type="text/css">
 <![CDATA[
 tspan { white-space: pre; }
 ]]>
 </style>
-<g transform="translate(1.8969, 8.4484)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.1702" y2="0"/>
+<g transform="translate(0.0000, 6.0280)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1282" stroke="currentColor" x1="0.0641" y1="0" x2="57.7035" y2="0"/>
 </g>
-<g transform="translate(1.8969, 7.4484)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.1702" y2="0"/>
+<g transform="translate(0.0000, 5.0280)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1282" stroke="currentColor" x1="0.0641" y1="0" x2="57.7035" y2="0"/>
 </g>
-<g transform="translate(1.8969, 6.4484)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.1702" y2="0"/>
+<g transform="translate(0.0000, 4.0280)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1282" stroke="currentColor" x1="0.0641" y1="0" x2="57.7035" y2="0"/>
 </g>
-<g transform="translate(1.8969, 5.4484)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.1702" y2="0"/>
+<g transform="translate(0.0000, 3.0280)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1282" stroke="currentColor" x1="0.0641" y1="0" x2="57.7035" y2="0"/>
 </g>
-<g transform="translate(1.8969, 4.4484)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="56.1702" y2="0"/>
+<g transform="translate(0.0000, 2.0280)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1282" stroke="currentColor" x1="0.0641" y1="0" x2="57.7035" y2="0"/>
 </g>
-<g transform="translate(34.2122, 6.4484)">
-<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(33.9859, 4.0280)">
+<rect x="0.0000" y="-2.0000" width="0.2435" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(47.2234, 6.4484)">
-<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(47.0033, 4.0280)">
+<rect x="0.0000" y="-2.0000" width="0.2435" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(21.2553, 6.4484)">
-<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(21.2502, 4.0280)">
+<rect x="0.0000" y="-2.0000" width="0.2435" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(57.8657, 6.4484)">
-<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(57.5240, 4.0280)">
+<rect x="0.0000" y="-2.0000" width="0.2435" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(57.1611, 6.4484)">
-<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(56.8960, 4.0280)">
+<rect x="0.0000" y="-2.0000" width="0.2435" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(1.8969, 3.4484)">
-<rect x="53.0205" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 1.0280)">
+<rect x="54.5450" y="-0.1141" width="1.9471" height="0.2282" ry="0.1141" fill="currentColor"/>
 </g>
-<g transform="translate(1.8969, 3.4484)">
-<rect x="50.2152" y="-0.1219" width="1.7930" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 7.0280)">
+<rect x="15.1296" y="-0.1141" width="1.9471" height="0.2282" ry="0.1141" fill="currentColor"/>
 </g>
-<g transform="translate(1.8969, 9.4484)">
-<rect x="10.3408" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 7.0280)">
+<rect x="12.2316" y="-0.1141" width="1.9471" height="0.2282" ry="0.1141" fill="currentColor"/>
 </g>
-<g transform="translate(1.8969, 9.4484)">
-<rect x="7.4427" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 7.0280)">
+<rect x="9.3335" y="-0.1141" width="1.9471" height="0.2282" ry="0.1141" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:35:36">
-<g transform="translate(41.3715, 4.9484)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<g transform="translate(0.0000, 8.0280)">
+<rect x="9.3335" y="-0.1141" width="1.9471" height="0.2282" ry="0.1141" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:42:43">
+<g transform="translate(41.1189, 3.0280)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:6:46:47">
-<g transform="translate(40.7668, 12.4654)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(40.4997, 10.5400)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>11</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(41.4650, 6.4484)">
-<rect x="-0.0935" y="-1.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(41.2022, 4.0280)">
+<rect x="-0.0833" y="-0.8382" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:37:38">
-<g transform="translate(44.3254, 4.4484)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:44:45">
+<g transform="translate(44.1052, 2.5280)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:6:51:52">
-<g transform="translate(43.7207, 12.4654)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(43.4861, 10.5400)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>12</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(44.4189, 6.4484)">
-<rect x="-0.0935" y="-1.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(44.1885, 4.0280)">
+<rect x="-0.0833" y="-1.3382" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:39:40">
-<g transform="translate(49.1427, 3.9484)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:46:47">
+<g transform="translate(48.8968, 2.0280)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:6:56:57">
-<g transform="translate(48.5380, 12.4654)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(48.2777, 10.5400)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>13</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(49.2362, 6.4484)">
-<rect x="-0.0935" y="-2.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(48.9801, 4.0280)">
+<rect x="-0.0833" y="-1.8382" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:6:36:37">
-<g transform="translate(35.5409, 12.4654)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(35.2494, 10.5400)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>9</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(35.6131, 6.4484)">
-<rect x="-0.0935" y="-0.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(35.3178, 4.0280)">
+<rect x="-0.0833" y="0.1618" width="0.1666" height="3.1715" ry="0.0571" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:33:34">
-<g transform="translate(38.4177, 5.4484)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:38:39">
+<g transform="translate(38.1325, 3.5280)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:6:41:42">
-<g transform="translate(37.8130, 12.4654)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(37.5134, 10.5400)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>10</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(38.5112, 6.4484)">
-<rect x="-0.0935" y="-0.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(38.2158, 4.0280)">
+<rect x="-0.0833" y="-0.3382" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:6:61:62">
-<g transform="translate(51.6824, 12.4654)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(51.2640, 10.5400)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>14</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(48.0967, 3.9484)">
-<path transform="scale(0.0040, -0.0040)" d="M-8 375c9 5 18 7 28 7s19 -2 28 -7l-3 -202l97 26c2 0 3 1 5 1c11 0 20 -9 20 -20l7 -555c-9 -5 -17 -7 -27 -7s-19 2 -28 7l3 202l-97 -26c-2 0 -3 -1 -5 -1c-11 0 -20 9 -20 20zM126 108l-82 -22l-3 -194l82 22z" fill="currentColor"/>
+<g transform="translate(47.8468, 2.0280)">
+<path transform="scale(0.0040, -0.0040)" d="M-8 375c8 5 18 7 27 7s20 -2 28 -7l-3 -196l99 24h4c11 0 20 -8 20 -19l8 -559c-8 -5 -19 -7 -28 -7s-19 2 -27 7l3 196l-99 -24h-5c-11 0 -19 8 -19 19zM127 109l-85 -20l-2 -198l84 20z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:41:42">
-<g transform="translate(52.2871, 3.4484)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:48:49">
+<g transform="translate(51.8832, 1.5280)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(52.3806, 6.4484)">
-<rect x="-0.0935" y="-2.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(51.9665, 4.0280)">
+<rect x="-0.0833" y="-2.3382" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
-<g transform="translate(50.8371, 3.4484)">
-<path transform="scale(0.0040, -0.0040)" d="M0 112c0 13 8 25 20 30l34 13v148c0 13 10 24 23 24s24 -11 24 -24v-129l73 29v148c0 13 11 24 24 24s23 -11 23 -24v-129l10 4c4 2 8 2 12 2c17 0 32 -14 32 -32v-46c0 -13 -8 -24 -20 -29l-34 -14v-148l10 4c4 2 8 3 12 3c17 0 32 -14 32 -32v-46c0 -13 -8 -25 -20 -30
-l-34 -13v-148c0 -13 -10 -24 -23 -24s-24 11 -24 24v129l-73 -29v-148c0 -13 -11 -24 -24 -24s-23 11 -23 24v129l-10 -4c-4 -2 -8 -2 -12 -2c-17 0 -32 14 -32 32v46c0 13 8 24 20 29l34 14v148l-10 -4c-4 -2 -8 -3 -12 -3c-17 0 -32 14 -32 32v46zM174 89l-73 -30v-148
-l73 30v148z" fill="currentColor"/>
+<g transform="translate(50.8332, 1.5280)">
+<path transform="scale(0.0040, -0.0040)" d="M-8 375c8 5 18 7 27 7s20 -2 28 -7l-3 -196l99 24h4c11 0 20 -8 20 -19l8 -559c-8 -5 -19 -7 -28 -7s-19 2 -27 7l3 196l-99 -24h-5c-11 0 -19 8 -19 19zM127 109l-85 -20l-2 -198l84 20z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:46:47">
-<g transform="translate(55.2409, 2.9484)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:50:51">
+<g transform="translate(54.8695, 1.0280)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:6:66:67">
-<g transform="translate(54.6362, 12.4654)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(54.2504, 10.5400)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>15</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(55.3344, 6.4484)">
-<rect x="-0.0935" y="-3.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(54.9528, 4.0280)">
+<rect x="-0.0833" y="-2.8382" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
-<g transform="translate(10.8641, 6.4484)">
-<rect x="-0.0935" y="-0.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(10.8728, 4.0280)">
+<rect x="-0.0833" y="-0.0000" width="0.1666" height="3.8382" ry="0.0571" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:6:4:5">
-<g transform="translate(9.6844, 12.4654)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(9.6730, 10.5400)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>1</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:19:20">
-<g transform="translate(18.3573, 4.9484)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:22:23">
+<g transform="translate(18.3522, 6.5280)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:6:16:17">
-<g transform="translate(18.3785, 12.4654)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(18.3671, 10.5400)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(18.4508, 6.4484)">
-<rect x="-0.0935" y="-1.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(19.5670, 4.0280)">
+<rect x="-0.0833" y="-1.0000" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:31:32">
-<g transform="translate(35.5197, 5.9484)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:36:37">
+<g transform="translate(35.2345, 4.0280)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:21:22">
-<g transform="translate(22.6200, 4.4484)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:25:26">
+<g transform="translate(22.3937, 6.0280)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:6:20:21">
-<g transform="translate(22.6412, 12.4654)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(22.4087, 10.5400)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>5</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(22.7135, 6.4484)">
-<rect x="-0.0935" y="-1.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(23.6085, 4.0280)">
+<rect x="-0.0833" y="-1.5000" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:6:8:9">
-<g transform="translate(12.5824, 12.4654)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(12.5711, 10.5400)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:14:15">
-<g transform="translate(12.5612, 9.4484)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<g transform="translate(12.5561, 7.5280)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(13.7621, 6.4484)">
-<rect x="-0.0935" y="-0.5000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(13.7709, 4.0280)">
+<rect x="-0.0833" y="-0.0000" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:17:18">
-<g transform="translate(15.4593, 5.4484)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<g transform="translate(15.4541, 7.0280)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:6:12:13">
-<g transform="translate(15.4805, 12.4654)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(15.4691, 10.5400)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>3</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(15.5527, 6.4484)">
-<rect x="-0.0935" y="-0.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(16.6689, 4.0280)">
+<rect x="-0.0833" y="-0.5000" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:25:26">
-<g transform="translate(28.4161, 6.9484)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:31:32">
+<g transform="translate(28.1898, 5.0280)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:6:28:29">
-<g transform="translate(28.4373, 12.4654)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(28.2048, 10.5400)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>7</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(29.6170, 6.4484)">
-<rect x="-0.0935" y="-3.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(29.4046, 4.0280)">
+<rect x="-0.0833" y="-2.5000" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
-<g transform="translate(26.9661, 6.9484)">
-<path transform="scale(0.0040, -0.0040)" d="M0 112c0 13 8 25 20 30l34 13v148c0 13 10 24 23 24s24 -11 24 -24v-129l73 29v148c0 13 11 24 24 24s23 -11 23 -24v-129l10 4c4 2 8 2 12 2c17 0 32 -14 32 -32v-46c0 -13 -8 -24 -20 -29l-34 -14v-148l10 4c4 2 8 3 12 3c17 0 32 -14 32 -32v-46c0 -13 -8 -25 -20 -30
-l-34 -13v-148c0 -13 -10 -24 -23 -24s-24 11 -24 24v129l-73 -29v-148c0 -13 -11 -24 -24 -24s-23 11 -23 24v129l-10 -4c-4 -2 -8 -2 -12 -2c-17 0 -32 14 -32 32v46c0 13 8 24 20 29l34 14v148l-10 -4c-4 -2 -8 -3 -12 -3c-17 0 -32 14 -32 32v46zM174 89l-73 -30v-148
-l73 30v148z" fill="currentColor"/>
+<g transform="translate(27.1533, 5.0280)">
+<path transform="scale(0.0040, -0.0040)" d="M-8 375c8 5 18 7 27 7s20 -2 28 -7l-3 -196l99 24h4c11 0 20 -8 20 -19l8 -559c-8 -5 -19 -7 -28 -7s-19 2 -27 7l3 196l-99 -24h-5c-11 0 -19 8 -19 19zM127 109l-85 -20l-2 -198l84 20z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:29:30">
-<g transform="translate(31.3141, 6.4484)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:34:35">
+<g transform="translate(31.0879, 4.5280)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:6:32:33">
-<g transform="translate(31.3354, 12.4654)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(31.1028, 10.5400)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>8</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(31.4076, 6.4484)">
-<rect x="-0.0935" y="0.1504" width="0.1870" height="3.1829" ry="0.0667" fill="currentColor"/>
+<g transform="translate(32.3027, 4.0280)">
+<rect x="-0.0833" y="-3.0000" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:10:11">
-<g transform="translate(9.6632, 9.9484)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<g transform="translate(9.6581, 8.0280)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:47:6:7">
-<g transform="translate(6.3632, 7.4484)">
-<path transform="scale(0.0040, -0.0040)" d="M34 33l-1 -58v-10c0 -21 2 -43 5 -64c41 38 85 80 85 136c0 31 -13 63 -40 63c-31 0 -48 -33 -49 -67zM32 441l-8 -333c25 27 60 42 97 42c49 0 79 -52 79 -106c0 -76 -78 -117 -133 -169c-19 -18 -27 -52 -55 -52c-17 0 -30 17 -30 35l-14 583c10 6 21 9 32 9
-s22 -3 32 -9z" fill="currentColor"/>
+<g transform="translate(4.4527, 5.0280)">
+<path transform="scale(0.0040, -0.0040)" d="M33 35l-2 -60v-11c0 -21 2 -43 5 -64c42 38 87 81 87 138c0 32 -13 63 -41 63c-31 0 -48 -32 -49 -66zM32 446l-9 -337c25 26 59 40 95 40c50 0 82 -51 82 -105c0 -77 -80 -117 -137 -169c-18 -17 -26 -48 -52 -48c-16 0 -28 15 -28 32l-15 587c10 6 21 8 32 8
+s22 -2 32 -8z" fill="currentColor"/>
+</g>
+<g transform="translate(5.4054, 3.5280)">
+<path transform="scale(0.0040, -0.0040)" d="M33 35l-2 -60v-11c0 -21 2 -43 5 -64c42 38 87 81 87 138c0 32 -13 63 -41 63c-31 0 -48 -32 -49 -66zM32 446l-9 -337c25 26 59 40 95 40c50 0 82 -51 82 -105c0 -77 -80 -117 -137 -169c-18 -17 -26 -48 -52 -48c-16 0 -28 15 -28 32l-15 587c10 6 21 8 32 8
+s22 -2 32 -8z" fill="currentColor"/>
+</g>
+<g transform="translate(6.3580, 5.5280)">
+<path transform="scale(0.0040, -0.0040)" d="M33 35l-2 -60v-11c0 -21 2 -43 5 -64c42 38 87 81 87 138c0 32 -13 63 -41 63c-31 0 -48 -32 -49 -66zM32 446l-9 -337c25 26 59 40 95 40c50 0 82 -51 82 -105c0 -77 -80 -117 -137 -169c-18 -17 -26 -48 -52 -48c-16 0 -28 15 -28 32l-15 587c10 6 21 8 32 8
+s22 -2 32 -8z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(2.6969, 5.4484)">
-<path transform="scale(0.0040, -0.0040)" d="M559 -125c0 27 22 49 49 49s49 -22 49 -49s-22 -49 -49 -49s-49 22 -49 49zM559 125c0 27 22 49 49 49s49 -22 49 -49s-22 -49 -49 -49s-49 22 -49 49zM229 267c174 0 296 -90 296 -255c0 -263 -262 -415 -513 -524c-4 -4 -8 -6 -12 -6c-9 0 -18 9 -18 18c0 4 2 8 6 12
-c198 117 403 264 403 489c0 117 -57 232 -162 232c-65 0 -107 -50 -128 -115c4 1 7 1 11 1c55 0 100 -45 100 -100c0 -58 -44 -107 -100 -107c-60 0 -112 48 -112 107c0 134 99 248 229 248z" fill="currentColor"/>
+<g transform="translate(0.8000, 3.0280)">
+<path transform="scale(0.0040, -0.0040)" d="M559 -125c0 27 22 50 49 50s50 -23 50 -50s-23 -50 -50 -50s-49 23 -49 50zM559 125c0 27 22 50 49 50s50 -23 50 -50s-23 -50 -50 -50s-49 23 -49 50zM230 266c173 0 295 -89 295 -254c0 -263 -262 -414 -514 -523c-3 -3 -7 -5 -11 -5c-9 0 -16 7 -16 16c0 4 2 8 5 11
+c199 117 405 264 405 490c0 118 -58 233 -164 233c-67 0 -113 -50 -135 -117c6 1 11 2 17 2c55 0 100 -45 100 -100c0 -58 -44 -107 -100 -107c-60 0 -112 48 -112 107c0 133 100 247 230 247z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:23:24">
-<g transform="translate(25.5180, 3.9484)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:50:28:29">
+<g transform="translate(25.2918, 5.5280)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:6:24:25">
-<g transform="translate(25.5393, 12.4654)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(25.3067, 10.5400)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>6</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(25.6115, 6.4484)">
-<rect x="-0.0935" y="-2.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(26.5066, 4.0280)">
+<rect x="-0.0833" y="-2.0000" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
-<g transform="translate(24.4720, 3.9484)">
-<path transform="scale(0.0040, -0.0040)" d="M-8 375c9 5 18 7 28 7s19 -2 28 -7l-3 -202l97 26c2 0 3 1 5 1c11 0 20 -9 20 -20l7 -555c-9 -5 -17 -7 -27 -7s-19 2 -28 7l3 202l-97 -26c-2 0 -3 -1 -5 -1c-11 0 -20 9 -20 20zM126 108l-82 -22l-3 -194l82 22z" fill="currentColor"/>
+<g transform="translate(24.2553, 5.5280)">
+<path transform="scale(0.0040, -0.0040)" d="M-8 375c8 5 18 7 27 7s20 -2 28 -7l-3 -196l99 24h4c11 0 20 -8 20 -19l8 -559c-8 -5 -19 -7 -28 -7s-19 2 -27 7l3 196l-99 -24h-5c-11 0 -19 8 -19 19zM127 109l-85 -20l-2 -198l84 20z" fill="currentColor"/>
 </g>
-<g transform="translate(1.8969, 27.4931)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="55.0994" y2="0"/>
+<g transform="translate(0.0000, 23.6250)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1282" stroke="currentColor" x1="0.0641" y1="0" x2="57.0106" y2="0"/>
 </g>
-<g transform="translate(1.8969, 26.4931)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="55.0994" y2="0"/>
+<g transform="translate(0.0000, 22.6250)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1282" stroke="currentColor" x1="0.0641" y1="0" x2="57.0106" y2="0"/>
 </g>
-<g transform="translate(1.8969, 25.4931)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="55.0994" y2="0"/>
+<g transform="translate(0.0000, 21.6250)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1282" stroke="currentColor" x1="0.0641" y1="0" x2="57.0106" y2="0"/>
 </g>
-<g transform="translate(1.8969, 24.4931)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="55.0994" y2="0"/>
+<g transform="translate(0.0000, 20.6250)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1282" stroke="currentColor" x1="0.0641" y1="0" x2="57.0106" y2="0"/>
 </g>
-<g transform="translate(1.8969, 23.4931)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1438" stroke="currentColor" x1="0.0719" y1="0" x2="55.0994" y2="0"/>
+<g transform="translate(0.0000, 19.6250)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1282" stroke="currentColor" x1="0.0641" y1="0" x2="57.0106" y2="0"/>
 </g>
-<g transform="translate(34.2122, 25.4931)">
-<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(34.1481, 21.6250)">
+<rect x="0.0000" y="-2.0000" width="0.2435" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(47.0892, 25.4931)">
-<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(47.0604, 21.6250)">
+<rect x="0.0000" y="-2.0000" width="0.2435" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(21.2553, 25.4931)">
-<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(21.2502, 21.6250)">
+<rect x="0.0000" y="-2.0000" width="0.2435" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(56.7949, 25.4931)">
-<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(56.8312, 21.6250)">
+<rect x="0.0000" y="-2.0000" width="0.2435" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(56.0902, 25.4931)">
-<rect x="0.0000" y="-2.0000" width="0.2732" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(56.2032, 21.6250)">
+<rect x="0.0000" y="-2.0000" width="0.2435" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(1.8969, 28.4931)">
-<rect x="51.9496" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 24.6250)">
+<rect x="53.8521" y="-0.1141" width="1.9471" height="0.2282" ry="0.1141" fill="currentColor"/>
 </g>
-<g transform="translate(1.8969, 28.4931)">
-<rect x="48.9958" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 25.6250)">
+<rect x="53.8521" y="-0.1141" width="1.9471" height="0.2282" ry="0.1141" fill="currentColor"/>
 </g>
-<g transform="translate(1.8969, 22.4931)">
-<rect x="10.3408" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 24.6250)">
+<rect x="50.8658" y="-0.1141" width="1.9471" height="0.2282" ry="0.1141" fill="currentColor"/>
 </g>
-<g transform="translate(1.8969, 22.4931)">
-<rect x="7.4427" y="-0.1219" width="1.9416" height="0.2438" ry="0.1219" fill="currentColor"/>
+<g transform="translate(0.0000, 24.6250)">
+<rect x="47.8794" y="-0.1141" width="1.9471" height="0.2282" ry="0.1141" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:38:39">
-<g transform="translate(41.2373, 26.9931)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<g transform="translate(0.0000, 18.6250)">
+<rect x="9.3335" y="-0.1141" width="1.9471" height="0.2282" ry="0.1141" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:44:45">
+<g transform="translate(41.1760, 23.6250)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:10:46:47">
-<g transform="translate(40.6326, 31.5101)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(40.5569, 28.1371)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>11</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(42.4382, 25.4931)">
-<rect x="-0.0935" y="-2.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(42.3908, 21.6250)">
+<rect x="-0.0833" y="-1.5000" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:41:42">
-<g transform="translate(44.1911, 27.4931)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:47:48">
+<g transform="translate(44.1624, 24.1250)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:10:51:52">
-<g transform="translate(43.5864, 31.5101)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(43.5432, 28.1371)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>12</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(45.3921, 25.4931)">
-<rect x="-0.0935" y="-1.5000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(45.3772, 21.6250)">
+<rect x="-0.0833" y="-1.0000" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:44:45">
-<g transform="translate(48.2624, 27.9931)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:50:51">
+<g transform="translate(48.2039, 24.6250)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:10:56:57">
-<g transform="translate(47.6577, 31.5101)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(47.5848, 28.1371)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>13</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(49.4633, 25.4931)">
-<rect x="-0.0935" y="-1.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(49.4187, 21.6250)">
+<rect x="-0.0833" y="-0.5000" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:10:36:37">
-<g transform="translate(35.4066, 31.5101)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(35.3066, 28.1371)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>9</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(36.5863, 25.4931)">
-<rect x="-0.0935" y="-3.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(36.5064, 21.6250)">
+<rect x="-0.0833" y="-2.5000" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:33:34">
-<g transform="translate(38.2834, 26.4931)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:39:40">
+<g transform="translate(38.1897, 23.1250)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:10:41:42">
-<g transform="translate(37.6787, 31.5101)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(37.5705, 28.1371)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>10</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(39.4844, 25.4931)">
-<rect x="-0.0935" y="-2.5000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(39.4044, 21.6250)">
+<rect x="-0.0833" y="-2.0000" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:10:61:62">
-<g transform="translate(50.6115, 31.5101)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(50.5712, 28.1371)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>14</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:47:48">
-<g transform="translate(51.2163, 28.4931)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:55:56">
+<g transform="translate(51.1903, 25.1250)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(52.4172, 25.4931)">
-<rect x="-0.0935" y="-0.5000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(52.4051, 21.6250)">
+<rect x="-0.0833" y="-0.0000" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:50:51">
-<g transform="translate(54.1701, 28.9931)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:58:59">
+<g transform="translate(54.1767, 25.6250)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:10:66:67">
-<g transform="translate(53.5654, 31.5101)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(53.5575, 28.1371)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>15</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(55.3710, 25.4931)">
-<rect x="-0.0935" y="-0.0000" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(55.3914, 21.6250)">
+<rect x="-0.0833" y="-0.0000" width="0.1666" height="3.8382" ry="0.0571" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:14:15">
-<g transform="translate(12.5612, 22.4931)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<g transform="translate(12.5561, 19.1250)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:10:8:9">
-<g transform="translate(12.5824, 31.5101)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(12.5711, 28.1371)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(12.6547, 25.4931)">
-<rect x="-0.0935" y="-2.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(12.6394, 21.6250)">
+<rect x="-0.0833" y="-2.3382" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:17:18">
-<g transform="translate(15.4593, 22.9931)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:18:19">
+<g transform="translate(15.4541, 19.6250)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:10:12:13">
-<g transform="translate(15.4805, 31.5101)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(15.4691, 28.1371)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>3</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(15.5527, 25.4931)">
-<rect x="-0.0935" y="-2.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(15.5374, 21.6250)">
+<rect x="-0.0833" y="-1.8382" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:21:22">
-<g transform="translate(18.3573, 23.4931)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:22:23">
+<g transform="translate(18.3522, 20.1250)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:10:16:17">
-<g transform="translate(18.3785, 31.5101)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(18.3671, 28.1371)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(18.4508, 25.4931)">
-<rect x="-0.0935" y="-1.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(18.4355, 21.6250)">
+<rect x="-0.0833" y="-1.3382" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:31:32">
-<g transform="translate(35.3854, 25.9931)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:23:24">
-<g transform="translate(22.6200, 23.9931)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:34:35">
+<g transform="translate(35.2916, 22.6250)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(9.7566, 25.4931)">
-<rect x="-0.0935" y="-3.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:24:25">
+<g transform="translate(22.5559, 20.6250)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(9.7414, 21.6250)">
+<rect x="-0.0833" y="-2.8382" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:10:11">
-<g transform="translate(9.6632, 21.9931)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<g transform="translate(9.6581, 18.6250)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(2.6969, 24.4931)">
-<path transform="scale(0.0040, -0.0040)" d="M559 -125c0 27 22 49 49 49s49 -22 49 -49s-22 -49 -49 -49s-49 22 -49 49zM559 125c0 27 22 49 49 49s49 -22 49 -49s-22 -49 -49 -49s-49 22 -49 49zM229 267c174 0 296 -90 296 -255c0 -263 -262 -415 -513 -524c-4 -4 -8 -6 -12 -6c-9 0 -18 9 -18 18c0 4 2 8 6 12
-c198 117 403 264 403 489c0 117 -57 232 -162 232c-65 0 -107 -50 -128 -115c4 1 7 1 11 1c55 0 100 -45 100 -100c0 -58 -44 -107 -100 -107c-60 0 -112 48 -112 107c0 134 99 248 229 248z" fill="currentColor"/>
+<g transform="translate(0.8000, 20.6250)">
+<path transform="scale(0.0040, -0.0040)" d="M559 -125c0 27 22 50 49 50s50 -23 50 -50s-23 -50 -50 -50s-49 23 -49 50zM559 125c0 27 22 50 49 50s50 -23 50 -50s-23 -50 -50 -50s-49 23 -49 50zM230 266c173 0 295 -89 295 -254c0 -263 -262 -414 -514 -523c-3 -3 -7 -5 -11 -5c-9 0 -16 7 -16 16c0 4 2 8 5 11
+c199 117 405 264 405 490c0 118 -58 233 -164 233c-67 0 -113 -50 -135 -117c6 1 11 2 17 2c55 0 100 -45 100 -100c0 -58 -44 -107 -100 -107c-60 0 -112 48 -112 107c0 133 100 247 230 247z" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:63:6:7">
-<g transform="translate(6.3632, 26.4931)">
-<path transform="scale(0.0040, -0.0040)" d="M34 33l-1 -58v-10c0 -21 2 -43 5 -64c41 38 85 80 85 136c0 31 -13 63 -40 63c-31 0 -48 -33 -49 -67zM32 441l-8 -333c25 27 60 42 97 42c49 0 79 -52 79 -106c0 -76 -78 -117 -133 -169c-19 -18 -27 -52 -55 -52c-17 0 -30 17 -30 35l-14 583c10 6 21 9 32 9
-s22 -3 32 -9z" fill="currentColor"/>
+<g transform="translate(4.4527, 22.6250)">
+<path transform="scale(0.0040, -0.0040)" d="M33 35l-2 -60v-11c0 -21 2 -43 5 -64c42 38 87 81 87 138c0 32 -13 63 -41 63c-31 0 -48 -32 -49 -66zM32 446l-9 -337c25 26 59 40 95 40c50 0 82 -51 82 -105c0 -77 -80 -117 -137 -169c-18 -17 -26 -48 -52 -48c-16 0 -28 15 -28 32l-15 587c10 6 21 8 32 8
+s22 -2 32 -8z" fill="currentColor"/>
+</g>
+<g transform="translate(5.4054, 21.1250)">
+<path transform="scale(0.0040, -0.0040)" d="M33 35l-2 -60v-11c0 -21 2 -43 5 -64c42 38 87 81 87 138c0 32 -13 63 -41 63c-31 0 -48 -32 -49 -66zM32 446l-9 -337c25 26 59 40 95 40c50 0 82 -51 82 -105c0 -77 -80 -117 -137 -169c-18 -17 -26 -48 -52 -48c-16 0 -28 15 -28 32l-15 587c10 6 21 8 32 8
+s22 -2 32 -8z" fill="currentColor"/>
+</g>
+<g transform="translate(6.3580, 23.1250)">
+<path transform="scale(0.0040, -0.0040)" d="M33 35l-2 -60v-11c0 -21 2 -43 5 -64c42 38 87 81 87 138c0 32 -13 63 -41 63c-31 0 -48 -32 -49 -66zM32 446l-9 -337c25 26 59 40 95 40c50 0 82 -51 82 -105c0 -77 -80 -117 -137 -169c-18 -17 -26 -48 -52 -48c-16 0 -28 15 -28 32l-15 587c10 6 21 8 32 8
+s22 -2 32 -8z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:10:4:5">
-<g transform="translate(9.6844, 31.5101)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(9.6730, 28.1371)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>1</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(31.4076, 25.4931)">
-<rect x="-0.0935" y="0.1504" width="0.1870" height="3.1829" ry="0.0667" fill="currentColor"/>
+<g transform="translate(32.4648, 21.6250)">
+<rect x="-0.0833" y="-3.0000" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:10:32:33">
-<g transform="translate(31.3354, 31.5101)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(31.2650, 28.1371)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>8</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:29:30">
-<g transform="translate(31.3141, 25.4931)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:32:33">
+<g transform="translate(31.2501, 22.1250)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:25:26">
-<g transform="translate(25.5180, 24.4931)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:26:27">
+<g transform="translate(25.4540, 21.1250)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:10:24:25">
-<g transform="translate(25.5393, 31.5101)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(25.4689, 28.1371)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>6</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(25.6115, 25.4931)">
-<rect x="-0.0935" y="-0.8496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(25.5373, 21.6250)">
+<rect x="-0.0833" y="-0.3382" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:27:28">
-<g transform="translate(28.4161, 24.9931)">
-<path transform="scale(0.0040, -0.0040)" d="M204 141c70 0 120 -41 120 -103c0 -91 -104 -179 -205 -179c-70 0 -119 41 -119 103c0 91 103 179 204 179z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:66:30:31">
+<g transform="translate(28.3520, 21.6250)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(28.5095, 25.4931)">
-<rect x="-0.0935" y="-0.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(28.4353, 21.6250)">
+<rect x="-0.0833" y="0.1618" width="0.1666" height="3.1715" ry="0.0571" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:10:28:29">
-<g transform="translate(28.4373, 31.5101)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(28.3670, 28.1371)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>7</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c-melodic-minor-bass-shape.ly:10:20:21">
-<g transform="translate(22.6412, 31.5101)">
-<text font-family="serif" font-size="1.9594" text-anchor="start" fill="currentColor">
+<g transform="translate(22.5709, 28.1371)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>5</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(22.7135, 25.4931)">
-<rect x="-0.0935" y="-1.3496" width="0.1870" height="3.3496" ry="0.0667" fill="currentColor"/>
+<g transform="translate(22.6392, 21.6250)">
+<rect x="-0.0833" y="-0.8382" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
 </g>
 </svg>

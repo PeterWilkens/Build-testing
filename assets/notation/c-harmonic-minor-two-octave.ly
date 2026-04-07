@@ -1,6 +1,6 @@
 \version "2.24.0"
 
-#(set-global-staff-size 12)
+#(set-global-staff-size 14)
 
 ascendingPlaceholders = \lyricmode {
   "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "15"
@@ -12,7 +12,7 @@ descendingPlaceholders = \lyricmode {
 
 \paper {
   paper-width = 24\cm
-  paper-height = 7.2\cm
+  paper-height = 8.4\cm
   indent = 0
   line-width = 23.6\cm
   top-margin = 0.1\cm
@@ -44,10 +44,10 @@ descendingPlaceholders = \lyricmode {
   <<
     \new Staff {
       \clef treble
-      \key d \minor
+      \key c \minor
       \omit Staff.TimeSignature
       \new Voice = "ascendingScale" {
-        { d4 e f g a bes cis' d' e' f' g' a' bes' cis'' d'' \bar "||" }
+        { c'4 d' ees' f' g' aes' b' c'' d'' ees'' f'' g'' aes'' b'' c''' \bar "||" }
       }
     }
     \new Lyrics \lyricsto "ascendingScale" \ascendingPlaceholders
@@ -60,10 +60,10 @@ descendingPlaceholders = \lyricmode {
   <<
     \new Staff {
       \clef treble
-      \key d \minor
+      \key c \minor
       \omit Staff.TimeSignature
       \new Voice = "descendingScale" {
-        { d''4 cis'' bes' a' g' f' e' d' cis' bes a g f e d \bar "||" }
+        { c'''4 b'' aes'' g'' f'' ees'' d'' c'' b' aes' g' f' ees' d' c' \bar "||" }
       }
     }
     \new Lyrics \lyricsto "descendingScale" \descendingPlaceholders

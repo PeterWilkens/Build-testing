@@ -75,10 +75,12 @@
   <section xml:id="sec-triad-types">
     <title>Types of Triad</title>
 
-    <p>
-      The four main triad types differ in the intervals between their notes. Using C as the root, 
-      the notes and interval structure for each type are as follows.
-    </p>
+    <introduction>
+      <p>
+        The four main triad types differ in the intervals between their notes. Using C as the root, 
+        the notes and interval structure for each type are as follows.
+      </p>
+    </introduction>
 
     <subsection xml:id="subsec-major-triad">
       <title>Major Triad</title>
