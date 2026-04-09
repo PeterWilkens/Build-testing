@@ -37,7 +37,7 @@
   nodestyle1/.style={circle, draw=gray, fill=gray!10, inner sep=1pt, minimum size=40pt},
   nodestyle2/.style={circle, draw=gray, fill=gray!40, inner sep=1pt, minimum size=40pt},
   nodestyle3/.style={circle, draw=gray, fill=gray!10, inner sep=1pt, minimum size=40pt},
-  nodestyle4/.style={circle, draw=red, fill=red!20, inner sep=1pt, minimum size=40pt},
+  nodestyle4/.style={circle, draw=gray, fill=gray!40, inner sep=1pt, minimum size=40pt},
 }
 
 \newcommand{\templatenodestyle}[4]{

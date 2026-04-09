@@ -57,7 +57,7 @@
   nodestyle1/.style={circle, draw=gray, fill=gray!10, inner sep=1pt, minimum size=36pt},
   nodestyle2/.style={circle, draw=gray, fill=gray!40, inner sep=1pt, minimum size=36pt},
   nodestyle3/.style={circle, draw=gray, fill=gray!10, inner sep=1pt, minimum size=36pt},
-  nodestyle4/.style={circle, draw=red, fill=red!20, inner sep=1pt, minimum size=36pt},
+  nodestyle4/.style={circle, draw=gray, fill=gray!40, inner sep=1pt, minimum size=36pt},
 }
 
 \newcommand{\templatenodestyle}[4]{
@@ -104,8 +104,8 @@
   \csname templatenodestyle\endcsname{6}{6.0}{}{3}
 
   \csname templatesplitnodestylebass\endcsname{1}{4.5}{A}{5}{11}{2}
-  \csname templatenodestyle\endcsname{2}{5.0}{}{3}
-  \csname templatesplitnodestylebass\endcsname{3}{5.5}{B$\flat$}{6}{10}{2}
+  \csname templatesplitnodestylebass\endcsname{2}{5.0}{B$\flat$}{6}{10}{2}
+  \csname templatenodestyle\endcsname{3}{5.5}{}{3}
   \csname templatenodestyle\endcsname{4}{6.0}{}{3}
   \csname templatenodestyle\endcsname{5}{6.5}{}{3}
   \csname templatenodestyle\endcsname{6}{7.0}{}{3}
@@ -132,8 +132,8 @@
   \csname templatenodestyle\endcsname{6}{10.0}{}{3}
 
   \csname templatesplitnodestylebass\endcsname{1}{8.5}{A}{12}{4}{2}
-  \csname templatenodestyle\endcsname{2}{9.0}{}{3}
-  \csname templatesplitnodestylebass\endcsname{3}{9.5}{B$\flat$}{13}{3}{2}
+  \csname templatesplitnodestylebass\endcsname{2}{9.0}{B$\flat$}{13}{3}{2}
+  \csname templatenodestyle\endcsname{3}{9.5}{}{3}
   \csname templatenodestyle\endcsname{4}{10.0}{}{3}
   \csname templatenodestyle\endcsname{5}{10.5}{}{3}
   \csname templatenodestyle\endcsname{6}{11.0}{}{3}
@@ -179,8 +179,8 @@
   \csname templatenodestyle\endcsname{1}{5.5}{}{3}
 
   \csname templatesplitnodestyle\endcsname{5}{4.5}{A}{5}{11}{2}
-  \csname templatenodestyle\endcsname{4}{5.0}{}{3}
-  \csname templatesplitnodestyle\endcsname{3}{5.5}{B$\flat$}{6}{10}{2}
+  \csname templatesplitnodestyle\endcsname{4}{5.0}{B$\flat$}{6}{10}{2}
+  \csname templatenodestyle\endcsname{3}{5.5}{}{3}
   \csname templatenodestyle\endcsname{2}{6.0}{}{3}
   \csname templatenodestyle\endcsname{1}{6.5}{}{3}
 
@@ -203,8 +203,8 @@
   \csname templatenodestyle\endcsname{1}{9.5}{}{3}
 
   \csname templatesplitnodestyle\endcsname{5}{8.5}{A}{12}{4}{2}
-  \csname templatenodestyle\endcsname{4}{9.0}{}{3}
-  \csname templatesplitnodestyle\endcsname{3}{9.5}{B$\flat$}{13}{3}{2}
+  \csname templatesplitnodestyle\endcsname{4}{9.0}{B$\flat$}{13}{3}{2}
+  \csname templatenodestyle\endcsname{3}{9.5}{}{3}
   \csname templatenodestyle\endcsname{2}{10.0}{}{3}
   \csname templatenodestyle\endcsname{1}{10.5}{}{3}
 

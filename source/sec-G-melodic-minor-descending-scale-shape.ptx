@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<section xml:id="sec-G-harmonic-minor-scale-shape" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>G Harmonic Minor Scale Shape</title>
+<section xml:id="sec-G-melodic-minor-descending-scale-shape" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>G Melodic Minor Descending Scale Shape</title>
   <introduction>
-    <p>Use this shape to form other harmonic minor scales where the shape fits.</p>
+    <p>The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other descending melodic minor scales where the shape fits.</p>
   </introduction>
 
-  <subsection xml:id="subsec-G-harmonic-minor-scale-shape-layout">
-    <title>Basic G Harmonic Minor Shape</title>
+  <subsection xml:id="subsec-G-melodic-minor-descending-scale-shape-layout">
+    <title>Basic G Melodic Minor Descending Shape</title>
 
-    <figure xml:id="fig-G-harmonic-minor-scale-shape">
-      <caption>Basic G harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.</caption>
-      <image xml:id="img-G-harmonic-minor-scale-shape">
+    <figure xml:id="fig-G-melodic-minor-descending-scale-shape">
+      <caption>Basic G melodic minor descending shape (natural minor). Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.</caption>
+      <image xml:id="img-G-melodic-minor-descending-scale-shape">
         <latex-image>
 \begin{tikzpicture}[scale=0.75, transform shape]
 \newif\ifisoGridLines
@@ -102,12 +102,12 @@
 
   \csname templatesplitnodestylebass\endcsname{1}{4.5}{E$\flat$}{6}{10}{2}
   \csname templatenodestyle\endcsname{2}{5.0}{}{3}
-  \csname templatenodestyle\endcsname{3}{5.5}{}{3}
+  \csname templatesplitnodestylebass\endcsname{3}{5.5}{F}{7}{9}{2}
   \csname templatenodestyle\endcsname{4}{6.0}{}{3}
   \csname templatenodestyle\endcsname{5}{6.5}{}{3}
   \csname templatenodestyle\endcsname{6}{7.0}{}{3}
 
-  \csname templatesplitnodestylebass\endcsname{1}{5.5}{F$\sharp$}{7}{9}{2}
+  \csname templatenodestyle\endcsname{1}{5.5}{}{3}
   \csname templatesplitnodestylebass\endcsname{2}{6.0}{G}{8}{8}{2}
   \csname templatenodestyle\endcsname{3}{6.5}{}{3}
   \csname templatenodestyle\endcsname{4}{7.0}{}{3}
@@ -130,12 +130,12 @@
 
   \csname templatesplitnodestylebass\endcsname{1}{8.5}{E$\flat$}{13}{3}{2}
   \csname templatenodestyle\endcsname{2}{9.0}{}{3}
-  \csname templatenodestyle\endcsname{3}{9.5}{}{3}
+  \csname templatesplitnodestylebass\endcsname{3}{9.5}{F}{14}{2}{2}
   \csname templatenodestyle\endcsname{4}{10.0}{}{3}
   \csname templatenodestyle\endcsname{5}{10.5}{}{3}
   \csname templatenodestyle\endcsname{6}{11.0}{}{3}
 
-  \csname templatesplitnodestylebass\endcsname{1}{9.5}{F$\sharp$}{14}{2}{2}
+  \csname templatenodestyle\endcsname{1}{9.5}{}{3}
   \csname templatesplitnodestylebass\endcsname{2}{10.0}{G}{15}{1}{2}
   \csname templatenodestyle\endcsname{3}{10.5}{}{3}
   \csname templatenodestyle\endcsname{4}{11.0}{}{3}
@@ -187,11 +187,11 @@
 
   \csname templatesplitnodestyle\endcsname{5}{4.5}{E$\flat$}{6}{10}{2}
   \csname templatenodestyle\endcsname{4}{5.0}{}{3}
-  \csname templatenodestyle\endcsname{3}{5.5}{}{3}
+  \csname templatesplitnodestyle\endcsname{3}{5.5}{F}{7}{9}{2}
   \csname templatenodestyle\endcsname{2}{6.0}{}{3}
   \csname templatenodestyle\endcsname{1}{6.5}{}{3}
 
-  \csname templatesplitnodestyle\endcsname{5}{5.5}{F$\sharp$}{7}{9}{2}
+  \csname templatenodestyle\endcsname{5}{5.5}{}{3}
   \csname templatesplitnodestyle\endcsname{4}{6.0}{G}{8}{8}{2}
   \csname templatenodestyle\endcsname{3}{6.5}{}{3}
   \csname templatenodestyle\endcsname{2}{7.0}{}{3}
@@ -211,11 +211,11 @@
 
   \csname templatesplitnodestyle\endcsname{5}{8.5}{E$\flat$}{13}{3}{2}
   \csname templatenodestyle\endcsname{4}{9.0}{}{3}
-  \csname templatenodestyle\endcsname{3}{9.5}{}{3}
+  \csname templatesplitnodestyle\endcsname{3}{9.5}{F}{14}{2}{2}
   \csname templatenodestyle\endcsname{2}{10.0}{}{3}
   \csname templatenodestyle\endcsname{1}{10.5}{}{3}
 
-  \csname templatesplitnodestyle\endcsname{5}{9.5}{F$\sharp$}{14}{2}{2}
+  \csname templatenodestyle\endcsname{5}{9.5}{}{3}
   \csname templatesplitnodestyle\endcsname{4}{10.0}{G}{15}{1}{2}
   \csname templatenodestyle\endcsname{3}{10.5}{}{3}
   \csname templatenodestyle\endcsname{2}{11.0}{}{3}
@@ -234,12 +234,12 @@
       </image>
     </figure>
 
-    <figure xml:id="fig-G-harmonic-minor-scale-shape-notation">
+    <figure xml:id="fig-G-melodic-minor-descending-scale-shape-notation">
       <caption></caption>
       <sidebyside widths="45% 4% 45%" margins="2%">
-        <image xml:id="img-G-harmonic-minor-scale-shape-lh-notation" source="notation/g-harmonic-minor-bass-shape.svg" width="100%" />
+        <image xml:id="img-G-melodic-minor-descending-scale-shape-lh-notation" source="notation/g-melodic-minor-bass-shape.svg" width="100%" />
         <p></p>
-        <image xml:id="img-G-harmonic-minor-scale-shape-rh-notation" source="notation/g-harmonic-minor-two-octave.svg" width="100%" />
+        <image xml:id="img-G-melodic-minor-descending-scale-shape-rh-notation" source="notation/g-melodic-minor-two-octave.svg" width="100%" />
       </sidebyside>
     </figure>
   </subsection>
