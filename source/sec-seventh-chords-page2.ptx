@@ -211,16 +211,16 @@
 
   <!-- Notation row 1 -->
   <sidebyside widths="8% 8% 8% 8%" margins="10%">
-    <image xml:id="img-notation-p2-cmaj7" source="notation/chord-cmaj7.svg">
+    <image xml:id="img-notation-p2-cmaj7" source="notation/chord-cmaj7">
       <shortdescription>Cmaj7 chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-p2-c7" source="notation/chord-c7.svg">
+    <image xml:id="img-notation-p2-c7" source="notation/chord-c7">
       <shortdescription>C7 chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-p2-cm7" source="notation/chord-cm7.svg">
+    <image xml:id="img-notation-p2-cm7" source="notation/chord-cm7">
       <shortdescription>Cm7 chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-p2-cm7b5" source="notation/chord-cm7b5.svg">
+    <image xml:id="img-notation-p2-cm7b5" source="notation/chord-cm7b5">
       <shortdescription>Cm7b5 chord on treble staff</shortdescription>
     </image>
   </sidebyside>
@@ -431,16 +431,16 @@
 
   <!-- Notation row 2 (2nd Inversions) -->
   <sidebyside widths="8% 8% 8% 8%" margins="10%">
-    <image xml:id="img-notation-p2-cmaj7-2nd" source="notation/chord-cmaj7.svg">
+    <image xml:id="img-notation-p2-cmaj7-2nd" source="notation/chord-cmaj7">
       <shortdescription>Cmaj7 2nd inversion chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-p2-c7-2nd" source="notation/chord-c7.svg">
+    <image xml:id="img-notation-p2-c7-2nd" source="notation/chord-c7">
       <shortdescription>C7 2nd inversion chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-p2-cm7-2nd" source="notation/chord-cm7.svg">
+    <image xml:id="img-notation-p2-cm7-2nd" source="notation/chord-cm7">
       <shortdescription>Cm7 2nd inversion chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-p2-cm7b5-2nd" source="notation/chord-cm7b5.svg">
+    <image xml:id="img-notation-p2-cm7b5-2nd" source="notation/chord-cm7b5">
       <shortdescription>Cm7b5 2nd inversion chord on treble staff</shortdescription>
     </image>
   </sidebyside>

@@ -211,16 +211,16 @@
 
   <!-- Notation row 1 (3rd Inversions) -->
   <sidebyside widths="8% 8% 8% 8%" margins="10%">
-    <image xml:id="img-notation-p3-cmaj7-3rd" source="notation/chord-cmaj7.svg">
+    <image xml:id="img-notation-p3-cmaj7-3rd" source="notation/chord-cmaj7">
       <shortdescription>Cmaj7 3rd inversion chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-p3-c7-3rd" source="notation/chord-c7.svg">
+    <image xml:id="img-notation-p3-c7-3rd" source="notation/chord-c7">
       <shortdescription>C7 3rd inversion chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-p3-cm7-3rd" source="notation/chord-cm7.svg">
+    <image xml:id="img-notation-p3-cm7-3rd" source="notation/chord-cm7">
       <shortdescription>Cm7 3rd inversion chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-p3-cm7b5-3rd" source="notation/chord-cm7b5.svg">
+    <image xml:id="img-notation-p3-cm7b5-3rd" source="notation/chord-cm7b5">
       <shortdescription>Cm7b5 3rd inversion chord on treble staff</shortdescription>
     </image>
   </sidebyside>
@@ -431,16 +431,16 @@
 
   <!-- Notation row 2 (Cdim7 inversions) -->
   <sidebyside widths="8% 8% 8% 8%" margins="10%">
-    <image xml:id="img-notation-p3-cdim7" source="notation/chord-cdim7.svg">
+    <image xml:id="img-notation-p3-cdim7" source="notation/chord-cdim7">
       <shortdescription>Cdim7 chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-p3-cdim7-1st" source="notation/chord-cdim7.svg">
+    <image xml:id="img-notation-p3-cdim7-1st" source="notation/chord-cdim7">
       <shortdescription>Cdim7 1st inversion chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-p3-cdim7-2nd" source="notation/chord-cdim7.svg">
+    <image xml:id="img-notation-p3-cdim7-2nd" source="notation/chord-cdim7">
       <shortdescription>Cdim7 2nd inversion chord on treble staff</shortdescription>
     </image>
-    <image xml:id="img-notation-p3-cdim7-3rd" source="notation/chord-cdim7.svg">
+    <image xml:id="img-notation-p3-cdim7-3rd" source="notation/chord-cdim7">
       <shortdescription>Cdim7 3rd inversion chord on treble staff</shortdescription>
     </image>
   </sidebyside>

@@ -244,9 +244,9 @@
     <figure xml:id="fig-C-major-scale-shape-notation">
       <caption></caption>
       <sidebyside widths="45% 4% 45%" margins="2%">
-        <image xml:id="img-C-major-scale-shape-lh-notation" source="notation/c-major-scale-bass-shape.svg" width="100%" />
+        <image xml:id="img-C-major-scale-shape-lh-notation" source="notation/c-major-scale-bass-shape" width="100%" />
         <p></p>
-        <image xml:id="img-C-major-scale-shape-rh-notation" source="notation/c-major-scale-two-octave.svg" width="100%" />
+        <image xml:id="img-C-major-scale-shape-rh-notation" source="notation/c-major-scale-two-octave" width="100%" />
       </sidebyside>
     </figure>
   </subsection>

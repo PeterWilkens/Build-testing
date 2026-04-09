@@ -211,16 +211,16 @@
 
   <!-- Notation row 1 -->
   <sidebyside widths="8% 8% 8% 8%" margins="10%">
-    <image xml:id="img-triad-notation-cmaj" source="notation/triad-cmaj.svg">
+    <image xml:id="img-triad-notation-cmaj" source="notation/triad-cmaj">
       <description>C major triad notation</description>
     </image>
-    <image xml:id="img-triad-notation-cmin" source="notation/triad-cmin.svg">
+    <image xml:id="img-triad-notation-cmin" source="notation/triad-cmin">
       <description>C minor triad notation</description>
     </image>
-    <image xml:id="img-triad-notation-caug" source="notation/triad-caug.svg">
+    <image xml:id="img-triad-notation-caug" source="notation/triad-caug">
       <description>C augmented triad notation</description>
     </image>
-    <image xml:id="img-triad-notation-cdim" source="notation/triad-cdim.svg">
+    <image xml:id="img-triad-notation-cdim" source="notation/triad-cdim">
       <description>C diminished triad notation</description>
     </image>
   </sidebyside>
@@ -431,16 +431,16 @@
 
   <!-- Notation row 2 -->
   <sidebyside widths="8% 8% 8% 8%" margins="10%">
-    <image xml:id="img-triad-notation-cmaj1st" source="notation/triad-cmaj1st.svg">
+    <image xml:id="img-triad-notation-cmaj1st" source="notation/triad-cmaj1st">
       <description>C major 1st inversion notation</description>
     </image>
-    <image xml:id="img-triad-notation-cmin1st" source="notation/triad-cmin1st.svg">
+    <image xml:id="img-triad-notation-cmin1st" source="notation/triad-cmin1st">
       <description>C minor 1st inversion notation</description>
     </image>
-    <image xml:id="img-triad-notation-cmaj2nd" source="notation/triad-cmaj2nd.svg">
+    <image xml:id="img-triad-notation-cmaj2nd" source="notation/triad-cmaj2nd">
       <description>C major 2nd inversion notation</description>
     </image>
-    <image xml:id="img-triad-notation-cmin2nd" source="notation/triad-cmin2nd.svg">
+    <image xml:id="img-triad-notation-cmin2nd" source="notation/triad-cmin2nd">
       <description>C minor 2nd inversion notation</description>
     </image>
   </sidebyside>

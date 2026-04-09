@@ -313,16 +313,16 @@
 
     <!-- Notation row 1 -->
     <sidebyside widths="8% 8% 8% 8%" margins="10%">
-      <image xml:id="img-diat-notation-cmaj7" source="notation/diat-cmaj7.svg">
+      <image xml:id="img-diat-notation-cmaj7" source="notation/diat-cmaj7">
         <description>Cmaj7 chord notation (I)</description>
       </image>
-      <image xml:id="img-diat-notation-dm7" source="notation/diat-dm7.svg">
+      <image xml:id="img-diat-notation-dm7" source="notation/diat-dm7">
         <description>Dm7 chord notation (II)</description>
       </image>
-      <image xml:id="img-diat-notation-em7" source="notation/diat-em7.svg">
+      <image xml:id="img-diat-notation-em7" source="notation/diat-em7">
         <description>Em7 chord notation (III)</description>
       </image>
-      <image xml:id="img-diat-notation-fmaj7" source="notation/diat-fmaj7.svg">
+      <image xml:id="img-diat-notation-fmaj7" source="notation/diat-fmaj7">
         <description>Fmaj7 chord notation (IV)</description>
       </image>
     </sidebyside>
@@ -545,13 +545,13 @@
 
     <!-- Notation row 2 -->
     <sidebyside widths="8% 8% 8% 8%" margins="10%">
-      <image xml:id="img-diat-notation-g7" source="notation/diat-g7.svg">
+      <image xml:id="img-diat-notation-g7" source="notation/diat-g7">
         <description>G7 chord notation (V)</description>
       </image>
-      <image xml:id="img-diat-notation-am7" source="notation/diat-am7.svg">
+      <image xml:id="img-diat-notation-am7" source="notation/diat-am7">
         <description>Am7 chord notation (VI)</description>
       </image>
-      <image xml:id="img-diat-notation-bm7b5" source="notation/diat-bm7b5.svg">
+      <image xml:id="img-diat-notation-bm7b5" source="notation/diat-bm7b5">
         <description>Bm7b5 chord notation (VII)</description>
       </image>
       <p></p>

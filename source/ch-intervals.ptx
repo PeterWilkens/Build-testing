@@ -273,16 +273,16 @@
 
   <!-- Notation row 1: lowest pair from each grid -->
   <sidebyside widths="8% 8% 8% 8%" margins="10%">
-    <image xml:id="img-interval-notation-1" source="notation/intervals-g1-low.svg">
+    <image xml:id="img-interval-notation-1" source="notation/intervals-g1-low">
       <description>Lowest minor 2nd pair: C–D flat</description>
     </image>
-    <image xml:id="img-interval-notation-2" source="notation/intervals-g2-low.svg">
+    <image xml:id="img-interval-notation-2" source="notation/intervals-g2-low">
       <description>Lowest minor 2nd pair: F–G flat</description>
     </image>
-    <image xml:id="img-interval-notation-3" source="notation/intervals-g3-low.svg">
+    <image xml:id="img-interval-notation-3" source="notation/intervals-g3-low">
       <description>Lowest major 2nd pair: C–D</description>
     </image>
-    <image xml:id="img-interval-notation-4" source="notation/intervals-g4-low.svg">
+    <image xml:id="img-interval-notation-4" source="notation/intervals-g4-low">
       <description>Lowest minor 3rd pair: C–E flat</description>
     </image>
   </sidebyside>
@@ -531,16 +531,16 @@
 
   <!-- Notation row 2: lowest pair from each grid -->
   <sidebyside widths="8% 8% 8% 8%" margins="10%">
-    <image xml:id="img-interval-notation-5" source="notation/intervals-g5-low.svg">
+    <image xml:id="img-interval-notation-5" source="notation/intervals-g5-low">
       <description>Lowest major 3rd pair: C–E</description>
     </image>
-    <image xml:id="img-interval-notation-6" source="notation/intervals-g6-low.svg">
+    <image xml:id="img-interval-notation-6" source="notation/intervals-g6-low">
       <description>Lowest perfect 5th pair: C–G</description>
     </image>
-    <image xml:id="img-interval-notation-7" source="notation/intervals-g7-low.svg">
+    <image xml:id="img-interval-notation-7" source="notation/intervals-g7-low">
       <description>Lowest flat 5 pair: C–Gb</description>
     </image>
-    <image xml:id="img-interval-notation-8" source="notation/intervals-g8-low.svg">
+    <image xml:id="img-interval-notation-8" source="notation/intervals-g8-low">
       <description>Lowest perfect 4th pair: C–F</description>
     </image>
   </sidebyside>

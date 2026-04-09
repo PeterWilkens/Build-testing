@@ -221,9 +221,9 @@
     <figure xml:id="fig-D-melodic-minor-scale-shape-notation">
       <caption></caption>
       <sidebyside widths="45% 4% 45%" margins="2%">
-        <image xml:id="img-D-melodic-minor-scale-shape-lh-notation" source="notation/d-melodic-minor-bass-shape.svg" width="100%" />
+        <image xml:id="img-D-melodic-minor-scale-shape-lh-notation" source="notation/d-melodic-minor-bass-shape" width="100%" />
         <p></p>
-        <image xml:id="img-D-melodic-minor-scale-shape-rh-notation" source="notation/d-melodic-minor-two-octave.svg" width="100%" />
+        <image xml:id="img-D-melodic-minor-scale-shape-rh-notation" source="notation/d-melodic-minor-two-octave" width="100%" />
       </sidebyside>
     </figure>
   </subsection>
