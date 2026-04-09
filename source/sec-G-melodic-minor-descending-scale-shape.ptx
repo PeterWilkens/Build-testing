@@ -9,7 +9,7 @@
     <title>Basic G Melodic Minor Descending Shape</title>
 
     <figure xml:id="fig-G-melodic-minor-descending-scale-shape">
-      <caption>Basic G melodic minor descending shape (natural minor). Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.</caption>
+      <caption>Basic G melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.</caption>
       <image xml:id="img-G-melodic-minor-descending-scale-shape">
         <latex-image>
 \begin{tikzpicture}[scale=0.75, transform shape]
@@ -47,14 +47,12 @@
 \newcommand{\templatesplitnodestyle}[6]{
   \node[nodestyle#6] at (#1*\hlen,#2*\vlen) {};
   \node[font=\bfseries\small] at (#1*\hlen,#2*\vlen) {#3};
-  \node[font=\bfseries\scriptsize] at (#1*\hlen-0.23,#2*\vlen+0.23) {#4};
   \node[font=\bfseries\scriptsize] at (#1*\hlen+0.23,#2*\vlen-0.23) {#5};
 }
 
 \newcommand{\templatesplitnodestylebass}[6]{
   \node[nodestyle#6] at (#1*\hlen,#2*\vlen) {};
   \node[font=\bfseries\small] at (#1*\hlen,#2*\vlen) {#3};
-  \node[font=\bfseries\scriptsize] at (#1*\hlen-0.25,#2*\vlen+0.24) {#4};
   \node[font=\bfseries\scriptsize] at (#1*\hlen+0.25,#2*\vlen-0.24) {#5};
 }
 

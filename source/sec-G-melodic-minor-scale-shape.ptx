@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section xml:id="sec-G-melodic-minor-scale-shape" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>G Melodic Minor Scale Shape</title>
+  <title>G Melodic Minor Scale Shape Ascending</title>
   <introduction>
     <p>Use this shape to form other melodic minor scales where the shape fits.</p>
   </introduction>
@@ -9,7 +9,7 @@
     <title>Basic G Melodic Minor Shape</title>
 
     <figure xml:id="fig-G-melodic-minor-scale-shape">
-      <caption>Basic G melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.</caption>
+      <caption>Basic G melodic minor shape. Ascending fingering numbers appear at the top of each button.</caption>
       <image xml:id="img-G-melodic-minor-scale-shape">
         <latex-image>
 \begin{tikzpicture}[scale=0.75, transform shape]
@@ -48,14 +48,12 @@
   \node[nodestyle#6] at (#1*\hlen,#2*\vlen) {};
   \node[font=\bfseries\small] at (#1*\hlen,#2*\vlen) {#3};
   \node[font=\bfseries\scriptsize] at (#1*\hlen-0.23,#2*\vlen+0.23) {#4};
-  \node[font=\bfseries\scriptsize] at (#1*\hlen+0.23,#2*\vlen-0.23) {#5};
 }
 
 \newcommand{\templatesplitnodestylebass}[6]{
   \node[nodestyle#6] at (#1*\hlen,#2*\vlen) {};
   \node[font=\bfseries\small] at (#1*\hlen,#2*\vlen) {#3};
   \node[font=\bfseries\scriptsize] at (#1*\hlen-0.25,#2*\vlen+0.24) {#4};
-  \node[font=\bfseries\scriptsize] at (#1*\hlen+0.25,#2*\vlen-0.24) {#5};
 }
 
 \begin{scope}

@@ -9,7 +9,7 @@
     <title>Basic C Melodic Minor Descending Shape</title>
 
     <figure xml:id="fig-C-melodic-minor-descending-scale-shape">
-      <caption>Basic C melodic minor descending shape (natural minor). Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.</caption>
+      <caption>Basic C melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.</caption>
       <image xml:id="img-C-melodic-minor-descending-scale-shape">
         <latex-image>
 \begin{tikzpicture}[scale=0.85, transform shape]
@@ -78,14 +78,12 @@
 \newcommand{\templatesplitnodestyle}[6]{
   \node[nodestyle#6] at (#1*\hlen,#2*\vlen) {};
   \node[font=\bfseries\small] at (#1*\hlen,#2*\vlen) {#3};
-  \node[font=\bfseries\scriptsize] at (#1*\hlen-0.23,#2*\vlen+0.23) {#4};
   \node[font=\bfseries\scriptsize] at (#1*\hlen+0.23,#2*\vlen-0.23) {#5};
 }
 
 \newcommand{\templatesplitnodestylebass}[6]{
   \node[nodestyle#6] at (#1*\hlen,#2*\vlen) {};
   \node[font=\bfseries\small] at (#1*\hlen,#2*\vlen) {#3};
-  \node[font=\bfseries\scriptsize] at (#1*\hlen-0.25,#2*\vlen+0.24) {#4};
   \node[font=\bfseries\scriptsize] at (#1*\hlen+0.25,#2*\vlen-0.24) {#5};
 }
 
