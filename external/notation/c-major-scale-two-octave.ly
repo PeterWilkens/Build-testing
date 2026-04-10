@@ -2,10 +2,21 @@
 
 #(set-global-staff-size 12)
 
+% ---------------------------------------------------------------
+% FINGERING NUMBERS — edit these to change what appears under the notes.
+% Treble hand (RH): 2-octave C major scale, treble clef.
+% Each number corresponds to one note, left to right.
+% Valid fingers: 1 (index) 2 (middle) 3 (ring) 4 (little)
+% After editing, recompile:
+%   lilypond --svg -dpreview -o c-major-scale-two-octave c-major-scale-two-octave.ly
+% ---------------------------------------------------------------
+
+% Ascending: C D E F G A B  C D E F G A B  C  (15 notes)
 ascendingPlaceholders = \lyricmode {
   "1" "3" "4" "2" "3" "4" "3" "1" "3" "4" "2" "3" "4" "3" "4"
 }
 
+% Descending: C B A G F E D  C B A G F E D  C  (15 notes)
 descendingPlaceholders = \lyricmode {
   "4" "3" "1" "4" "3" "1" "2" "1" "3" "1" "4" "3" "1" "2" "1"
 }
