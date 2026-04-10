@@ -20,7 +20,7 @@
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <!-- Grid 1: minor 2nd pairs with loop outlines -->
-      <image xml:id="img-interval-grid-1">
+      <image xml:id="img-interval-grid-1"> content tbe 
         <latex-image>
 \begin{tikzpicture}[scale=0.65, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
@@ -546,6 +546,8 @@
   </sidebyside>
 
   </section>
+
+  <xi:include href="sec-interval-relationships-all.ptx" />
 
   <xi:include href="sec-intervals-keyboard-navigation.ptx" />
 

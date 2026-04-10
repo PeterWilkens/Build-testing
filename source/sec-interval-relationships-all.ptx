@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-interval-relationships-all" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Interval Relationships on Both Keyboards</title>
+
+  <introduction>
+    <p>
+      The following diagrams show the Free Bass keyboard (left) and the Treble keyboard (right)
+      side by side as they appear on the accordion. The bellows are indicated by the vertical
+      lines between the two keyboards.
+    </p>
+  </introduction>
+
+  <!-- ===== Grid Pair 1 ===== -->
+  <figure xml:id="fig-ir-all-pair-1">
+    <caption></caption>
+    <sidebyside widths="45% 45%" margins="2%">
+
+      <!-- Free Bass: 4 columns wide, lowest left note C -->
+      <image xml:id="img-ir-all-fb-1">
+        <latex-image>
+\begin{tikzpicture}[scale=0.65, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+% Free bass: C at col 1 (lowest left), 4 columns, 8 rows
+\gn{1}{1.5}{C}{0}
+\gn{2}{2}{C$\sharp$, D$\flat$}{0}
+\gn{3}{2.5}{D}{0}
+\gn{4}{3}{E$\flat$, D$\sharp$}{0}
+\gn{1}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{2}{3}{E}{0}
+\gn{3}{3.5}{F}{0}
+\gn{4}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{3.5}{G$\flat$, F$\sharp$}{0}
+\gn{2}{4}{G}{0}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{4}{5}{A}{0}
+\gn{1}{4.5}{A}{0}
+\gn{2}{5}{B$\flat$, A$\sharp$}{0}
+\gn{3}{5.5}{B}{0}
+\gn{4}{6}{C}{0}
+\gn{1}{5.5}{C}{0}
+\gn{2}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{D}{0}
+\gn{4}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{2}{7}{E}{0}
+\gn{3}{7.5}{F}{0}
+\gn{4}{8}{G$\flat$, F$\sharp$}{0}
+% Bellows markers (right side)
+\draw[gray, thin] (5.4*\hlen, 2.1*\vlen) -- (5.4*\hlen, 8.5*\vlen);
+\draw[gray, thin] (5.7*\hlen, 2.1*\vlen) -- (5.7*\hlen, 8.5*\vlen);
+\draw[gray, thin] (6.0*\hlen, 2.1*\vlen) -- (6.0*\hlen, 8.5*\vlen);
+\draw[gray, thin] (6.3*\hlen, 2.1*\vlen) -- (6.3*\hlen, 8.5*\vlen);
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Treble: 5 columns wide, lowest right note C -->
+      <image xml:id="img-ir-all-tr-1">
+        <latex-image>
+\begin{tikzpicture}[scale=0.65, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+% Treble: C at col 5 (lowest right), 5 columns, 8 rows
+\gn{5}{1.5}{C}{0}
+\gn{4}{2}{C$\sharp$, D$\flat$}{0}
+\gn{2}{2}{C}{0}
+\gn{3}{2.5}{D}{0}
+\gn{1}{2.5}{C$\sharp$, D$\flat$}{0}
+\gn{2}{3}{E$\flat$, D$\sharp$}{0}
+\gn{1}{3.5}{E}{0}
+\gn{5}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{3}{E}{0}
+\gn{3}{3.5}{F}{0}
+\gn{2}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{4.5}{G}{0}
+\gn{5}{3.5}{G$\flat$, F$\sharp$}{0}
+\gn{4}{4}{G}{0}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{2}{5}{A}{0}
+\gn{1}{5.5}{B$\flat$, A$\sharp$}{0}
+\gn{5}{4.5}{A}{0}
+\gn{4}{5}{B$\flat$, A$\sharp$}{0}
+\gn{3}{5.5}{B}{0}
+\gn{2}{6}{C}{0}
+\gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
+\gn{5}{5.5}{C}{0}
+\gn{4}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{D}{0}
+\gn{2}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{7.5}{E}{0}
+\gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{7}{E}{0}
+\gn{3}{7.5}{F}{0}
+\gn{2}{8}{G$\flat$, F$\sharp$}{0}
+\gn{1}{8.5}{G}{0}
+% Capsule dimensions: hw = half-width (= semicircle radius), hls/hll = half straight-side length
+\pgfmathsetmacro{\hw}{0.55*\vlen}
+\pgfmathsetmacro{\hls}{0.45*\vlen}
+\pgfmathsetmacro{\hll}{0.80*\vlen}
+\pgfmathsetmacro{\mxA}{1.5*\hlen}
+\pgfmathsetmacro{\mxB}{2.5*\hlen}
+\pgfmathsetmacro{\myAB}{2.25*\vlen}
+\pgfmathsetmacro{\myCD}{5.25*\vlen}
+% mi2nd: C (col2,2) to C# (col1,2.5), -30 deg
+\begin{scope}[shift={(\mxA cm,\myAB cm)},rotate=-30]
+  \draw[gray!90,thin] ({\hls cm},{-\hw cm}) arc(-90:90:{\hw cm}) -- ({-\hls cm},{\hw cm}) arc(90:270:{\hw cm}) -- cycle;
+\end{scope}
+\node[font=\tiny\bfseries, gray] at (0.6*\hlen, 1.65*\vlen) {mi2nd};
+% Maj2nd: C (col2,2) to D (col3,2.5), +30 deg
+\begin{scope}[shift={(\mxB cm,\myAB cm)},rotate=30]
+  \draw[gray!90,thin] ({\hls cm},{-\hw cm}) arc(-90:90:{\hw cm}) -- ({-\hls cm},{\hw cm}) arc(90:270:{\hw cm}) -- cycle;
+\end{scope}
+\node[font=\tiny\bfseries, gray] at (3.0*\hlen, 1.35*\vlen) {Maj 2nd};
+% P4th: G (col1,4.5) to C (col2,6), +60 deg
+\begin{scope}[shift={(\mxA cm,\myCD cm)},rotate=60]
+  \draw[gray!90,thin] ({\hll cm},{-\hw cm}) arc(-90:90:{\hw cm}) -- ({-\hll cm},{\hw cm}) arc(90:270:{\hw cm}) -- cycle;
+\end{scope}
+\node[font=\tiny\bfseries, gray] at (0.5*\hlen, 4.0*\vlen) {P4th};
+% Maj3rd: Ab (col3,4.5) to C (col2,6), -60 deg
+\begin{scope}[shift={(\mxB cm,\myCD cm)},rotate=-60]
+  \draw[gray!90,thin] ({\hll cm},{-\hw cm}) arc(-90:90:{\hw cm}) -- ({-\hll cm},{\hw cm}) arc(90:270:{\hw cm}) -- cycle;
+\end{scope}
+\node[font=\tiny\bfseries, gray] at (3.5*\hlen, 4.0*\vlen) {Maj 3rd};
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+    </sidebyside>
+  </figure>
+
+  <!-- ===== Grid Pair 2 ===== -->
+  <figure xml:id="fig-ir-all-pair-2">
+    <caption></caption>
+    <sidebyside widths="45% 45%" margins="2%">
+
+      <!-- Free Bass: 4 columns wide, lowest left note C -->
+      <image xml:id="img-ir-all-fb-2">
+        <latex-image>
+\begin{tikzpicture}[scale=0.65, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+% Free bass: C at col 1 (lowest left), 4 columns, 8 rows
+\gn{1}{1.5}{C}{0}
+\gn{2}{2}{C$\sharp$, D$\flat$}{0}
+\gn{3}{2.5}{D}{0}
+\gn{4}{3}{E$\flat$, D$\sharp$}{0}
+\gn{1}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{2}{3}{E}{0}
+\gn{3}{3.5}{F}{0}
+\gn{4}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{3.5}{G$\flat$, F$\sharp$}{0}
+\gn{2}{4}{G}{0}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{4}{5}{A}{0}
+\gn{1}{4.5}{A}{0}
+\gn{2}{5}{B$\flat$, A$\sharp$}{0}
+\gn{3}{5.5}{B}{0}
+\gn{4}{6}{C}{0}
+\gn{1}{5.5}{C}{0}
+\gn{2}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{D}{0}
+\gn{4}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{2}{7}{E}{0}
+\gn{3}{7.5}{F}{0}
+\gn{4}{8}{G$\flat$, F$\sharp$}{0}
+% Bellows markers (right side)
+\draw[gray, thin] (5.4*\hlen, 2.1*\vlen) -- (5.4*\hlen, 8.5*\vlen);
+\draw[gray, thin] (5.7*\hlen, 2.1*\vlen) -- (5.7*\hlen, 8.5*\vlen);
+\draw[gray, thin] (6.0*\hlen, 2.1*\vlen) -- (6.0*\hlen, 8.5*\vlen);
+\draw[gray, thin] (6.3*\hlen, 2.1*\vlen) -- (6.3*\hlen, 8.5*\vlen);
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Treble: 5 columns wide, lowest right note C -->
+      <image xml:id="img-ir-all-tr-2">
+        <latex-image>
+\begin{tikzpicture}[scale=0.65, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+% Treble: C at col 5 (lowest right), 5 columns, 8 rows
+\gn{5}{1.5}{C}{0}
+\gn{4}{2}{C$\sharp$, D$\flat$}{0}
+\gn{2}{2}{C}{0}
+\gn{3}{2.5}{D}{0}
+\gn{1}{2.5}{C$\sharp$, D$\flat$}{0}
+\gn{2}{3}{E$\flat$, D$\sharp$}{0}
+\gn{1}{3.5}{E}{0}
+\gn{5}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{3}{E}{0}
+\gn{3}{3.5}{F}{0}
+\gn{2}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{4.5}{G}{0}
+\gn{5}{3.5}{G$\flat$, F$\sharp$}{0}
+\gn{4}{4}{G}{0}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{2}{5}{A}{0}
+\gn{1}{5.5}{B$\flat$, A$\sharp$}{0}
+\gn{5}{4.5}{A}{0}
+\gn{4}{5}{B$\flat$, A$\sharp$}{0}
+\gn{3}{5.5}{B}{0}
+\gn{2}{6}{C}{0}
+\gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
+\gn{5}{5.5}{C}{0}
+\gn{4}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{D}{0}
+\gn{2}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{7.5}{E}{0}
+\gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{7}{E}{0}
+\gn{3}{7.5}{F}{0}
+\gn{2}{8}{G$\flat$, F$\sharp$}{0}
+\gn{1}{8.5}{G}{0}
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+    </sidebyside>
+  </figure>
+
+</section>
