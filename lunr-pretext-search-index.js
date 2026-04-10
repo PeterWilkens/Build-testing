@@ -214,7 +214,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.1",
   "title": "Intervals on the Keyboard",
-  "body": " Intervals on the Keyboard   The following grid diagrams shows examples of interval pairs on the chromatic button accordion keyboard. Each grid highlights two notes; the interval is identified by the number of semitones between them.                           Minor 2nd  Minor 2nd  Major 2nd  Minor 3rd      Lowest minor 2nd pair: C–D flat    Lowest minor 2nd pair: F–G flat    Lowest major 2nd pair: C–D    Lowest minor 3rd pair: C–E flat                            Major 3rd  Perfect 5th  Flat 5  4th      Lowest major 3rd pair: C–E    Lowest perfect 5th pair: C–G    Lowest flat 5 pair: C–Gb    Lowest perfect 4th pair: C–F    "
+  "body": " Intervals on the Keyboard   The following grid diagrams shows examples of interval pairs on the chromatic button accordion keyboard. Each grid highlights two notes; the interval is identified by the number of semitones between them.        content tbe                   Minor 2nd  Minor 2nd  Major 2nd  Minor 3rd      Lowest minor 2nd pair: C–D flat    Lowest minor 2nd pair: F–G flat    Lowest major 2nd pair: C–D    Lowest minor 3rd pair: C–E flat                            Major 3rd  Perfect 5th  Flat 5  4th      Lowest major 3rd pair: C–E    Lowest perfect 5th pair: C–G    Lowest flat 5 pair: C–Gb    Lowest perfect 4th pair: C–F    "
 },
 {
   "id": "fig-interval-grids-row1",
@@ -223,7 +223,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "3.1.1",
   "title": "",
-  "body": "                    "
+  "body": "    content tbe                "
 },
 {
   "id": "fig-interval-grids-row2",
@@ -235,11 +235,38 @@ var ptx_lunr_docs = [
   "body": "                    "
 },
 {
+  "id": "sec-interval-relationships-all",
+  "level": "1",
+  "url": "sec-interval-relationships-all.html",
+  "type": "Section",
+  "number": "3.2",
+  "title": "Interval Relationships on Both Keyboards",
+  "body": " Interval Relationships on Both Keyboards   The following diagrams show the Free Bass keyboard (left) and the Treble keyboard (right) side by side as they appear on the accordion. The bellows are indicated by the vertical lines between the two keyboards.                               "
+},
+{
+  "id": "fig-ir-all-pair-1",
+  "level": "2",
+  "url": "sec-interval-relationships-all.html#fig-ir-all-pair-1",
+  "type": "Figure",
+  "number": "3.2.1",
+  "title": "",
+  "body": "            "
+},
+{
+  "id": "fig-ir-all-pair-2",
+  "level": "2",
+  "url": "sec-interval-relationships-all.html#fig-ir-all-pair-2",
+  "type": "Figure",
+  "number": "3.2.2",
+  "title": "",
+  "body": "            "
+},
+{
   "id": "sec-intervals-keyboard-navigation",
   "level": "1",
   "url": "sec-intervals-keyboard-navigation.html",
   "type": "Section",
-  "number": "3.2",
+  "number": "3.3",
   "title": "Using Intervals to Navigate the C System Keyboard",
   "body": " Using Intervals to Navigate the C System Keyboard   Because the C System Free Bass mirrors the arrangement of the Treble keyboard, every interval on the freebass keyboard is a mirror image of the shape on the treble keyboard. The diagrams below show the Free Bass keyboard (left) and the Treble keyboard (right) side by side, as they appear on the accordion. The bellows are indicated by the four vertical lines between the two keyboards. Recognising these physical relationships is important as the player is unable to view the keyboards directly and must rely on tactile feedback and muscle memory to navigate the buttons.  It is also important to recognise the four directions that are used for navigating the buttons of the keyboard. The playing directions are vertical, horizontal and diagonal as shown below. This aspect of the accordion will be discussed further in this chapter.     Playing Directions on each keyboard                The Vertical Direction   Now considering first the vertical direction. The treble keyboard has 5 vertical columns and the freebass keyboard has 4 useable vertical columns. Any 2 immediately adjacent vertical buttons on either keyboard, played together, form a minor third eg; C and E , D and F, E and G, F and A , G and B etc.  If a 2nd minor third is stacked on top of the first this forms a tritone (an interval consisting of 3 whole tones). For example C to E to G , D to F to A . The tritone being the interval between C and G , D and A etc.  Continuing in a vertical direction adding a third minor third gives a minor 6th interval eg: C to A, D to B etc; Adding a fourth minor third forms a perfect octave: C to C, C to C etc.              ===== Grid Pair 3 ===== -->  Stacking minor 3rds. A summary              "
 },
@@ -248,7 +275,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-intervals-keyboard-navigation.html#fig-nav-pair-1",
   "type": "Figure",
-  "number": "3.2.1",
+  "number": "3.3.1",
   "title": "",
   "body": " Playing Directions on each keyboard            "
 },
@@ -257,7 +284,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-intervals-keyboard-navigation.html#fig-nav-pair-2",
   "type": "Figure",
-  "number": "3.2.2",
+  "number": "3.3.2",
   "title": "",
   "body": " The Vertical Direction   Now considering first the vertical direction. The treble keyboard has 5 vertical columns and the freebass keyboard has 4 useable vertical columns. Any 2 immediately adjacent vertical buttons on either keyboard, played together, form a minor third eg; C and E , D and F, E and G, F and A , G and B etc.  If a 2nd minor third is stacked on top of the first this forms a tritone (an interval consisting of 3 whole tones). For example C to E to G , D to F to A . The tritone being the interval between C and G , D and A etc.  Continuing in a vertical direction adding a third minor third gives a minor 6th interval eg: C to A, D to B etc; Adding a fourth minor third forms a perfect octave: C to C, C to C etc.             "
 },
@@ -266,7 +293,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-intervals-keyboard-navigation.html#fig-nav-pair-3",
   "type": "Figure",
-  "number": "3.2.3",
+  "number": "3.3.3",
   "title": "",
   "body": " Stacking minor 3rds. A summary            "
 },
