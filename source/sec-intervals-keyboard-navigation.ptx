@@ -72,8 +72,8 @@
 \draw[gray, very thick, ->] ({1*\hlen + \noderadius}, {2.5*\vlen}) -- ({3*\hlen - \noderadius}, {2.5*\vlen});
 % 3. Diagonal: start at lower-right boundary of Eb, end at lower-left boundary of Gfl
 \draw[gray, very thick, ->] ({1*\hlen + sqrt(3)/2*\noderadius}, {2.5*\vlen + 0.5*\noderadius}) -- ({4*\hlen - sqrt(3)/2*\noderadius}, {4.0*\vlen - 0.5*\noderadius});
-% 4. Diagonal mirror: from Gfl (col 4, row 4.0) to Efl top (col 1, row 6.5), arrowhead at Efl
-\draw[gray, very thick, ->] ({4*\hlen - 3*sqrt(3)/2/sqrt(13)*\noderadius}, {4.0*\vlen + 2.5/sqrt(13)*\noderadius}) -- ({1*\hlen + 3*sqrt(3)/2/sqrt(13)*\noderadius}, {6.5*\vlen - 2.5/sqrt(13)*\noderadius});
+% 4. Diagonal mirror: from Gfl (col 4, row 4.0) to C (col 1, row 5.5), arrowhead at C
+\draw[gray, very thick, ->] ({4*\hlen - sqrt(3)/2*\noderadius}, {4.0*\vlen + 0.5*\noderadius}) -- ({1*\hlen + sqrt(3)/2*\noderadius}, {5.5*\vlen - 0.5*\noderadius});
 \end{tikzpicture}
 
         </latex-image>
