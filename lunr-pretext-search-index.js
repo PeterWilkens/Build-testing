@@ -1144,6 +1144,51 @@ var ptx_lunr_docs = [
   "body": " Cdim7 Root Position and Inversions                    "
 },
 {
+  "id": "sec-2-5-1-progressions",
+  "level": "1",
+  "url": "sec-2-5-1-progressions.html",
+  "type": "Section",
+  "number": "6.5",
+  "title": "2-5-1 Progressions with Voice Leading",
+  "body": " 2-5-1 Progressions with Voice Leading                                                                          "
+},
+{
+  "id": "fig-251-p1r1",
+  "level": "2",
+  "url": "sec-2-5-1-progressions.html#fig-251-p1r1",
+  "type": "Figure",
+  "number": "6.5.1",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-251-p1r2",
+  "level": "2",
+  "url": "sec-2-5-1-progressions.html#fig-251-p1r2",
+  "type": "Figure",
+  "number": "6.5.2",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-251-p2r1",
+  "level": "2",
+  "url": "sec-2-5-1-progressions.html#fig-251-p2r1",
+  "type": "Figure",
+  "number": "6.5.3",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-251-p2r2",
+  "level": "2",
+  "url": "sec-2-5-1-progressions.html#fig-251-p2r2",
+  "type": "Figure",
+  "number": "6.5.4",
+  "title": "",
+  "body": "                "
+},
+{
   "id": "sec-diatonic-seventh-chords-cmajor",
   "level": "1",
   "url": "sec-diatonic-seventh-chords-cmajor.html",
