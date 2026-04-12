@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xml:id="ch-chords" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Chords</title>
+  <title>Chords and Chord Construction
+
+  </title>
 
   <introduction>
     <p>
@@ -374,6 +376,53 @@
       </ul>
     </subsection>
 
+    <subsection xml:id="subsec-sixth-chords">
+      <title>Added Sixth Chords</title>
+      <p>
+        <term>Added sixth chords</term> are built by adding the major sixth (9 semitones above 
+        the root) to a triad — <em>without</em> a seventh. This distinguishes them from 
+        thirteenth chords, which always include the seventh. Added sixth chords have a bright, 
+        open character widely heard in jazz, pop, and bossa nova.
+      </p>
+      <ul>
+        <li>
+          <p>
+            <term>Major sixth (6)</term> — major triad + major 6th.
+            Formula: 1 – maj3 – per5 – maj6.
+            Notes: C – E – G – A.
+          </p>
+        </li>
+        <li>
+          <p>
+            <term>Minor sixth (m6)</term> — minor triad + major 6th.
+            Formula: 1 – min3 – per5 – maj6.
+            Notes: C – E<flat /> – G – A.
+          </p>
+        </li>
+      </ul>
+      <p>
+        The <term>6/9 chord</term> extends the added sixth chord by also including the major ninth 
+        (same pitch class as the major second, an octave higher), still with no seventh. This 
+        produces a lush, full sound popular in jazz and neo-soul.
+      </p>
+      <ul>
+        <li>
+          <p>
+            <term>Major 6/9 (6/9)</term> — major triad + major 6th + major 9th.
+            Formula: 1 – maj3 – per5 – maj6 – maj9.
+            Notes: C – E – G – A – D.
+          </p>
+        </li>
+        <li>
+          <p>
+            <term>Minor 6/9 (m6/9)</term> — minor triad + major 6th + major 9th.
+            Formula: 1 – min3 – per5 – maj6 – maj9.
+            Notes: C – E<flat /> – G – A – D.
+          </p>
+        </li>
+      </ul>
+    </subsection>
+
     <subsection xml:id="subsec-sus-chords">
       <title>Suspended Chords</title>
       <p>
@@ -636,6 +685,54 @@
             <cell halign="left">C  E<flat />  G  B<flat />  D  (F)  A</cell>
           </row>
           <row>
+            <cell halign="left">Major 6th</cell>
+            <cell>C6</cell>
+            <cell>C</cell>
+            <cell>E</cell>
+            <cell>G</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>A†</cell>
+            <cell halign="left">C  E  G  A</cell>
+          </row>
+          <row>
+            <cell halign="left">Minor 6th</cell>
+            <cell>Cm6</cell>
+            <cell>C</cell>
+            <cell>E<flat /></cell>
+            <cell>G</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>A†</cell>
+            <cell halign="left">C  E<flat />  G  A</cell>
+          </row>
+          <row>
+            <cell halign="left">Major 6/9</cell>
+            <cell>C6/9</cell>
+            <cell>C</cell>
+            <cell>E</cell>
+            <cell>G</cell>
+            <cell>—</cell>
+            <cell>D</cell>
+            <cell>—</cell>
+            <cell>A†</cell>
+            <cell halign="left">C  E  G  A  D</cell>
+          </row>
+          <row>
+            <cell halign="left">Minor 6/9</cell>
+            <cell>Cm6/9</cell>
+            <cell>C</cell>
+            <cell>E<flat /></cell>
+            <cell>G</cell>
+            <cell>—</cell>
+            <cell>D</cell>
+            <cell>—</cell>
+            <cell>A†</cell>
+            <cell halign="left">C  E<flat />  G  A  D</cell>
+          </row>
+          <row>
             <cell halign="left">Suspended 2nd</cell>
             <cell>Csus2</cell>
             <cell>C</cell>
@@ -688,7 +785,9 @@
       <p>
         Parentheses ( ) indicate a note that is theoretically present but commonly omitted in 
         practice. An asterisk * in the <q>3/sus</q> column indicates a suspended note replacing 
-        the third: D (2nd degree) for sus2, F (4th degree) for sus4.
+        the third: D (2nd degree) for sus2, F (4th degree) for sus4. A dagger † in the 
+        <q>13</q> column indicates an added major sixth (same pitch class as the 13th, but no 
+        seventh is present in those chords).
       </p>
     </conclusion>
   </section>
