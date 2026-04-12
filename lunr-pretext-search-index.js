@@ -1036,164 +1036,11 @@ var ptx_lunr_docs = [
   "body": " Chord Construction Matrix (Root: C)              Chord Type  Symbol  1  3\/sus  5  7  9  11  13  Notes (C root)    Major 7th  Cmaj7  C  E  G  B  —  —  —  C E G B    Dominant 7th  C7  C  E  G  B  —  —  —  C E G B    Minor 7th  Cm7  C  E  G  B  —  —  —  C E G B    Half-diminished  Cm7 5  C  E  G  B  —  —  —  C E G B    Diminished 7th  Cdim7  C  E  G  A  —  —  —  C E G A    Major 9th  Cmaj9  C  E  G  B  D  —  —  C E G B D    Dominant 9th  C9  C  E  G  B  D  —  —  C E G B D    Minor 9th  Cm9  C  E  G  B  D  —  —  C E G B D    Dom. flat 9th  C7 9  C  E  G  B  D  —  —  C E G B D    Major 11th  Cmaj11  C  (E)  G  B  D  F  —  C (E) G B D F    Dominant 11th  C11  C  (E)  G  B  D  F  —  C (E) G B D F    Minor 11th  Cm11  C  E  G  B  D  F  —  C E G B D F    Dom. sharp 11th  C7 11  C  E  G  B  D  F  —  C E G B D F    Major 13th  Cmaj13  C  E  G  B  D  (F)  A  C E G B D (F) A    Dominant 13th  C13  C  E  G  B  D  (F)  A  C E G B D (F) A    Minor 13th  Cm13  C  E  G  B  D  (F)  A  C E G B D (F) A    Suspended 2nd  Csus2  C  D*  G  —  —  —  —  C D G    Suspended 4th  Csus4  C  F*  G  —  —  —  —  C F G    Dom. 7th sus4  C7sus4  C  F*  G  B  —  —  —  C F G B    Maj. 7th sus4  Cmaj7sus4  C  F*  G  B  —  —  —  C F G B    "
 },
 {
-  "id": "sec-major-minor-triads",
-  "level": "1",
-  "url": "sec-major-minor-triads.html",
-  "type": "Section",
-  "number": "6.1",
-  "title": "Major and Minor Triads",
-  "body": " Major and Minor Triads   These triad shapes are moveable: the shape stays the same regardless of which button you start on, taking the name of the root note. The first row shows the four root-position triad types; the second row shows their common inversions.                            C major triad notation    C minor triad notation    C augmented triad notation    C diminished triad notation                             C major 1st inversion notation    C minor 1st inversion notation    C major 2nd inversion notation    C minor 2nd inversion notation    "
-},
-{
-  "id": "fig-triad-grids-row1",
-  "level": "2",
-  "url": "sec-major-minor-triads.html#fig-triad-grids-row1",
-  "type": "Figure",
-  "number": "6.1.1",
-  "title": "",
-  "body": "                    "
-},
-{
-  "id": "fig-triad-grids-row2",
-  "level": "2",
-  "url": "sec-major-minor-triads.html#fig-triad-grids-row2",
-  "type": "Figure",
-  "number": "6.1.2",
-  "title": "",
-  "body": "                    "
-},
-{
-  "id": "sec-seventh-chords",
-  "level": "1",
-  "url": "sec-seventh-chords.html",
-  "type": "Section",
-  "number": "6.2",
-  "title": "Seventh Chords",
-  "body": " Seventh Chords   The Chord Shapes shown can be moved to different positions on the keyboard and take the name of the Root Chord. Thus, if you know the shape of one chord type, you know the shape of all chords of that type in that shape or inversion.     7th Chords Root Position                        Cmaj7 chord on treble staff    C7 chord on treble staff    Cm7 chord on treble staff    Cm7b5 chord on treble staff      7th Chords 1st Inversion                        Cmaj7 1st inversion chord on treble staff    C7 1st inversion chord on treble staff    Cm7 1st inversion chord on treble staff    Cm7b5 1st inversion chord on treble staff    "
-},
-{
-  "id": "fig-chord-grids-row1",
-  "level": "2",
-  "url": "sec-seventh-chords.html#fig-chord-grids-row1",
-  "type": "Figure",
-  "number": "6.2.1",
-  "title": "",
-  "body": " 7th Chords Root Position                    "
-},
-{
-  "id": "fig-chord-grids-row2",
-  "level": "2",
-  "url": "sec-seventh-chords.html#fig-chord-grids-row2",
-  "type": "Figure",
-  "number": "6.2.2",
-  "title": "",
-  "body": " 7th Chords 1st Inversion                    "
-},
-{
-  "id": "sec-seventh-chords-page2",
-  "level": "1",
-  "url": "sec-seventh-chords-page2.html",
-  "type": "Section",
-  "number": "6.3",
-  "title": "Seventh Chords (2nd Inversion)",
-  "body": " Seventh Chords (2nd Inversion)   The Chord Shapes shown can be moved to different positions on the keyboard and take the name of the Root Chord. Thus, if you know the shape of one chord type, you know the shape of all chords of that type in that shape or inversion.     7th Chords Root Position                        Cmaj7 chord on treble staff    C7 chord on treble staff    Cm7 chord on treble staff    Cm7b5 chord on treble staff      7th Chords 2nd Inversion                        Cmaj7 2nd inversion chord on treble staff    C7 2nd inversion chord on treble staff    Cm7 2nd inversion chord on treble staff    Cm7b5 2nd inversion chord on treble staff    "
-},
-{
-  "id": "fig-chord-grids-p2-row1",
-  "level": "2",
-  "url": "sec-seventh-chords-page2.html#fig-chord-grids-p2-row1",
-  "type": "Figure",
-  "number": "6.3.1",
-  "title": "",
-  "body": " 7th Chords Root Position                    "
-},
-{
-  "id": "fig-chord-grids-p2-row2",
-  "level": "2",
-  "url": "sec-seventh-chords-page2.html#fig-chord-grids-p2-row2",
-  "type": "Figure",
-  "number": "6.3.2",
-  "title": "",
-  "body": " 7th Chords 2nd Inversion                    "
-},
-{
-  "id": "sec-seventh-chords-page3",
-  "level": "1",
-  "url": "sec-seventh-chords-page3.html",
-  "type": "Section",
-  "number": "6.4",
-  "title": "Seventh Chords (3rd Inversion and Cdim7)",
-  "body": " Seventh Chords (3rd Inversion and Cdim7)   The Chord Shapes shown can be moved to different positions on the keyboard and take the name of the Root Chord. Thus, if you know the shape of one chord type, you know the shape of all chords of that type in that shape or inversion.     7th Chords 3rd Inversion                        Cmaj7 3rd inversion chord on treble staff    C7 3rd inversion chord on treble staff    Cm7 3rd inversion chord on treble staff    Cm7b5 3rd inversion chord on treble staff      Cdim7 Root Position and Inversions                        Cdim7 chord on treble staff    Cdim7 1st inversion chord on treble staff    Cdim7 2nd inversion chord on treble staff    Cdim7 3rd inversion chord on treble staff    "
-},
-{
-  "id": "fig-chord-grids-p3-row1",
-  "level": "2",
-  "url": "sec-seventh-chords-page3.html#fig-chord-grids-p3-row1",
-  "type": "Figure",
-  "number": "6.4.1",
-  "title": "",
-  "body": " 7th Chords 3rd Inversion                    "
-},
-{
-  "id": "fig-chord-grids-p3-row2",
-  "level": "2",
-  "url": "sec-seventh-chords-page3.html#fig-chord-grids-p3-row2",
-  "type": "Figure",
-  "number": "6.4.2",
-  "title": "",
-  "body": " Cdim7 Root Position and Inversions                    "
-},
-{
-  "id": "sec-2-5-1-progressions",
-  "level": "1",
-  "url": "sec-2-5-1-progressions.html",
-  "type": "Section",
-  "number": "6.5",
-  "title": "2-5-1 Progressions with Voice Leading",
-  "body": " 2-5-1 Progressions with Voice Leading                                                                          "
-},
-{
-  "id": "fig-251-p1r1",
-  "level": "2",
-  "url": "sec-2-5-1-progressions.html#fig-251-p1r1",
-  "type": "Figure",
-  "number": "6.5.1",
-  "title": "",
-  "body": "                "
-},
-{
-  "id": "fig-251-p1r2",
-  "level": "2",
-  "url": "sec-2-5-1-progressions.html#fig-251-p1r2",
-  "type": "Figure",
-  "number": "6.5.2",
-  "title": "",
-  "body": "                "
-},
-{
-  "id": "fig-251-p2r1",
-  "level": "2",
-  "url": "sec-2-5-1-progressions.html#fig-251-p2r1",
-  "type": "Figure",
-  "number": "6.5.3",
-  "title": "",
-  "body": "                "
-},
-{
-  "id": "fig-251-p2r2",
-  "level": "2",
-  "url": "sec-2-5-1-progressions.html#fig-251-p2r2",
-  "type": "Figure",
-  "number": "6.5.4",
-  "title": "",
-  "body": "                "
-},
-{
   "id": "sec-diatonic-seventh-chords-cmajor",
   "level": "1",
   "url": "sec-diatonic-seventh-chords-cmajor.html",
   "type": "Section",
-  "number": "7.1",
+  "number": "6.1",
   "title": "Diatonic Seventh Chords of C Major",
   "body": " Diatonic Seventh Chords of C Major   The grids below show each of the seven diatonic seventh chords of C major in root position. Highlighted buttons are the four chord tones. The final grid shows the full C major scale for reference, making it easy to see how the chord tones are drawn from the scale.     Diatonic 7th Chords — Scale Degrees I to IV                            Cmaj7 chord notation (I)    Dm7 chord notation (II)    Em7 chord notation (III)    Fmaj7 chord notation (IV)      I — Cmaj7 (C, E, G, B)  II — Dm7 (D, F, A, C)  III — Em7 (E, G, B, D)  IV — Fmaj7 (F, A, C, E)     Diatonic 7th Chords — Scale Degrees V to VII and C Major Scale                            G7 chord notation (V)    Am7 chord notation (VI)    Bm7b5 chord notation (VII)       V — G7 (G, B, D, F)  VI — Am7 (A, C, E, G)  VII — Bm7 5 (B, D, F, A)  C Major Scale (C–D–E–F–G–A–B–C)   "
 },
@@ -1202,7 +1049,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-diatonic-seventh-chords-cmajor.html#fig-scale-chords-row1",
   "type": "Figure",
-  "number": "7.1.1",
+  "number": "6.1.1",
   "title": "",
   "body": " Diatonic 7th Chords — Scale Degrees I to IV                        "
 },
@@ -1211,9 +1058,270 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-diatonic-seventh-chords-cmajor.html#fig-scale-chords-row2",
   "type": "Figure",
-  "number": "7.1.2",
+  "number": "6.1.2",
   "title": "",
   "body": " Diatonic 7th Chords — Scale Degrees V to VII and C Major Scale                        "
+},
+{
+  "id": "sec-major-minor-triads",
+  "level": "1",
+  "url": "sec-major-minor-triads.html",
+  "type": "Section",
+  "number": "7.1",
+  "title": "Major and Minor Triads",
+  "body": " Major and Minor Triads   These triad shapes are moveable: the shape stays the same regardless of which button you start on, taking the name of the root note. The first row shows the four root-position triad types; the second row shows their common inversions.                            C major triad notation    C minor triad notation    C augmented triad notation    C diminished triad notation                             C major 1st inversion notation    C minor 1st inversion notation    C major 2nd inversion notation    C minor 2nd inversion notation    "
+},
+{
+  "id": "fig-triad-grids-row1",
+  "level": "2",
+  "url": "sec-major-minor-triads.html#fig-triad-grids-row1",
+  "type": "Figure",
+  "number": "7.1.1",
+  "title": "",
+  "body": "                    "
+},
+{
+  "id": "fig-triad-grids-row2",
+  "level": "2",
+  "url": "sec-major-minor-triads.html#fig-triad-grids-row2",
+  "type": "Figure",
+  "number": "7.1.2",
+  "title": "",
+  "body": "                    "
+},
+{
+  "id": "sec-seventh-chords",
+  "level": "1",
+  "url": "sec-seventh-chords.html",
+  "type": "Section",
+  "number": "7.2",
+  "title": "Seventh Chords",
+  "body": " Seventh Chords   The Chord Shapes shown can be moved to different positions on the keyboard and take the name of the Root Chord. Thus, if you know the shape of one chord type, you know the shape of all chords of that type in that shape or inversion.     7th Chords Root Position                        Cmaj7 chord on treble staff    C7 chord on treble staff    Cm7 chord on treble staff    Cm7b5 chord on treble staff      7th Chords 1st Inversion                        Cmaj7 1st inversion chord on treble staff    C7 1st inversion chord on treble staff    Cm7 1st inversion chord on treble staff    Cm7b5 1st inversion chord on treble staff    "
+},
+{
+  "id": "fig-chord-grids-row1",
+  "level": "2",
+  "url": "sec-seventh-chords.html#fig-chord-grids-row1",
+  "type": "Figure",
+  "number": "7.2.1",
+  "title": "",
+  "body": " 7th Chords Root Position                    "
+},
+{
+  "id": "fig-chord-grids-row2",
+  "level": "2",
+  "url": "sec-seventh-chords.html#fig-chord-grids-row2",
+  "type": "Figure",
+  "number": "7.2.2",
+  "title": "",
+  "body": " 7th Chords 1st Inversion                    "
+},
+{
+  "id": "sec-seventh-chords-page2",
+  "level": "1",
+  "url": "sec-seventh-chords-page2.html",
+  "type": "Section",
+  "number": "7.3",
+  "title": "Seventh Chords (2nd Inversion)",
+  "body": " Seventh Chords (2nd Inversion)   The Chord Shapes shown can be moved to different positions on the keyboard and take the name of the Root Chord. Thus, if you know the shape of one chord type, you know the shape of all chords of that type in that shape or inversion.     7th Chords Root Position                        Cmaj7 chord on treble staff    C7 chord on treble staff    Cm7 chord on treble staff    Cm7b5 chord on treble staff      7th Chords 2nd Inversion                        Cmaj7 2nd inversion chord on treble staff    C7 2nd inversion chord on treble staff    Cm7 2nd inversion chord on treble staff    Cm7b5 2nd inversion chord on treble staff    "
+},
+{
+  "id": "fig-chord-grids-p2-row1",
+  "level": "2",
+  "url": "sec-seventh-chords-page2.html#fig-chord-grids-p2-row1",
+  "type": "Figure",
+  "number": "7.3.1",
+  "title": "",
+  "body": " 7th Chords Root Position                    "
+},
+{
+  "id": "fig-chord-grids-p2-row2",
+  "level": "2",
+  "url": "sec-seventh-chords-page2.html#fig-chord-grids-p2-row2",
+  "type": "Figure",
+  "number": "7.3.2",
+  "title": "",
+  "body": " 7th Chords 2nd Inversion                    "
+},
+{
+  "id": "sec-seventh-chords-page3",
+  "level": "1",
+  "url": "sec-seventh-chords-page3.html",
+  "type": "Section",
+  "number": "7.4",
+  "title": "Seventh Chords (3rd Inversion and Cdim7)",
+  "body": " Seventh Chords (3rd Inversion and Cdim7)   The Chord Shapes shown can be moved to different positions on the keyboard and take the name of the Root Chord. Thus, if you know the shape of one chord type, you know the shape of all chords of that type in that shape or inversion.     7th Chords 3rd Inversion                        Cmaj7 3rd inversion chord on treble staff    C7 3rd inversion chord on treble staff    Cm7 3rd inversion chord on treble staff    Cm7b5 3rd inversion chord on treble staff      Cdim7 Root Position and Inversions                        Cdim7 chord on treble staff    Cdim7 1st inversion chord on treble staff    Cdim7 2nd inversion chord on treble staff    Cdim7 3rd inversion chord on treble staff    "
+},
+{
+  "id": "fig-chord-grids-p3-row1",
+  "level": "2",
+  "url": "sec-seventh-chords-page3.html#fig-chord-grids-p3-row1",
+  "type": "Figure",
+  "number": "7.4.1",
+  "title": "",
+  "body": " 7th Chords 3rd Inversion                    "
+},
+{
+  "id": "fig-chord-grids-p3-row2",
+  "level": "2",
+  "url": "sec-seventh-chords-page3.html#fig-chord-grids-p3-row2",
+  "type": "Figure",
+  "number": "7.4.2",
+  "title": "",
+  "body": " Cdim7 Root Position and Inversions                    "
+},
+{
+  "id": "sec-2-5-1-progressions",
+  "level": "1",
+  "url": "sec-2-5-1-progressions.html",
+  "type": "Section",
+  "number": "7.5",
+  "title": "2-5-1 Progressions with Voice Leading (naturally follows Circle of Fifths)",
+  "body": " 2-5-1 Progressions with Voice Leading (naturally follows Circle of Fifths)                                                                          "
+},
+{
+  "id": "fig-251-p1r1",
+  "level": "2",
+  "url": "sec-2-5-1-progressions.html#fig-251-p1r1",
+  "type": "Figure",
+  "number": "7.5.1",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-251-p1r2",
+  "level": "2",
+  "url": "sec-2-5-1-progressions.html#fig-251-p1r2",
+  "type": "Figure",
+  "number": "7.5.2",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-251-p2r1",
+  "level": "2",
+  "url": "sec-2-5-1-progressions.html#fig-251-p2r1",
+  "type": "Figure",
+  "number": "7.5.3",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-251-p2r2",
+  "level": "2",
+  "url": "sec-2-5-1-progressions.html#fig-251-p2r2",
+  "type": "Figure",
+  "number": "7.5.4",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "sec-more-251-progressions",
+  "level": "1",
+  "url": "sec-more-251-progressions.html",
+  "type": "Section",
+  "number": "7.6",
+  "title": "More 2.5.1 Progressions",
+  "body": " More 2.5.1 Progressions                                                        "
+},
+{
+  "id": "fig-more251-r1",
+  "level": "2",
+  "url": "sec-more-251-progressions.html#fig-more251-r1",
+  "type": "Figure",
+  "number": "7.6.1",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-more251-r2",
+  "level": "2",
+  "url": "sec-more-251-progressions.html#fig-more251-r2",
+  "type": "Figure",
+  "number": "7.6.2",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-more251-r3",
+  "level": "2",
+  "url": "sec-more-251-progressions.html#fig-more251-r3",
+  "type": "Figure",
+  "number": "7.6.3",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "sec-further-251-progressions",
+  "level": "1",
+  "url": "sec-further-251-progressions.html",
+  "type": "Section",
+  "number": "7.7",
+  "title": "Further 2.5.1 Progressions",
+  "body": " Further 2.5.1 Progressions                                                        "
+},
+{
+  "id": "fig-further251-r1",
+  "level": "2",
+  "url": "sec-further-251-progressions.html#fig-further251-r1",
+  "type": "Figure",
+  "number": "7.7.1",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-further251-r2",
+  "level": "2",
+  "url": "sec-further-251-progressions.html#fig-further251-r2",
+  "type": "Figure",
+  "number": "7.7.2",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-further251-r3",
+  "level": "2",
+  "url": "sec-further-251-progressions.html#fig-further251-r3",
+  "type": "Figure",
+  "number": "7.7.3",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "sec-blank-chord-shape-template",
+  "level": "1",
+  "url": "sec-blank-chord-shape-template.html",
+  "type": "Section",
+  "number": "7.8",
+  "title": "Blank Chord Shape Template",
+  "body": " Blank Chord Shape Template                                                        "
+},
+{
+  "id": "fig-blank-tpl-r1",
+  "level": "2",
+  "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r1",
+  "type": "Figure",
+  "number": "7.8.1",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-blank-tpl-r2",
+  "level": "2",
+  "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r2",
+  "type": "Figure",
+  "number": "7.8.2",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-blank-tpl-r3",
+  "level": "2",
+  "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r3",
+  "type": "Figure",
+  "number": "7.8.3",
+  "title": "",
+  "body": "                "
 },
 {
   "id": "sec-circle-structure",
@@ -1276,7 +1384,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.3",
   "title": "Chord Progressions and the Circle",
-  "body": " Chord Progressions and the Circle  An accordion player can access important Chord Progressions Using The Circle of Fifths:    By adding a Chord Quality to each Pitch Identity on the Circle some of the most important Chord Progressions, used in all types of music, can be obtained by using the Circle Diagram.  For this purpose all cycling through the Circle will be Counterclockwise.  Direction of travel Chordwise will therefore be C to F to B to E and so on using the \"pitch labels\" in the Circle.  Figure 4.0.2 illustrates all the possible ii-V-I progressions. Probably the most frequently occurring progression in all modern music.  Figure 4.0.2 also shows one of the more important chord resolutions in music, The Dominant 7 (V7) to Major(Maj7)  Figure 4.0.3 illustrates all the Dominants of Dominants, another frequently used chordal device. V7 to V7.  Figure 4.0.4 is a iii-VI7-ii-V7-I progression eg; C mi\/F7\/B mi\/E 7 \/A Maj7. Another common progression which again cycles though the circle in an anticlockwise direction.  In all this discussion the information given in the Diagram remains the same. The \"main-note-name\" positions around the circle, remain fixed but the Chord Quality changes eg; from a Major Chord to a Minor etc; .  All progressions cycle in an anticlockwise direction through the same Root note sequence, but with different Chord Qualities.    In Summary,the Circle of Fifths reveals the most common chord progressions in Western music. Chords that are adjacent on the circle sound naturally connected. The most important progressions follow the circle:     V I (dominant to tonic) : Moving one step anticlockwise. For example, G to C. This is the strongest resolution in tonal music.     ii V I : Moving two steps anticlockwise. For example, Dm G C. This is the most common jazz and popular music progression.     IV I (subdominant to tonic) : Moving one step clockwise. For example, F to C. A plagal cadence, often heard as the Amen cadence.     I IV V I : The three primary chords of any key are always adjacent on the circle. In C major: C, F, and G sit next to each other.    Recognising these relationships on the Circle of Fifths helps the accordion player anticipate chord changes and navigate progressions fluently across the keyboard.   Example of ii-V-I progression using the circle diagram. .      The three inner rings show how the ii–V–I progression — the most common chord movement in tonal music — sits within each key around the circle. For any major key in the outer ring, the IMaj7, iim7 and V7 chords always appear together in the same shaded section in the annular bands. Reading anticlockwise, the pattern repeats every three segments: the V7 chord resolves to the IMaj7, and the iim7 chord sets up the V7. Because the circle is arranged in fifths, every adjacent key shares two of these three chords, which is why modulation between neighbouring keys sounds so natural.  "
+  "body": " Chord Progressions and the Circle  An accordion player can access important Chord Progressions Using The Circle of Fifths:    By adding a Chord Quality to each Pitch Identity on the Circle some of the most important Chord Progressions, used in all types of music, can be obtained by using the Circle Diagram.  For this purpose all cycling through the Circle will be Counterclockwise.  Direction of travel Chordwise will therefore be C to F to B to E and so on using the \"pitch labels\" in the Circle.  Figure 8.3.1 illustrates all the possible ii-V-I progressions. Probably the most frequently occurring progression in all modern music.  Figure 8.3.1 also shows one of the more important chord resolutions in music, The Dominant 7 (V7) to Major(Maj7)  Figure 8.3.1 illustrates all the Dominants of Dominants, another frequently used chordal device. V7 to V7.  In this discussion the information given in the Diagram remains the same. The \"main-note-name\" positions around the circle, remain fixed but the Chord Quality changes eg; from a Major Chord to a Minor etc; .  All progressions cycle in an anticlockwise direction through the same Root note sequence, but with different Chord Qualities.    In Summary,the Circle of Fifths reveals the most common chord progressions in Western music. Chords that are adjacent on the circle sound naturally connected. The most important progressions follow the circle:     V I (dominant to tonic) : Moving one step anticlockwise. For example, G to C. This is the strongest resolution in tonal music.     ii V I : Moving two steps anticlockwise. For example, Dm G C. This is the most common jazz and popular music progression.     IV I (subdominant to tonic) : Moving one step clockwise. For example, F to C. A plagal cadence, often heard as the Amen cadence.     I IV V I : The three primary chords of any key are always adjacent on the circle. In C major: C, F, and G sit next to each other.    Recognising these relationships on the Circle of Fifths helps the accordion player anticipate chord changes and navigate progressions fluently across the keyboard.   Example of ii-V-I progression using the circle diagram. .      The three inner rings show how the ii–V–I progression — the most common chord movement in tonal music — sits within each key around the circle. For any major key in the outer ring, the IMaj7, iim7 and V7 chords always appear together in the same shaded section in the annular bands. Reading anticlockwise, the pattern repeats every three segments: the V7 chord resolves to the IMaj7, and the iim7 chord sets up the V7. Because the circle is arranged in fifths, every adjacent key shares two of these three chords, which is why modulation between neighbouring keys sounds so natural.  "
 },
 {
   "id": "sec-circle-chord-progressions-2",
