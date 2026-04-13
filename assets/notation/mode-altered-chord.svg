@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="37.52mm" height="12.44mm" viewBox="0.0000 0.0002 30.5020 10.1156">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(0.0000, 8.5586)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1282" stroke="currentColor" x1="0.0641" y1="0" x2="30.4379" y2="0"/>
+</g>
+<g transform="translate(0.0000, 7.5586)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1282" stroke="currentColor" x1="0.0641" y1="0" x2="30.4379" y2="0"/>
+</g>
+<g transform="translate(0.0000, 6.5586)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1282" stroke="currentColor" x1="0.0641" y1="0" x2="30.4379" y2="0"/>
+</g>
+<g transform="translate(0.0000, 5.5586)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1282" stroke="currentColor" x1="0.0641" y1="0" x2="30.4379" y2="0"/>
+</g>
+<g transform="translate(0.0000, 4.5586)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1282" stroke="currentColor" x1="0.0641" y1="0" x2="30.4379" y2="0"/>
+</g>
+<g transform="translate(0.0000, 3.5586)">
+<rect x="26.6379" y="-0.1141" width="1.7976" height="0.2282" ry="0.1141" fill="currentColor"/>
+</g>
+<g transform="translate(0.0000, 9.5586)">
+<rect x="5.4755" y="-0.1141" width="1.9471" height="0.2282" ry="0.1141" fill="currentColor"/>
+</g>
+<g transform="translate(18.3125, 6.5586)">
+<rect x="0.0000" y="-2.0000" width="0.2435" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(30.2585, 6.5586)">
+<rect x="0.0000" y="-2.0000" width="0.2435" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(29.6305, 6.5586)">
+<rect x="0.0000" y="-2.0000" width="0.2435" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(23.7428, 6.5586)">
+<rect x="-0.0833" y="-1.3382" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/mode-altered-chord.ly:18:6:7">
+<g transform="translate(20.4587, 5.5586)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/mode-altered-chord.ly:19:11:12">
+<g transform="translate(23.6595, 1.4549)">
+<path transform="scale(0.0036, -0.0036)" d="M0 112c0 13 8 25 20 30l34 13v148c0 13 10 24 23 24s24 -11 24 -24v-129l73 29v148c0 13 11 24 24 24s23 -11 23 -24v-129l10 4c4 2 8 2 12 2c17 0 32 -14 32 -32v-46c0 -13 -8 -24 -20 -29l-34 -14v-148l10 4c4 2 8 3 12 3c17 0 32 -14 32 -32v-46c0 -13 -8 -25 -20 -30
+l-34 -13v-148c0 -13 -10 -24 -23 -24s-24 11 -24 24v129l-73 -29v-148c0 -13 -11 -24 -24 -24s-23 11 -23 24v129l-10 -4c-4 -2 -8 -2 -12 -2c-17 0 -32 14 -32 32v46c0 13 8 24 20 29l34 14v148l-10 -4c-4 -2 -8 -3 -12 -3c-17 0 -32 14 -32 32v46zM174 89l-73 -30v-148
+l73 30v148z" fill="currentColor"/>
+</g>
+<g transform="translate(24.6395, 1.4549)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>9</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/mode-altered-chord.ly:19:6:7">
+<g transform="translate(23.6595, 5.0586)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(19.3087, 5.5586)">
+<path transform="scale(0.0040, -0.0040)" d="M33 35l-2 -60v-11c0 -21 2 -43 5 -64c42 38 87 81 87 138c0 32 -13 63 -41 63c-31 0 -48 -32 -49 -66zM32 446l-9 -337c25 26 59 40 95 40c50 0 82 -51 82 -105c0 -77 -80 -117 -137 -169c-18 -17 -26 -48 -52 -48c-16 0 -28 15 -28 32l-15 587c10 6 21 8 32 8
+s22 -2 32 -8z" fill="currentColor"/>
+</g>
+<g transform="translate(20.5420, 6.5586)">
+<rect x="-0.0833" y="-0.8382" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/mode-altered-chord.ly:18:11:12">
+<g transform="translate(20.4587, 3.0417)">
+<path transform="scale(0.0036, -0.0036)" d="M34 33l-1 -58v-10c0 -21 2 -43 5 -64c41 38 85 80 85 136c0 31 -13 63 -40 63c-31 0 -48 -33 -49 -67zM32 441l-8 -333c25 27 60 42 97 42c49 0 79 -52 79 -106c0 -76 -78 -117 -133 -169c-19 -18 -27 -52 -55 -52c-17 0 -30 17 -30 35l-14 583c10 6 21 9 32 9
+s22 -3 32 -9z" fill="currentColor"/>
+</g>
+<g transform="translate(21.1714, 3.0417)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>9</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(25.6629, 3.5586)">
+<path transform="scale(0.0040, -0.0040)" d="M33 35l-2 -60v-11c0 -21 2 -43 5 -64c42 38 87 81 87 138c0 32 -13 63 -41 63c-31 0 -48 -32 -49 -66zM32 446l-9 -337c25 26 59 40 95 40c50 0 82 -51 82 -105c0 -77 -80 -117 -137 -169c-18 -17 -26 -48 -52 -48c-16 0 -28 15 -28 32l-15 587c10 6 21 8 32 8
+s22 -2 32 -8z" fill="currentColor"/>
+</g>
+<g transform="translate(26.8962, 6.5586)">
+<rect x="-0.0833" y="-2.8382" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/mode-altered-chord.ly:20:11:12">
+<g transform="translate(26.8129, 1.9105)">
+<path transform="scale(0.0036, -0.0036)" d="M34 33l-1 -58v-10c0 -21 2 -43 5 -64c41 38 85 80 85 136c0 31 -13 63 -40 63c-31 0 -48 -33 -49 -67zM32 441l-8 -333c25 27 60 42 97 42c49 0 79 -52 79 -106c0 -76 -78 -117 -133 -169c-19 -18 -27 -52 -55 -52c-17 0 -30 17 -30 35l-14 583c10 6 21 9 32 9
+s22 -3 32 -9z" fill="currentColor"/>
+</g>
+<g transform="translate(27.5256, 1.9105)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>13</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/mode-altered-chord.ly:20:6:7">
+<g transform="translate(26.8129, 3.5586)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(22.5095, 5.0586)">
+<path transform="scale(0.0040, -0.0040)" d="M33 35l-2 -60v-11c0 -21 2 -43 5 -64c42 38 87 81 87 138c0 32 -13 63 -41 63c-31 0 -48 -32 -49 -66zM32 446l-9 -337c25 26 59 40 95 40c50 0 82 -51 82 -105c0 -77 -80 -117 -137 -169c-18 -17 -26 -48 -52 -48c-16 0 -28 15 -28 32l-15 587c10 6 21 8 32 8
+s22 -2 32 -8z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/mode-altered-chord.ly:15:8:9">
+<g transform="translate(9.0461, 3.9945)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/mode-altered-chord.ly:15:6:7">
+<g transform="translate(9.0461, 8.5586)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(10.2609, 6.5586)">
+<rect x="-0.0833" y="-1.5000" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
+</g>
+<g transform="translate(7.0148, 6.5586)">
+<rect x="-0.0833" y="-0.5000" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
+</g>
+<g transform="translate(0.8000, 7.5586)">
+<path transform="scale(0.0040, -0.0040)" d="M648 2c0 -114 -74 -214 -179 -248c2 -32 3 -65 3 -97c0 -21 -1 -43 -2 -64c-7 -123 -92 -230 -211 -230c-108 0 -197 88 -197 197c0 58 54 104 113 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-8 0 -16 2 -24 4c25 -35 65 -59 111 -59c93 0 155 90 161 190
+c1 20 2 39 2 59c0 28 -1 55 -3 83c-5 -1 -43 -7 -87 -7c-194 0 -333 181 -333 377c0 176 128 307 242 443c-36 105 -58 171 -58 348c0 113 54 219 146 286c8 6 21 7 29 0c69 -78 136 -242 136 -357c0 -141 -83 -253 -174 -362c22 -67 41 -135 58 -204h9
+c157 0 258 -130 258 -264zM464 -200c62 24 108 86 108 159c0 87 -62 173 -163 187c28 -132 47 -265 55 -346zM338 -218c1 0 46 0 80 6c-7 68 -26 209 -58 359c-79 -7 -123 -59 -123 -116c0 -43 24 -89 78 -120c5 -5 8 -11 8 -17c0 -13 -11 -24 -24 -24
+c-17 0 -129 63 -129 189c0 90 60 178 164 201c-14 56 -30 112 -47 167c-104 -122 -208 -245 -208 -404c0 -143 140 -241 259 -241zM239 782c0 -43 15 -102 41 -183c77 97 140 199 140 323c0 58 -8 83 -19 113c-99 -45 -162 -145 -162 -253z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/mode-altered-chord.ly:14:9:10">
+<g transform="translate(5.8000, 3.9945)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/mode-altered-chord.ly:14:6:7">
+<g transform="translate(5.8000, 9.5586)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(15.5310, 6.5586)">
+<rect x="-0.0833" y="0.1618" width="0.1666" height="3.1715" ry="0.0571" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/mode-altered-chord.ly:17:10:11">
+<g transform="translate(15.4477, 3.4037)">
+<path transform="scale(0.0036, -0.0036)" d="M34 33l-1 -58v-10c0 -21 2 -43 5 -64c41 38 85 80 85 136c0 31 -13 63 -40 63c-31 0 -48 -33 -49 -67zM32 441l-8 -333c25 27 60 42 97 42c49 0 79 -52 79 -106c0 -76 -78 -117 -133 -169c-19 -18 -27 -52 -55 -52c-17 0 -30 17 -30 35l-14 583c10 6 21 9 32 9
+s22 -3 32 -9z" fill="currentColor"/>
+</g>
+<g transform="translate(16.1604, 3.4037)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>7</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/mode-altered-chord.ly:17:6:7">
+<g transform="translate(15.4477, 6.5586)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(11.0969, 7.5586)">
+<path transform="scale(0.0040, -0.0040)" d="M33 35l-2 -60v-11c0 -21 2 -43 5 -64c42 38 87 81 87 138c0 32 -13 63 -41 63c-31 0 -48 -32 -49 -66zM32 446l-9 -337c25 26 59 40 95 40c50 0 82 -51 82 -105c0 -77 -80 -117 -137 -169c-18 -17 -26 -48 -52 -48c-16 0 -28 15 -28 32l-15 587c10 6 21 8 32 8
+s22 -2 32 -8z" fill="currentColor"/>
+</g>
+<g transform="translate(13.4617, 6.5586)">
+<rect x="-0.0833" y="-2.5000" width="0.1666" height="3.3382" ry="0.0571" fill="currentColor"/>
+</g>
+<g transform="translate(14.2977, 6.5586)">
+<path transform="scale(0.0040, -0.0040)" d="M33 35l-2 -60v-11c0 -21 2 -43 5 -64c42 38 87 81 87 138c0 32 -13 63 -41 63c-31 0 -48 -32 -49 -66zM32 446l-9 -337c25 26 59 40 95 40c50 0 82 -51 82 -105c0 -77 -80 -117 -137 -169c-18 -17 -26 -48 -52 -48c-16 0 -28 15 -28 32l-15 587c10 6 21 8 32 8
+s22 -2 32 -8z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/mode-altered-chord.ly:16:10:11">
+<g transform="translate(12.2469, 3.4037)">
+<path transform="scale(0.0036, -0.0036)" d="M34 33l-1 -58v-10c0 -21 2 -43 5 -64c41 38 85 80 85 136c0 31 -13 63 -40 63c-31 0 -48 -33 -49 -67zM32 441l-8 -333c25 27 60 42 97 42c49 0 79 -52 79 -106c0 -76 -78 -117 -133 -169c-19 -18 -27 -52 -55 -52c-17 0 -30 17 -30 35l-14 583c10 6 21 9 32 9
+s22 -3 32 -9z" fill="currentColor"/>
+</g>
+<g transform="translate(12.9596, 3.4037)">
+<text font-family="serif" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/mode-altered-chord.ly:16:6:7">
+<g transform="translate(12.2469, 7.5586)">
+<path transform="scale(0.0040, -0.0040)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
+</g>
+</a>
+</svg>

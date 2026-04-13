@@ -54,6 +54,60 @@
         different qualities. A basic three-note chord built by stacking two thirds is called a 
         <term>triad</term>.
       </p>
+
+      <p>
+        Just as the twelve notes of the chromatic scale can be arranged around a clock face to 
+        visualise scale construction by stacking 2nds (one step clockwise each time), the seven 
+        notes of any scale can be arranged around a smaller circle to visualise chord construction 
+        by stacking 3rds. Moving <em>two steps clockwise</em> at each turn skips one scale note 
+        and lands on the next chord tone — the interval of a third. The dashed triangle in the 
+        figure below connects scale degrees 1, 3, and 5: these are the three notes of a triad. 
+        Continuing the same two-step pattern extends the chord: degree 7 gives a seventh chord, 
+        degree 9 (= 2) gives a ninth chord, degree 11 (= 4) an eleventh chord, and degree 13 (= 6) 
+        a thirteenth chord. The note names shown are those of the C major scale, but the degree 
+        numbers apply to any major scale — replace the note names with those of the chosen scale 
+        and the pattern is identical.
+      </p>
+
+      <figure xml:id="fig-scale-thirds-clock">
+        <caption>The 7 notes of the C major scale arranged clockwise around a circle (degree 1 at 
+          12 o'clock). Moving two steps clockwise at a time stacks thirds and builds chord tones: 
+          the dashed triangle connects the triad (1–3–5).</caption>
+        <image>
+          <latex-image>
+            <![CDATA[
+\begin{tikzpicture}
+  \def\R{2.2}
+  \def\DegR{2.85}
+  \def\NoteR{3.55}
+
+  \draw (0,0) circle (\R cm);
+
+  \foreach \i in {0,...,6}{
+    \pgfmathsetmacro{\a}{90 - \i * 360/7}
+    \draw[thin] (\a:1.95 cm) -- (\a:\R cm);
+  }
+
+  % Dashed triangle connecting every other note: degrees 1, 3, 5 (indices 0, 2, 4)
+  \draw[dashed, gray, thick]
+    (90:\R cm) --
+    ({90 - 2*360/7}:\R cm) --
+    ({90 - 4*360/7}:\R cm) -- cycle;
+
+  % Degree numbers (bold) and note names
+  \foreach \i/\deg/\note in {0/1/C, 1/2/D, 2/3/E, 3/4/F, 4/5/G, 5/6/A, 6/7/B}{
+    \pgfmathsetmacro{\a}{90 - \i * 360/7}
+    \node[font=\small\bfseries] at (\a:\DegR cm) {\deg};
+    \node[font=\small] at (\a:\NoteR cm) {\note};
+  }
+
+  % Centre label
+  \node[font=\footnotesize, align=center] at (0,0) {Stack\\3rds\\$\rightarrow$ skip 1};
+\end{tikzpicture}
+            ]]>
+          </latex-image>
+        </image>
+      </figure>
     </subsection>
 
     <subsection xml:id="subsec-triad-formula">

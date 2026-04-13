@@ -5,7 +5,45 @@
 
   <p>In C major, the interval pattern remains the same ascending and descending.</p>
   <p>All major scales have the same pattern of intervals, so any major scale can be built by using this same pattern.</p>
+  <p>The pattern of intervals in a major scale is: whole, whole, half, whole, whole, whole, half. This means that starting from the root note (C in this case), you would move up a whole step to D, then another whole step to E, then a half step to F, then a whole step to G, then a whole step to A, then a whole step to B, and finally a half step back to C.</p>
+  <p> A whole step (also called a whole tone) consists of two semitones, while a half step (also called a semitone) consists of one semitone. So the interval pattern for the C major scale can also be expressed in terms of semitones as: 2, 2, 1, 2, 2, 2, 1.</p>
   <p>The C major scale notes are C, D, E, F, G, A, B, and C.</p>
+
+  <figure xml:id="fig-chromatic-scale-clock">
+    <caption>The 12 notes of the chromatic scale arranged clockwise around a circle, provide a useful means of visualising how scales are constructed by stacking 2nd intervals above the Scale 
+      Root note.</caption>
+    <image>
+      <latex-image>
+        <![CDATA[
+\begin{tikzpicture}
+  \def\R{2.0}
+  \def\LR{2.7}
+  \def\TR{1.7}
+
+  \draw (0,0) circle (\R cm);
+
+  \foreach \i in {0,...,11}{
+    \pgfmathsetmacro{\a}{90 - \i*30}
+    \draw[thin] (\a:\TR cm) -- (\a:\R cm);
+  }
+
+  \node[font=\normalsize] at ( 90:\LR cm) {C};
+  \node[font=\small] at ( 60:\LR cm) {C$\sharp$/D$\flat$};
+  \node[font=\normalsize] at ( 30:\LR cm) {D};
+  \node[font=\small] at (  0:\LR cm) {D$\sharp$/E$\flat$};
+  \node[font=\normalsize] at (-30:\LR cm) {E};
+  \node[font=\normalsize] at (-60:\LR cm) {F};
+  \node[font=\small] at (-90:\LR cm) {F$\sharp$/G$\flat$};
+  \node[font=\normalsize] at (-120:\LR cm) {G};
+  \node[font=\small] at (-150:\LR cm) {G$\sharp$/A$\flat$};
+  \node[font=\normalsize] at ( 180:\LR cm) {A};
+  \node[font=\small] at ( 150:\LR cm) {A$\sharp$/B$\flat$};
+  \node[font=\normalsize] at ( 120:\LR cm) {B};
+\end{tikzpicture}
+        ]]>
+      </latex-image>
+    </image>
+  </figure>
 
   <figure xml:id="fig-c-major-scale-notation">
     <caption>C major scale notation on a musical staff (ascending and descending).</caption>
