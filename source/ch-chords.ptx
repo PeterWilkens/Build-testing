@@ -70,36 +70,52 @@
       </p>
 
       <figure xml:id="fig-scale-thirds-clock">
-        <caption>The 7 notes of the C major scale arranged clockwise around a circle (degree 1 at 
-          12 o'clock). Moving two steps clockwise at a time stacks thirds and builds chord tones: 
-          the dashed triangle connects the triad (1–3–5).</caption>
+        <caption>The 7 notes of the C major scale placed at their correct semitone positions around
+          a 12-note circle (Root = C at 12 o'clock, one step = one semitone). Small grey ticks
+          mark the 5 chromatic passing notes that fall between whole-tone scale steps. Moving two
+          scale-degree steps clockwise at a time stacks thirds and builds chord tones: the dashed
+          triangle connects the triad (1–3–5).</caption>
         <image>
           <latex-image>
             <![CDATA[
 \begin{tikzpicture}
   \def\R{2.2}
-  \def\DegR{2.85}
-  \def\NoteR{3.55}
+  \def\DegR{2.78}
+  \def\NoteR{3.45}
 
   \draw (0,0) circle (\R cm);
 
-  \foreach \i in {0,...,6}{
-    \pgfmathsetmacro{\a}{90 - \i * 360/7}
-    \draw[thin] (\a:1.95 cm) -- (\a:\R cm);
+  % Long ticks for the 7 scale-degree positions (semitone indices 0,2,4,5,7,9,11)
+  \foreach \i in {0, 2, 4, 5, 7, 9, 11}{
+    \pgfmathsetmacro{\a}{90 - \i * 30}
+    \draw (\a:1.93 cm) -- (\a:\R cm);
   }
 
-  % Dashed triangle connecting every other note: degrees 1, 3, 5 (indices 0, 2, 4)
-  \draw[dashed, gray, thick]
-    (90:\R cm) --
-    ({90 - 2*360/7}:\R cm) --
-    ({90 - 4*360/7}:\R cm) -- cycle;
+  % Short grey ticks for the 5 chromatic passing-note positions (1,3,6,8,10)
+  \foreach \i in {1, 3, 6, 8, 10}{
+    \pgfmathsetmacro{\a}{90 - \i * 30}
+    \draw[thin, gray!70] (\a:2.07 cm) -- (\a:\R cm);
+  }
 
-  % Degree numbers (bold) and note names
-  \foreach \i/\deg/\note in {0/1/C, 1/2/D, 2/3/E, 3/4/F, 4/5/G, 5/6/A, 6/7/B}{
-    \pgfmathsetmacro{\a}{90 - \i * 360/7}
+  % Dashed triangle: triad tones 1(C)=idx 0, 3(E)=idx 4, 5(G)=idx 7
+  \draw[dashed, gray, thick]
+    ({90 - 0*30}:\R cm) --
+    ({90 - 4*30}:\R cm) --
+    ({90 - 7*30}:\R cm) -- cycle;
+
+  % Scale-degree bold numbers and note names
+  \foreach \i/\deg/\note in {0/1/C, 2/2/D, 4/3/E, 5/4/F, 7/5/G, 9/6/A, 11/7/B}{
+    \pgfmathsetmacro{\a}{90 - \i * 30}
     \node[font=\small\bfseries] at (\a:\DegR cm) {\deg};
     \node[font=\small] at (\a:\NoteR cm) {\note};
   }
+
+  % Tiny grey labels for chromatic passing notes
+  \node[font=\tiny, gray] at ({90 -  1*30}:\NoteR cm) {C$\sharp$/D$\flat$};
+  \node[font=\tiny, gray] at ({90 -  3*30}:\NoteR cm) {D$\sharp$/E$\flat$};
+  \node[font=\tiny, gray] at ({90 -  6*30}:\NoteR cm) {F$\sharp$/G$\flat$};
+  \node[font=\tiny, gray] at ({90 -  8*30}:\NoteR cm) {G$\sharp$/A$\flat$};
+  \node[font=\tiny, gray] at ({90 - 10*30}:\NoteR cm) {A$\sharp$/B$\flat$};
 
   % Centre label
   \node[font=\footnotesize, align=center] at (0,0) {Stack\\3rds\\$\rightarrow$ skip 1};
