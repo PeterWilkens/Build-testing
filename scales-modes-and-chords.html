@@ -1,0 +1,832 @@
+<!DOCTYPE html>
+<!--********************************************-->
+<!--*       Generated from PreTeXt source      *-->
+<!--*                                          *-->
+<!--*         https://pretextbook.org          *-->
+<!--*                                          *-->
+<!--********************************************-->
+<html lang="en-US" dir="ltr">
+<!--******************************************-->
+<!--*  Authored with PreTeXt                 *-->
+<!--*  pretextbook.org                       *-->
+<!--*  Theme: default-modern                 *-->
+<!--*  Palette:                              *-->
+<!--******************************************-->
+<head xmlns:og="http://ogp.me/ns#" xmlns:book="https://ogp.me/ns/book#">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Scales, Modes and Chords</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
+<link href="_static/pretext/css/theme.css" rel="stylesheet" type="text/css">
+<script>
+var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+window.MathJax = {
+  "tex": {
+    "inlineMath": [
+      [
+        "\\(",
+        "\\)"
+      ]
+    ],
+    "tags": "none",
+    "tagSide": "right",
+    "tagIndent": ".8em",
+    "packages": {
+      "[+]": [
+        "base",
+        "extpfeil",
+        "ams",
+        "amscd",
+        "color",
+        "newcommand",
+        "knowl"
+      ]
+    }
+  },
+  "options": {
+    "ignoreHtmlClass": "tex2jax_ignore|ignore-math",
+    "processHtmlClass": "process-math"
+  },
+  "chtml": {
+    "scale": 0.98,
+    "mtextInheritFont": true
+  },
+  "loader": {
+    "load": [
+      "input/asciimath",
+      "[tex]/extpfeil",
+      "[tex]/amscd",
+      "[tex]/color",
+      "[tex]/newcommand",
+      "[pretext]/mathjaxknowl3.js"
+    ],
+    "paths": {
+      "pretext": "_static/pretext/js"
+    }
+  },
+  "startup": {
+    pageReady() {
+      return MathJax.startup.defaultPageReady().then(function () {
+      console.log("in ready function");
+      rsMathReady();
+      }
+    )}
+  }
+};
+</script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><meta name="Keywords" content="Authored in PreTeXt">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:type" content="book">
+<meta property="book:title" content="C System Chromatic Button Accordion">
+<meta property="book:author" content="Peter Wilkens">
+<script src="_static/pretext/js/jquery.min.js"></script><script src="_static/pretext/js/pretext.js"></script><script src="_static/pretext/js/pretext_add_on.js?x=1"></script><!--** eBookCongig is necessary to configure interactive       **-->
+<!--** Runestone components to run locally in reader's browser **-->
+<!--** No external communication:                              **-->
+<!--**     log level is 0, Runestone Services are disabled     **-->
+<script type="text/javascript">
+eBookConfig = {};
+eBookConfig.useRunestoneServices = false;
+eBookConfig.host = 'http://127.0.0.1:8000';
+eBookConfig.course = 'PTX_Course_Title_Here';
+eBookConfig.basecourse = 'PTX_Base_Course';
+eBookConfig.isLoggedIn = false;
+eBookConfig.email = '';
+eBookConfig.isInstructor = false;
+eBookConfig.logLevel = 0;
+eBookConfig.username = '';
+eBookConfig.readings = null;
+eBookConfig.activities = null;
+eBookConfig.downloadsEnabled = false;
+eBookConfig.allow_pairs = false;
+eBookConfig.enableScratchAC = false;
+eBookConfig.build_info = "";
+eBookConfig.python3 = null;
+eBookConfig.runestone_version = '7.13.3';
+eBookConfig.jobehost = '';
+eBookConfig.proxyuri_runs = '';
+eBookConfig.proxyuri_files = '';
+eBookConfig.enable_chatcodes =  false;
+</script>
+<!--*** Runestone Services ***-->
+<script src="_static/prefix-runtime.b76b8eace4405b9e.bundle.js"></script><script src="_static/prefix-723.3e6434f80549315a.bundle.js"></script><script src="_static/prefix-runestone.bbf2283c5c1d4f99.bundle.js"></script><link rel="stylesheet" type="text/css" href="_static/prefix-723.3bccd435914aa0ff.css">
+<link rel="stylesheet" type="text/css" href="_static/prefix-runestone.b12a7b3f0773ebcd.css">
+<script src="_static/pretext/js/lti_iframe_resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="_static/pretext/js/pretext_search.js"></script><script src="_static/pretext/js/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
+</script>
+</head>
+<body class="pretext book ignore-math">
+<a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead" class="ptx-masthead"><div class="ptx-banner"><div class="title-container">
+<h1 class="heading"><a href="my-great-book.html"><span class="title">C System Chromatic Button Accordion</span> <span class="subtitle">2026 Revision</span></a></h1>
+<p class="byline">Peter Wilkens</p>
+</div></div></header><nav id="ptx-navbar" class="ptx-navbar navbar"><div class="ptx-navbar-contents">
+<button class="toc-toggle button" title="Contents"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5d2;</span><span class="name">Contents</span></button><div class="searchbox">
+<div class="searchwidget"><button id="searchbutton" class="searchbutton button" type="button" title="Search book"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8b6;</span><span class="name">Search Book</span></button></div>
+<div id="searchresultsplaceholder" class="searchresultsplaceholder" style="display: none">
+<div class="search-results-controls">
+<input aria-label="Search term" id="ptxsearch" class="ptxsearch" type="text" name="terms" placeholder="Search term"><button title="Close search" id="closesearchresults" class="closesearchresults"><span class="material-symbols-outlined">close</span></button>
+</div>
+<h2 class="search-results-heading">Search Results: </h2>
+<div id="searchempty" class="searchempty"><span>No results.</span></div>
+<ol id="searchresults" class="searchresults"></ol>
+</div>
+</div>
+<span class="nav-other-controls"><button id="light-dark-button" class="light-dark-button button" title="Dark Mode"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe51c;</span><span class="name">Dark Mode</span></button></span><span class="treebuttons"><a class="previous-button button" href="sec-circle-on-cba.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="up-button button" href="my-great-book.html" title="Up"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Up</span></a><a class="next-button button" href="backmatter.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a></span>
+</div></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(\newcommand{\N}{\mathbb N} \newcommand{\Z}{\mathbb Z} \newcommand{\Q}{\mathbb Q} \newcommand{\R}{\mathbb R}
+\newcommand{\lt}{&lt;}
+\newcommand{\gt}{&gt;}
+\newcommand{\amp}{&amp;}
+\definecolor{fillinmathshade}{gray}{0.9}
+\newcommand{\fillinmath}[1]{\mathchoice{\colorbox{fillinmathshade}{$\displaystyle     \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\textstyle        \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptstyle      \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptscriptstyle\phantom{\,#1\,}$}}}
+\)</span></div>
+<div class="ptx-page">
+<div id="ptx-sidebar" class="ptx-sidebar"><nav id="ptx-toc" class="ptx-toc depth2 focused" data-preexpanded-levels="0" data-max-levels="2"><ul class="structural toc-item-list contains-active">
+<li class="toc-item toc-frontmatter">
+<div class="toc-title-box"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-preface"><div class="toc-title-box"><a href="preface-about-this-document.html" class="internal"><span class="title">About This Document</span></a></div></li>
+<li class="toc-item toc-colophon"><div class="toc-title-box"><a href="front-colophon.html" class="internal"><span class="title">Colophon</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-the-chromatic-button-accordion.html" class="internal"><span class="codenumber">1</span> <span class="title">The Chromatic Button Accordion</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-chromatic-button-accordion-intro.html" class="internal"><span class="codenumber">1.1</span> <span class="title">A Chromatic Button Accordion</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-accordion-keyboards-layout-stradella-bass.html" class="internal"><span class="codenumber">1.2</span> <span class="title">C System Accordion Keyboards with Stradella Bass</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-accordion-keyboards-layout-free-bass.html" class="internal"><span class="codenumber">1.3</span> <span class="title">C System Accordion Keyboards with Free Bass</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="scales.html" class="internal"><span class="codenumber">2</span> <span class="title">Scales and Intervals</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-intervals-c-major-scale.html" class="internal"><span class="codenumber">2.1</span> <span class="title">C Major Scale Construction</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-intervals-c-natural-minor.html" class="internal"><span class="codenumber">2.2</span> <span class="title">C Natural Minor Scale Construction</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-intervals-c-harmonic-minor-scale.html" class="internal"><span class="codenumber">2.3</span> <span class="title">C Harmonic Minor Scale Construction</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-intervals-c-melodic-minor-ascending.html" class="internal"><span class="codenumber">2.4</span> <span class="title">C Melodic Minor Scale Construction (Ascending)</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-intervals-c-melodic-minor-descending.html" class="internal"><span class="codenumber">2.5</span> <span class="title">C Melodic Minor Scale Construction (Descending)</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-intervals.html" class="internal"><span class="codenumber">3</span> <span class="title">Intervals and the Button Keyboard</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-intervals.html" class="internal"><span class="codenumber">3.1</span> <span class="title">Intervals on the Keyboard</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-interval-relationships-all.html" class="internal"><span class="codenumber">3.2</span> <span class="title">Interval Relationships on Both Keyboards</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-intervals-keyboard-navigation.html" class="internal"><span class="codenumber">3.3</span> <span class="title">Using Intervals to Navigate the C System Keyboard</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-main-scale-shapes.html" class="internal"><span class="codenumber">4</span> <span class="title">Scale Shapes</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-C-major-scale-shape.html" class="internal"><span class="codenumber">4.1</span> <span class="title">C Major Scale Shape</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-C-major-scale-shape.html#subsec-C-major-scale-shape-layout" class="internal"><span class="codenumber">4.1.1</span> <span class="title">Basic C Shape Scale</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-D-major-scale-shape.html" class="internal"><span class="codenumber">4.2</span> <span class="title">D Major Scale Shape</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-D-major-scale-shape.html#subsec-D-major-scale-shape-layout" class="internal"><span class="codenumber">4.2.1</span> <span class="title">Basic D Shape Scale</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-G-major-scale-shape.html" class="internal"><span class="codenumber">4.3</span> <span class="title">G Major Scale Shape</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-G-major-scale-shape.html#subsec-G-major-scale-shape-layout" class="internal"><span class="codenumber">4.3.1</span> <span class="title">Basic G Shape Scale</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-C-harmonic-minor-scale-shape.html" class="internal"><span class="codenumber">4.4</span> <span class="title">C Harmonic Minor Scale Shape</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-C-harmonic-minor-scale-shape.html#subsec-C-harmonic-minor-scale-shape-layout" class="internal"><span class="codenumber">4.4.1</span> <span class="title">Basic C Harmonic Minor Shape</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-C-melodic-minor-scale-shape.html" class="internal"><span class="codenumber">4.5</span> <span class="title">C Melodic Minor Scale Shape Ascending</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-C-melodic-minor-scale-shape.html#subsec-C-melodic-minor-scale-shape-layout" class="internal"><span class="codenumber">4.5.1</span> <span class="title">Basic C Melodic Minor Shape</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-C-melodic-minor-descending-scale-shape.html" class="internal"><span class="codenumber">4.6</span> <span class="title">C Melodic Minor Descending Scale Shape</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-C-melodic-minor-descending-scale-shape.html#subsec-C-melodic-minor-descending-scale-shape-layout" class="internal"><span class="codenumber">4.6.1</span> <span class="title">Basic C Melodic Minor Descending Shape</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-D-harmonic-minor-scale-shape.html" class="internal"><span class="codenumber">4.7</span> <span class="title">D Harmonic Minor Scale Shape</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-D-harmonic-minor-scale-shape.html#subsec-D-harmonic-minor-scale-shape-layout" class="internal"><span class="codenumber">4.7.1</span> <span class="title">Basic D Harmonic Minor Shape</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-D-melodic-minor-scale-shape.html" class="internal"><span class="codenumber">4.8</span> <span class="title">D Melodic Minor Scale Shape Ascending</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-D-melodic-minor-scale-shape.html#subsec-D-melodic-minor-scale-shape-layout" class="internal"><span class="codenumber">4.8.1</span> <span class="title">Basic D Melodic Minor Shape</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-D-melodic-minor-descending-scale-shape.html" class="internal"><span class="codenumber">4.9</span> <span class="title">D Melodic Minor Descending Scale Shape</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-D-melodic-minor-descending-scale-shape.html#subsec-D-melodic-minor-descending-scale-shape-layout" class="internal"><span class="codenumber">4.9.1</span> <span class="title">Basic D Melodic Minor Descending Shape</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-G-harmonic-minor-scale-shape.html" class="internal"><span class="codenumber">4.10</span> <span class="title">G Harmonic Minor Scale Shape</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-G-harmonic-minor-scale-shape.html#subsec-G-harmonic-minor-scale-shape-layout" class="internal"><span class="codenumber">4.10.1</span> <span class="title">Basic G Harmonic Minor Shape</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-G-melodic-minor-scale-shape.html" class="internal"><span class="codenumber">4.11</span> <span class="title">G Melodic Minor Scale Shape Ascending</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-G-melodic-minor-scale-shape.html#subsec-G-melodic-minor-scale-shape-layout" class="internal"><span class="codenumber">4.11.1</span> <span class="title">Basic G Melodic Minor Shape</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-G-melodic-minor-descending-scale-shape.html" class="internal"><span class="codenumber">4.12</span> <span class="title">G Melodic Minor Descending Scale Shape</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-G-melodic-minor-descending-scale-shape.html#subsec-G-melodic-minor-descending-scale-shape-layout" class="internal"><span class="codenumber">4.12.1</span> <span class="title">Basic G Melodic Minor Descending Shape</span></a></div></li></ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-chords.html" class="internal"><span class="codenumber">5</span> <span class="title">Chords and Chord Construction</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-chords-from-intervals.html" class="internal"><span class="codenumber">5.1</span> <span class="title">Building Chords from Intervals</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-chords-from-intervals.html#subsec-thirds" class="internal"><span class="codenumber">5.1.1</span> <span class="title">Stacking Thirds</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-chords-from-intervals.html#subsec-triad-formula" class="internal"><span class="codenumber">5.1.2</span> <span class="title">The Triad Formula</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-triad-types.html" class="internal"><span class="codenumber">5.2</span> <span class="title">Types of Triad</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-triad-types.html#subsec-major-triad" class="internal"><span class="codenumber">5.2.1</span> <span class="title">Major Triad</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-triad-types.html#subsec-minor-triad" class="internal"><span class="codenumber">5.2.2</span> <span class="title">Minor Triad</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-triad-types.html#subsec-augmented-triad" class="internal"><span class="codenumber">5.2.3</span> <span class="title">Augmented Triad</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-triad-types.html#subsec-diminished-triad" class="internal"><span class="codenumber">5.2.4</span> <span class="title">Diminished Triad</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-seventh-chord-intro.html" class="internal"><span class="codenumber">5.3</span> <span class="title">Extending Chords: Seventh Chords</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-extended-sus-chords.html" class="internal"><span class="codenumber">5.4</span> <span class="title">Extended and Suspended Chords</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-extended-sus-chords.html#subsec-ninth-chords" class="internal"><span class="codenumber">5.4.1</span> <span class="title">Ninth Chords</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-extended-sus-chords.html#subsec-eleventh-chords" class="internal"><span class="codenumber">5.4.2</span> <span class="title">Eleventh Chords</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-extended-sus-chords.html#subsec-thirteenth-chords" class="internal"><span class="codenumber">5.4.3</span> <span class="title">Thirteenth Chords</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-extended-sus-chords.html#subsec-sixth-chords" class="internal"><span class="codenumber">5.4.4</span> <span class="title">Added Sixth Chords</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-extended-sus-chords.html#subsec-sus-chords" class="internal"><span class="codenumber">5.4.5</span> <span class="title">Suspended Chords</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-chords-from-scales.html" class="internal"><span class="codenumber">6</span> <span class="title">Building Chords from Scales</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-diatonic-seventh-chords-cmajor.html" class="internal"><span class="codenumber">6.1</span> <span class="title">Diatonic Seventh Chords of C Major</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-chord-shapes.html" class="internal"><span class="codenumber">7</span> <span class="title">Chord Shapes</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-major-minor-triads.html" class="internal"><span class="codenumber">7.1</span> <span class="title">Major and Minor Triads</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-seventh-chords.html" class="internal"><span class="codenumber">7.2</span> <span class="title">Seventh Chords</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-seventh-chords-page2.html" class="internal"><span class="codenumber">7.3</span> <span class="title">Seventh Chords (2nd Inversion)</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-seventh-chords-page3.html" class="internal"><span class="codenumber">7.4</span> <span class="title">Seventh Chords (3rd Inversion and Cdim7)</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-2-5-1-progressions.html" class="internal"><span class="codenumber">7.5</span> <span class="title">2-5-1 Progressions with Voice Leading (naturally follows Circle of Fifths)</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-more-251-progressions.html" class="internal"><span class="codenumber">7.6</span> <span class="title">More 2.5.1 Progressions</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-further-251-progressions.html" class="internal"><span class="codenumber">7.7</span> <span class="title">Further 2.5.1 Progressions</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-blank-chord-shape-template.html" class="internal"><span class="codenumber">7.8</span> <span class="title">Blank Chord Shape Template</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-circle-of-fifths.html" class="internal"><span class="codenumber">8</span> <span class="title">The Circle of Fifths</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-circle-structure.html" class="internal"><span class="codenumber">8.1</span> <span class="title">Structure of the Circle</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-relative-minor-keys.html" class="internal"><span class="codenumber">8.2</span> <span class="title">Relative Minor Keys</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-circle-chord-progressions.html" class="internal"><span class="codenumber">8.3</span> <span class="title">Chord Progressions and the Circle</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-circle-on-cba.html" class="internal"><span class="codenumber">8.4</span> <span class="title">The Circle of Fifths on the Chromatic Button Accordion</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter active"><div class="toc-title-box"><a href="scales-modes-and-chords.html" class="internal"><span class="codenumber">9</span> <span class="title">Scales, Modes and Chords</span></a></div></li>
+<li class="toc-item toc-backmatter"><div class="toc-title-box"><a href="backmatter.html" class="internal"><span class="title">Backmatter</span></a></div></li>
+</ul></nav></div>
+<main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="chapter" id="scales-modes-and-chords"><h2 class="heading">
+<span class="type">Chapter</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">9</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">Scales, Modes and Chords</span>
+</h2>
+<section class="introduction" id="scales-modes-and-chords-2"><div class="para" id="scales-modes-and-chords-2-1">Chords, Scales and Modes are constructed from the same collection of notes. Whilst scales have notes which are played sequentially and arranged horizontally, chords notes  are diatonic to a scale and are drawn from that scale. Chords notes are arranged vertically and the notes are played simultaneously.  Modes are just a different way of thinking about scales and keys. Using modes allows us to allocate an individual mode/scale to every single chord in a progression.<div class="autopermalink" data-description="Paragraph"><a href="#scales-modes-and-chords-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div></section><div class="para" id="scales-modes-and-chords-3">A scale or mode is a subset of the 12 notes of an octave, and has two components:<div class="autopermalink" data-description="Paragraph"><a href="#scales-modes-and-chords-3" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<ol class="decimal" id="scales-modes-and-chords-4">
+<li id="scales-modes-and-chords-4-1">
+<div class="para" id="p-derived-scales-modes-and-chords-4-1">The notes they are comprised of;</div>
+<div class="autopermalink" data-description="Item 1"><a href="#scales-modes-and-chords-4-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
+</li>
+<li id="scales-modes-and-chords-4-2">
+<div class="para" id="p-derived-scales-modes-and-chords-4-2">A tonal centre (or root note).</div>
+<div class="autopermalink" data-description="Item 2"><a href="#scales-modes-and-chords-4-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
+</li>
+</ol>
+<div class="para" id="scales-modes-and-chords-5">The (diatonic) Major Scale has 7 notes, but scales can have fewer or more notes (all the way up to the Chromatic Scale with 12 notes).<div class="autopermalink" data-description="Paragraph"><a href="#scales-modes-and-chords-5" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="scales-modes-and-chords-6">If you keep all the notes of a scale or mode the same but change the tonal centre, you create a new scale or mode. So, a mode is a scale created by establishing a new root note within a pre-existing scale. Modes are just a different way of thinking about scales and keys. Using modes allows us to allocate an individual mode/scale to every single chord in a progression.<div class="autopermalink" data-description="Paragraph"><a href="#scales-modes-and-chords-6" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="scales-modes-and-chords-7">Scales and chords are interrelated. A scale is a horizontal representation of a particular collection of notes and is built up in 2nds. A chord is a vertical representation of that same collection of notes and is built up in 3rds.<div class="autopermalink" data-description="Paragraph"><a href="#scales-modes-and-chords-7" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="scales-modes-and-chords-8">For example, if we take all the white notes and go up in 2nds, we get the C major scale (C D E F G A B); if we take those same notes and go up in 3rds, we get CMaj13 (C E G B D F A) (the ♮11 is not an available tension, but ignore this for now).<div class="autopermalink" data-description="Paragraph"><a href="#scales-modes-and-chords-8" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="scales-modes-and-chords-9">Similarly, taking all the white notes except B♭ and going up in 2nds from C gives C Mixolydian (C D E F G A B♭); taking the same notes in 3rds gives C13 (C E G B♭ D F A) (again, ignore the ♮11 for now). Likewise, taking all the white notes except F# and going up in 2nds from C gives C Lydian (C D E F# G A B); and in 3rds, CMaj13#11 (C E G B D F# A). In summary:<div class="autopermalink" data-description="Paragraph"><a href="#scales-modes-and-chords-9" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<ul class="disc" id="scales-modes-and-chords-10">
+<li id="scales-modes-and-chords-10-1">
+<div class="para" id="p-derived-scales-modes-and-chords-10-1">C major scale has the same notes as a CMaj13 chord;</div>
+<div class="autopermalink" data-description="Item"><a href="#scales-modes-and-chords-10-1" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
+</li>
+<li id="scales-modes-and-chords-10-2">
+<div class="para" id="p-derived-scales-modes-and-chords-10-2">C Mixolydian scale has the same notes as a C13 chord;</div>
+<div class="autopermalink" data-description="Item"><a href="#scales-modes-and-chords-10-2" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
+</li>
+<li id="scales-modes-and-chords-10-3">
+<div class="para" id="p-derived-scales-modes-and-chords-10-3">C Lydian scale has the same notes as a CMaj13#11 chord.</div>
+<div class="autopermalink" data-description="Item"><a href="#scales-modes-and-chords-10-3" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
+</li>
+</ul>
+<div class="para" id="scales-modes-and-chords-11">These are the scales you would use to improvise over these chords.<div class="autopermalink" data-description="Paragraph"><a href="#scales-modes-and-chords-11" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<figure class="table table-like" id="scales-modes-and-chords-12"><figcaption><span class="type">Table</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">9.0.1<span class="period heading-divison-mark heading-divison-mark__period">.</span></span><span class="space heading-divison-mark heading-divison-mark__space"> </span>A table identifying all Major and Melodic Minor Modes and associated Chords<div class="autopermalink" data-description="Table 9.0.1: A table identifying all Major and Melodic Minor Modes and associated Chords"><a href="#scales-modes-and-chords-12" title="Copy heading and permalink for Table 9.0.1: A table identifying all Major and Melodic Minor Modes and associated Chords" aria-label="Copy heading and permalink for Table 9.0.1: A table identifying all Major and Melodic Minor Modes and associated Chords">🔗</a></div></figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr class="header-horizontal">
+<th scope="col" class="r m b0 r l0 t3 lines">Mode</th>
+<th scope="col" class="r m b0 r l0 t3 lines">Chord</th>
+<th scope="col" class="r m b0 r l0 t3 lines"></th>
+<th scope="col" class="r m b0 r l0 t3 lines"></th>
+<th scope="col" class="r m b0 r l0 t3 lines"></th>
+<th scope="col" class="r m b0 r l0 t3 lines"></th>
+<th scope="col" class="r m b0 r l0 t3 lines"></th>
+<th scope="col" class="r m b0 r l0 t3 lines"></th>
+<th scope="col" class="r m b0 r l0 t3 lines"></th>
+</tr>
+<tr>
+<td class="r m b0 r1 l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines">1</td>
+<td class="r m b0 r l0 t0 lines">3</td>
+<td class="r m b0 r l0 t0 lines">5</td>
+<td class="r m b0 r l0 t0 lines">7</td>
+<td class="r m b0 r l0 t0 lines">9</td>
+<td class="r m b0 r l0 t0 lines">11</td>
+<td class="r m b0 r1 l0 t0 lines">13</td>
+</tr>
+<tr>
+<td class="r m b0 r1 l0 t0 lines"><dfn class="terminology">Major Modes:</dfn></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r1 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="r m b r1 l0 t0 lines">C Ionian</td>
+<td class="r m b1 r0 l0 t0 lines">CMaj13</td>
+<td class="r m b1 r l0 t0 lines">C</td>
+<td class="r m b1 r l0 t0 lines">E</td>
+<td class="r m b1 r l0 t0 lines">G</td>
+<td class="r m b1 r l0 t0 lines">B</td>
+<td class="r m b1 r l0 t0 lines">D</td>
+<td class="r m b1 r l0 t0 lines">F</td>
+<td class="r m b1 r1 l0 t0 lines">A</td>
+</tr>
+<tr>
+<td class="r m b r1 l0 t0 lines">C Dorian</td>
+<td class="r m b1 r0 l0 t0 lines">Cmin13</td>
+<td class="r m b1 r l0 t0 lines">C</td>
+<td class="r m b1 r l0 t0 lines">E♭</td>
+<td class="r m b1 r l0 t0 lines">G</td>
+<td class="r m b1 r l0 t0 lines">B♭</td>
+<td class="r m b1 r l0 t0 lines">D</td>
+<td class="r m b1 r l0 t0 lines">F</td>
+<td class="r m b1 r1 l0 t0 lines">A</td>
+</tr>
+<tr>
+<td class="r m b r1 l0 t0 lines">C Phrygian</td>
+<td class="r m b1 r0 l0 t0 lines">Cmin13♭9♭13</td>
+<td class="r m b1 r l0 t0 lines">C</td>
+<td class="r m b1 r l0 t0 lines">E♭</td>
+<td class="r m b1 r l0 t0 lines">G</td>
+<td class="r m b1 r l0 t0 lines">B♭</td>
+<td class="r m b1 r l0 t0 lines">D♭</td>
+<td class="r m b1 r l0 t0 lines">F</td>
+<td class="r m b1 r1 l0 t0 lines">A♭</td>
+</tr>
+<tr>
+<td class="r m b r1 l0 t0 lines">C Lydian</td>
+<td class="r m b1 r0 l0 t0 lines">CMaj13♯11</td>
+<td class="r m b1 r l0 t0 lines">C</td>
+<td class="r m b1 r l0 t0 lines">E</td>
+<td class="r m b1 r l0 t0 lines">G</td>
+<td class="r m b1 r l0 t0 lines">B</td>
+<td class="r m b1 r l0 t0 lines">D</td>
+<td class="r m b1 r l0 t0 lines">F♯</td>
+<td class="r m b1 r1 l0 t0 lines">A</td>
+</tr>
+<tr>
+<td class="r m b r1 l0 t0 lines">C Mixolydian</td>
+<td class="r m b1 r0 l0 t0 lines">C13</td>
+<td class="r m b1 r l0 t0 lines">C</td>
+<td class="r m b1 r l0 t0 lines">E</td>
+<td class="r m b1 r l0 t0 lines">G</td>
+<td class="r m b1 r l0 t0 lines">B♭</td>
+<td class="r m b1 r l0 t0 lines">D</td>
+<td class="r m b1 r l0 t0 lines">F</td>
+<td class="r m b1 r1 l0 t0 lines">A</td>
+</tr>
+<tr>
+<td class="r m b r1 l0 t0 lines">C Aeolian</td>
+<td class="r m b1 r0 l0 t0 lines">Cmin7♭13</td>
+<td class="r m b1 r l0 t0 lines">C</td>
+<td class="r m b1 r l0 t0 lines">E♭</td>
+<td class="r m b1 r l0 t0 lines">G</td>
+<td class="r m b1 r l0 t0 lines">B♭</td>
+<td class="r m b1 r l0 t0 lines">D</td>
+<td class="r m b1 r l0 t0 lines">F</td>
+<td class="r m b1 r1 l0 t0 lines">A♭</td>
+</tr>
+<tr>
+<td class="r m b r1 l0 t0 lines">C Locrian</td>
+<td class="r m b1 r0 l0 t0 lines">Cmin7♭5♭9♭13</td>
+<td class="r m b1 r l0 t0 lines">C</td>
+<td class="r m b1 r l0 t0 lines">E♭</td>
+<td class="r m b1 r l0 t0 lines">G♭</td>
+<td class="r m b1 r l0 t0 lines">B♭</td>
+<td class="r m b1 r l0 t0 lines">D♭</td>
+<td class="r m b1 r l0 t0 lines">F</td>
+<td class="r m b1 r1 l0 t0 lines">A♭</td>
+</tr>
+<tr>
+<td class="r m b0 r1 l0 t0 lines"><dfn class="terminology">Melodic Minor:</dfn></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r1 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="r m b r1 l0 t0 lines">C Melodic Minor</td>
+<td class="r m b1 r0 l0 t0 lines">CminMaj7</td>
+<td class="r m b1 r l0 t0 lines">C</td>
+<td class="r m b1 r l0 t0 lines">E♭</td>
+<td class="r m b1 r l0 t0 lines">G</td>
+<td class="r m b1 r l0 t0 lines">B</td>
+<td class="r m b1 r l0 t0 lines">D</td>
+<td class="r m b1 r l0 t0 lines">F</td>
+<td class="r m b1 r1 l0 t0 lines">A</td>
+</tr>
+<tr>
+<td class="r m b r1 l0 t0 lines">C Phrygian ♮6</td>
+<td class="r m b1 r0 l0 t0 lines">Cmin13♭9</td>
+<td class="r m b1 r l0 t0 lines">C</td>
+<td class="r m b1 r l0 t0 lines">E♭</td>
+<td class="r m b1 r l0 t0 lines">G</td>
+<td class="r m b1 r l0 t0 lines">B♭</td>
+<td class="r m b1 r l0 t0 lines">D♭</td>
+<td class="r m b1 r l0 t0 lines">F</td>
+<td class="r m b1 r1 l0 t0 lines">A</td>
+</tr>
+<tr>
+<td class="r m b r1 l0 t0 lines">C Lydian Augmented</td>
+<td class="r m b1 r0 l0 t0 lines">CMaj13♯5♯11</td>
+<td class="r m b1 r l0 t0 lines">C</td>
+<td class="r m b1 r l0 t0 lines">E</td>
+<td class="r m b1 r l0 t0 lines">G♯</td>
+<td class="r m b1 r l0 t0 lines">B</td>
+<td class="r m b1 r l0 t0 lines">D</td>
+<td class="r m b1 r l0 t0 lines">F♯</td>
+<td class="r m b1 r1 l0 t0 lines">A</td>
+</tr>
+<tr>
+<td class="r m b r1 l0 t0 lines">C Lydian Dominant</td>
+<td class="r m b1 r0 l0 t0 lines">C13♯11</td>
+<td class="r m b1 r l0 t0 lines">C</td>
+<td class="r m b1 r l0 t0 lines">E</td>
+<td class="r m b1 r l0 t0 lines">G</td>
+<td class="r m b1 r l0 t0 lines">B♭</td>
+<td class="r m b1 r l0 t0 lines">D</td>
+<td class="r m b1 r l0 t0 lines">F♯</td>
+<td class="r m b1 r1 l0 t0 lines">A</td>
+</tr>
+<tr>
+<td class="r m b r1 l0 t0 lines">C Mixolydian♭6</td>
+<td class="r m b1 r0 l0 t0 lines">C11♭13</td>
+<td class="r m b1 r l0 t0 lines">C</td>
+<td class="r m b1 r l0 t0 lines">E</td>
+<td class="r m b1 r l0 t0 lines">G</td>
+<td class="r m b1 r l0 t0 lines">B♭</td>
+<td class="r m b1 r l0 t0 lines">D</td>
+<td class="r m b1 r l0 t0 lines">F</td>
+<td class="r m b1 r1 l0 t0 lines">A♭</td>
+</tr>
+<tr>
+<td class="r m b r1 l0 t0 lines">C Half Diminished</td>
+<td class="r m b1 r0 l0 t0 lines">Cmin7♭5♭13</td>
+<td class="r m b1 r l0 t0 lines">C</td>
+<td class="r m b1 r l0 t0 lines">E♭</td>
+<td class="r m b1 r l0 t0 lines">G♭</td>
+<td class="r m b1 r l0 t0 lines">B♭</td>
+<td class="r m b1 r l0 t0 lines">D</td>
+<td class="r m b1 r l0 t0 lines">F</td>
+<td class="r m b1 r1 l0 t0 lines">A♭</td>
+</tr>
+<tr>
+<td class="r m b r1 l0 t0 lines">C Altered</td>
+<td class="r m b1 r0 l0 t0 lines">C7♭5♭9 ♯9♭13 (C7 alt)</td>
+<td class="r m b1 r l0 t0 lines">C</td>
+<td class="r m b1 r l0 t0 lines">F♭(E)</td>
+<td class="r m b1 r l0 t0 lines">G♭</td>
+<td class="r m b1 r l0 t0 lines">B♭</td>
+<td class="r m b1 r l0 t0 lines">D♭</td>
+<td class="r m b1 r l0 t0 lines">E♭(♯9)</td>
+<td class="r m b1 r1 l0 t0 lines">A♭</td>
+</tr>
+<tr>
+<td class="r m b0 r1 l0 t0 lines"><dfn class="terminology">Other Modes:</dfn></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r l0 t0 lines"></td>
+<td class="r m b0 r1 l0 t0 lines"></td>
+</tr>
+<tr>
+<td class="r m b r1 l0 t0 lines">C Harmonic Minor</td>
+<td class="r m b1 r0 l0 t0 lines">CminMaj7♭13</td>
+<td class="r m b1 r l0 t0 lines">C</td>
+<td class="r m b1 r l0 t0 lines">E♭</td>
+<td class="r m b1 r l0 t0 lines">G</td>
+<td class="r m b1 r l0 t0 lines">B</td>
+<td class="r m b1 r l0 t0 lines">D</td>
+<td class="r m b1 r l0 t0 lines">F</td>
+<td class="r m b1 r1 l0 t0 lines">A♭</td>
+</tr>
+<tr>
+<td class="r m b r1 l0 t0 lines">Other Unknown</td>
+<td class="r m b1 r0 l0 t0 lines">C7♯5♭9♯11♭13</td>
+<td class="r m b1 r l0 t0 lines">C</td>
+<td class="r m b1 r l0 t0 lines">E</td>
+<td class="r m b1 r l0 t0 lines">G♯</td>
+<td class="r m b1 r l0 t0 lines">B♭</td>
+<td class="r m b1 r l0 t0 lines">D♭</td>
+<td class="r m b1 r l0 t0 lines">F♯</td>
+<td class="r m b1 r1 l0 t0 lines">A♭</td>
+</tr>
+</table></div></figure><div class="para" id="scales-modes-and-chords-13">A 13th chord is its own diatonic scale. This means that chords not extended all the way to the 13th are slightly ambiguous, as they are missing some chord (and therefore scale) notes. The key they appear in depends on the surrounding chords in the progression. For this reason it is possible to play multiple scales over the same chord (provided the chord is not a 13th chord). For example, because a CMaj7 chord (C E G B) does not contain an F, you can use either of the following scales to improvise over it:<div class="autopermalink" data-description="Paragraph"><a href="#scales-modes-and-chords-13" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<ul class="disc" id="scales-modes-and-chords-14">
+<li id="scales-modes-and-chords-14-1">
+<div class="para" id="p-derived-scales-modes-and-chords-14-1">C Ionian (C D E F G A B); or</div>
+<div class="autopermalink" data-description="Item"><a href="#scales-modes-and-chords-14-1" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
+</li>
+<li id="scales-modes-and-chords-14-2">
+<div class="para" id="p-derived-scales-modes-and-chords-14-2">C Lydian (C D E F# G A B).</div>
+<div class="autopermalink" data-description="Item"><a href="#scales-modes-and-chords-14-2" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
+</li>
+</ul>
+<div class="para" id="scales-modes-and-chords-15">Both scales contain all the notes that comprise the CMaj7 chord. Because the CMaj7 does not have a 9th, 11th or 13th, we do not know what key it is in, and therefore we can use both scales over this chord. When thinking in terms of keys (rather than modes) we can say that the CMaj7 chord can be derived from both the key of C Major and G Major (C Lydian).<div class="autopermalink" data-description="Paragraph"><a href="#scales-modes-and-chords-15" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="scales-modes-and-chords-16">Looking at the whole chord progression, the CMaj7 chord is preceded by a G7 chord, so it’s reasonable to assume that the CMaj7 chord is in the key of C Major (rather than G Major). That doesn’t mean that we cannot use the C Lydian mode over the CMaj7 chord. The Chord-Scale System looks at individual chords in isolation and allocates scales to each individual chord. We do NOT need to know what key a particular chord is in, in order to choose a scale to play over that chord. In the above example, it doesn’t matter what key the CMaj7 chord is in, we can use both scales to improvise over it. It’s often preferable to choose the scale outside the key of the chord progression in order to give a more harmonically complex and jazzy sound. If we had the chord progression: | G7 | CMaj7 || Many Jazz musicians would use the C Lydian mode over the CMaj7 chord precisely because the chord progression is NOT in the key of C Lydian (G Major).<div class="autopermalink" data-description="Paragraph"><a href="#scales-modes-and-chords-16" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="scales-modes-and-chords-17">Similarly, you could use the following scales over a Cm7 chord:<div class="autopermalink" data-description="Paragraph"><a href="#scales-modes-and-chords-17" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<ol class="decimal" id="scales-modes-and-chords-18">
+<li id="scales-modes-and-chords-18-1">
+<div class="para" id="p-derived-scales-modes-and-chords-18-1">C Dorian (C D E♭ F G A B♭);</div>
+<div class="autopermalink" data-description="Item 1"><a href="#scales-modes-and-chords-18-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
+</li>
+<li id="scales-modes-and-chords-18-2">
+<div class="para" id="p-derived-scales-modes-and-chords-18-2">C Aeolian (C D E♭ F G A♭ B♭).</div>
+<div class="autopermalink" data-description="Item 2"><a href="#scales-modes-and-chords-18-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
+</li>
+</ol>
+<div class="para" id="scales-modes-and-chords-19">You could use the following scales over a C7 chord:<div class="autopermalink" data-description="Paragraph"><a href="#scales-modes-and-chords-19" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<ol class="decimal" id="scales-modes-and-chords-20">
+<li id="scales-modes-and-chords-20-1">
+<div class="para" id="p-derived-scales-modes-and-chords-20-1">C Mixolydian (C D E F G A B♭);</div>
+<div class="autopermalink" data-description="Item 1"><a href="#scales-modes-and-chords-20-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
+</li>
+<li id="scales-modes-and-chords-20-2">
+<div class="para" id="p-derived-scales-modes-and-chords-20-2">C Lydian Dominant (C D E F# G A B♭).</div>
+<div class="autopermalink" data-description="Item 2"><a href="#scales-modes-and-chords-20-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
+</li>
+</ol>
+<div class="para" id="scales-modes-and-chords-21">Chords and scales both consist of the same limited number of notes. All music theory can be broken down into notes and intervals; things like scales and chords are simply abstractions from the 12 notes of the octave.<div class="autopermalink" data-description="Paragraph"><a href="#scales-modes-and-chords-21" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<section class="paragraphs" id="why-multiple-scales-over-chord"><h2 class="heading"><span class="title">Using Different Scales Over the Same Chord.</span></h2>
+<div class="para" id="why-multiple-scales-over-chord-2">When improvising, you can use any scale over a particular chord, as long as that scale has all the notes found in that particular chord. This works even if the whole progression is in a particular key. For example, if we take a II-V-I in C Major:<div class="autopermalink" data-description="Paragraph"><a href="#why-multiple-scales-over-chord-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<figure class="table table-like" id="why-multiple-scales-over-chord-3"><figcaption><span class="type">Table</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">9.0.2<span class="period heading-divison-mark heading-divison-mark__period">.</span></span><span class="space heading-divison-mark heading-divison-mark__space"> </span>II-V-I chord progressions using scales from different keys<div class="autopermalink" data-description="Table 9.0.2: II-V-I chord progressions using scales from different keys"><a href="#why-multiple-scales-over-chord-3" title="Copy heading and permalink for Table 9.0.2: II-V-I chord progressions using scales from different keys" aria-label="Copy heading and permalink for Table 9.0.2: II-V-I chord progressions using scales from different keys">🔗</a></div></figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr class="header-horizontal">
+<th scope="col" class="l m b0 r0 l0 t1 lines">Comments</th>
+<th scope="col" class="c m b0 r0 l0 t1 lines">II</th>
+<th scope="col" class="c m b0 r0 l0 t1 lines">V</th>
+<th scope="col" class="c m b0 r0 l0 t1 lines">I</th>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Chord progression is IN the key of C Major. All chords are FROM the key of C Major.</td>
+<td class="c m b0 r0 l0 t0 lines">Dm7</td>
+<td class="c m b0 r0 l0 t0 lines">G7</td>
+<td class="c m b0 r0 l0 t0 lines">CMaj7</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Chord progression is IN the key of C Major. II-V are FROM the key of C Aeolian.</td>
+<td class="c m b0 r0 l0 t0 lines">Dm7♭5</td>
+<td class="c m b0 r0 l0 t0 lines">Gm7</td>
+<td class="c m b0 r0 l0 t0 lines">CMaj7</td>
+</tr>
+</table></div></figure><ul class="disc" id="why-multiple-scales-over-chord-4">
+<li id="why-multiple-scales-over-chord-4-1">
+<div class="para" id="p-derived-why-multiple-scales-over-chord-4-1">Even though the top chord progression is IN the key of C Major, we can still use the C Lydian scale (G Major) to improvise over the CMaj7 chord.</div>
+<div class="autopermalink" data-description="Item"><a href="#why-multiple-scales-over-chord-4-1" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
+</li>
+<li id="why-multiple-scales-over-chord-4-2">
+<div class="para" id="p-derived-why-multiple-scales-over-chord-4-2">Even though a chord progression is in the key of C Major, we can still borrow chords from a different key. In the case of the bottom chord progression, we borrowed the II-V chords from the key of C Aeolian (E♭ Major).</div>
+<div class="autopermalink" data-description="Item"><a href="#why-multiple-scales-over-chord-4-2" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
+</li>
+</ul>
+<div class="autopermalink" data-description="Paragraphs: Using Different Scales Over the Same Chord"><a href="#why-multiple-scales-over-chord" title="Copy heading and permalink for Paragraphs: Using Different Scales Over the Same Chord" aria-label="Copy heading and permalink for Paragraphs: Using Different Scales Over the Same Chord">🔗</a></div></section><section class="paragraphs" id="omitting-and-changing-notes"><h2 class="heading"><span class="title">Omitting and Changing Notes.</span></h2>
+<div class="para" id="omitting-and-changing-notes-2">The most important notes of a chord are the Guide Tones (3rd &amp; 7th) and to a lesser extent the root (which establishes tonality). The 5th isn’t required which means you can play any scale over a chord, provided that scale contains the root, 3rd and 7th of the chord. For example, you can use any scale with a C, E and B in it over a CMaj7 chord, even if it doesn’t contain a G.<div class="autopermalink" data-description="Paragraph"><a href="#omitting-and-changing-notes-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="omitting-and-changing-notes-3">The following also applies:<div class="autopermalink" data-description="Paragraph"><a href="#omitting-and-changing-notes-3" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<ul class="disc" id="omitting-and-changing-notes-4">
+<li id="omitting-and-changing-notes-4-1">
+<div class="para" id="p-derived-omitting-and-changing-notes-4-1">You can omit notes; and</div>
+<div class="autopermalink" data-description="Item"><a href="#omitting-and-changing-notes-4-1" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
+</li>
+<li id="omitting-and-changing-notes-4-2">
+<div class="para" id="p-derived-omitting-and-changing-notes-4-2">You can treat notes enharmonically (i.e. as a different chord degree).</div>
+<div class="autopermalink" data-description="Item"><a href="#omitting-and-changing-notes-4-2" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
+</li>
+</ul>
+<div class="para" id="omitting-and-changing-notes-5">Where a scale has BOTH a minor 3rd and a Major 3rd, the Major 3rd is the True 3rd and the minor 3rd is a disguised #9. And it is possible for a scale to omit the 3rd or 7th of a chord and yet still work over that chord — the 3rd or 7th is implied by the harmony. For example, you can use a scale that omits the 3rd over a CMaj7 chord, and the 3rd is implied by the chord.<div class="autopermalink" data-description="Paragraph"><a href="#omitting-and-changing-notes-5" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="omitting-and-changing-notes-6">Considering the C7 chord, the following scales can be used to improvise over it.<div class="autopermalink" data-description="Paragraph"><a href="#omitting-and-changing-notes-6" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<figure class="table table-like" id="omitting-and-changing-notes-7"><figcaption><span class="type">Table</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">9.0.3<span class="period heading-divison-mark heading-divison-mark__period">.</span></span><span class="space heading-divison-mark heading-divison-mark__space"> </span>Scales that work over a C7 chord<div class="autopermalink" data-description="Table 9.0.3: Scales that work over a C7 chord"><a href="#omitting-and-changing-notes-7" title="Copy heading and permalink for Table 9.0.3: Scales that work over a C7 chord" aria-label="Copy heading and permalink for Table 9.0.3: Scales that work over a C7 chord">🔗</a></div></figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr class="header-horizontal">
+<th scope="col" class="l m b0 r0 l0 t1 lines">Scale</th>
+<th scope="col" class="l m b0 r0 l0 t1 lines">Degrees</th>
+<th scope="col" class="l m b0 r0 l0 t1 lines">Comments</th>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">C Dominant Bebop scale</td>
+<td class="l m b0 r0 l0 t0 lines">1 2 3 4 5 6 ♭7 7</td>
+<td class="l m b0 r0 l0 t0 lines">Maj 7 used as passing note</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Whole-tone scale</td>
+<td class="l m b0 r0 l0 t0 lines">1 2 3 ♭5 ♭6 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">1, 3 &amp; ♭7</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Altered scale</td>
+<td class="l m b0 r0 l0 t0 lines">1 ♭2 ♭3 ♭4 ♭5 ♭6 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">♭3 = #2 = #9; ♭4 = 3</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Blues scale</td>
+<td class="l m b0 r0 l0 t0 lines">1 ♭3 4 #4 5 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">♭3 = #2 = #9; Omits 3</td>
+</tr>
+</table></div></figure><ul class="disc" id="omitting-and-changing-notes-8">
+<li id="omitting-and-changing-notes-8-1">
+<div class="para" id="p-derived-omitting-and-changing-notes-8-1">The C Dominant Bebop scale fits perfectly over a C7 chord because it starts on the root (C) and has the 3 and ♭7. The ♮7 acts only as a passing note.</div>
+<div class="autopermalink" data-description="Item"><a href="#omitting-and-changing-notes-8-1" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
+</li>
+<li id="omitting-and-changing-notes-8-2">
+<div class="para" id="p-derived-omitting-and-changing-notes-8-2">The C Wholetone scale fits perfectly over a C7 chord because it starts on the root (C) and has the 3 and ♭7.</div>
+<div class="autopermalink" data-description="Item"><a href="#omitting-and-changing-notes-8-2" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
+</li>
+<li id="omitting-and-changing-notes-8-3">
+<div class="para" id="p-derived-omitting-and-changing-notes-8-3">The C Altered scale also fits over a C7 chord even though it has a ♭3 (E♭). This is because the ♭3 acts as a #9 (D#) and the True 3rd is the ♭4 (E). So the ♭3 is enharmonically the same as a #9 and the ♭4 is enharmonically the same as a ♮3. So this scale fits  over a C7 chord.</div>
+<div class="autopermalink" data-description="Item"><a href="#omitting-and-changing-notes-8-3" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
+</li>
+<li id="omitting-and-changing-notes-8-4">
+<div class="para" id="p-derived-omitting-and-changing-notes-8-4">The C Blues scale also fits over a C7 chord. The ♭3 is treated as a #9 and the ♮3 is omitted. The ♮3 is implied by the chord C7. The scale then has an implied ♮3 and a ♭7, so fits over C7.</div>
+<div class="autopermalink" data-description="Item"><a href="#omitting-and-changing-notes-8-4" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
+</li>
+</ul>
+<div class="para" id="omitting-and-changing-notes-9">(Aside #1: The ♮3 always overrides the minor ♭3 and turns it into a #9. This generally only applies to V7 chords and works because the #9 is an available tension over a C7 chord).<div class="autopermalink" data-description="Paragraph"><a href="#omitting-and-changing-notes-9" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="omitting-and-changing-notes-10">(Aside #2: This idea does NOT apply to 7ths. You cannot turn a ♭7 into a #6 or #13. This is because a #13 is not an available tension over any chord).<div class="autopermalink" data-description="Paragraph"><a href="#omitting-and-changing-notes-10" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Paragraphs: Omitting and Changing Notes"><a href="#omitting-and-changing-notes" title="Copy heading and permalink for Paragraphs: Omitting and Changing Notes" aria-label="Copy heading and permalink for Paragraphs: Omitting and Changing Notes">🔗</a></div></section><section class="paragraphs" id="conclusion-scales-over-chords"><h2 class="heading"><span class="title">Conclusion.</span></h2>
+<div class="para" id="conclusion-scales-over-chords-2">Below is a selection of scales that can be used over particular chords, since they share the root, 3rd and 7th of the chord.<div class="autopermalink" data-description="Paragraph"><a href="#conclusion-scales-over-chords-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<figure class="table table-like" id="conclusion-scales-over-chords-3"><figcaption><span class="type">Table</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">9.0.4<span class="period heading-divison-mark heading-divison-mark__period">.</span></span><span class="space heading-divison-mark heading-divison-mark__space"> </span>Scales for common chord types, examples in C<div class="autopermalink" data-description="Table 9.0.4: Scales for common chord types, examples in C"><a href="#conclusion-scales-over-chords-3" title="Copy heading and permalink for Table 9.0.4: Scales for common chord types, examples in C" aria-label="Copy heading and permalink for Table 9.0.4: Scales for common chord types, examples in C">🔗</a></div></figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr class="header-horizontal">
+<th scope="col" class="l m b0 r0 l0 t1 lines">Chord</th>
+<th scope="col" class="l m b0 r0 l0 t1 lines">Possible Scale</th>
+<th scope="col" class="l m b0 r0 l0 t1 lines">Degrees</th>
+<th scope="col" class="l m b0 r0 l0 t1 lines">From C</th>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Major 7 (any scale with Maj 3 &amp; Maj 7)</td>
+<td class="l m b0 r0 l0 t0 lines">Ionian</td>
+<td class="l m b0 r0 l0 t0 lines">1 2 3 4 5 6 7</td>
+<td class="l m b0 r0 l0 t0 lines">C D E F G A B</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Lydian</td>
+<td class="l m b0 r0 l0 t0 lines">1 2 3 #4 5 6 7</td>
+<td class="l m b0 r0 l0 t0 lines">C D E F# G A B</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Lydian Augmented</td>
+<td class="l m b0 r0 l0 t0 lines">1 2 3 #4 #5 6 7</td>
+<td class="l m b0 r0 l0 t0 lines">C D E F# G# A B</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Major Bebop Scale</td>
+<td class="l m b0 r0 l0 t0 lines">1 2 3 4 5 ♭6 6 7</td>
+<td class="l m b0 r0 l0 t0 lines">C D E F G A♭ A B</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Minor 7 (any scale with min 3 &amp; min 7)</td>
+<td class="l m b0 r0 l0 t0 lines">Aeolian</td>
+<td class="l m b0 r0 l0 t0 lines">1 2 ♭3 4 5 ♭6 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">C D E♭ F G A♭ B♭</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Dorian</td>
+<td class="l m b0 r0 l0 t0 lines">1 2 ♭3 4 5 6 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">C D E♭ F G A B♭</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Phrygian</td>
+<td class="l m b0 r0 l0 t0 lines">1 ♭2 ♭3 4 5 ♭6 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">C D♭ E♭ F G A♭ B♭</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Half Diminished (any scale with min 3, ♭5 &amp; min 7)</td>
+<td class="l m b0 r0 l0 t0 lines">Locrian</td>
+<td class="l m b0 r0 l0 t0 lines">1 ♭2 ♭3 4 ♭5 ♭6 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">C D♭ E♭ F G♭ A♭ B♭</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Half-diminished</td>
+<td class="l m b0 r0 l0 t0 lines">1 2 ♭3 4 ♭5 ♭6 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">C D E♭ F G♭ A♭ B♭</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Dominant 7 (any scale with Maj 3 &amp; min 7)</td>
+<td class="l m b0 r0 l0 t0 lines">Mixolydian</td>
+<td class="l m b0 r0 l0 t0 lines">1 2 3 4 5 6 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">C D E F G A B♭</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Lydian Dominant</td>
+<td class="l m b0 r0 l0 t0 lines">1 2 3 #4 5 6 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">C D E F# G A B♭</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Mixolydian ♭6 Scale</td>
+<td class="l m b0 r0 l0 t0 lines">1 2 3 4 5 ♭6 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">C D E F G A♭ B♭</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Altered</td>
+<td class="l m b0 r0 l0 t0 lines">1 ♭2 ♭3 ♭4 ♭5 ♭6 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">C D♭ E♭ F♭ G♭ A♭ B♭</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Dorian ♭2</td>
+<td class="l m b0 r0 l0 t0 lines">1 ♭2 ♭3 4 5 6 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">C D♭ E♭ F G A B♭</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Major Pentatonic</td>
+<td class="l m b0 r0 l0 t0 lines">1 2 3 5 6</td>
+<td class="l m b0 r0 l0 t0 lines">C D E G A</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Blues</td>
+<td class="l m b0 r0 l0 t0 lines">1 ♭3 4 #4 5 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">C E♭ F F# G B♭</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">5th mode of Harmonic Minor</td>
+<td class="l m b0 r0 l0 t0 lines">1 ♭2 3 4 5 ♭6 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">C D♭ E F G A♭ B♭</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">5th mode of Harmonic Major</td>
+<td class="l m b0 r0 l0 t0 lines">1 ♭2 3 4 5 6 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">C D♭ E F G A B♭</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Dominant Bebop</td>
+<td class="l m b0 r0 l0 t0 lines">1 2 3 4 5 6 ♭7 7</td>
+<td class="l m b0 r0 l0 t0 lines">C D E F G A B♭ B</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Dominant Diminished</td>
+<td class="l m b0 r0 l0 t0 lines">1 ♭2 #2 3 #4 5 6 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">C D♭ D# E F# G A B♭</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Whole Tone</td>
+<td class="l m b0 r0 l0 t0 lines">1 2 3 #4 #5 ♭7</td>
+<td class="l m b0 r0 l0 t0 lines">C D E G♭ A♭ B♭</td>
+</tr>
+</table></div></figure><div class="autopermalink" data-description="Paragraphs: Conclusion"><a href="#conclusion-scales-over-chords" title="Copy heading and permalink for Paragraphs: Conclusion" aria-label="Copy heading and permalink for Paragraphs: Conclusion">🔗</a></div></section><div class="autopermalink" data-description="Chapter 9: Scales, Modes and Chords"><a href="#scales-modes-and-chords" title="Copy heading and permalink for Chapter 9: Scales, Modes and Chords" aria-label="Copy heading and permalink for Chapter 9: Scales, Modes and Chords">🔗</a></div></section></div>
+<div id="ptx-content-footer" class="ptx-content-footer">
+<a class="previous-button button" href="sec-circle-on-cba.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="backmatter.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
+</div></main>
+</div>
+<div id="ptx-page-footer" class="ptx-page-footer">
+<a class="pretext-link" href="https://pretextbook.org" title="PreTeXt"><div class="logo"><svg xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="338 3000 8772 6866" role="img"><title>PreTeXt logo</title><g style="stroke-width:.025in; stroke:currentColor; fill:none"><polyline points="472,3590 472,9732 " style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke-width:126;stroke-linecap:butt;" d="M 4724,9448 A 4660 4660  0  0  1  8598  9259"></path><path style="stroke-width:174;stroke-linecap:butt;" d="M 4488,9685 A 4228 4228  0  0  0   472  9732"></path><path style="stroke-width:126;stroke-linecap:butt;" d="M 4724,3590 A 4241 4241  0  0  1  8598  3496"></path><path style="stroke-width:126;stroke-linecap:round;" d="M 850,3496  A 4241 4241  0  0  1  4724  3590"></path><path style="stroke-width:126;stroke-linecap:round;" d="M 850,9259  A 4507 4507  0  0  1  4724  9448"></path><polyline points="5385,4299 4062,8125" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8598,3496 8598,9259" style="stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="850,3496 850,9259" style="stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="4960,9685 4488,9685" style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="3070,4582 1889,6141 3070,7700" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="6418,4582 7600,6141 6418,7700" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8976,3590 8976,9732" style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><path style="stroke-width:174;stroke-linecap:butt;" d="M 4960,9685 A 4228 4228  0  0  1  8976  9732"></path></g></svg></div></a><a class="runestone-link" href="https://runestone.academy" title="Runestone Academy"><img class="logo" src="https://runestone.academy/runestone/static/images/RAIcon_cropped.png" alt="Runstone Academy logo"></a><a class="mathjax-link" href="https://www.mathjax.org" title="MathJax"><img class="logo" src="https://www.mathjax.org/badge/badge-square-2.png" alt="MathJax logo"></a>
+</div>
+</body>
+</html>
