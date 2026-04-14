@@ -1360,11 +1360,47 @@ var ptx_lunr_docs = [
   "body": "                "
 },
 {
+  "id": "sec-2-5-1-closed-in-C-Maj",
+  "level": "1",
+  "url": "sec-2-5-1-closed-in-C-Maj.html",
+  "type": "Section",
+  "number": "7.8",
+  "title": "2-5-1 Closed in C Major",
+  "body": " 2-5-1 Closed in C Major                      Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips                                          "
+},
+{
+  "id": "fig-251-cmaj-r1",
+  "level": "2",
+  "url": "sec-2-5-1-closed-in-C-Maj.html#fig-251-cmaj-r1",
+  "type": "Figure",
+  "number": "7.8.1",
+  "title": "",
+  "body": "                   Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips     "
+},
+{
+  "id": "fig-251-cmaj-r2",
+  "level": "2",
+  "url": "sec-2-5-1-closed-in-C-Maj.html#fig-251-cmaj-r2",
+  "type": "Figure",
+  "number": "7.8.2",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-251-cmaj-r3",
+  "level": "2",
+  "url": "sec-2-5-1-closed-in-C-Maj.html#fig-251-cmaj-r3",
+  "type": "Figure",
+  "number": "7.8.3",
+  "title": "",
+  "body": "                "
+},
+{
   "id": "sec-blank-chord-shape-template",
   "level": "1",
   "url": "sec-blank-chord-shape-template.html",
   "type": "Section",
-  "number": "7.8",
+  "number": "7.9",
   "title": "Blank Chord Shape Template",
   "body": " Blank Chord Shape Template                                                        "
 },
@@ -1373,7 +1409,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r1",
   "type": "Figure",
-  "number": "7.8.1",
+  "number": "7.9.1",
   "title": "",
   "body": "                "
 },
@@ -1382,7 +1418,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r2",
   "type": "Figure",
-  "number": "7.8.2",
+  "number": "7.9.2",
   "title": "",
   "body": "                "
 },
@@ -1391,9 +1427,45 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r3",
   "type": "Figure",
-  "number": "7.8.3",
+  "number": "7.9.3",
   "title": "",
   "body": "                "
+},
+{
+  "id": "sec-node-reference-grid",
+  "level": "1",
+  "url": "sec-node-reference-grid.html",
+  "type": "Section",
+  "number": "7.10",
+  "title": "Node Reference Grid (1–30)",
+  "body": " Node Reference Grid (1–30)  The grid below numbers every node from (lowest C, bottom-right) to (highest G, top-left). Each diagonal band of five nodes rises from col 5 (right) to col 1 (left). To request a chord shape, simply name the node numbers to highlight — for example nodes 1, 7, 12 gives the C major triad (C, E, G).   Node numbering reference — node 1 is the lowest C (bottom-right); node 30 is the highest G (top-left).      Full lookup table — node number, note name, and \\gn address ( col , row ):      Node Note col row  Node Note col row   1  C  5 1.5  16 A  5 4.5  2  C♯\/D♭ 4 2  17 B♭\/A♯ 4 5  3  D  3 2.5  18 B  3 5.5  4  E♭\/D♯ 2 3  19 C  2 6  5  E  1 3.5  20 C♯\/D♭ 1 6.5  6  E♭\/D♯ 5 2.5  21 C  5 5.5  7  E  4 3  22 C♯\/D♭ 4 6  8  F  3 3.5  23 D  3 6.5  9  F♯\/G♭ 2 4  24 E♭\/D♯ 2 7  10 G  1 4.5  25 E  1 7.5  11 F♯\/G♭ 5 3.5  26 E♭\/D♯ 5 6.5  12 G  4 4  27 E  4 7  13 A♭\/G♯ 3 4.5  28 F  3 7.5  14 A  2 5  29 F♯\/G♭ 2 8  15 B♭\/A♯ 1 5.5  30 G  1 8.5   "
+},
+{
+  "id": "fig-node-reference",
+  "level": "2",
+  "url": "sec-node-reference-grid.html#fig-node-reference",
+  "type": "Figure",
+  "number": "7.10.1",
+  "title": "",
+  "body": " Node numbering reference — node 1 is the lowest C (bottom-right); node 30 is the highest G (top-left).     "
+},
+{
+  "id": "sec-grid1-highlight",
+  "level": "1",
+  "url": "sec-grid1-highlight.html",
+  "type": "Section",
+  "number": "7.11",
+  "title": "Grid 1 — Nodes 8, 14, 19, 27 (FMaj7)",
+  "body": " Grid 1 — Nodes 8, 14, 19, 27 (FMaj7)   Nodes 8 (F), 14 (A), 19 (C), 27 (E) highlighted — FMaj7 shape.      "
+},
+{
+  "id": "fig-grid1-highlight",
+  "level": "2",
+  "url": "sec-grid1-highlight.html#fig-grid1-highlight",
+  "type": "Figure",
+  "number": "7.11.1",
+  "title": "",
+  "body": " Nodes 8 (F), 14 (A), 19 (C), 27 (E) highlighted — FMaj7 shape.     "
 },
 {
   "id": "sec-circle-structure",
