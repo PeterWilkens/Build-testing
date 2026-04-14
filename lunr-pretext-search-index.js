@@ -1366,7 +1366,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.8",
   "title": "2-5-1 Closed in C Major",
-  "body": " 2-5-1 Closed in C Major                      Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips                                          "
+  "body": " 2-5-1 Closed in C Major  This progression is built from a 4 note grip (chord formed by content of the grip shown above the shape) and a bass note that is the Root of the Progression Chord (named in the notation).  ===== Row 1: Shapes 1-4 =====-->                    Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips                                          "
 },
 {
   "id": "fig-251-cmaj-r1",
