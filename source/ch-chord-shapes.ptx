@@ -11,9 +11,13 @@
   <xi:include href="./sec-more-251-progressions.ptx" />
   <xi:include href="./sec-further-251-progressions.ptx" />
   <xi:include href="./sec-2-5-1-closed-in-C-Maj.ptx" />
+  
   <xi:include href="./sec-blank-chord-shape-template.ptx" />
+  <xi:include href="./sec-Cmaj-drop2-COF.ptx" />
+  <xi:include href="./sec-chord-progression-template.ptx" />
   <xi:include href="./sec-node-reference-grid.ptx" />
   <xi:include href="./sec-grid1-highlight.ptx" />
+  <xi:include href="./sec-chord-progression-grid-highlight.ptx" />
  
 
 </chapter>

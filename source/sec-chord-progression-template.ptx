@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="sec-chord-progression-template" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Extended Chord Progression Template</title>
+
+  <p>
+    This template uses the shared 44-node extended 9-row grid layout, including
+    the added lower and upper extension nodes.
+  </p>
+
+  <!-- ===== Row 1: Shapes 1-4 ===== -->
+  <figure xml:id="fig-chord-prog-tpl-r1">
+    <caption></caption>
+    <sidebyside widths="22% 22% 22% 22%" margins="3%">
+
+      <image xml:id="img-chord-prog-tpl-r1-g1-44">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 1};
+\extendedgridnotes
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <image xml:id="img-chord-prog-tpl-r1-g2-44">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 2};
+\extendedgridnotes
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <image xml:id="img-chord-prog-tpl-r1-g3-44">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 3};
+\extendedgridnotes
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <image xml:id="img-chord-prog-tpl-r1-g4-44">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 4};
+\extendedgridnotes
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+    </sidebyside>
+  </figure>
+
+  <!-- ===== Row 2: Shapes 5-8 ===== -->
+  <figure xml:id="fig-chord-prog-tpl-r2">
+    <caption></caption>
+    <sidebyside widths="22% 22% 22% 22%" margins="3%">
+
+      <image xml:id="img-chord-prog-tpl-r2-g1-44">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 5};
+\extendedgridnotes
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <image xml:id="img-chord-prog-tpl-r2-g2-44">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 6};
+\extendedgridnotes
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <image xml:id="img-chord-prog-tpl-r2-g3-44">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 7};
+\extendedgridnotes
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <image xml:id="img-chord-prog-tpl-r2-g4-44">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 8};
+\extendedgridnotes
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+    </sidebyside>
+  </figure>
+
+  <!-- ===== Row 3: Shapes 9-12 ===== -->
+  <figure xml:id="fig-chord-prog-tpl-r3">
+    <caption></caption>
+    <sidebyside widths="22% 22% 22% 22%" margins="3%">
+
+      <image xml:id="img-chord-prog-tpl-r3-g1-44">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 9};
+\extendedgridnotes
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <image xml:id="img-chord-prog-tpl-r3-g2-44">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 10};
+\extendedgridnotes
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <image xml:id="img-chord-prog-tpl-r3-g3-44">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 11};
+\extendedgridnotes
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <image xml:id="img-chord-prog-tpl-r3-g4-44">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 12};
+\extendedgridnotes
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+    </sidebyside>
+  </figure>
+
+</section>
