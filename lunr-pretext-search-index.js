@@ -1432,11 +1432,56 @@ var ptx_lunr_docs = [
   "body": "                "
 },
 {
+  "id": "sec-Cmaj-drop2-COF",
+  "level": "1",
+  "url": "sec-Cmaj-drop2-COF.html",
+  "type": "Section",
+  "number": "7.10",
+  "title": "Progression of Drop 2 Diatonic Chords from C Major Scale",
+  "body": " Progression of Drop 2 Diatonic Chords from C Major Scale                                                                                                           "
+},
+{
+  "id": "sec-chord-progression-template",
+  "level": "1",
+  "url": "sec-chord-progression-template.html",
+  "type": "Section",
+  "number": "7.11",
+  "title": "Extended Chord Progression Template",
+  "body": " Extended Chord Progression Template  This template uses the shared 44-node extended 9-row grid layout, including the added lower and upper extension nodes.                                                        "
+},
+{
+  "id": "fig-chord-prog-tpl-r1",
+  "level": "2",
+  "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r1",
+  "type": "Figure",
+  "number": "7.11.1",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-chord-prog-tpl-r2",
+  "level": "2",
+  "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r2",
+  "type": "Figure",
+  "number": "7.11.2",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-chord-prog-tpl-r3",
+  "level": "2",
+  "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r3",
+  "type": "Figure",
+  "number": "7.11.3",
+  "title": "",
+  "body": "                "
+},
+{
   "id": "sec-node-reference-grid",
   "level": "1",
   "url": "sec-node-reference-grid.html",
   "type": "Section",
-  "number": "7.10",
+  "number": "7.12",
   "title": "Node Reference Grid (1–30)",
   "body": " Node Reference Grid (1–30)  The grid below numbers every node from (lowest C, bottom-right) to (highest G, top-left). Each diagonal band of five nodes rises from col 5 (right) to col 1 (left). To request a chord shape, simply name the node numbers to highlight — for example nodes 1, 7, 12 gives the C major triad (C, E, G).   Node numbering reference — node 1 is the lowest C (bottom-right); node 30 is the highest G (top-left).      Full lookup table — node number, note name, and \\gn address ( col , row ):      Node Note col row  Node Note col row   1  C  5 1.5  16 A  5 4.5  2  C♯\/D♭ 4 2  17 B♭\/A♯ 4 5  3  D  3 2.5  18 B  3 5.5  4  E♭\/D♯ 2 3  19 C  2 6  5  E  1 3.5  20 C♯\/D♭ 1 6.5  6  E♭\/D♯ 5 2.5  21 C  5 5.5  7  E  4 3  22 C♯\/D♭ 4 6  8  F  3 3.5  23 D  3 6.5  9  F♯\/G♭ 2 4  24 E♭\/D♯ 2 7  10 G  1 4.5  25 E  1 7.5  11 F♯\/G♭ 5 3.5  26 E♭\/D♯ 5 6.5  12 G  4 4  27 E  4 7  13 A♭\/G♯ 3 4.5  28 F  3 7.5  14 A  2 5  29 F♯\/G♭ 2 8  15 B♭\/A♯ 1 5.5  30 G  1 8.5   "
 },
@@ -1445,7 +1490,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-node-reference-grid.html#fig-node-reference",
   "type": "Figure",
-  "number": "7.10.1",
+  "number": "7.12.1",
   "title": "",
   "body": " Node numbering reference — node 1 is the lowest C (bottom-right); node 30 is the highest G (top-left).     "
 },
@@ -1454,7 +1499,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-grid1-highlight.html",
   "type": "Section",
-  "number": "7.11",
+  "number": "7.13",
   "title": "Grid 1 — Nodes 8, 14, 19, 27 (FMaj7)",
   "body": " Grid 1 — Nodes 8, 14, 19, 27 (FMaj7)   Nodes 8 (F), 14 (A), 19 (C), 27 (E) highlighted — FMaj7 shape.      "
 },
@@ -1463,9 +1508,27 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-grid1-highlight.html#fig-grid1-highlight",
   "type": "Figure",
-  "number": "7.11.1",
+  "number": "7.13.1",
   "title": "",
   "body": " Nodes 8 (F), 14 (A), 19 (C), 27 (E) highlighted — FMaj7 shape.     "
+},
+{
+  "id": "sec-chord-progression-grid-highlight",
+  "level": "1",
+  "url": "sec-chord-progression-grid-highlight.html",
+  "type": "Section",
+  "number": "7.14",
+  "title": "Extended Grid 1 — 44-Node Reference",
+  "body": " Extended Grid 1 — 44-Node Reference  This reference shows all positions in the extended 9-row grid, with each node retaining its note label and carrying an identification number, including the added lower and upper extension nodes used by the drop-2 and chord-progression template figures.   Extended 9-row reference showing note labels and identification numbers for all 44 positions in the shared extended grid layout.      "
+},
+{
+  "id": "fig-chord-progression-grid-highlight",
+  "level": "2",
+  "url": "sec-chord-progression-grid-highlight.html#fig-chord-progression-grid-highlight",
+  "type": "Figure",
+  "number": "7.14.1",
+  "title": "",
+  "body": " Extended 9-row reference showing note labels and identification numbers for all 44 positions in the shared extended grid layout.     "
 },
 {
   "id": "sec-circle-structure",
