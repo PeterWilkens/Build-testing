@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chapter xml:id="ch-templates-and-references" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Templates and References</title>
+
+  <xi:include href="./sec-blank-chord-shape-template.ptx" />
+  <xi:include href="./sec-chord-progression-template.ptx" />
+  <xi:include href="./sec-node-reference-grid.ptx" />
+  <xi:include href="./sec-grid1-highlight.ptx" />
+  <xi:include href="./sec-chord-progression-grid-highlight.ptx" />
+</chapter>

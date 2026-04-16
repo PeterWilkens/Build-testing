@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chapter xml:id="ch-chord-progressions" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Chord Progressions</title>
+
+  <xi:include href="./sec-2-5-1-progressions.ptx" />
+  <xi:include href="./sec-more-251-progressions.ptx" />
+  <xi:include href="./sec-further-251-progressions.ptx" />
+  <xi:include href="./sec-2-5-1-closed-in-C-Maj.ptx" />
+  <xi:include href="./sec-Cmaj-drop2-COF.ptx" />
+</chapter>

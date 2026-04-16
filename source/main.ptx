@@ -20,8 +20,10 @@
     <xi:include href="./ch-chords.ptx" />
     <xi:include href="./ch-chords-from-scales.ptx" />
     <xi:include href="./ch-chord-shapes.ptx" />
+    <xi:include href="./ch-chord-progressions.ptx" />
     <xi:include href="./ch-circle-of-fifths.ptx" />
     <xi:include href="./ch-scales-modes-and-chords.ptx" />
+    <xi:include href="./ch-templates-and-references.ptx" />
 
       
           <!-- Include backmatter -->
