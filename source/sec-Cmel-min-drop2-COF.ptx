@@ -1,0 +1,1836 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="sec-Cmel-min-drop2-COF" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Progression of Drop 2 Diatonic Chords from C Melodic Minor Scale</title>
+
+  <!-- ===== Row 1: Shapes 1-4 ===== -->
+  <sidebyside widths="22% 22% 22% 22%" margins="3%">
+
+    <image xml:id="img-cmel-min-drop2-cof-r1-g1">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 1};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r1-g2">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 2};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r1-g3">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 3};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r1-g4">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 4};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+  </sidebyside>
+
+  <!-- ===== Row 2: Shapes 5-8 ===== -->
+  <sidebyside widths="22% 22% 22% 22%" margins="3%">
+
+    <image xml:id="img-cmel-min-drop2-cof-r2-g1">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 5};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r2-g2">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 6};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r2-g3">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 7};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r2-g4">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 8};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+  </sidebyside>
+
+  <!-- ===== Row 3: Shapes 9-12 ===== -->
+  <sidebyside widths="22% 22% 22% 22%" margins="3%">
+
+    <image xml:id="img-cmel-min-drop2-cof-r3-g1">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 9};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r3-g2">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 10};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r3-g3">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 11};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r3-g4">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 12};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+  </sidebyside>
+
+  <!-- ===== Page 2: Shapes 13-16 ===== -->
+  <sidebyside widths="22% 22% 22% 22%" margins="3%">
+
+    <image xml:id="img-cmel-min-drop2-cof-r4-g1">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 13};
+\gn{1}{0.5}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{0.5}{D}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r4-g2">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 14};
+\gn{1}{0.5}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{0.5}{D}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r4-g3">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 15};
+\gn{1}{0.5}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{0.5}{D}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r4-g4">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 16};
+\gn{1}{0.5}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{0.5}{D}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+  </sidebyside>
+
+  <!-- ===== Page 2: Shapes 17-20 ===== -->
+  <sidebyside widths="22% 22% 22% 22%" margins="3%">
+
+    <image xml:id="img-cmel-min-drop2-cof-r5-g1">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 17};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r5-g2">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 18};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r5-g3">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 19};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r5-g4">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 20};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+  </sidebyside>
+
+  <!-- ===== Page 2: Shapes 21-24 ===== -->
+  <sidebyside widths="22% 22% 22% 22%" margins="3%">
+
+    <image xml:id="img-cmel-min-drop2-cof-r6-g1">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 21};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r6-g2">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 22};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r6-g3">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 23};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r6-g4">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 24};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+  </sidebyside>
+
+  <!-- ===== Page 2: Shapes 25-28 ===== -->
+  <sidebyside widths="22% 22% 22% 22%" margins="3%">
+
+    <image xml:id="img-cmel-min-drop2-cof-r7-g1">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 25};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r7-g2">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 26};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r7-g3">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 27};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <image xml:id="img-cmel-min-drop2-cof-r7-g4">
+      <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 28};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\end{tikzpicture}
+      </latex-image>
+    </image>
+
+  </sidebyside>
+
+</section>
