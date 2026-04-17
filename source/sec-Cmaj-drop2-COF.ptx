@@ -20,7 +20,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {CM7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -83,7 +84,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {FMaj7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -146,7 +148,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Bmi7b5};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -209,7 +212,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Emi7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -277,7 +281,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Ami7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -340,7 +345,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Dmi7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -403,7 +409,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {G7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -466,7 +473,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {CM7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -534,7 +542,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {FM7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{1}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -597,7 +606,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Bmi7b5};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{1}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -660,7 +670,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Emi7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{1}%
+\gn{4}{1}{E}{1}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -723,7 +734,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Ami7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{1}%
+\gn{4}{1}{E}{1}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -794,7 +806,6 @@
 \gn{3}{0.5}{D}{1}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{4}{1}{E}{0}%
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -860,7 +871,6 @@
 \gn{3}{0.5}{D}{1}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{4}{1}{E}{0}%
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -928,7 +938,6 @@
 \gn{3}{0.5}{D}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{4}{1}{E}{1}%
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -994,7 +1003,6 @@
 \gn{3}{0.5}{D}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{4}{1}{E}{1}%
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -1062,7 +1070,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Bmi7b5};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -1125,7 +1134,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Emi7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -1188,7 +1198,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Ami7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -1251,7 +1262,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Dmi7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -1319,7 +1331,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {G7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -1382,7 +1395,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {CM7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -1445,7 +1459,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {FM7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -1508,7 +1523,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Bmi7b5};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -1576,7 +1592,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Emi7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -1639,7 +1656,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Ami7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -1702,7 +1720,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Dmi7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{1}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
@@ -1765,7 +1784,8 @@
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {G7};
 \extendedgridbottomsquare
-\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{1}%
 \gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{1.5}{E}{0}%
