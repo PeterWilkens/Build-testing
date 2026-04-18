@@ -1402,7 +1402,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.5",
   "title": "Progression of Drop 2 Diatonic Chords from C Major Scale",
-  "body": " Progression of Drop 2 Diatonic Chords from C Major Scale                                                                                                           "
+  "body": " Progression of Drop 2 Diatonic Chords from C Major Scale                                                                                                              "
+},
+{
+  "id": "sec-Charm-min-drop2-COF",
+  "level": "1",
+  "url": "sec-Charm-min-drop2-COF.html",
+  "type": "Section",
+  "number": "8.6",
+  "title": "Progression of Drop 2 Diatonic Chords from C Harmonic Minor Scale",
+  "body": " Progression of Drop 2 Diatonic Chords from C Harmonic Minor Scale                                                                                                              "
+},
+{
+  "id": "sec-Cmel-min-drop2-COF",
+  "level": "1",
+  "url": "sec-Cmel-min-drop2-COF.html",
+  "type": "Section",
+  "number": "8.7",
+  "title": "Progression of Drop 2 Diatonic Chords from C Melodic Minor Scale",
+  "body": " Progression of Drop 2 Diatonic Chords from C Melodic Minor Scale                                                                                                              "
 },
 {
   "id": "sec-circle-structure",
@@ -1654,7 +1672,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "11.2",
   "title": "Extended Chord Progression Template",
-  "body": " Extended Chord Progression Template  This template uses the shared 44-node extended 9-row grid layout, including the added lower and upper extension nodes.                                                        "
+  "body": " Extended Chord Progression Template  This template uses the shared 52-node extended 11-row grid layout, including the added lower and upper extension nodes.                                                        "
 },
 {
   "id": "fig-chord-prog-tpl-r1",
@@ -1720,22 +1738,22 @@ var ptx_lunr_docs = [
   "body": " Nodes 8 (F), 14 (A), 19 (C), 27 (E) highlighted — FMaj7 shape.     "
 },
 {
-  "id": "sec-chord-progression-grid-highlight",
+  "id": "sec-extended-grid-55-node-reference",
   "level": "1",
-  "url": "sec-chord-progression-grid-highlight.html",
+  "url": "sec-extended-grid-55-node-reference.html",
   "type": "Section",
   "number": "11.5",
-  "title": "Extended Grid 1 — 44-Node Reference",
-  "body": " Extended Grid 1 — 44-Node Reference  This reference shows all positions in the extended 9-row grid, with each node retaining its note label and carrying an identification number, including the added lower and upper extension nodes used by the drop-2 and chord-progression template figures.   Extended 9-row reference showing note labels and identification numbers for all 44 positions in the shared extended grid layout.      "
+  "title": "Extended Grid 1 — 55-Node Reference",
+  "body": " Extended Grid 1 — 55-Node Reference  This reference shows all positions in the extended 11-row grid, with each node retaining its note label and carrying an identification number, including the added lower and upper extension nodes used by the drop-2 and chord-progression template figures.   Extended 11-row reference showing note labels and identification numbers for all 55 positions in the shared extended grid layout.      "
 },
 {
-  "id": "fig-chord-progression-grid-highlight",
+  "id": "fig-extended-grid-55-node-reference",
   "level": "2",
-  "url": "sec-chord-progression-grid-highlight.html#fig-chord-progression-grid-highlight",
+  "url": "sec-extended-grid-55-node-reference.html#fig-extended-grid-55-node-reference",
   "type": "Figure",
   "number": "11.5.1",
   "title": "",
-  "body": " Extended 9-row reference showing note labels and identification numbers for all 44 positions in the shared extended grid layout.     "
+  "body": " Extended 11-row reference showing note labels and identification numbers for all 55 positions in the shared extended grid layout.     "
 },
 {
   "id": "backmatter-2",
