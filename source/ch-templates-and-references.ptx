@@ -6,5 +6,5 @@
   <xi:include href="./sec-chord-progression-template.ptx" />
   <xi:include href="./sec-node-reference-grid.ptx" />
   <xi:include href="./sec-grid1-highlight.ptx" />
-  <xi:include href="./sec-chord-progression-grid-highlight.ptx" />
+  <xi:include href="./sec-extended-grid-55-node-reference.ptx" />
 </chapter>
