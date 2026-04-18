@@ -3,7 +3,7 @@
   <title>Extended Chord Progression Template</title>
 
   <p>
-    This template uses the shared 44-node extended 9-row grid layout, including
+    This template uses the shared 52-node extended 11-row grid layout, including
     the added lower and upper extension nodes.
   </p>
 
@@ -12,11 +12,11 @@
     <caption></caption>
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
-      <image xml:id="img-chord-prog-tpl-r1-g1-44">
+      <image xml:id="img-chord-prog-tpl-r1-g1-52">
         <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -25,17 +25,17 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 1};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Shape 1};
 \extendedgridnotes
 \end{tikzpicture}
         </latex-image>
       </image>
 
-      <image xml:id="img-chord-prog-tpl-r1-g2-44">
+      <image xml:id="img-chord-prog-tpl-r1-g2-52">
         <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -44,17 +44,17 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 2};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Shape 2};
 \extendedgridnotes
 \end{tikzpicture}
         </latex-image>
       </image>
 
-      <image xml:id="img-chord-prog-tpl-r1-g3-44">
+      <image xml:id="img-chord-prog-tpl-r1-g3-52">
         <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -63,17 +63,17 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 3};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Shape 3};
 \extendedgridnotes
 \end{tikzpicture}
         </latex-image>
       </image>
 
-      <image xml:id="img-chord-prog-tpl-r1-g4-44">
+      <image xml:id="img-chord-prog-tpl-r1-g4-52">
         <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -82,7 +82,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 4};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Shape 4};
 \extendedgridnotes
 \end{tikzpicture}
         </latex-image>
@@ -96,11 +96,11 @@
     <caption></caption>
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
-      <image xml:id="img-chord-prog-tpl-r2-g1-44">
+      <image xml:id="img-chord-prog-tpl-r2-g1-52">
         <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -109,17 +109,17 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 5};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Shape 5};
 \extendedgridnotes
 \end{tikzpicture}
         </latex-image>
       </image>
 
-      <image xml:id="img-chord-prog-tpl-r2-g2-44">
+      <image xml:id="img-chord-prog-tpl-r2-g2-52">
         <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -128,17 +128,17 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 6};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Shape 6};
 \extendedgridnotes
 \end{tikzpicture}
         </latex-image>
       </image>
 
-      <image xml:id="img-chord-prog-tpl-r2-g3-44">
+      <image xml:id="img-chord-prog-tpl-r2-g3-52">
         <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -147,17 +147,17 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Shape 7};
 \extendedgridnotes
 \end{tikzpicture}
         </latex-image>
       </image>
 
-      <image xml:id="img-chord-prog-tpl-r2-g4-44">
+      <image xml:id="img-chord-prog-tpl-r2-g4-52">
         <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -166,7 +166,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 8};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Shape 8};
 \extendedgridnotes
 \end{tikzpicture}
         </latex-image>
@@ -180,11 +180,11 @@
     <caption></caption>
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
-      <image xml:id="img-chord-prog-tpl-r3-g1-44">
+      <image xml:id="img-chord-prog-tpl-r3-g1-52">
         <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -193,17 +193,17 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 9};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Shape 9};
 \extendedgridnotes
 \end{tikzpicture}
         </latex-image>
       </image>
 
-      <image xml:id="img-chord-prog-tpl-r3-g2-44">
+      <image xml:id="img-chord-prog-tpl-r3-g2-52">
         <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -212,17 +212,17 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 10};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Shape 10};
 \extendedgridnotes
 \end{tikzpicture}
         </latex-image>
       </image>
 
-      <image xml:id="img-chord-prog-tpl-r3-g3-44">
+      <image xml:id="img-chord-prog-tpl-r3-g3-52">
         <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -231,17 +231,17 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 11};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Shape 11};
 \extendedgridnotes
 \end{tikzpicture}
         </latex-image>
       </image>
 
-      <image xml:id="img-chord-prog-tpl-r3-g4-44">
+      <image xml:id="img-chord-prog-tpl-r3-g4-52">
         <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -250,7 +250,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Shape 12};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Shape 12};
 \extendedgridnotes
 \end{tikzpicture}
         </latex-image>

@@ -9,7 +9,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -18,7 +18,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {CmM7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {CmM7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -65,6 +65,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -73,7 +74,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -82,7 +83,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Fm7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Fm7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -129,6 +130,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -137,7 +139,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -146,7 +148,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {B$^{\circ}$7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {B$^{\circ}$7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -193,6 +195,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -201,7 +204,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -210,7 +213,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {E$\flat$+M7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {E$\flat$+M7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -257,6 +260,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -270,7 +274,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -279,7 +283,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {A$\flat$M7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {A$\flat$M7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -326,6 +330,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -334,7 +339,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -343,7 +348,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Dm7($\flat$5)};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Dm7($\flat$5)};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -390,6 +395,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -398,7 +404,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -407,7 +413,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {G7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {G7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -454,6 +460,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -462,7 +469,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -471,7 +478,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {CmM7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {CmM7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -518,6 +525,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -531,7 +539,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -540,7 +548,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Fm7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Fm7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -587,6 +595,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -595,7 +604,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -604,7 +613,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {B$^{\circ}$7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {B$^{\circ}$7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -651,6 +660,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -659,7 +669,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -668,7 +678,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {E$\flat$+M7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {E$\flat$+M7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{1}%
@@ -715,6 +725,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -723,7 +734,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -732,7 +743,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {A$\flat$M7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {A$\flat$M7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{1}%
@@ -779,6 +790,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -792,7 +804,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -801,7 +813,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Dm7($\flat$5)};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Dm7($\flat$5)};
 \gn{1}{0.5}{C$\sharp$/D$\flat$}{0}%
 \gn{3}{0.5}{D}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -849,6 +861,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{1}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -857,7 +870,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -866,7 +879,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {G7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {G7};
 \gn{1}{0.5}{C$\sharp$/D$\flat$}{0}%
 \gn{3}{0.5}{D}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -914,6 +927,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{1}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -922,8 +936,8 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\vlen}{0.85}
-\draw[line width=1.2pt] (-0.08,-2.5*\vlen) -- (-0.08,{9*\vlen});
-\draw[line width=1.2pt] (0.08,-2.5*\vlen) -- (0.08,{9*\vlen});
+\draw[line width=1.2pt] (-0.08,-2.5*\vlen) -- (-0.08,{11*\vlen});
+\draw[line width=1.2pt] (0.08,-2.5*\vlen) -- (0.08,{11*\vlen});
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -932,7 +946,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -941,7 +955,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {CmM7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {CmM7};
 \gn{1}{0.5}{C$\sharp$/D$\flat$}{0}%
 \gn{3}{0.5}{D}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{1}%
@@ -989,6 +1003,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -997,7 +1012,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -1006,7 +1021,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Fm7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Fm7};
 \gn{1}{0.5}{C$\sharp$/D$\flat$}{0}%
 \gn{3}{0.5}{D}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{1}%
@@ -1054,6 +1069,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -1067,7 +1083,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -1076,7 +1092,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {B$^{\circ}$7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {B$^{\circ}$7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -1123,6 +1139,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{1}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -1131,7 +1148,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -1140,7 +1157,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {E$\flat$+M7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {E$\flat$+M7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -1187,6 +1204,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -1195,7 +1213,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -1204,7 +1222,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {A$\flat$M7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {A$\flat$M7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -1251,6 +1269,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -1259,7 +1278,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -1268,7 +1287,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Dm7($\flat$5)};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Dm7($\flat$5)};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -1315,6 +1334,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -1328,7 +1348,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -1337,7 +1357,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {G7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {G7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -1384,6 +1404,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -1392,7 +1413,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -1401,7 +1422,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {CmM7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {CmM7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -1448,6 +1469,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -1456,7 +1478,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -1465,7 +1487,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Fm7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Fm7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -1512,6 +1534,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -1520,7 +1543,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -1529,7 +1552,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {B$^{\circ}$7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {B$^{\circ}$7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -1576,6 +1599,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -1589,7 +1613,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -1598,7 +1622,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {E$\flat$+M7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {E$\flat$+M7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -1645,6 +1669,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -1653,7 +1678,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -1662,7 +1687,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {A$\flat$M7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {A$\flat$M7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -1709,6 +1734,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -1717,7 +1743,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -1726,7 +1752,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Dm7($\flat$5)};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Dm7($\flat$5)};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -1773,6 +1799,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>
@@ -1781,7 +1808,7 @@
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -1790,7 +1817,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {G7};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {G7};
 \extendedgridbottomsquare
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
@@ -1837,6 +1864,7 @@
 \gn{4}{9}{E}{0}%
 \gn{3}{9.5}{F}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
 \end{tikzpicture}
       </latex-image>
     </image>

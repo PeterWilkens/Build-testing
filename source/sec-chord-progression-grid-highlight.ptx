@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="sec-chord-progression-grid-highlight" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Extended Grid 1 — 44-Node Reference</title>
+  <title>Extended Grid 1 — 52-Node Reference</title>
 
   <p>
-    This reference shows all <m>44</m> positions in the extended 9-row grid,
+    This reference shows all <m>52</m> positions in the extended 11-row grid,
     with each node retaining its note label and carrying an identification
     number, including the added lower and upper extension nodes used by the
     drop-2 and chord-progression template figures.
   </p>
 
   <figure xml:id="fig-chord-progression-grid-highlight">
-    <caption>Extended 9-row reference showing note labels and identification numbers for all 44 positions in the shared extended grid layout.</caption>
-    <image xml:id="img-chord-progression-grid-highlight-44" width="42%">
+    <caption>Extended 11-row reference showing note labels and identification numbers for all 52 positions in the shared extended grid layout.</caption>
+    <image xml:id="img-chord-progression-grid-highlight-52" width="42%">
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
 \pgfmathsetmacro{\isoangle}{60}
-\pgfmathsetmacro{\vv}{9}
+\pgfmathsetmacro{\vv}{11}
 \pgfmathsetmacro{\hh}{6}
 \pgfmathsetmacro{\vlen}{0.85}
 \pgfmathsetmacro{\ang}{\isoangle/2}
@@ -24,7 +24,7 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{10.3*\vlen}) {Extended Grid 1};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Extended Grid 1};
 \extendedgridreferencenodes
 \end{tikzpicture}
       </latex-image>
