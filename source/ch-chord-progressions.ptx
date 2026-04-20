@@ -6,6 +6,10 @@
   <xi:include href="./sec-more-251-progressions.ptx" />
   <xi:include href="./sec-further-251-progressions.ptx" />
   <xi:include href="./sec-2-5-1-closed-in-C-Maj.ptx" />
+  <xi:include href="./sec-closed-triads-cmaj-desc-2nds.ptx" />
+  <xi:include href="./sec-closed-triads-cmaj-asc-2nds.ptx" />
+  <xi:include href="./sec-closed-triads-cmaj-cof.ptx" />
+  <xi:include href="./sec-closed-triads-cmaj-stepwise.ptx" />
   <xi:include href="./sec-Cmaj-drop2-COF.ptx" />
   <xi:include href="./sec-Charm-min-drop2-COF.ptx" />
   <xi:include href="./sec-Cmel-min-drop2-COF.ptx" />

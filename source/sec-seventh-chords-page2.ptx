@@ -268,13 +268,13 @@
 \gn{4}{6}{C$\sharp$, D$\flat$}{0}
 \gn{3}{6.5}{D}{0}
 \gn{2}{7}{E$\flat$, D$\sharp$}{0}
-\gn{1}{7.5}{E}{0}
+\gn{1}{7.5}{E}{1}
 \gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
-\gn{4}{7}{E}{1}
+\gn{4}{7}{E}{0}
 \gn{3}{7.5}{F}{0}
 \gn{2}{8}{G$\flat$, F$\sharp$}{0}
 \gn{1}{8.5}{G}{0}
-\draw[black!40, semithick, rounded corners=6pt] ({2*\hlen- 0.60},{4*\vlen- 0.60}) rectangle ({4*\hlen+ 0.60},{7*\vlen+ 0.60});
+\draw[black!40, semithick, rounded corners=6pt] ({1*\hlen- 0.80},{4*\vlen- 0.80}) rectangle ({4*\hlen+ 0.80},{7.5*\vlen+ 0.80});
 \end{tikzpicture}
         </latex-image>
       </image>
@@ -317,13 +317,13 @@
 \gn{4}{6}{C$\sharp$, D$\flat$}{0}
 \gn{3}{6.5}{D}{0}
 \gn{2}{7}{E$\flat$, D$\sharp$}{0}
-\gn{1}{7.5}{E}{0}
+\gn{1}{7.5}{E}{1}
 \gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
-\gn{4}{7}{E}{1}
+\gn{4}{7}{E}{0}
 \gn{3}{7.5}{F}{0}
 \gn{2}{8}{G$\flat$, F$\sharp$}{0}
 \gn{1}{8.5}{G}{0}
-\draw[black!40, semithick, rounded corners=6pt] ({2*\hlen- 0.60},{4*\vlen- 0.60}) rectangle ({4*\hlen+ 0.60},{7*\vlen+ 0.60});
+\draw[black!40, semithick, rounded corners=6pt] ({1*\hlen- 0.80},{4*\vlen- 0.80}) rectangle ({4*\hlen+ 0.80},{7.5*\vlen+ 0.80});
 \end{tikzpicture}
         </latex-image>
       </image>
