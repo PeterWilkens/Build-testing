@@ -2,10 +2,6 @@
 <chapter xml:id="ch-chord-scale-cyclic-movement" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Chord Scale Cyclic Movement</title>
 
-  <xi:include href="./sec-2-5-1-progressions.ptx" />
-  <xi:include href="./sec-more-251-progressions.ptx" />
-  <xi:include href="./sec-further-251-progressions.ptx" />
-  <xi:include href="./sec-2-5-1-closed-in-C-Maj.ptx" />
   <xi:include href="./sec-closed-triads-cmaj-desc-2nds.ptx" />
   <xi:include href="./sec-closed-triads-cmaj-asc-2nds.ptx" />
   <xi:include href="./sec-closed-triads-cmaj-cof.ptx" />
@@ -14,4 +10,6 @@
   <xi:include href="./sec-Cmaj-drop2-cycle2.ptx" />
   <xi:include href="./sec-Charm-min-drop2-COF.ptx" />
   <xi:include href="./sec-Cmel-min-drop2-COF.ptx" />
+
+
 </chapter>
