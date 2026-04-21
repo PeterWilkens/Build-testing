@@ -1243,164 +1243,11 @@ var ptx_lunr_docs = [
   "body": " Cdim7 Root Position and Inversions                    "
 },
 {
-  "id": "sec-2-5-1-progressions",
-  "level": "1",
-  "url": "sec-2-5-1-progressions.html",
-  "type": "Section",
-  "number": "8.1",
-  "title": "2-5-1 Progressions with Voice Leading (naturally follows Circle of Fifths)",
-  "body": " 2-5-1 Progressions with Voice Leading (naturally follows Circle of Fifths)                                                                          "
-},
-{
-  "id": "fig-251-p1r1",
-  "level": "2",
-  "url": "sec-2-5-1-progressions.html#fig-251-p1r1",
-  "type": "Figure",
-  "number": "8.1.1",
-  "title": "",
-  "body": "                "
-},
-{
-  "id": "fig-251-p1r2",
-  "level": "2",
-  "url": "sec-2-5-1-progressions.html#fig-251-p1r2",
-  "type": "Figure",
-  "number": "8.1.2",
-  "title": "",
-  "body": "                "
-},
-{
-  "id": "fig-251-p2r1",
-  "level": "2",
-  "url": "sec-2-5-1-progressions.html#fig-251-p2r1",
-  "type": "Figure",
-  "number": "8.1.3",
-  "title": "",
-  "body": "                "
-},
-{
-  "id": "fig-251-p2r2",
-  "level": "2",
-  "url": "sec-2-5-1-progressions.html#fig-251-p2r2",
-  "type": "Figure",
-  "number": "8.1.4",
-  "title": "",
-  "body": "                "
-},
-{
-  "id": "sec-more-251-progressions",
-  "level": "1",
-  "url": "sec-more-251-progressions.html",
-  "type": "Section",
-  "number": "8.2",
-  "title": "More 2.5.1 Progressions",
-  "body": " More 2.5.1 Progressions                                                        "
-},
-{
-  "id": "fig-more251-r1",
-  "level": "2",
-  "url": "sec-more-251-progressions.html#fig-more251-r1",
-  "type": "Figure",
-  "number": "8.2.1",
-  "title": "",
-  "body": "                "
-},
-{
-  "id": "fig-more251-r2",
-  "level": "2",
-  "url": "sec-more-251-progressions.html#fig-more251-r2",
-  "type": "Figure",
-  "number": "8.2.2",
-  "title": "",
-  "body": "                "
-},
-{
-  "id": "fig-more251-r3",
-  "level": "2",
-  "url": "sec-more-251-progressions.html#fig-more251-r3",
-  "type": "Figure",
-  "number": "8.2.3",
-  "title": "",
-  "body": "                "
-},
-{
-  "id": "sec-further-251-progressions",
-  "level": "1",
-  "url": "sec-further-251-progressions.html",
-  "type": "Section",
-  "number": "8.3",
-  "title": "Further 2.5.1 Progressions",
-  "body": " Further 2.5.1 Progressions                                                        "
-},
-{
-  "id": "fig-further251-r1",
-  "level": "2",
-  "url": "sec-further-251-progressions.html#fig-further251-r1",
-  "type": "Figure",
-  "number": "8.3.1",
-  "title": "",
-  "body": "                "
-},
-{
-  "id": "fig-further251-r2",
-  "level": "2",
-  "url": "sec-further-251-progressions.html#fig-further251-r2",
-  "type": "Figure",
-  "number": "8.3.2",
-  "title": "",
-  "body": "                "
-},
-{
-  "id": "fig-further251-r3",
-  "level": "2",
-  "url": "sec-further-251-progressions.html#fig-further251-r3",
-  "type": "Figure",
-  "number": "8.3.3",
-  "title": "",
-  "body": "                "
-},
-{
-  "id": "sec-2-5-1-closed-in-C-Maj",
-  "level": "1",
-  "url": "sec-2-5-1-closed-in-C-Maj.html",
-  "type": "Section",
-  "number": "8.4",
-  "title": "2-5-1 Closed in C Major",
-  "body": " 2-5-1 Closed in C Major  This progression is built from a 4 note grip (chord formed by content of the grip shown above the shape) and a bass note that is the Root of the Progression Chord (named in the notation).  ===== Row 1: Shapes 1-4 =====-->                    Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips                                          "
-},
-{
-  "id": "fig-251-cmaj-r1",
-  "level": "2",
-  "url": "sec-2-5-1-closed-in-C-Maj.html#fig-251-cmaj-r1",
-  "type": "Figure",
-  "number": "8.4.1",
-  "title": "",
-  "body": "                   Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips     "
-},
-{
-  "id": "fig-251-cmaj-r2",
-  "level": "2",
-  "url": "sec-2-5-1-closed-in-C-Maj.html#fig-251-cmaj-r2",
-  "type": "Figure",
-  "number": "8.4.2",
-  "title": "",
-  "body": "                "
-},
-{
-  "id": "fig-251-cmaj-r3",
-  "level": "2",
-  "url": "sec-2-5-1-closed-in-C-Maj.html#fig-251-cmaj-r3",
-  "type": "Figure",
-  "number": "8.4.3",
-  "title": "",
-  "body": "                "
-},
-{
   "id": "sec-closed-triads-cmaj-desc-2nds",
   "level": "1",
   "url": "sec-closed-triads-cmaj-desc-2nds.html",
   "type": "Section",
-  "number": "8.5",
+  "number": "8.1",
   "title": "Closed Voice Triads from C Major Scale, Progressing Down in Intervals of a Second",
   "body": " Closed Voice Triads from C Major Scale, Progressing Down in Intervals of a Second                                                           "
 },
@@ -1409,7 +1256,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-closed-triads-cmaj-asc-2nds.html",
   "type": "Section",
-  "number": "8.6",
+  "number": "8.2",
   "title": "Closed Voice Triads from C Major Scale, Roots Ascending in 2nds",
   "body": " Closed Voice Triads from C Major Scale, Roots Ascending in 2nds                                                                                   "
 },
@@ -1418,7 +1265,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-closed-triads-cmaj-cof.html",
   "type": "Section",
-  "number": "8.7",
+  "number": "8.3",
   "title": "Closed Voice Triads from C Major Scale, Cycle of Fifths",
   "body": " Closed Voice Triads from C Major Scale, Cycle of Fifths                                                                                   "
 },
@@ -1427,7 +1274,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-closed-triads-cmaj-stepwise.html",
   "type": "Section",
-  "number": "8.8",
+  "number": "8.4",
   "title": "Closed Voice Triads from C Major Scale, Stepwise Voice Leading",
   "body": " Closed Voice Triads from C Major Scale, Stepwise Voice Leading                                                                                   "
 },
@@ -1436,16 +1283,25 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-Cmaj-drop2-COF.html",
   "type": "Section",
-  "number": "8.9",
+  "number": "8.5",
   "title": "Progression of Drop 2 Diatonic Chords from C Major Scale",
   "body": " Progression of Drop 2 Diatonic Chords from C Major Scale                                                                                                              "
+},
+{
+  "id": "sec-Cmaj-drop2-cycle2",
+  "level": "1",
+  "url": "sec-Cmaj-drop2-cycle2.html",
+  "type": "Section",
+  "number": "8.6",
+  "title": "Drop 2 Diatonic 7th Chords — C Major, Roots Ascending in 2nds (Cycle 2)",
+  "body": " Drop 2 Diatonic 7th Chords — C Major, Roots Ascending in 2nds (Cycle 2)  Descending Drop 2 seventh chords from the C major scale with roots ascending by step (cycle of 2nds). Each voicing is arranged for minimal movement and best voice leading. Initial sequence: .                                                                                                                                       "
 },
 {
   "id": "sec-Charm-min-drop2-COF",
   "level": "1",
   "url": "sec-Charm-min-drop2-COF.html",
   "type": "Section",
-  "number": "8.10",
+  "number": "8.7",
   "title": "Progression of Drop 2 Diatonic Chords from C Harmonic Minor Scale",
   "body": " Progression of Drop 2 Diatonic Chords from C Harmonic Minor Scale                                                                                                              "
 },
@@ -1454,16 +1310,97 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-Cmel-min-drop2-COF.html",
   "type": "Section",
-  "number": "8.11",
+  "number": "8.8",
   "title": "Progression of Drop 2 Diatonic Chords from C Melodic Minor Scale",
   "body": " Progression of Drop 2 Diatonic Chords from C Melodic Minor Scale                                                                                                              "
+},
+{
+  "id": "sec-2-5-1-progressions",
+  "level": "1",
+  "url": "sec-2-5-1-progressions.html",
+  "type": "Section",
+  "number": "9.1",
+  "title": "2-5-1 Progressions with Voice Leading (naturally follows Circle of Fifths)",
+  "body": " 2-5-1 Progressions with Voice Leading (naturally follows Circle of Fifths)                                                                          "
+},
+{
+  "id": "fig-251-p1r1",
+  "level": "2",
+  "url": "sec-2-5-1-progressions.html#fig-251-p1r1",
+  "type": "Figure",
+  "number": "9.1.1",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-251-p1r2",
+  "level": "2",
+  "url": "sec-2-5-1-progressions.html#fig-251-p1r2",
+  "type": "Figure",
+  "number": "9.1.2",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-251-p2r1",
+  "level": "2",
+  "url": "sec-2-5-1-progressions.html#fig-251-p2r1",
+  "type": "Figure",
+  "number": "9.1.3",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-251-p2r2",
+  "level": "2",
+  "url": "sec-2-5-1-progressions.html#fig-251-p2r2",
+  "type": "Figure",
+  "number": "9.1.4",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "sec-2-5-1-closed-in-C-Maj",
+  "level": "1",
+  "url": "sec-2-5-1-closed-in-C-Maj.html",
+  "type": "Section",
+  "number": "9.2",
+  "title": "2-5-1 Closed in C Major",
+  "body": " 2-5-1 Closed in C Major  This progression is built from a 4 note grip (chord formed by content of the grip shown above the shape) and a bass note that is the Root of the Progression Chord (named in the notation).  ===== Row 1: Shapes 1-4 =====-->                    Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips                                          "
+},
+{
+  "id": "fig-251-cmaj-r1",
+  "level": "2",
+  "url": "sec-2-5-1-closed-in-C-Maj.html#fig-251-cmaj-r1",
+  "type": "Figure",
+  "number": "9.2.1",
+  "title": "",
+  "body": "                   Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips     "
+},
+{
+  "id": "fig-251-cmaj-r2",
+  "level": "2",
+  "url": "sec-2-5-1-closed-in-C-Maj.html#fig-251-cmaj-r2",
+  "type": "Figure",
+  "number": "9.2.2",
+  "title": "",
+  "body": "                "
+},
+{
+  "id": "fig-251-cmaj-r3",
+  "level": "2",
+  "url": "sec-2-5-1-closed-in-C-Maj.html#fig-251-cmaj-r3",
+  "type": "Figure",
+  "number": "9.2.3",
+  "title": "",
+  "body": "                "
 },
 {
   "id": "sec-circle-structure",
   "level": "1",
   "url": "sec-circle-structure.html",
   "type": "Section",
-  "number": "9.1",
+  "number": "10.1",
   "title": "Structure of the Circle",
   "body": " Structure of the Circle   The Circle of Fifths. Outer circle contains Major Keys, the adjacent inner circle shows the Relative Minor.   A circle divided into twelve segments showing all major keys arranged by perfect fifths, with key signature accidental counts.  Shaded circe contains Major Keys the adjacent inner circle shows the Relative Minor.  Starting from C at the top of the circle and moving clockwise by perfect fifths, the twelve keys appear in the following order:  C G D A E B F \/G  D  A  E  B  F back to C.  Each step clockwise adds one sharp to the key signature. Each step anticlockwise adds one flat. The key of C major, at the top, has no sharps or flats.   Key Signatures Around the Circle of Fifths    Key  Sharps \/ Flats  Key Signature    C major  0  —    G major  1  F    D major  2  F , C    A major  3  F , C , G    E major  4  F , C , G , D    B major  5  F , C , G , D , A    F \/G major  6 \/ 6  Enharmonic equivalent    D major  5  B , E , A , D , G    A major  4  B , E , A , D    E major  3  B , E , A    B major  2  B , E    F major  1  B     "
 },
@@ -1472,7 +1409,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-circle-structure.html#fig-circle-of-fifths",
   "type": "Figure",
-  "number": "9.1.1",
+  "number": "10.1.1",
   "title": "",
   "body": " The Circle of Fifths. Outer circle contains Major Keys, the adjacent inner circle shows the Relative Minor.   A circle divided into twelve segments showing all major keys arranged by perfect fifths, with key signature accidental counts.  Shaded circe contains Major Keys the adjacent inner circle shows the Relative Minor. "
 },
@@ -1481,7 +1418,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-circle-structure.html#sec-circle-structure-6",
   "type": "Table",
-  "number": "9.1.2",
+  "number": "10.1.2",
   "title": "Key Signatures Around the Circle of Fifths",
   "body": " Key Signatures Around the Circle of Fifths    Key  Sharps \/ Flats  Key Signature    C major  0  —    G major  1  F    D major  2  F , C    A major  3  F , C , G    E major  4  F , C , G , D    B major  5  F , C , G , D , A    F \/G major  6 \/ 6  Enharmonic equivalent    D major  5  B , E , A , D , G    A major  4  B , E , A , D    E major  3  B , E , A    B major  2  B , E    F major  1  B    "
 },
@@ -1490,7 +1427,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-relative-minor-keys.html",
   "type": "Section",
-  "number": "9.2",
+  "number": "10.2",
   "title": "Relative Minor Keys",
   "body": " Relative Minor Keys  Every major key has a relative minor that shares the same key signature. The relative minor is found three semitones (a minor third) below the major key. On the Circle of Fifths, the relative minor keys form an inner circle:   Major Keys and Their Relative Minors    Major Key  Relative Minor   C major A minor  G major E minor  D major B minor  A major F minor  E major C minor  B major G minor  F major D minor  D major B minor  A major F minor  E major C minor  B major G minor  F major D minor    "
 },
@@ -1508,7 +1445,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-relative-minor-keys.html#sec-relative-minor-keys-3",
   "type": "Table",
-  "number": "9.2.1",
+  "number": "10.2.1",
   "title": "Major Keys and Their Relative Minors",
   "body": " Major Keys and Their Relative Minors    Major Key  Relative Minor   C major A minor  G major E minor  D major B minor  A major F minor  E major C minor  B major G minor  F major D minor  D major B minor  A major F minor  E major C minor  B major G minor  F major D minor   "
 },
@@ -1517,7 +1454,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-circle-chord-progressions.html",
   "type": "Section",
-  "number": "9.3",
+  "number": "10.3",
   "title": "Chord Progressions and the Circle",
   "body": " Chord Progressions and the Circle  An accordion player can access important Chord Progressions Using The Circle of Fifths:    By adding a Chord Quality to each Pitch Identity on the Circle some of the most important Chord Progressions, used in all types of music, can be obtained by using the Circle Diagram.  For this purpose all cycling through the Circle will be Counterclockwise.  Direction of travel Chordwise will therefore be C to F to B to E and so on using the \"pitch labels\" in the Circle.  Figure 8.3.1 illustrates all the possible ii-V-I progressions. Probably the most frequently occurring progression in all modern music.  Figure 8.3.1 also shows one of the more important chord resolutions in music, The Dominant 7 (V7) to Major(Maj7)  Figure 8.3.1 illustrates all the Dominants of Dominants, another frequently used chordal device. V7 to V7.  In this discussion the information given in the Diagram remains the same. The \"main-note-name\" positions around the circle, remain fixed but the Chord Quality changes eg; from a Major Chord to a Minor etc; .  All progressions cycle in an anticlockwise direction through the same Root note sequence, but with different Chord Qualities.    In Summary,the Circle of Fifths reveals the most common chord progressions in Western music. Chords that are adjacent on the circle sound naturally connected. The most important progressions follow the circle:     V I (dominant to tonic) : Moving one step anticlockwise. For example, G to C. This is the strongest resolution in tonal music.     ii V I : Moving two steps anticlockwise. For example, Dm G C. This is the most common jazz and popular music progression.     IV I (subdominant to tonic) : Moving one step clockwise. For example, F to C. A plagal cadence, often heard as the Amen cadence.     I IV V I : The three primary chords of any key are always adjacent on the circle. In C major: C, F, and G sit next to each other.    Recognising these relationships on the Circle of Fifths helps the accordion player anticipate chord changes and navigate progressions fluently across the keyboard.   Example of ii-V-I progression using the circle diagram. .      The three inner rings show how the ii–V–I progression — the most common chord movement in tonal music — sits within each key around the circle. For any major key in the outer ring, the IMaj7, iim7 and V7 chords always appear together in the same shaded section in the annular bands. Reading anticlockwise, the pattern repeats every three segments: the V7 chord resolves to the IMaj7, and the iim7 chord sets up the V7. Because the circle is arranged in fifths, every adjacent key shares two of these three chords, which is why modulation between neighbouring keys sounds so natural.  "
 },
@@ -1571,7 +1508,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-circle-chord-progressions.html#fig-circle-chord-progressions",
   "type": "Figure",
-  "number": "9.3.1",
+  "number": "10.3.1",
   "title": "",
   "body": " Example of ii-V-I progression using the circle diagram. .     "
 },
@@ -1589,7 +1526,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-circle-on-cba.html",
   "type": "Section",
-  "number": "9.4",
+  "number": "10.4",
   "title": "The Circle of Fifths on the Chromatic Button Accordion",
   "body": " The Circle of Fifths on the Chromatic Button Accordion  On the C-system chromatic button accordion, the perfect fifth interval always corresponds to the same physical movement on the keyboard, regardless of the starting note. This means that moving around the Circle of Fifths is a repeating geometric pattern on the instrument.  On the Stradella bass system, the Circle of Fifths is built directly into the layout. The bass note rows are arranged in fifths, so adjacent bass buttons follow the circle exactly. This makes common chord progressions (such as ii V I) physically adjacent on the bass side of the instrument.  Practising scales and chord progressions around the Circle of Fifths is one of the most effective ways to build fluency on the chromatic button accordion. Start from any key, move through all twelve keys by fifths, and observe how the same finger patterns repeat across the entire keyboard.  "
 },
@@ -1598,7 +1535,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "scales-modes-and-chords.html",
   "type": "Chapter",
-  "number": "10",
+  "number": "11",
   "title": "Scales, Modes and Chords",
   "body": " Scales, Modes and Chords   Chords, Scales and Modes are constructed from the same collection of notes. Scales are constructed by stacking 2nds on the Root of a Chromatic Scale (See Chapter 2.1) and Chords are constructed by stacking 3rds on the Root of Scale. (See Chapter 5). Whilst scales have notes which are played sequentially and arranged horizontally, chords notes are diatonic to a scale and are drawn from that scale. Chords notes are arranged vertically and the notes are played simultaneously. Modes are just a different way of thinking about scales and keys. A mode\/scale can be assigned to every single chord in a progression.   A scale or mode is a subset of the 12 notes of a chromatic scale (See Chapter 2.1) of one octave; it has two components:   1. The notes they are comprised of;  2. A tonal centre (or root note).    The Seven Modes of the Major Scale (C Major)        Mode  Degree  Scale Notation  Scale Formula    Ionian  I   1 2 3 4 5 6 7    Dorian  II   1 2 3 4 5 6 7    Phrygian  III   1 2 3 4 5 6 7    Lydian  IV   1 2 3 4 5 6 7    Mixolydian  V   1 2 3 4 5 6 7    Aeolian  VI   1 2 3 4 5 6 7    Locrian  VII   1 2 3 4 5 6 7     NB The Natural 11th is the 4th degree of the scale and is a perfect 4th above the root, but the natural 11th, interferes with our ability to hear the root and clashes with the 3rd of a chord, thereforethe 11th is generally ignored when thinking about chords and scales.  The following are examples of the relationship between Scales and Chords    The C major scale or C Ionian mode (C D E F G A B) has the same notes as a CMaj13 chord (C E G B D F A). The natural 11th (F) is present in both the scale and the chord, but we ignore it when thinking about the chord and scale relationship. The clash with the 3rd is the problem. The 3rd and 7th are responsible for describing the quality of the chord and are therefore very important notes, but the 5th (if it's a perfect 5th) doesn't really add anything. So the 5th is also often omitted from a voicing, whether because it's clashing or because we don't have enough fingers.  The C Mixolydian scale or mode (C D E F G A B♭) has the same notes as a C13 chord (C E G B♭ D F A) (ignoring the ♮11).  The C Lydian scale or mode (C D E F# G A B) has the same notes as a CMaj13#11 chord (C E G B D F# A).   These scales could be used to improvise over these chords.   A table identifying all Major and Melodic Minor Modes and associated Chords       Mode  Chord  Chord Tone Notation (1 3 5 7 9 11 13)    Major Modes:    C Ionian  CMaj13     C Dorian  Cmin13     C Phrygian  Cmin13 9 13     C Lydian  CMaj13 11     C Mixolydian  C13     C Aeolian  Cmin7 13     C Locrian  Cmin7 5 9 13     Melodic Minor Modes:    C Melodic Minor  CminMaj7     C Phrygian 6  Cmin13 9     C Lydian Augmented  CMaj13 5 11     C Lydian Dominant  C13 11     C Mixolydian 6  C11 13     C Half Diminished  Cmin7 5 13     C Altered  C7 5 9 9 13 (C7 alt)     Other Modes:    C Harmonic Minor  CminMaj7 13     Other Unknown  C7 5 9 11 13      A 13th chord uses all the notes in the scale to which it is diatonic (C Major ). This means that chords not extended all the way to the 13th are slightly ambiguous, as they are missing some chord (and therefore scale) notes. The key they appear in depends on the surrounding chords in the progression. It is therefore possible to play multiple scales over the same chord (provided the chord is not a 13th chord). For example, because a CMaj7 chord (C E G B) does not contain an F, you can use either of the following scales to improvise over it:   C Ionian (C D E F G A B); or  C Lydian (C D E F# G A B).   Both scales contain all the notes that comprise the CMaj7 chord. Because the CMaj7 does not have a 9th, 11th or 13th, we do not know what key it is in, and therefore we can use both scales over this chord. When thinking in terms of keys (rather than modes) we can say that the CMaj7 chord can be derived from both the key of C Major and G Major (C Lydian).  Looking at the whole chord progression, the CMaj7 chord is preceded by a G7 chord, so it's reasonable to assume that the CMaj7 chord is in the key of C Major (rather than G Major). That doesn’t mean that we cannot use the C Lydian mode over the CMaj7 chord. The Chord-Scale System looks at individual chords in isolation and allocates scales to each individual chord. We do NOT need to know what key a particular chord is in, in order to choose a scale to play over that chord. In the above example, it doesn’t matter what key the CMaj7 chord is in, we can use both scales to improvise over it. It’s often preferable to choose the scale outside the key of the chord progression in order to give a more harmonically complex and jazzy sound. If we had the chord progression: | G7 | CMaj7 || Many Jazz musicians would use the C Lydian mode over the CMaj7 chord precisely because the chord progression is NOT in the key of C Lydian (G Major).  Similarly, you could use the following scales over a Cm7 chord:   C Dorian (C D E♭ F G A B♭);  C Aeolian (C D E♭ F G A♭ B♭).   You could use the following scales over a C7 chord:   C Mixolydian (C D E F G A B♭);  C Lydian Dominant (C D E F# G A B♭).   Chords and scales both consist of the same limited number of notes. All music theory can be broken down into notes and intervals. Scales and Chords are constructed from the 12 notes of the octave.   Using Different Scales Over the Same Chord  When improvising, you can use any scale over a particular chord, as long as that scale has all the notes found in that particular chord. This works even if the whole progression is in a particular key. For example, considering a II-V-I in C Major:   II-V-I chord progressions using scales from different keys    Comments  II  V  I    Chord progression is IN the key of C Major. All chords are FROM the key of C Major.  Dm7  G7  CMaj7    Chord progression is IN the key of C Major. II-V are FROM the key of C Aeolian.  Dm7♭5  Gm7  CMaj7      Even though the top chord progression is IN the key of C Major, we can still use the C Lydian scale (G Major) to improvise over the CMaj7 chord.  Even though a chord progression is in the key of C Major, we can still borrow chords from a different key. In the case of the bottom chord progression, we borrowed the II-V chords from the key of C Aeolian (E♭ Major).     Omitting and Changing Notes  The most important notes of a chord are the Guide Tones (3rd & 7th) and to a lesser extent the root (which establishes tonality). The 5th isn't required which means you can play any scale over a chord, provided that scale contains the root, 3rd and 7th of the chord. For example, you can use any scale with a C, E and B in it over a CMaj7 chord, even if it doesn’t contain a G.  The following also applies:   You can omit notes; and  You can treat notes enharmonically (i.e. as a different chord degree).   Where a scale has BOTH a minor 3rd and a Major 3rd, the Major 3rd is the True 3rd and the minor 3rd is a disguised #9. And it is possible for a scale to omit the 3rd or 7th of a chord and yet still work over that chord — the 3rd or 7th is implied by the harmony. For example, you can use a scale that omits the 3rd over a CMaj7 chord, and the 3rd is implied by the chord.  Considering the C7 chord, the following scales can be used to improvise over it.   Scales that work over a C7 chord    Scale  Degrees  Comments    C Dominant Bebop scale  1 2 3 4 5 6 ♭7 7  Maj 7 used as passing note    Whole-tone scale  1 2 3 ♭5 ♭6 ♭7  1, 3 & ♭7    Altered scale  1 ♭2 ♭3 ♭4 ♭5 ♭6 ♭7  ♭3 = #2 = #9; ♭4 = 3    Blues scale  1 ♭3 4 #4 5 ♭7  ♭3 = #2 = #9; Omits 3      The C Dominant Bebop scale fits perfectly over a C7 chord because it starts on the root (C) and has the 3 and ♭7. The ♮7 acts only as a passing note.  The C Wholetone scale fits perfectly over a C7 chord because it starts on the root (C) and has the 3 and ♭7.  The C Altered scale also fits over a C7 chord even though it has a ♭3 (E♭). This is because the ♭3 acts as a #9 (D#) and the True 3rd is the ♭4 (E). So the ♭3 is enharmonically the same as a #9 and the ♭4 is enharmonically the same as a ♮3. So this scale fits over a C7 chord.  The C Blues scale also fits over a C7 chord. The ♭3 is treated as a #9 and the ♮3 is omitted. The ♮3 is implied by the chord C7. The scale then has an implied ♮3 and a ♭7, so fits over C7.   (Note #1: The ♮3 always overrides the minor ♭3 and turns it into a #9. This generally only applies to V7 chords and works because the #9 is an available tension over a C7 chord).  (Note #2: This idea does NOT apply to 7ths. You cannot turn a ♭7 into a #6 or #13. This is because a #13 is not an available tension over any chord).    Conclusion  Below is a selection of scales that can be used over particular chords, since they share the root, 3rd and 7th of the chord.   Scales for common chord types, examples in C    Chord  Possible Scale  Degrees  From C    Major 7 (any scale with Maj 3 & Maj 7)  Ionian  1 2 3 4 5 6 7  C D E F G A B    Lydian  1 2 3 #4 5 6 7  C D E F# G A B    Lydian Augmented  1 2 3 #4 #5 6 7  C D E F# G# A B    Major Bebop Scale  1 2 3 4 5 ♭6 6 7  C D E F G A♭ A B    Minor 7 (any scale with min 3 & min 7)  Aeolian  1 2 ♭3 4 5 ♭6 ♭7  C D E♭ F G A♭ B♭    Dorian  1 2 ♭3 4 5 6 ♭7  C D E♭ F G A B♭    Phrygian  1 ♭2 ♭3 4 5 ♭6 ♭7  C D♭ E♭ F G A♭ B♭    Half Diminished (any scale with min 3, ♭5 & min 7)  Locrian  1 ♭2 ♭3 4 ♭5 ♭6 ♭7  C D♭ E♭ F G♭ A♭ B♭    Half-diminished  1 2 ♭3 4 ♭5 ♭6 ♭7  C D E♭ F G♭ A♭ B♭    Dominant 7 (any scale with Maj 3 & min 7)  Mixolydian  1 2 3 4 5 6 ♭7  C D E F G A B♭    Lydian Dominant  1 2 3 #4 5 6 ♭7  C D E F# G A B♭    Mixolydian ♭6 Scale  1 2 3 4 5 ♭6 ♭7  C D E F G A♭ B♭    Altered  1 ♭2 ♭3 ♭4 ♭5 ♭6 ♭7  C D♭ E♭ F♭ G♭ A♭ B♭    Dorian ♭2  1 ♭2 ♭3 4 5 6 ♭7  C D♭ E♭ F G A B♭    Major Pentatonic  1 2 3 5 6  C D E G A    Blues  1 ♭3 4 #4 5 ♭7  C E♭ F F# G B♭    5th mode of Harmonic Minor  1 ♭2 3 4 5 ♭6 ♭7  C D♭ E F G A♭ B♭    5th mode of Harmonic Major  1 ♭2 3 4 5 6 ♭7  C D♭ E F G A B♭    Dominant Bebop  1 2 3 4 5 6 ♭7 7  C D E F G A B♭ B    Dominant Diminished  1 ♭2 #2 3 #4 5 6 ♭7  C D♭ D# E F# G A B♭    Whole Tone  1 2 3 #4 #5 ♭7  C D E G♭ A♭ B♭      "
 },
@@ -1607,7 +1544,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "scales-modes-and-chords.html#scales-modes-and-chords-5",
   "type": "Table",
-  "number": "10.0.1",
+  "number": "11.0.1",
   "title": "The Seven Modes of the Major Scale (C Major)",
   "body": " The Seven Modes of the Major Scale (C Major)        Mode  Degree  Scale Notation  Scale Formula    Ionian  I   1 2 3 4 5 6 7    Dorian  II   1 2 3 4 5 6 7    Phrygian  III   1 2 3 4 5 6 7    Lydian  IV   1 2 3 4 5 6 7    Mixolydian  V   1 2 3 4 5 6 7    Aeolian  VI   1 2 3 4 5 6 7    Locrian  VII   1 2 3 4 5 6 7    "
 },
@@ -1634,7 +1571,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "scales-modes-and-chords.html#scales-modes-and-chords-10",
   "type": "Table",
-  "number": "10.0.2",
+  "number": "11.0.2",
   "title": "A table identifying all Major and Melodic Minor Modes and associated Chords",
   "body": " A table identifying all Major and Melodic Minor Modes and associated Chords       Mode  Chord  Chord Tone Notation (1 3 5 7 9 11 13)    Major Modes:    C Ionian  CMaj13     C Dorian  Cmin13     C Phrygian  Cmin13 9 13     C Lydian  CMaj13 11     C Mixolydian  C13     C Aeolian  Cmin7 13     C Locrian  Cmin7 5 9 13     Melodic Minor Modes:    C Melodic Minor  CminMaj7     C Phrygian 6  Cmin13 9     C Lydian Augmented  CMaj13 5 11     C Lydian Dominant  C13 11     C Mixolydian 6  C11 13     C Half Diminished  Cmin7 5 13     C Altered  C7 5 9 9 13 (C7 alt)     Other Modes:    C Harmonic Minor  CminMaj7 13     Other Unknown  C7 5 9 11 13     "
 },
@@ -1643,7 +1580,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "scales-modes-and-chords.html#why-multiple-scales-over-chord-3",
   "type": "Table",
-  "number": "10.0.3",
+  "number": "11.0.3",
   "title": "II-V-I chord progressions using scales from different keys",
   "body": " II-V-I chord progressions using scales from different keys    Comments  II  V  I    Chord progression is IN the key of C Major. All chords are FROM the key of C Major.  Dm7  G7  CMaj7    Chord progression is IN the key of C Major. II-V are FROM the key of C Aeolian.  Dm7♭5  Gm7  CMaj7    "
 },
@@ -1652,7 +1589,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "scales-modes-and-chords.html#omitting-and-changing-notes-7",
   "type": "Table",
-  "number": "10.0.4",
+  "number": "11.0.4",
   "title": "Scales that work over a C7 chord",
   "body": " Scales that work over a C7 chord    Scale  Degrees  Comments    C Dominant Bebop scale  1 2 3 4 5 6 ♭7 7  Maj 7 used as passing note    Whole-tone scale  1 2 3 ♭5 ♭6 ♭7  1, 3 & ♭7    Altered scale  1 ♭2 ♭3 ♭4 ♭5 ♭6 ♭7  ♭3 = #2 = #9; ♭4 = 3    Blues scale  1 ♭3 4 #4 5 ♭7  ♭3 = #2 = #9; Omits 3    "
 },
@@ -1661,7 +1598,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "scales-modes-and-chords.html#conclusion-scales-over-chords-3",
   "type": "Table",
-  "number": "10.0.5",
+  "number": "11.0.5",
   "title": "Scales for common chord types, examples in C",
   "body": " Scales for common chord types, examples in C    Chord  Possible Scale  Degrees  From C    Major 7 (any scale with Maj 3 & Maj 7)  Ionian  1 2 3 4 5 6 7  C D E F G A B    Lydian  1 2 3 #4 5 6 7  C D E F# G A B    Lydian Augmented  1 2 3 #4 #5 6 7  C D E F# G# A B    Major Bebop Scale  1 2 3 4 5 ♭6 6 7  C D E F G A♭ A B    Minor 7 (any scale with min 3 & min 7)  Aeolian  1 2 ♭3 4 5 ♭6 ♭7  C D E♭ F G A♭ B♭    Dorian  1 2 ♭3 4 5 6 ♭7  C D E♭ F G A B♭    Phrygian  1 ♭2 ♭3 4 5 ♭6 ♭7  C D♭ E♭ F G A♭ B♭    Half Diminished (any scale with min 3, ♭5 & min 7)  Locrian  1 ♭2 ♭3 4 ♭5 ♭6 ♭7  C D♭ E♭ F G♭ A♭ B♭    Half-diminished  1 2 ♭3 4 ♭5 ♭6 ♭7  C D E♭ F G♭ A♭ B♭    Dominant 7 (any scale with Maj 3 & min 7)  Mixolydian  1 2 3 4 5 6 ♭7  C D E F G A B♭    Lydian Dominant  1 2 3 #4 5 6 ♭7  C D E F# G A B♭    Mixolydian ♭6 Scale  1 2 3 4 5 ♭6 ♭7  C D E F G A♭ B♭    Altered  1 ♭2 ♭3 ♭4 ♭5 ♭6 ♭7  C D♭ E♭ F♭ G♭ A♭ B♭    Dorian ♭2  1 ♭2 ♭3 4 5 6 ♭7  C D♭ E♭ F G A B♭    Major Pentatonic  1 2 3 5 6  C D E G A    Blues  1 ♭3 4 #4 5 ♭7  C E♭ F F# G B♭    5th mode of Harmonic Minor  1 ♭2 3 4 5 ♭6 ♭7  C D♭ E F G A♭ B♭    5th mode of Harmonic Major  1 ♭2 3 4 5 6 ♭7  C D♭ E F G A B♭    Dominant Bebop  1 2 3 4 5 6 ♭7 7  C D E F G A B♭ B    Dominant Diminished  1 ♭2 #2 3 #4 5 6 ♭7  C D♭ D# E F# G A B♭    Whole Tone  1 2 3 #4 #5 ♭7  C D E G♭ A♭ B♭    "
 },
@@ -1670,7 +1607,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-blank-chord-shape-template.html",
   "type": "Section",
-  "number": "11.1",
+  "number": "12.1",
   "title": "Blank Chord Shape Template",
   "body": " Blank Chord Shape Template                                                        "
 },
@@ -1679,7 +1616,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r1",
   "type": "Figure",
-  "number": "11.1.1",
+  "number": "12.1.1",
   "title": "",
   "body": "                "
 },
@@ -1688,7 +1625,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r2",
   "type": "Figure",
-  "number": "11.1.2",
+  "number": "12.1.2",
   "title": "",
   "body": "                "
 },
@@ -1697,7 +1634,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r3",
   "type": "Figure",
-  "number": "11.1.3",
+  "number": "12.1.3",
   "title": "",
   "body": "                "
 },
@@ -1706,7 +1643,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-chord-progression-template.html",
   "type": "Section",
-  "number": "11.2",
+  "number": "12.2",
   "title": "Extended Chord Progression Template",
   "body": " Extended Chord Progression Template  This template uses the shared 52-node extended 11-row grid layout, including the added lower and upper extension nodes.                                                        "
 },
@@ -1715,7 +1652,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r1",
   "type": "Figure",
-  "number": "11.2.1",
+  "number": "12.2.1",
   "title": "",
   "body": "                "
 },
@@ -1724,7 +1661,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r2",
   "type": "Figure",
-  "number": "11.2.2",
+  "number": "12.2.2",
   "title": "",
   "body": "                "
 },
@@ -1733,7 +1670,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r3",
   "type": "Figure",
-  "number": "11.2.3",
+  "number": "12.2.3",
   "title": "",
   "body": "                "
 },
@@ -1742,7 +1679,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-node-reference-grid.html",
   "type": "Section",
-  "number": "11.3",
+  "number": "12.3",
   "title": "Node Reference Grid (1–30)",
   "body": " Node Reference Grid (1–30)  The grid below numbers every node from (lowest C, bottom-right) to (highest G, top-left). Each diagonal band of five nodes rises from col 5 (right) to col 1 (left). To request a chord shape, simply name the node numbers to highlight — for example nodes 1, 7, 12 gives the C major triad (C, E, G).   Node numbering reference — node 1 is the lowest C (bottom-right); node 30 is the highest G (top-left).      Full lookup table — node number, note name, and \\gn address ( col , row ):      Node Note col row  Node Note col row   1  C  5 1.5  16 A  5 4.5  2  C♯\/D♭ 4 2  17 B♭\/A♯ 4 5  3  D  3 2.5  18 B  3 5.5  4  E♭\/D♯ 2 3  19 C  2 6  5  E  1 3.5  20 C♯\/D♭ 1 6.5  6  E♭\/D♯ 5 2.5  21 C  5 5.5  7  E  4 3  22 C♯\/D♭ 4 6  8  F  3 3.5  23 D  3 6.5  9  F♯\/G♭ 2 4  24 E♭\/D♯ 2 7  10 G  1 4.5  25 E  1 7.5  11 F♯\/G♭ 5 3.5  26 E♭\/D♯ 5 6.5  12 G  4 4  27 E  4 7  13 A♭\/G♯ 3 4.5  28 F  3 7.5  14 A  2 5  29 F♯\/G♭ 2 8  15 B♭\/A♯ 1 5.5  30 G  1 8.5   "
 },
@@ -1751,7 +1688,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-node-reference-grid.html#fig-node-reference",
   "type": "Figure",
-  "number": "11.3.1",
+  "number": "12.3.1",
   "title": "",
   "body": " Node numbering reference — node 1 is the lowest C (bottom-right); node 30 is the highest G (top-left).     "
 },
@@ -1760,7 +1697,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-grid1-highlight.html",
   "type": "Section",
-  "number": "11.4",
+  "number": "12.4",
   "title": "Grid 1 — Nodes 8, 14, 19, 27 (FMaj7)",
   "body": " Grid 1 — Nodes 8, 14, 19, 27 (FMaj7)   Nodes 8 (F), 14 (A), 19 (C), 27 (E) highlighted — FMaj7 shape.      "
 },
@@ -1769,7 +1706,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-grid1-highlight.html#fig-grid1-highlight",
   "type": "Figure",
-  "number": "11.4.1",
+  "number": "12.4.1",
   "title": "",
   "body": " Nodes 8 (F), 14 (A), 19 (C), 27 (E) highlighted — FMaj7 shape.     "
 },
@@ -1778,7 +1715,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-extended-grid-55-node-reference.html",
   "type": "Section",
-  "number": "11.5",
+  "number": "12.5",
   "title": "Extended Grid 1 — 55-Node Reference",
   "body": " Extended Grid 1 — 55-Node Reference  This reference shows all positions in the extended 11-row grid, with each node retaining its note label and carrying an identification number, including the added lower and upper extension nodes used by the drop-2 and chord-progression template figures.   Extended 11-row reference showing note labels and identification numbers for all 55 positions in the shared extended grid layout.      "
 },
@@ -1787,7 +1724,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-extended-grid-55-node-reference.html#fig-extended-grid-55-node-reference",
   "type": "Figure",
-  "number": "11.5.1",
+  "number": "12.5.1",
   "title": "",
   "body": " Extended 11-row reference showing note labels and identification numbers for all 55 positions in the shared extended grid layout.     "
 },
