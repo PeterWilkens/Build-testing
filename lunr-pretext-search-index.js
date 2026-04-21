@@ -1396,11 +1396,47 @@ var ptx_lunr_docs = [
   "body": "                "
 },
 {
+  "id": "sec-closed-triads-cmaj-desc-2nds",
+  "level": "1",
+  "url": "sec-closed-triads-cmaj-desc-2nds.html",
+  "type": "Section",
+  "number": "8.5",
+  "title": "Closed Voice Triads from C Major Scale, Progressing Down in Intervals of a Second",
+  "body": " Closed Voice Triads from C Major Scale, Progressing Down in Intervals of a Second                                                           "
+},
+{
+  "id": "sec-closed-triads-cmaj-asc-2nds",
+  "level": "1",
+  "url": "sec-closed-triads-cmaj-asc-2nds.html",
+  "type": "Section",
+  "number": "8.6",
+  "title": "Closed Voice Triads from C Major Scale, Roots Ascending in 2nds",
+  "body": " Closed Voice Triads from C Major Scale, Roots Ascending in 2nds                                                                                   "
+},
+{
+  "id": "sec-closed-triads-cmaj-cof",
+  "level": "1",
+  "url": "sec-closed-triads-cmaj-cof.html",
+  "type": "Section",
+  "number": "8.7",
+  "title": "Closed Voice Triads from C Major Scale, Cycle of Fifths",
+  "body": " Closed Voice Triads from C Major Scale, Cycle of Fifths                                                                                   "
+},
+{
+  "id": "sec-closed-triads-cmaj-stepwise",
+  "level": "1",
+  "url": "sec-closed-triads-cmaj-stepwise.html",
+  "type": "Section",
+  "number": "8.8",
+  "title": "Closed Voice Triads from C Major Scale, Stepwise Voice Leading",
+  "body": " Closed Voice Triads from C Major Scale, Stepwise Voice Leading                                                                                   "
+},
+{
   "id": "sec-Cmaj-drop2-COF",
   "level": "1",
   "url": "sec-Cmaj-drop2-COF.html",
   "type": "Section",
-  "number": "8.5",
+  "number": "8.9",
   "title": "Progression of Drop 2 Diatonic Chords from C Major Scale",
   "body": " Progression of Drop 2 Diatonic Chords from C Major Scale                                                                                                              "
 },
@@ -1409,7 +1445,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-Charm-min-drop2-COF.html",
   "type": "Section",
-  "number": "8.6",
+  "number": "8.10",
   "title": "Progression of Drop 2 Diatonic Chords from C Harmonic Minor Scale",
   "body": " Progression of Drop 2 Diatonic Chords from C Harmonic Minor Scale                                                                                                              "
 },
@@ -1418,7 +1454,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-Cmel-min-drop2-COF.html",
   "type": "Section",
-  "number": "8.7",
+  "number": "8.11",
   "title": "Progression of Drop 2 Diatonic Chords from C Melodic Minor Scale",
   "body": " Progression of Drop 2 Diatonic Chords from C Melodic Minor Scale                                                                                                              "
 },
