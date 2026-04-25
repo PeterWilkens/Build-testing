@@ -231,7 +231,7 @@
 
     \csname templatesplitnodestyle\endcsname{5}{9.5}{C}{4}{4}{2}
     \csname templatenodestyle\endcsname{4}{10.0}{}{3}
-    \csname templatenodestyle\endcsname{3}{10.5}{D}{2}
+    \csname templatenodestyle\endcsname{3}{10.5}{D}{1}
     \csname templatenodestyle\endcsname{2}{11.0}{}{3}
     \csname templatenodestyle\endcsname{1}{11.5}{}{3}
 \end{scope}
