@@ -1285,7 +1285,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.5",
   "title": "Progression of Drop 2 Diatonic Chords from C Major Scale (Cycle 4)",
-  "body": " Progression of Drop 2 Diatonic Chords from C Major Scale (Cycle 4)                                                                                                              "
+  "body": " Progression of Drop 2 Diatonic Chords from C Major Scale (Cycle 4)                                                                                                           "
 },
 {
   "id": "sec-Cmaj-7thChords",
@@ -1330,7 +1330,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.10",
   "title": "Progression of Drop 2 Diatonic Chords from C Harmonic Minor Scale",
-  "body": " Progression of Drop 2 Diatonic Chords from C Harmonic Minor Scale                                                                                                              "
+  "body": " Progression of Drop 2 Diatonic Chords from C Harmonic Minor Scale                                                                                                           "
 },
 {
   "id": "sec-Cmel-min-drop2-COF",
@@ -1339,7 +1339,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.11",
   "title": "Progression of Drop 2 Diatonic Chords from C Melodic Minor Scale",
-  "body": " Progression of Drop 2 Diatonic Chords from C Melodic Minor Scale                                                                                                              "
+  "body": " Progression of Drop 2 Diatonic Chords from C Melodic Minor Scale                                                                                                           "
 },
 {
   "id": "sec-2-5-1-progressions",
