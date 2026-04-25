@@ -3,7 +3,7 @@
 #(set-global-staff-size 12)
 
 ascendingPlaceholders = \lyricmode {
-  "2" "3" "1" "3" "1" "2" "1" "3" "4" "1" "3" "1" "2" "3" "4"
+  "2" "3" "4" "3" "1" "3" "4" "2" "3" "4" "3" "1" "2" "3" "4"
 }
 
 descendingPlaceholders = \lyricmode {
