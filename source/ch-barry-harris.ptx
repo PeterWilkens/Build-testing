@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="ch-barry-harris" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Barry Harris and Jazz Piano Theory</title>
+
+  <introduction>
+    <p>
+      This chapter presents the harmonic and theoretical system developed by the Detroit 
+      jazz pianist and educator Barry Harris (1929–2021). Harris spent more than six 
+      decades teaching jazz in workshops around the world, and his approach offers one 
+      of the most coherent and practical frameworks for understanding bebop harmony ever 
+      assembled. His system is centred on two complementary ideas: the <term>bebop scale</term> 
+      and the <term>6th chord / diminished 7th system</term>.
+    </p>
+    <p>
+      Although Barry Harris was primarily a pianist, his theories describe universal 
+      properties of tonal harmony and are equally applicable to any chromatic instrument. 
+      For the accordion player, the isomorphic layout of the chromatic button keyboard is 
+      a particular advantage: every pattern, every scale, every block-chord exercise has 
+      exactly the same fingering in all twelve keys. The daily exercises Harris recommended 
+      in <em>every</em> key can be mastered more systematically on the accordion than on 
+      most other instruments.
+    </p>
+    <p>
+      The chapter is organised as follows: the introduction presents Harris's background 
+      and philosophy; this is followed by a detailed treatment of the three bebop scales 
+      with notation; the 6th chord / diminished 7th system is then explained both 
+      theoretically and in terms of four-voice keyboard voicings; and finally, a set of 
+      daily scale and chord exercises — drawn directly from Harris's workshop teaching — 
+      is presented with practice guidance.
+    </p>
+  </introduction>
+
+  <xi:include href="./sec-barry-harris-intro.ptx" />
+  <xi:include href="./sec-barry-harris-bebop-scales.ptx" />
+  <xi:include href="./sec-barry-harris-6-diminished.ptx" />
+  <xi:include href="./sec-barry-harris-daily-exercises.ptx" />
+  <xi:include href="./sec-barry-harris-chord-shapes.ptx" />
+
+</chapter>

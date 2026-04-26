@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-barry-harris-chord-shapes" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>C6 / B°7 Chord Shapes on the Accordion Keyboard</title>
+
+  <introduction>
+    <p>
+      The eight diagrams below show all eight chord positions of the ascending C6 / B°7 
+      exercise as they appear on the chromatic button accordion keyboard. Each diagram 
+      highlights the four notes of one chord voicing: four are C major 6th chord inversions 
+      (labelled C6) and four are B diminished 7th inversions (labelled B°7), alternating as 
+      you ascend through one octave.
+    </p>
+    <p>
+      The B°7 chord tones (B, D, F, A<flat/>) all fall on the same diagonal column (column 3) 
+      of the isomorphic keyboard — they form a single vertical chain. The C6 chord tones 
+      (C, E, G, A) spread naturally across columns 1, 2, and 5 in compact close-position 
+      clusters. Because both chords are symmetrical (each has only three distinct shapes 
+      across all twelve keys due to the diminished 7th symmetry), once the pattern for 
+      C major is learned the shapes for all other keys follow by uniform shifting.
+    </p>
+    <p>
+      Shape 8 shows the B°7 chord in its root position at the lower register, illustrating 
+      how the system completes a cycle: after ascending through all seven positions, the 
+      diminished chord returns to its root-position shape ready to re-enter the pattern 
+      one octave higher.
+    </p>
+  </introduction>
+
+  <!-- ===== Row 1: Shapes 1–4 ===== -->
+  <figure xml:id="fig-bh-chord-shapes-r1">
+    <caption>
+      Barry Harris C6 / B°7 chord shapes, positions 1–4. Dark nodes are chord tones; 
+      C6 shapes spread across columns, B°7 shapes form a single diagonal on column 3.
+    </caption>
+    <sbsgroup>
+    <sidebyside widths="22% 22% 22% 22%" margins="3%">
+
+      <!-- Shape 1: C6 root — C(2,4) E(1,5.5) G(1,6.5) A(2,7) -->
+      <image xml:id="img-bh-cs-r1-g1">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {C6 (root)};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{1}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{1}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{1}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{1}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Shape 2: B°7/D — D(3,4.5) F(3,5.5) Ab(3,6.5) B(3,7.5) -->
+      <image xml:id="img-bh-cs-r1-g2">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {B$^\circ$7/D};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{1}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{1}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{1}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{1}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Shape 3: C6/E (1st inv) — E(1,5.5) G(1,6.5) A(2,7) C(2,8) -->
+      <image xml:id="img-bh-cs-r1-g3">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {C6/E};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{1}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{1}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{1}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{1}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Shape 4: B°7/F (2nd inv) — F(3,5.5) Ab(3,6.5) B(3,7.5) D(3,8.5) -->
+      <image xml:id="img-bh-cs-r1-g4">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {B$^\circ$7/F};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{1}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{1}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{1}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{1}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+    </sidebyside>
+    </sbsgroup>
+  </figure>
+
+  <!-- ===== Row 2: Shapes 5–8 ===== -->
+  <figure xml:id="fig-bh-chord-shapes-r2">
+    <caption>
+      Barry Harris C6 / B°7 chord shapes, positions 5–8. Shape 8 shows B°7 at its lower 
+      root position, completing the cyclic pattern of inversions.
+    </caption>
+    <sbsgroup>
+    <sidebyside widths="22% 22% 22% 22%" margins="3%">
+
+      <!-- Shape 5: C6/G (2nd inv) — G(1,6.5) A(2,7) C(2,8) E(1,9.5) -->
+      <image xml:id="img-bh-cs-r2-g1">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {C6/G};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{1}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{1}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{1}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{1}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Shape 6: B°7/Ab (3rd inv) — Ab(3,6.5) B(3,7.5) D(3,8.5) F(3,9.5) -->
+      <image xml:id="img-bh-cs-r2-g2">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {B$^\circ$7/A$\flat$};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{1}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{1}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{1}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{1}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Shape 7: C6/A (3rd inv) — A(2,7) C(2,8) E(4,9) G(4,10) [manual top] -->
+      <image xml:id="img-bh-cs-r2-g3">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {C6/A};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{1}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{1
+}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{1}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\gn{2}{10}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{10}{G}{1}%
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Shape 8: B°7 root (lower) — B(3,3.5) D(3,4.5) F(3,5.5) Ab(3,6.5) -->
+      <image xml:id="img-bh-cs-r2-g4">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {B$^\circ$7 (root)};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{1}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{1}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{1}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{1}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+    </sidebyside>
+    </sbsgroup>
+  </figure>
+
+  <p>
+    Notice that all B°7 inversions (shapes 2, 4, 6, and 8) highlight four buttons in a 
+    single vertical diagonal along column 3 of the keyboard — each one simply two rows 
+    higher than the previous. This is a direct consequence of the diminished 7th chord's 
+    symmetry: all four of its notes (B, D, F, A<flat/>) lie on the same column in the 
+    isomorphic layout, separated by equal intervals of a minor 3rd.
+  </p>
+  <p>
+    The C6 inversions (shapes 1, 3, 5, and 7) each show a compact cluster spread across 
+    columns 1, 2, and 4–5, ascending by one scale step with each successive shape. 
+    Practise moving between adjacent shapes (e.g. shape 1 → shape 2 → shape 3) until the 
+    hand can locate each voicing without hesitation. Then try skipping shapes (e.g. shape 1 → shape 4 → shape 7) to get used to them jumping around the keyboard.
+  </p>
+</section>

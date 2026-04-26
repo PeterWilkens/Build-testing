@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-barry-harris-bebop-scales" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Bebop Scales</title>
+
+  <introduction>
+    <p>
+      A <term>bebop scale</term> is an eight-note scale created by inserting a single chromatic 
+      passing tone into a standard seven-note scale. The purpose of this addition is rhythmic: 
+      when a bebop scale is played from the root descending (or ascending, starting on beat 1), 
+      chord tones fall on every strong beat (beats 1, 2, 3, 4) and passing tones fall on the 
+      off-beats (the <q>ands</q>). This produces naturally swinging melodic lines in which the 
+      harmonic structure is reinforced by the rhythm.
+    </p>
+    <p>
+      Barry Harris taught three primary bebop scales, each derived from a standard scale by 
+      adding a chromatic passing tone at a specific location. All three are taught and practised 
+      over a major 6th chord or dominant 7th chord in the corresponding key.
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-major-bebop-scale">
+    <title>The Major Bebop Scale</title>
+    <p>
+      The <term>major bebop scale</term> is built from the major scale by inserting a chromatic 
+      passing tone between the 5th and 6th scale degrees — that is, between G and A in C major. 
+      This passing tone is the augmented 5th (<sharp/>5, or G<sharp/> in the key of C).
+    </p>
+
+    <table>
+      <title>C Major Bebop Scale — Scale Degrees and Notes</title>
+      <tabular halign="center">
+        <row header="yes" bottom="medium">
+          <cell>Degree</cell>
+          <cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell>
+          <cell>5</cell><cell><sharp/>5</cell><cell>6</cell><cell>7</cell><cell>8</cell>
+        </row>
+        <row>
+          <cell>Note (C)</cell>
+          <cell>C</cell><cell>D</cell><cell>E</cell><cell>F</cell>
+          <cell>G</cell><cell>G<sharp/></cell><cell>A</cell><cell>B</cell><cell>C</cell>
+        </row>
+      </tabular>
+    </table>
+
+    <p>
+      The G<sharp/> is a passing tone only — it does not belong to the C major chord, but 
+      allows smooth connection between G and A. When descending, the G<sharp/> appears between 
+      A and G as a chromatic neighbour.
+    </p>
+
+    <figure xml:id="fig-major-bebop-c">
+      <caption>
+        C major bebop scale, ascending and descending. The <sharp/>5 (G<sharp/>) is the added 
+        chromatic passing tone between the 5th and 6th scale degrees.
+      </caption>
+      <image xml:id="img-major-bebop-c" source="notation/barry-harris-major-bebop-c" width="100%" />
+    </figure>
+  </subsection>
+
+  <subsection xml:id="subsec-dominant-bebop-scale">
+    <title>The Dominant Bebop Scale</title>
+    <p>
+      The <term>dominant bebop scale</term> is built from the Mixolydian scale (the natural 
+      mode used over a dominant 7th chord) by inserting the natural 7th as a chromatic passing 
+      tone between the <flat/>7 and the octave. In the key of C this means adding B natural 
+      between B<flat/> and the upper C.
+    </p>
+
+    <table>
+      <title>C Dominant Bebop Scale — Scale Degrees and Notes</title>
+      <tabular halign="center">
+        <row header="yes" bottom="medium">
+          <cell>Degree</cell>
+          <cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell>
+          <cell>5</cell><cell>6</cell><cell><flat/>7</cell><cell>7</cell><cell>8</cell>
+        </row>
+        <row>
+          <cell>Note (C)</cell>
+          <cell>C</cell><cell>D</cell><cell>E</cell><cell>F</cell>
+          <cell>G</cell><cell>A</cell><cell>B<flat/></cell><cell>B</cell><cell>C</cell>
+        </row>
+      </tabular>
+    </table>
+
+    <p>
+      The dominant bebop scale is the most widely used of Barry Harris's scales. It is the scale 
+      associated with the dominant 7th chord (C7 in C) and is used extensively in ii–V–I 
+      progressions. The chord tones of the C7 chord (C, E, G, B<flat/>) fall on strong beats 
+      when the scale is descended from the root.
+    </p>
+
+    <figure xml:id="fig-dominant-bebop-c">
+      <caption>
+        C dominant bebop scale, ascending and descending. The natural 7 (B) is the chromatic 
+        passing tone inserted between the <flat/>7 and the octave.
+      </caption>
+      <image xml:id="img-dominant-bebop-c" source="notation/barry-harris-dominant-bebop-c" width="100%" />
+    </figure>
+  </subsection>
+
+  <subsection xml:id="subsec-minor-bebop-scale">
+    <title>The Minor Bebop Scale</title>
+    <p>
+      Barry Harris's <term>minor bebop scale</term> is derived from the harmonic minor scale 
+      by adding the natural 6th as a chromatic passing tone between the <flat/>6 and the 
+      raised 7th. This produces an eight-note scale that contains both the characteristic 
+      minor-key colours (the <flat/>3, <flat/>6) and a smooth leading tone (the natural 7th 
+      of the harmonic minor) with an additional passing tone (the natural 6th).
+    </p>
+
+    <table>
+      <title>C Minor Bebop Scale — Scale Degrees and Notes</title>
+      <tabular halign="center">
+        <row header="yes" bottom="medium">
+          <cell>Degree</cell>
+          <cell>1</cell><cell>2</cell><cell><flat/>3</cell><cell>4</cell>
+          <cell>5</cell><cell><flat/>6</cell><cell>6</cell><cell>7</cell><cell>8</cell>
+        </row>
+        <row>
+          <cell>Note (C)</cell>
+          <cell>C</cell><cell>D</cell><cell>E<flat/></cell><cell>F</cell>
+          <cell>G</cell><cell>A<flat/></cell><cell>A</cell><cell>B</cell><cell>C</cell>
+        </row>
+      </tabular>
+    </table>
+
+    <p>
+      Notice that the C minor bebop scale contains the notes of both the C minor 6th chord 
+      (C, E<flat/>, G, A) and the B diminished 7th chord (B, D, F, A<flat/>), the same 
+      pairing that underpins the 6th/diminished system described in the next section.
+    </p>
+
+    <figure xml:id="fig-minor-bebop-c">
+      <caption>
+        C minor bebop scale, ascending and descending. The natural 6 (A) is the chromatic 
+        passing tone inserted between <flat/>6 (A<flat/>) and the raised 7th (B).
+      </caption>
+      <image xml:id="img-minor-bebop-c" source="notation/barry-harris-minor-bebop-c" width="100%" />
+    </figure>
+  </subsection>
+</section>

@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <chapter xml:id="ch-chord-scale-cyclic-movement" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Chord Scale Cyclic Movement</title>
-<p> Use these exercises to practice chord scale movement providing useful ear training as well as familiarity with the keyboard when moving different voices as each chord moves to the next. Each voicing is arranged for minimal movement and
-    best voice leading.</p> 
+  <introduction>
+<p> Use these exercises to practice chord scale movement providing useful ear training as well as familiarity with the keyboard when moving different voices independantly as each chord moves to the next. Each voicing is arranged for minimal movement and
+    smoothest voice leading.</p> 
+    <p> New chord shapes will be introduced in these exercises and exposure to them, as well as looking at how each chord is constructed, will help you understand their function. Each cycle will use different inversions.</p>
+</introduction>
   <xi:include href="./sec-closed-triads-cmaj-desc-2nds.ptx" />
   <xi:include href="./sec-closed-triads-cmaj-asc-2nds.ptx" />
   <xi:include href="./sec-closed-triads-cmaj-cof.ptx" />

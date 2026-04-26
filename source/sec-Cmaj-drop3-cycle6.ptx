@@ -456,6 +456,14 @@
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Em7};
+\gn{3}{-0.5}{B}{0}%
+\gn{5}{-0.5}{C}{0}%
+\gn{1}{-0.5}{B$\flat$/A$\sharp$}{0}%
+\gn{4}{0}{C$\sharp$/D$\flat$}{0}%
+\gn{2}{0}{C}{0}%
+\gn{3}{0.5}{D}{0}%
+\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{0.5}{C$\sharp$/D$\flat$}{0}%
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%
@@ -520,6 +528,14 @@
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
 \node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {CM7};
+\gn{3}{-0.5}{B}{0}%
+\gn{5}{-0.5}{C}{0}%
+\gn{1}{-0.5}{B$\flat$/A$\sharp$}{0}%
+\gn{4}{0}{C$\sharp$/D$\flat$}{0}%
+\gn{2}{0}{C}{0}%
+\gn{3}{0.5}{D}{0}%
+\gn{5}{0.5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{0.5}{C$\sharp$/D$\flat$}{0}%
 \gn{4}{1}{E}{0}%
 \gn{2}{1}{E$\flat$/D$\sharp$}{0}%
 \gn{3}{1.5}{F}{0}%

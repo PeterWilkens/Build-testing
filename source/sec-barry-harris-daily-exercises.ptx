@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-barry-harris-daily-exercises" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Daily Scale and Chord Exercises</title>
+
+  <introduction>
+    <p>
+      Barry Harris was insistent that theory without daily practice is meaningless. His workshop 
+      exercises are designed to be drilled slowly and methodically, at a tempo where every note 
+      is even, every chord change is smooth, and the sound of each chord type is committed to 
+      memory. He recommended beginning in C major and then transposing each exercise to all 
+      twelve keys before moving on.
+    </p>
+    <p>
+      The exercises below form the core daily practice routine that Harris taught at his 
+      workshops. They should be practised with a metronome and, once comfortable, with a 
+      rhythm section playalong.
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-daily-bebop-scale-exercise">
+    <title>Exercise 1: The Bebop Scale</title>
+    <p>
+      Play each of the three bebop scales (major, dominant, and minor) ascending and descending 
+      for two octaves in every key. Pay close attention to the placement of the chromatic 
+      passing tone — it should sound smooth and connected, not like an accidental. Barry Harris 
+      often said that the bebop scale should feel like a single phrase, not like a seven-note 
+      scale with a wrong note added.
+    </p>
+    <p>
+      <em>Practice progression:</em>
+    </p>
+    <ol>
+      <li><p>Right hand alone, one octave ascending and descending, slowly (quarter = 60).</p></li>
+      <li><p>Left hand alone, one octave ascending and descending.</p></li>
+      <li><p>Hands together in parallel motion (both hands playing the same scale in the same direction).</p></li>
+      <li><p>Hands together in contrary motion (right hand ascending while left hand descends).</p></li>
+      <li><p>Increase tempo gradually to quarter = 120 before moving to the next key.</p></li>
+    </ol>
+    <p>
+      Begin with the dominant bebop scale, as it is the most common in jazz. The major bebop 
+      scale follows naturally, and the minor bebop scale should be introduced once the first 
+      two are secure.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-daily-6dim-chord-exercise">
+    <title>Exercise 2: The 6th Chord / Diminished Alternation</title>
+    <p>
+      This is the central exercise of the Barry Harris method. It trains the ear, the fingers, 
+      and the musical imagination simultaneously. Play the ascending 6th chord and diminished 
+      chord exercise (shown in the previous section) using close four-voice block chords.
+    </p>
+    <p>
+      <em>Practice routine:</em>
+    </p>
+    <ol>
+      <li><p>Right hand alone, ascending: C6 — B°7/D — C6/E — B°7/F — C6/G — C6/A — B°7 — C6 (upper octave).</p></li>
+      <li><p>Right hand alone, descending: reverse the above, moving from the upper C6 back to the root position.</p></li>
+      <li><p>Left hand plays sustained root (C in the bass), right hand ascends and descends.</p></li>
+      <li><p>Left hand plays the bass note that corresponds to the inversion in the right hand (walking through the scale: C — D — E — F — G — A — B — C).</p></li>
+      <li><p>Play the full exercise in all twelve keys.</p></li>
+    </ol>
+
+    <p>
+      Listen carefully to the way each chord connects to the next. Barry Harris emphasised 
+      that the exercise should produce a <em>singing, melodic sound</em>, not a mechanical 
+      arpeggio. The top voice traces the major bebop scale — this is the melody you are 
+      harmonising.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-daily-harmonized-scale">
+    <title>Exercise 3: The Harmonized Major Scale</title>
+    <p>
+      This exercise combines the melodic and harmonic aspects of the system. Play the C major 
+      scale in the right hand (single notes, one octave ascending) while assigning each note 
+      its correct chord symbol from the 6th / diminished system:
+    </p>
+    <ul>
+      <li><p>Scale degrees 1, 3, 5, 6 (C, E, G, A) belong to the C6 chord.</p></li>
+      <li><p>Scale degrees 2, 4, 7 (D, F, B) belong to the B°7 chord.</p></li>
+    </ul>
+    <p>
+      In practice, each note of the melody is played as the top voice of the corresponding 
+      four-note block chord. The figure below shows the chord symbol that applies to each 
+      scale degree as you ascend.
+    </p>
+
+    <figure xml:id="fig-barry-harris-harmonized-scale">
+      <caption>
+        C major scale with Barry Harris 6th / diminished chord assignments. Each note of the 
+        ascending scale is labelled with its corresponding chord: C6 for chord tones, B°7 for 
+        passing tones.
+      </caption>
+      <image xml:id="img-barry-harris-harmonized-scale" source="notation/barry-harris-harmonized-scale" width="100%" />
+    </figure>
+
+    <p>
+      <em>Practice routine:</em>
+    </p>
+    <ol>
+      <li><p>Sing or play the scale degree while naming the chord aloud (for example: <q>C — C6, D — B°7, E — C6, F — B°7 ...</q>).</p></li>
+      <li>
+        <p>
+          Play the melody note as the top voice of a full four-voice block chord in the right 
+          hand. Use the inversions from the table in the previous section, moving upward 
+          smoothly.
+        </p>
+      </li>
+      <li><p>Add a bass note in the left hand: the root of the chord for chord tones, or the bass note of the inversion for passing diminished chords.</p></li>
+      <li><p>Practise descending as well as ascending.</p></li>
+      <li><p>Transpose to all twelve keys.</p></li>
+    </ol>
+  </subsection>
+
+  <subsection xml:id="subsec-daily-practice-tips">
+    <title>Practice Tips from the Barry Harris Workshop</title>
+    <p>
+      Barry Harris offered the following guidance consistently throughout his teaching:
+    </p>
+    <ul>
+      <li>
+        <p>
+          <em>Slow is fast.</em> Always begin at a tempo where every note speaks clearly and 
+          every chord is balanced. Speed is a consequence of accuracy, not a goal in itself.
+        </p>
+      </li>
+      <li>
+        <p>
+          <em>Twelve keys, every day.</em> A pattern learned in only one or two keys is not 
+          truly learned. The chromatic button accordion makes this particularly accessible, 
+          since the fingering pattern for any exercise is identical in every key.
+        </p>
+      </li>
+      <li>
+        <p>
+          <em>Listen to the top voice.</em> When practising block chord exercises, the top 
+          voice is the melody. Train yourself to hear it singing above the harmony, and ensure 
+          it has a connected, vocal quality.
+        </p>
+      </li>
+      <li>
+        <p>
+          <em>Hear the chord before you play it.</em> Harris insisted that students should 
+          be able to sing or audiate each voicing before placing their hands on the keys. 
+          The ear leads, the hands follow.
+        </p>
+      </li>
+      <li>
+        <p>
+          <em>The diminished is not a chord, it is a passageway.</em> The B°7 is a connecting 
+          structure — a set of four passing tones that link one position of the C6 chord to 
+          the next. Understanding it this way keeps the ear focused on the tonic harmony and 
+          prevents the diminished chord from sounding like an unrelated intrusion.
+        </p>
+      </li>
+    </ul>
+  </subsection>
+</section>
