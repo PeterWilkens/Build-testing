@@ -19,11 +19,11 @@
 
     <table>
       <title>The Seven Modes of the Major Scale (C Major)</title>
-      <tabular top="major" halign="center">
+      <tabular top="major" halign="center" width="100%">
         <col width="12%" />
         <col width="8%" />
-        <col width="55%" />
-        <col width="25%" />
+        <col width="40%" />
+        <col width="40%" />
         <row header="yes">
           <cell right="minor">Mode</cell>
           <cell right="minor">Degree</cell>
@@ -33,43 +33,43 @@
         <row>
           <cell right="minor" bottom="minor">Ionian</cell>
           <cell right="minor" bottom="minor">I</cell>
-          <cell right="minor" bottom="minor"><image source="notation/mode-ionian" width="100%" /></cell>
+          <cell right="minor" bottom="minor"><p><image source="notation/mode-ionian" width="100%" /></p></cell>
           <cell bottom="minor">1  2  3  4  5  6  7</cell>
         </row>
         <row>
           <cell right="minor" bottom="minor">Dorian</cell>
           <cell right="minor" bottom="minor">II</cell>
-          <cell right="minor" bottom="minor"><image source="notation/mode-dorian" width="100%" /></cell>
+          <cell right="minor" bottom="minor"><p><image source="notation/mode-dorian" width="100%" /></p></cell>
           <cell bottom="minor">1  2  <flat/>3  4  5  6  <flat/>7</cell>
         </row>
         <row>
           <cell right="minor" bottom="minor">Phrygian</cell>
           <cell right="minor" bottom="minor">III</cell>
-          <cell right="minor" bottom="minor"><image source="notation/mode-phrygian" width="100%" /></cell>
+          <cell right="minor" bottom="minor"><p><image source="notation/mode-phrygian" width="100%" /></p></cell>
           <cell bottom="minor">1  <flat/>2  <flat/>3  4  5  <flat/>6  <flat/>7</cell>
         </row>
         <row>
           <cell right="minor" bottom="minor">Lydian</cell>
           <cell right="minor" bottom="minor">IV</cell>
-          <cell right="minor" bottom="minor"><image source="notation/mode-lydian" width="100%" /></cell>
+          <cell right="minor" bottom="minor"><p><image source="notation/mode-lydian" width="100%" /></p></cell>
           <cell bottom="minor">1  2  3  <sharp/>4  5  6  7</cell>
         </row>
         <row>
           <cell right="minor" bottom="minor">Mixolydian</cell>
           <cell right="minor" bottom="minor">V</cell>
-          <cell right="minor" bottom="minor"><image source="notation/mode-mixolydian" width="100%" /></cell>
+          <cell right="minor" bottom="minor"><p><image source="notation/mode-mixolydian" width="100%" /></p></cell>
           <cell bottom="minor">1  2  3  4  5  6  <flat/>7</cell>
         </row>
         <row>
           <cell right="minor" bottom="minor">Aeolian</cell>
           <cell right="minor" bottom="minor">VI</cell>
-          <cell right="minor" bottom="minor"><image source="notation/mode-aeolian" width="100%" /></cell>
+          <cell right="minor" bottom="minor"><p><image source="notation/mode-aeolian" width="100%" /></p></cell>
           <cell bottom="minor">1  2  <flat/>3  4  5  <flat/>6  <flat/>7</cell>
         </row>
         <row>
           <cell right="minor" bottom="major">Locrian</cell>
           <cell right="minor" bottom="major">VII</cell>
-          <cell right="minor" bottom="major"><image source="notation/mode-locrian" width="100%" /></cell>
+          <cell right="minor" bottom="major"><p><image source="notation/mode-locrian" width="100%" /></p></cell>
           <cell bottom="major">1  <flat/>2  <flat/>3  4  <flat/>5  <flat/>6  <flat/>7</cell>
         </row>
       </tabular>
@@ -92,10 +92,10 @@ The clash with the 3rd is the problem. The 3rd and 7th are responsible for descr
 
  <table>
   <title>A table identifying all Major and Melodic Minor Modes and associated Chords</title>
-  <tabular top="major" halign="left">
+  <tabular top="major" halign="left" width="100%">
     <col width="22%" />
-    <col width="28%" />
-    <col width="50%" />
+    <col width="33%" />
+    <col width="45%" />
     <row header="yes">
       <cell right="minor">Mode</cell>
       <cell right="minor">Chord</cell>
@@ -107,37 +107,37 @@ The clash with the 3rd is the problem. The 3rd and 7th are responsible for descr
     <row>
       <cell right="minor" bottom="minor">C Ionian</cell>
       <cell right="minor" bottom="minor">CMaj13</cell>
-      <cell right="minor" bottom="minor"><image source="notation/mode-ionian-chord" width="100%" /></cell>
+      <cell right="minor" bottom="minor"><p><image source="notation/mode-ionian-chord" width="100%" /></p></cell>
     </row>
     <row>
       <cell right="minor" bottom="minor">C Dorian</cell>
       <cell right="minor" bottom="minor">Cmin13</cell>
-      <cell right="minor" bottom="minor"><image source="notation/mode-dorian-chord" width="100%" /></cell>
+      <cell right="minor" bottom="minor"><p><image source="notation/mode-dorian-chord" width="100%" /></p></cell>
     </row>
     <row>
       <cell right="minor" bottom="minor">C Phrygian</cell>
       <cell right="minor" bottom="minor">Cmin13<flat/>9<flat/>13</cell>
-      <cell right="minor" bottom="minor"><image source="notation/mode-phrygian-chord" width="100%" /></cell>
+      <cell right="minor" bottom="minor"><p><image source="notation/mode-phrygian-chord" width="100%" /></p></cell>
     </row>
     <row>
       <cell right="minor" bottom="minor">C Lydian</cell>
       <cell right="minor" bottom="minor">CMaj13<sharp/>11</cell>
-      <cell right="minor" bottom="minor"><image source="notation/mode-lydian-chord" width="100%" /></cell>
+      <cell right="minor" bottom="minor"><p><image source="notation/mode-lydian-chord" width="100%" /></p></cell>
     </row>
     <row>
       <cell right="minor" bottom="minor">C Mixolydian</cell>
       <cell right="minor" bottom="minor">C13</cell>
-      <cell right="minor" bottom="minor"><image source="notation/mode-mixolydian-chord" width="100%" /></cell>
+      <cell right="minor" bottom="minor"><p><image source="notation/mode-mixolydian-chord" width="100%" /></p></cell>
     </row>
     <row>
       <cell right="minor" bottom="minor">C Aeolian</cell>
       <cell right="minor" bottom="minor">Cmin7<flat/>13</cell>
-      <cell right="minor" bottom="minor"><image source="notation/mode-aeolian-chord" width="100%" /></cell>
+      <cell right="minor" bottom="minor"><p><image source="notation/mode-aeolian-chord" width="100%" /></p></cell>
     </row>
     <row>
       <cell right="minor" bottom="minor">C Locrian</cell>
       <cell right="minor" bottom="minor">Cmin7<flat/>5<flat/>9<flat/>13</cell>
-      <cell right="minor" bottom="minor"><image source="notation/mode-locrian-chord" width="100%" /></cell>
+      <cell right="minor" bottom="minor"><p><image source="notation/mode-locrian-chord" width="100%" /></p></cell>
     </row>
     <row>
       <cell right="minor" bottom="minor" cols="3"><term>Melodic Minor Modes:</term></cell>
@@ -145,37 +145,37 @@ The clash with the 3rd is the problem. The 3rd and 7th are responsible for descr
     <row>
       <cell right="minor" bottom="minor">C Melodic Minor</cell>
       <cell right="minor" bottom="minor">CminMaj7</cell>
-      <cell right="minor" bottom="minor"><image source="notation/mode-melodic-minor-chord" width="100%" /></cell>
+      <cell right="minor" bottom="minor"><p><image source="notation/mode-melodic-minor-chord" width="100%" /></p></cell>
     </row>
     <row>
       <cell right="minor" bottom="minor">C Phrygian <natural/>6</cell>
       <cell right="minor" bottom="minor">Cmin13<flat/>9</cell>
-      <cell right="minor" bottom="minor"><image source="notation/mode-phrygian-nat6-chord" width="100%" /></cell>
+      <cell right="minor" bottom="minor"><p><image source="notation/mode-phrygian-nat6-chord" width="100%" /></p></cell>
     </row>
     <row>
       <cell right="minor" bottom="minor">C Lydian Augmented</cell>
       <cell right="minor" bottom="minor">CMaj13<sharp/>5<sharp/>11</cell>
-      <cell right="minor" bottom="minor"><image source="notation/mode-lydian-aug-chord" width="100%" /></cell>
+      <cell right="minor" bottom="minor"><p><image source="notation/mode-lydian-aug-chord" width="100%" /></p></cell>
     </row>
     <row>
       <cell right="minor" bottom="minor">C Lydian Dominant</cell>
       <cell right="minor" bottom="minor">C13<sharp/>11</cell>
-      <cell right="minor" bottom="minor"><image source="notation/mode-lydian-dom-chord" width="100%" /></cell>
+      <cell right="minor" bottom="minor"><p><image source="notation/mode-lydian-dom-chord" width="100%" /></p></cell>
     </row>
     <row>
       <cell right="minor" bottom="minor">C Mixolydian<flat/>6</cell>
       <cell right="minor" bottom="minor">C11<flat/>13</cell>
-      <cell right="minor" bottom="minor"><image source="notation/mode-mixolydian-b6-chord" width="100%" /></cell>
+      <cell right="minor" bottom="minor"><p><image source="notation/mode-mixolydian-b6-chord" width="100%" /></p></cell>
     </row>
     <row>
       <cell right="minor" bottom="minor">C Half Diminished</cell>
       <cell right="minor" bottom="minor">Cmin7<flat/>5<flat/>13</cell>
-      <cell right="minor" bottom="minor"><image source="notation/mode-half-dim-chord" width="100%" /></cell>
+      <cell right="minor" bottom="minor"><p><image source="notation/mode-half-dim-chord" width="100%" /></p></cell>
     </row>
     <row>
       <cell right="minor" bottom="minor">C Altered</cell>
       <cell right="minor" bottom="minor">C7<flat/>5<flat/>9<sharp/>9<flat/>13 (C7 alt)</cell>
-      <cell right="minor" bottom="minor"><image source="notation/mode-altered-chord" width="100%" /></cell>
+      <cell right="minor" bottom="minor"><p><image source="notation/mode-altered-chord" width="100%" /></p></cell>
     </row>
     <row>
       <cell right="minor" bottom="minor" cols="3"><term>Other Modes:</term></cell>
@@ -183,12 +183,12 @@ The clash with the 3rd is the problem. The 3rd and 7th are responsible for descr
     <row>
       <cell right="minor" bottom="minor">C Harmonic Minor</cell>
       <cell right="minor" bottom="minor">CminMaj7<flat/>13</cell>
-      <cell right="minor" bottom="minor"><image source="notation/mode-harmonic-minor-chord" width="100%" /></cell>
+      <cell right="minor" bottom="minor"><p><image source="notation/mode-harmonic-minor-chord" width="100%" /></p></cell>
     </row>
     <row>
       <cell right="minor" bottom="minor">Other Unknown</cell>
       <cell right="minor" bottom="minor">C7<sharp/>5<flat/>9<sharp/>11<flat/>13</cell>
-      <cell right="minor" bottom="minor"><image source="notation/mode-other-unknown-chord" width="100%" /></cell>
+      <cell right="minor" bottom="minor"><p><image source="notation/mode-other-unknown-chord" width="100%" /></p></cell>
     </row>
   </tabular>
 </table>
@@ -227,7 +227,7 @@ Many Jazz musicians would use the C Lydian mode over the CMaj7 chord precisely b
   </p>
   <table>
     <title>II-V-I chord progressions using scales from different keys</title>
-    <tabular top="minor" halign="center">
+    <tabular top="minor" halign="center" width="100%">
       <row header="yes">
         <cell halign="left">Comments</cell>
         <cell>II</cell>
@@ -334,7 +334,7 @@ Many Jazz musicians would use the C Lydian mode over the CMaj7 chord precisely b
   </p>
   <table>
     <title>Scales for common chord types, examples in C</title>
-    <tabular top="minor" halign="left">
+    <tabular top="minor" halign="left" width="100%">
       <row header="yes">
         <cell>Chord</cell>
         <cell>Possible Scale</cell>
