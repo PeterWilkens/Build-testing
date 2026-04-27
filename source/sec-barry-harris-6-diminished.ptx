@@ -156,7 +156,34 @@
     <p>
       Practise this exercise hands separately and then together. The left hand can hold 
       sustained bass notes (C — G — C, or the full chord root progression) while the right 
-      hand moves through the ascending inversions. Always practise in all twelve keys.
+      hand moves through the ascending inversions. 
     </p>
+  </subsection>
+
+  <subsection xml:id="subsec-using-maj6dim-scale">
+    <title>Using the Major 6th Diminished Scale</title>
+    <p>
+      The following transcription, arranged by Robert Glover from a Barry Harris demonstration, 
+      shows how the major 6th diminished scale is applied in practice. The piece cycles through 
+      the alternating C6 and B°7 voicings, illustrating how the scale generates smooth 
+      voice-leading through its inversions. Study each phrase carefully, noting how every 
+      melodic movement connects chord tones of one voicing to the nearest chord tones of the next.
+      The original video demonstration by Barry Harris can be viewed at 
+      <url href="https://youtu.be/OGA64aGWX98" visual="youtu.be/OGA64aGWX98">youtu.be/OGA64aGWX98</url>.
+    </p>
+
+    <figure xml:id="fig-using-maj6dim-scale">
+      <caption>
+        Using the Major 6th Diminished Scale (Barry Harris, arr. Robert Glover). 
+        A demonstration of the C6 / B°7 system applied melodically and harmonically, 
+        showing practical voice-leading through the alternating voicings.
+      </caption>
+      <image xml:id="img-using-maj6dim-scale-p1" source="notation/using-major-6-diminished-1" width="100%" />
+      <image xml:id="img-using-maj6dim-scale-p2" source="notation/using-major-6-diminished-2" width="100%" />
+      <image xml:id="img-using-maj6dim-scale-p3" source="notation/using-major-6-diminished-3" width="100%" />
+      <image xml:id="img-using-maj6dim-scale-p4" source="notation/using-major-6-diminished-4" width="100%" />
+      <image xml:id="img-using-maj6dim-scale-p5" source="notation/using-major-6-diminished-5" width="100%" />
+      <image xml:id="img-using-maj6dim-scale-p6" source="notation/using-major-6-diminished-6" width="100%" />
+    </figure>
   </subsection>
 </section>
