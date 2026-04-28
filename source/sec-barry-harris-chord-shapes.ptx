@@ -11,7 +11,7 @@
       you ascend through one octave.
     </p>
     <p>
-      The B°7 chord tones (B, D, F, A<flat/>) all fall on the same diagonal column (column 3) 
+      The B°7 chord tones (B, D, F, A<flat/>) all fall on the same vertical column (column 3) 
       of the isomorphic keyboard — they form a single vertical chain. The C6 chord tones 
       (C, E, G, A) spread naturally across columns 1, 2, and 5 in compact close-position 
       clusters. Because both chords are symmetrical (each has only three distinct shapes 
@@ -30,7 +30,7 @@
   <figure xml:id="fig-bh-chord-shapes-r1">
     <caption>
       Barry Harris C6 / B°7 chord shapes, positions 1–4. Dark nodes are chord tones; 
-      C6 shapes spread across columns, B°7 shapes form a single diagonal on column 3.
+      C6 shapes spread across columns, B°7 shapes form a single vertical column of buttons.
     </caption>
     <sbsgroup>
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
