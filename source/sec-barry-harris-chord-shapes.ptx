@@ -27,11 +27,6 @@
   </introduction>
 
   <!-- ===== Row 1: Shapes 1–4 ===== -->
-  <figure xml:id="fig-bh-chord-shapes-r1">
-    <caption>
-      Barry Harris C6 / B°7 chord shapes, positions 1–4. Dark nodes are chord tones; 
-      C6 shapes spread across columns, B°7 shapes form a single vertical column of buttons.
-    </caption>
     <sbsgroup>
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
@@ -301,14 +296,8 @@
 
     </sidebyside>
     </sbsgroup>
-  </figure>
 
   <!-- ===== Row 2: Shapes 5–8 ===== -->
-  <figure xml:id="fig-bh-chord-shapes-r2">
-    <caption>
-      Barry Harris C6 / B°7 chord shapes, positions 5–8. Shape 8 shows B°7 at its lower 
-      root position, completing the cyclic pattern of inversions.
-    </caption>
     <sbsgroup>
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
@@ -580,19 +569,17 @@
 
     </sidebyside>
     </sbsgroup>
-  </figure>
 
   <p>
     Notice that all B°7 inversions (shapes 2, 4, 6, and 8) highlight four buttons in a 
-    single vertical diagonal along column 3 of the keyboard — each one simply two rows 
+    single vertical column of the keyboard — each one simply two rows 
     higher than the previous. This is a direct consequence of the diminished 7th chord's 
     symmetry: all four of its notes (B, D, F, A<flat/>) lie on the same column in the 
     isomorphic layout, separated by equal intervals of a minor 3rd.
   </p>
   <p>
     The C6 inversions (shapes 1, 3, 5, and 7) each show a compact cluster spread across 
-    columns 1, 2, and 4–5, ascending by one scale step with each successive shape. 
-    Practise moving between adjacent shapes (e.g. shape 1 → shape 2 → shape 3) until the 
-    hand can locate each voicing without hesitation. Then try skipping shapes (e.g. shape 1 → shape 4 → shape 7) to get used to them jumping around the keyboard.
+    columns 1, 2, and 4–5, ascending by one scale step with each successive shape.
   </p>
+
 </section>

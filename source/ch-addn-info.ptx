@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="ch-addn-info" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Turning Exercises into real musical lines.</title>
+
+  <introduction>
+    <p>
+      
+      This exercise is designed to help you play solos that feel and sound like jazz, not just mechanically cycling through scales and arpeggios.
+    </p>
+   
+  </introduction>
+
+  <section xml:id="sec-addn-barry-harris-core">
+    <title>The Exercise</title>
+
+    <p>
+      A practical way to learn a song and connect each chord to the right scale.
+    </p>
+    <p>
+      For illustration, we'll use the song <em>How High The Moon</em> See Section 13.5 for score.
+      As you play through the song, you play the scale that matches
+      each chord in the progression. 
+    </p>
+    <figure xml:id="fig-how-high-the-moon-tab">
+      <caption>
+        First four bars of <em>How High The Moon</em> — melody with guitar tablature,
+        showing scale runs matching each chord in the progression.
+      </caption>
+      <image xml:id="img-how-high-the-moon-tab" source="notation/how-high-the-moon-tab" width="100%" />
+    </figure>
+    <p>
+      This approach helps you understand the song's structure, the chord
+      changes, and the scale that fits each chord:
+    </p>
+    <ul>
+      <li>
+        <p>
+          If a chord lasts one bar (like Gm7 to C7), play the chord's scale from the root to the 7th
+          note of the scale.
+        </p>
+        <figure xml:id="fig-how-high-the-moon-one-bar">
+          <caption>
+            Gm7 and C7 each lasting one bar — scale played from root to 7th
+            (<em>From The Root To The 7th</em>).
+          </caption>
+          <image xml:id="img-how-high-the-moon-one-bar" source="notation/how-high-the-moon-one-bar" width="100%" />
+        </figure>
+      </li>
+      <li>
+        <p>
+          If a chord lasts two bars (like the first two bars), play root up to 7th, then back
+          down to the root again.
+        </p>
+      </li>
+    </ul>
+
+    <figure xml:id="fig-how-high-the-moon-up-down">
+      <caption>
+        Gmaj7 over two bars — scale ascending from root to 7th, then descending back to root
+        (<em>Up &amp; Down From The Root</em>).
+      </caption>
+      <image xml:id="img-how-high-the-moon-up-down" source="notation/how-high-the-moon-up-down" width="100%" />
+    </figure>
+
+    <p>
+      This gives you an overview of the song, allowing you to understand how the chords and scales relate to each other, which is essential for improvising.
+    
+      Having started with this, you can then build the solo by replacing scales for real solo phrases. 
+    </p>
+  </section>
+
+  <section xml:id="sec-addn-vocabulary-recipe">
+    <title>Building Your Jazz Vocabulary</title>
+
+    <p>
+      First learn the scales for a song. Then in order to create melodic jazz lines.
+      use arpeggios for building licks that start to sound like jazz.
+    </p>
+    <p>
+      Start by playing the basic arpeggios through the first four bars of <em>How High The Moon</em>.
+    </p>
+
+    <figure xml:id="fig-how-high-the-moon-arpeggios">
+      <caption>
+        Basic arpeggios through the first four bars of <em>How High The Moon</em> —
+        Gmaj7, Gm7, and C7 with guitar tablature.
+      </caption>
+      <image xml:id="img-how-high-the-moon-arpeggios" source="notation/how-high-the-moon-arpeggios" width="100%" />
+    </figure>
+
+    <p>Then level it up:</p>
+    <ul>
+      <li>
+        <p>Add a triplet rhythm to give it some bebop energy.</p>
+        <figure xml:id="fig-how-high-the-moon-bebop-triplet">
+          <caption>
+            Triplet rhythm applied to the arpeggio — giving it that bebop energy.
+          </caption>
+          <image xml:id="img-how-high-the-moon-bebop-triplet" source="how-high-the-moon-bebop-triplet" width="100%" />
+        </figure>
+      </li>
+      <li>
+        <p>
+          Throw in a leading note — a chromatic note just before the first arpeggio note — and
+          finish with a scale run with another chromatic note.
+        </p>
+        <figure xml:id="fig-how-high-the-moon-leading-note-1">
+          <caption>
+            Leading note — chromatic approach into the first arpeggio note.
+          </caption>
+          <image xml:id="img-how-high-the-moon-leading-note-1" source="how-high-the-moon-leading-note-1" width="100%" />
+        </figure>
+        <figure xml:id="fig-how-high-the-moon-leading-note-2">
+          <caption>
+            Scale run finishing with a chromatic leading note.
+          </caption>
+          <image xml:id="img-how-high-the-moon-leading-note-2" source="how-high-the-moon-leading-note-2" width="100%" />
+        </figure>
+      </li>
+    </ul>
+    <p>
+      Hear how much more like jazz that sounds? Now try moving this lick around the song.
+      All three versions are beautiful jazz lines you can use right away.
+    </p>
+    <figure xml:id="fig-how-high-the-moon-chromatic-note">
+      <caption>
+        Chromatic approach note leading into the arpeggio.
+      </caption>
+      <image xml:id="img-how-high-the-moon-chromatic-note" source="how-high-the-moon-chromatic-note" width="100%" />
+    </figure>
+    <figure xml:id="fig-how-high-the-moon-bebop-phrase-1">
+      <caption>
+        Bebop phrase — first variation with arpeggio as a triplet and descending scale run.
+      </caption>
+      <image xml:id="img-how-high-the-moon-bebop-phrase-1" source="how-high-the-moon-bebop-phrase-1" width="100%" />
+    </figure>
+    <figure xml:id="fig-how-high-the-moon-bebop-phrase-2">
+      <caption>
+        Bebop phrase — second variation with leading note finishing the scale run.
+      </caption>
+      <image xml:id="img-how-high-the-moon-bebop-phrase-2" source="how-high-the-moon-bebop-phrase-2" width="100%" />
+    </figure>
+    <p>
+      The foundation for this exercise is to first take the phrase through the progression
+      <em>rubato</em> and figure out how you can make it fit the chord. That helps you understand
+      the building blocks: chromatic note, arpeggio as a triplet, and a descending scale run
+      with a leading note.
+    </p>
+    <p>
+      This approach opens up a whole new world for your playing. Suddenly you're not just playing the right notes over a chord, but you're creating strong, melodic lines that sound like jazz. By connecting the lick to the song, you understand how it works and can easily move it around the progression. This is how you build your jazz vocabulary — by creating and internalising licks that are directly connected to the music you want to play, rather than just mechanically cycling through
+      scales.
+    </p>
+  </section>
+
+  <section xml:id="sec-addn-lick-through-song">
+    <title>Don't Just Practice in All 12 Keys</title>
+
+    <p>
+      You've probably heard this advice a thousand times: <q>take this lick through all 12 keys.</q>
+      Of course that is useful, but it's still <q>just</q> an exercise, and not the fastest way
+      to learn to play jazz.
+    </p>
+    <p>
+      Instead, here's what's way more powerful: <em>take your lick through an actual song.</em>
+      When you do this:
+    </p>
+    <ul>
+      <li><p>You're not just moving your fingers.</p></li>
+      <li><p>You're connecting it directly to the music you want to play.</p></li>
+      <li><p>You're turning it into a flexible phrase that works on lots of chords.</p></li>
+      <li>
+        <p>
+          In the process, you also figure out <em>how</em> the lick works, not just practising
+          how to play it.
+        </p>
+      </li>
+    </ul>
+    <p>
+      That's how you get better at creating your own licks that actually sound like jazz, instead
+      of just playing the right notes over a chord.
+    </p>
+    <p>
+      Here's a Gmaj7 lick to illustrate. First, find the basic chord tones: G, B, F# and D.
+      Then look at what connects them: a leading note into the low 3rd (notice how great this
+      interval skip sounds), and a scale note between the 7th and the 5th.
+    </p>
+    <p>
+      Once you understand the structure, moving the lick to a new chord becomes easy — for
+      example onto Gm7 (G B&#9837; F D) and then onto C7.
+    </p>
+    <p>
+      Next, take it through the song slowly. Don't worry about tempo; out of time is the best
+      place to start. Just move it around the progression. Once that feels natural, start using
+      it inside a solo. That's when it stops being an exercise, and becomes real jazz vocabulary.
+    </p>
+  </section>
+
+  <section xml:id="sec-addn-arpeggio-from-third">
+    <title>Barry Harris' Arpeggio From the 3rd</title>
+
+    <p>
+      You may have heard the advice to use the arpeggio from the 3rd of the chord — it's what
+      Charlie Parker and Wes Montgomery do all the time. But knowing the concept and being able
+      to use it in your solos are two very different things. This is where the approach above
+      becomes incredibly useful.
+    </p>
+
+    <subsection xml:id="subsec-addn-why-third">
+      <title>Why Is the Arpeggio from the 3rd so Powerful?</title>
+
+      <p>
+        For Gmaj7 the full arpeggio is G B D F#. The 3rd is B, and the diatonic arpeggio
+        on B is Bm7: B D F# A. You are still playing three chord tones, but you have now added
+        an A on top — a beautiful 9th that makes your solos more colourful.
+      </p>
+      <p>
+        Start by connecting the regular arpeggio to the arpeggio from the 3rd. First play the
+        arpeggio from the root, then connect it to the version starting from the 3rd.
+      </p>
+      <p>
+        This helps you hear how the two relate, and also connects them on the neck so moving
+        between them becomes natural and the arpeggio from the 3rd is much easier to find.
+      </p>
+      <p>
+        Now take the arpeggio from the 3rd through the song. Once that feels comfortable, start
+        building short lines from it and move those lines through the progression, just like
+        before. It will make the arpeggio from the 3rd a part of your playing in no time!
+      </p>
+    </subsection>
+  </section>
+
+  <section xml:id="sec-addn-how-high-the-moon">
+    <title>Transcription: How High the Moon</title>
+
+    <p>
+      The following is a lead-sheet transcription of <em>How High the Moon</em> (Morgan Lewis /
+      Nancy Hamilton, 1940), the song used throughout this chapter as a vehicle for the
+      exercises above. Study the melody and chord changes before applying the scale and
+      arpeggio exercises described in the preceding sections.
+    </p>
+
+    <figure xml:id="fig-how-high-the-moon">
+      <caption>
+        <em>How High the Moon</em> — lead sheet with melody and chord symbols.
+      </caption>
+      <image xml:id="img-how-high-the-moon" source="notation/how-high-the-moon" width="100%" />
+    </figure>
+
+  </section>
+
+</chapter>
