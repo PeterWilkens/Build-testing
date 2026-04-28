@@ -1861,32 +1861,158 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "12.5",
   "title": "C6 \/ B°7 Chord Shapes on the Accordion Keyboard",
-  "body": " C6 \/ B°7 Chord Shapes on the Accordion Keyboard   The eight diagrams below show all eight chord positions of the ascending C6 \/ B°7 exercise as they appear on the chromatic button accordion keyboard. Each diagram highlights the four notes of one chord voicing: four are C major 6th chord inversions (labelled C6) and four are B diminished 7th inversions (labelled B°7), alternating as you ascend through one octave.  The B°7 chord tones (B, D, F, A ) all fall on the same diagonal column (column 3) of the isomorphic keyboard — they form a single vertical chain. The C6 chord tones (C, E, G, A) spread naturally across columns 1, 2, and 5 in compact close-position clusters. Because both chords are symmetrical (each has only three distinct shapes across all twelve keys due to the diminished 7th symmetry), once the pattern for C major is learned the shapes for all other keys follow by uniform shifting.  Shape 8 shows the B°7 chord in its root position at the lower register, illustrating how the system completes a cycle: after ascending through all seven positions, the diminished chord returns to its root-position shape ready to re-enter the pattern one octave higher.     Barry Harris C6 \/ B°7 chord shapes, positions 1–4. Dark nodes are chord tones; C6 shapes spread across columns, B°7 shapes form a single diagonal on column 3.                         Barry Harris C6 \/ B°7 chord shapes, positions 5–8. Shape 8 shows B°7 at its lower root position, completing the cyclic pattern of inversions.                       Notice that all B°7 inversions (shapes 2, 4, 6, and 8) highlight four buttons in a single vertical diagonal along column 3 of the keyboard — each one simply two rows higher than the previous. This is a direct consequence of the diminished 7th chord's symmetry: all four of its notes (B, D, F, A ) lie on the same column in the isomorphic layout, separated by equal intervals of a minor 3rd.  The C6 inversions (shapes 1, 3, 5, and 7) each show a compact cluster spread across columns 1, 2, and 4–5, ascending by one scale step with each successive shape. Practise moving between adjacent shapes (e.g. shape 1 → shape 2 → shape 3) until the hand can locate each voicing without hesitation. Then try skipping shapes (e.g. shape 1 → shape 4 → shape 7) to get used to them jumping around the keyboard.  "
+  "body": " C6 \/ B°7 Chord Shapes on the Accordion Keyboard   The eight diagrams below show all eight chord positions of the ascending C6 \/ B°7 exercise as they appear on the chromatic button accordion keyboard. Each diagram highlights the four notes of one chord voicing: four are C major 6th chord inversions (labelled C6) and four are B diminished 7th inversions (labelled B°7), alternating as you ascend through one octave.  The B°7 chord tones (B, D, F, A ) all fall on the same vertical column (column 3) of the isomorphic keyboard — they form a single vertical chain. The C6 chord tones (C, E, G, A) spread naturally across columns 1, 2, and 5 in compact close-position clusters. Because both chords are symmetrical (each has only three distinct shapes across all twelve keys due to the diminished 7th symmetry), once the pattern for C major is learned the shapes for all other keys follow by uniform shifting.  Shape 8 shows the B°7 chord in its root position at the lower register, illustrating how the system completes a cycle: after ascending through all seven positions, the diminished chord returns to its root-position shape ready to re-enter the pattern one octave higher.                                             Notice that all B°7 inversions (shapes 2, 4, 6, and 8) highlight four buttons in a single vertical column of the keyboard — each one simply two rows higher than the previous. This is a direct consequence of the diminished 7th chord's symmetry: all four of its notes (B, D, F, A ) lie on the same column in the isomorphic layout, separated by equal intervals of a minor 3rd.  The C6 inversions (shapes 1, 3, 5, and 7) each show a compact cluster spread across columns 1, 2, and 4–5, ascending by one scale step with each successive shape.  "
 },
 {
-  "id": "fig-bh-chord-shapes-r1",
-  "level": "2",
-  "url": "sec-barry-harris-chord-shapes.html#fig-bh-chord-shapes-r1",
-  "type": "Figure",
-  "number": "12.5.1",
-  "title": "",
-  "body": " Barry Harris C6 \/ B°7 chord shapes, positions 1–4. Dark nodes are chord tones; C6 shapes spread across columns, B°7 shapes form a single diagonal on column 3.                      "
+  "id": "sec-addn-barry-harris-core",
+  "level": "1",
+  "url": "sec-addn-barry-harris-core.html",
+  "type": "Section",
+  "number": "13.1",
+  "title": "The Exercise",
+  "body": " The Exercise  A practical way to learn a song and connect each chord to the right scale.  For illustration, we'll use the song How High The Moon See Section 13.5 for score. As you play through the song, you play the scale that matches each chord in the progression.   First four bars of How High The Moon — melody with guitar tablature, showing scale runs matching each chord in the progression.    This approach helps you understand the song's structure, the chord changes, and the scale that fits each chord:    If a chord lasts one bar (like Gm7 to C7), play the chord's scale from the root to the 7th note of the scale.   Gm7 and C7 each lasting one bar — scale played from root to 7th ( From The Root To The 7th ).      If a chord lasts two bars (like the first two bars), play root up to 7th, then back down to the root again.     Gmaj7 over two bars — scale ascending from root to 7th, then descending back to root ( Up & Down From The Root ).    This gives you an overview of the song, allowing you to understand how the chords and scales relate to each other, which is essential for improvising. Having started with this, you can then build the solo by replacing scales for real solo phrases.  "
 },
 {
-  "id": "fig-bh-chord-shapes-r2",
+  "id": "fig-how-high-the-moon-tab",
   "level": "2",
-  "url": "sec-barry-harris-chord-shapes.html#fig-bh-chord-shapes-r2",
+  "url": "sec-addn-barry-harris-core.html#fig-how-high-the-moon-tab",
   "type": "Figure",
-  "number": "12.5.2",
+  "number": "13.1.1",
   "title": "",
-  "body": " Barry Harris C6 \/ B°7 chord shapes, positions 5–8. Shape 8 shows B°7 at its lower root position, completing the cyclic pattern of inversions.                      "
+  "body": " First four bars of How High The Moon — melody with guitar tablature, showing scale runs matching each chord in the progression.   "
+},
+{
+  "id": "fig-how-high-the-moon-one-bar",
+  "level": "2",
+  "url": "sec-addn-barry-harris-core.html#fig-how-high-the-moon-one-bar",
+  "type": "Figure",
+  "number": "13.1.2",
+  "title": "",
+  "body": " Gm7 and C7 each lasting one bar — scale played from root to 7th ( From The Root To The 7th ).   "
+},
+{
+  "id": "fig-how-high-the-moon-up-down",
+  "level": "2",
+  "url": "sec-addn-barry-harris-core.html#fig-how-high-the-moon-up-down",
+  "type": "Figure",
+  "number": "13.1.3",
+  "title": "",
+  "body": " Gmaj7 over two bars — scale ascending from root to 7th, then descending back to root ( Up & Down From The Root ).   "
+},
+{
+  "id": "sec-addn-vocabulary-recipe",
+  "level": "1",
+  "url": "sec-addn-vocabulary-recipe.html",
+  "type": "Section",
+  "number": "13.2",
+  "title": "Building Your Jazz Vocabulary",
+  "body": " Building Your Jazz Vocabulary  First learn the scales for a song. Then in order to create melodic jazz lines. use arpeggios for building licks that start to sound like jazz.  Start by playing the basic arpeggios through the first four bars of How High The Moon .   Basic arpeggios through the first four bars of How High The Moon — Gmaj7, Gm7, and C7 with guitar tablature.    Then level it up:    Add a triplet rhythm to give it some bebop energy.   Triplet rhythm applied to the arpeggio — giving it that bebop energy.      Throw in a leading note — a chromatic note just before the first arpeggio note — and finish with a scale run with another chromatic note.   Leading note — chromatic approach into the first arpeggio note.     Scale run finishing with a chromatic leading note.      Hear how much more like jazz that sounds? Now try moving this lick around the song. All three versions are beautiful jazz lines you can use right away.   Chromatic approach note leading into the arpeggio.     Bebop phrase — first variation with arpeggio as a triplet and descending scale run.     Bebop phrase — second variation with leading note finishing the scale run.    The foundation for this exercise is to first take the phrase through the progression rubato and figure out how you can make it fit the chord. That helps you understand the building blocks: chromatic note, arpeggio as a triplet, and a descending scale run with a leading note.  This approach opens up a whole new world for your playing. Suddenly you're not just playing the right notes over a chord, but you're creating strong, melodic lines that sound like jazz. By connecting the lick to the song, you understand how it works and can easily move it around the progression. This is how you build your jazz vocabulary — by creating and internalising licks that are directly connected to the music you want to play, rather than just mechanically cycling through scales.  "
+},
+{
+  "id": "fig-how-high-the-moon-arpeggios",
+  "level": "2",
+  "url": "sec-addn-vocabulary-recipe.html#fig-how-high-the-moon-arpeggios",
+  "type": "Figure",
+  "number": "13.2.1",
+  "title": "",
+  "body": " Basic arpeggios through the first four bars of How High The Moon — Gmaj7, Gm7, and C7 with guitar tablature.   "
+},
+{
+  "id": "fig-how-high-the-moon-bebop-triplet",
+  "level": "2",
+  "url": "sec-addn-vocabulary-recipe.html#fig-how-high-the-moon-bebop-triplet",
+  "type": "Figure",
+  "number": "13.2.2",
+  "title": "",
+  "body": " Triplet rhythm applied to the arpeggio — giving it that bebop energy.   "
+},
+{
+  "id": "fig-how-high-the-moon-leading-note-1",
+  "level": "2",
+  "url": "sec-addn-vocabulary-recipe.html#fig-how-high-the-moon-leading-note-1",
+  "type": "Figure",
+  "number": "13.2.3",
+  "title": "",
+  "body": " Leading note — chromatic approach into the first arpeggio note.   "
+},
+{
+  "id": "fig-how-high-the-moon-leading-note-2",
+  "level": "2",
+  "url": "sec-addn-vocabulary-recipe.html#fig-how-high-the-moon-leading-note-2",
+  "type": "Figure",
+  "number": "13.2.4",
+  "title": "",
+  "body": " Scale run finishing with a chromatic leading note.   "
+},
+{
+  "id": "fig-how-high-the-moon-chromatic-note",
+  "level": "2",
+  "url": "sec-addn-vocabulary-recipe.html#fig-how-high-the-moon-chromatic-note",
+  "type": "Figure",
+  "number": "13.2.5",
+  "title": "",
+  "body": " Chromatic approach note leading into the arpeggio.   "
+},
+{
+  "id": "fig-how-high-the-moon-bebop-phrase-1",
+  "level": "2",
+  "url": "sec-addn-vocabulary-recipe.html#fig-how-high-the-moon-bebop-phrase-1",
+  "type": "Figure",
+  "number": "13.2.6",
+  "title": "",
+  "body": " Bebop phrase — first variation with arpeggio as a triplet and descending scale run.   "
+},
+{
+  "id": "fig-how-high-the-moon-bebop-phrase-2",
+  "level": "2",
+  "url": "sec-addn-vocabulary-recipe.html#fig-how-high-the-moon-bebop-phrase-2",
+  "type": "Figure",
+  "number": "13.2.7",
+  "title": "",
+  "body": " Bebop phrase — second variation with leading note finishing the scale run.   "
+},
+{
+  "id": "sec-addn-lick-through-song",
+  "level": "1",
+  "url": "sec-addn-lick-through-song.html",
+  "type": "Section",
+  "number": "13.3",
+  "title": "Don’t Just Practice in All 12 Keys",
+  "body": " Don't Just Practice in All 12 Keys  You've probably heard this advice a thousand times: take this lick through all 12 keys. Of course that is useful, but it's still just an exercise, and not the fastest way to learn to play jazz.  Instead, here's what's way more powerful: take your lick through an actual song. When you do this:   You're not just moving your fingers.  You're connecting it directly to the music you want to play.  You're turning it into a flexible phrase that works on lots of chords.   In the process, you also figure out how the lick works, not just practising how to play it.    That's how you get better at creating your own licks that actually sound like jazz, instead of just playing the right notes over a chord.  Here's a Gmaj7 lick to illustrate. First, find the basic chord tones: G, B, F# and D. Then look at what connects them: a leading note into the low 3rd (notice how great this interval skip sounds), and a scale note between the 7th and the 5th.  Once you understand the structure, moving the lick to a new chord becomes easy — for example onto Gm7 (G B♭ F D) and then onto C7.  Next, take it through the song slowly. Don't worry about tempo; out of time is the best place to start. Just move it around the progression. Once that feels natural, start using it inside a solo. That's when it stops being an exercise, and becomes real jazz vocabulary.  "
+},
+{
+  "id": "sec-addn-arpeggio-from-third",
+  "level": "1",
+  "url": "sec-addn-arpeggio-from-third.html",
+  "type": "Section",
+  "number": "13.4",
+  "title": "Barry Harris’ Arpeggio From the 3rd",
+  "body": " Barry Harris' Arpeggio From the 3rd  You may have heard the advice to use the arpeggio from the 3rd of the chord — it's what Charlie Parker and Wes Montgomery do all the time. But knowing the concept and being able to use it in your solos are two very different things. This is where the approach above becomes incredibly useful.   Why Is the Arpeggio from the 3rd so Powerful?  For Gmaj7 the full arpeggio is G B D F#. The 3rd is B, and the diatonic arpeggio on B is Bm7: B D F# A. You are still playing three chord tones, but you have now added an A on top — a beautiful 9th that makes your solos more colourful.  Start by connecting the regular arpeggio to the arpeggio from the 3rd. First play the arpeggio from the root, then connect it to the version starting from the 3rd.  This helps you hear how the two relate, and also connects them on the neck so moving between them becomes natural and the arpeggio from the 3rd is much easier to find.  Now take the arpeggio from the 3rd through the song. Once that feels comfortable, start building short lines from it and move those lines through the progression, just like before. It will make the arpeggio from the 3rd a part of your playing in no time!   "
+},
+{
+  "id": "sec-addn-how-high-the-moon",
+  "level": "1",
+  "url": "sec-addn-how-high-the-moon.html",
+  "type": "Section",
+  "number": "13.5",
+  "title": "Transcription: How High the Moon",
+  "body": " Transcription: How High the Moon  The following is a lead-sheet transcription of How High the Moon (Morgan Lewis \/ Nancy Hamilton, 1940), the song used throughout this chapter as a vehicle for the exercises above. Study the melody and chord changes before applying the scale and arpeggio exercises described in the preceding sections.    How High the Moon — lead sheet with melody and chord symbols.    "
+},
+{
+  "id": "fig-how-high-the-moon",
+  "level": "2",
+  "url": "sec-addn-how-high-the-moon.html#fig-how-high-the-moon",
+  "type": "Figure",
+  "number": "13.5.1",
+  "title": "",
+  "body": "  How High the Moon — lead sheet with melody and chord symbols.   "
 },
 {
   "id": "sec-blank-chord-shape-template",
   "level": "1",
   "url": "sec-blank-chord-shape-template.html",
   "type": "Section",
-  "number": "13.1",
+  "number": "14.1",
   "title": "Blank Chord Shape Template",
   "body": " Blank Chord Shape Template                                                        "
 },
@@ -1895,7 +2021,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r1",
   "type": "Figure",
-  "number": "13.1.1",
+  "number": "14.1.1",
   "title": "",
   "body": "                "
 },
@@ -1904,7 +2030,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r2",
   "type": "Figure",
-  "number": "13.1.2",
+  "number": "14.1.2",
   "title": "",
   "body": "                "
 },
@@ -1913,7 +2039,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r3",
   "type": "Figure",
-  "number": "13.1.3",
+  "number": "14.1.3",
   "title": "",
   "body": "                "
 },
@@ -1922,7 +2048,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-chord-progression-template.html",
   "type": "Section",
-  "number": "13.2",
+  "number": "14.2",
   "title": "Extended Chord Progression Template",
   "body": " Extended Chord Progression Template  This template uses the shared 52-node extended 11-row grid layout, including the added lower and upper extension nodes.                                                        "
 },
@@ -1931,7 +2057,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r1",
   "type": "Figure",
-  "number": "13.2.1",
+  "number": "14.2.1",
   "title": "",
   "body": "                "
 },
@@ -1940,7 +2066,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r2",
   "type": "Figure",
-  "number": "13.2.2",
+  "number": "14.2.2",
   "title": "",
   "body": "                "
 },
@@ -1949,7 +2075,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r3",
   "type": "Figure",
-  "number": "13.2.3",
+  "number": "14.2.3",
   "title": "",
   "body": "                "
 },
@@ -1958,7 +2084,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-node-reference-grid.html",
   "type": "Section",
-  "number": "13.3",
+  "number": "14.3",
   "title": "Node Reference Grid (1–30)",
   "body": " Node Reference Grid (1–30)  The grid below numbers every node from (lowest C, bottom-right) to (highest G, top-left). Each diagonal band of five nodes rises from col 5 (right) to col 1 (left). To request a chord shape, simply name the node numbers to highlight — for example nodes 1, 7, 12 gives the C major triad (C, E, G).   Node numbering reference — node 1 is the lowest C (bottom-right); node 30 is the highest G (top-left).      Full lookup table — node number, note name, and \\gn address ( col , row ):      Node Note col row  Node Note col row   1  C  5 1.5  16 A  5 4.5  2  C♯\/D♭ 4 2  17 B♭\/A♯ 4 5  3  D  3 2.5  18 B  3 5.5  4  E♭\/D♯ 2 3  19 C  2 6  5  E  1 3.5  20 C♯\/D♭ 1 6.5  6  E♭\/D♯ 5 2.5  21 C  5 5.5  7  E  4 3  22 C♯\/D♭ 4 6  8  F  3 3.5  23 D  3 6.5  9  F♯\/G♭ 2 4  24 E♭\/D♯ 2 7  10 G  1 4.5  25 E  1 7.5  11 F♯\/G♭ 5 3.5  26 E♭\/D♯ 5 6.5  12 G  4 4  27 E  4 7  13 A♭\/G♯ 3 4.5  28 F  3 7.5  14 A  2 5  29 F♯\/G♭ 2 8  15 B♭\/A♯ 1 5.5  30 G  1 8.5   "
 },
@@ -1967,7 +2093,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-node-reference-grid.html#fig-node-reference",
   "type": "Figure",
-  "number": "13.3.1",
+  "number": "14.3.1",
   "title": "",
   "body": " Node numbering reference — node 1 is the lowest C (bottom-right); node 30 is the highest G (top-left).     "
 },
@@ -1976,7 +2102,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-grid1-highlight.html",
   "type": "Section",
-  "number": "13.4",
+  "number": "14.4",
   "title": "Grid 1 — Nodes 8, 14, 19, 27 (FMaj7)",
   "body": " Grid 1 — Nodes 8, 14, 19, 27 (FMaj7)   Nodes 8 (F), 14 (A), 19 (C), 27 (E) highlighted — FMaj7 shape.      "
 },
@@ -1985,7 +2111,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-grid1-highlight.html#fig-grid1-highlight",
   "type": "Figure",
-  "number": "13.4.1",
+  "number": "14.4.1",
   "title": "",
   "body": " Nodes 8 (F), 14 (A), 19 (C), 27 (E) highlighted — FMaj7 shape.     "
 },
@@ -1994,7 +2120,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-extended-grid-55-node-reference.html",
   "type": "Section",
-  "number": "13.5",
+  "number": "14.5",
   "title": "Extended Grid 1 — 55-Node Reference",
   "body": " Extended Grid 1 — 55-Node Reference  This reference shows all positions in the extended 11-row grid, with each node retaining its note label and carrying an identification number, including the added lower and upper extension nodes used by the drop-2 and chord-progression template figures.   Extended 11-row reference showing note labels and identification numbers for all 55 positions in the shared extended grid layout.      "
 },
@@ -2003,7 +2129,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-extended-grid-55-node-reference.html#fig-extended-grid-55-node-reference",
   "type": "Figure",
-  "number": "13.5.1",
+  "number": "14.5.1",
   "title": "",
   "body": " Extended 11-row reference showing note labels and identification numbers for all 55 positions in the shared extended grid layout.     "
 },
