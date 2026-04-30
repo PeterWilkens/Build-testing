@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-barry-harris-dom7-basics" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Basics of the Dominant 7th Scale</title>
+
+  <introduction>
+    <p>
+      This section is based on a transcription by Robert Glover (26 August 2017) of a video lesson 
+      by Connor (a Barry Harris student) entitled <q>Barry Harris&#x2026;&#x201C;Basics&#x201D; of Dom 7 Scale</q> 
+      (<url href="https://youtu.be/kCSB_iUW5Uk" visual="youtu.be/kCSB_iUW5Uk">youtu.be/kCSB_iUW5Uk</url>).
+      The lesson demonstrates simple melodic patterns that can be derived from a dominant 7th scale,
+      using B<flat/>7 as the primary example. It is a practical companion to Barry Harris's teaching 
+      on the 6th chord / diminished 7th system: once you understand the underlying harmony, these 
+      short patterns give you the raw material to build longer improvised phrases.
+    </p>
+    <p>
+      Connor opens by arguing that jazz improvisation is not a mysterious gift for a chosen few. 
+      Historically, great composers such as Bach, Mozart, Beethoven and Liszt were also 
+      accomplished improvisers. Bach is documented to have improvised full fugues for royalty on 
+      demand. What made this possible was not genius alone, but a thorough knowledge of scales 
+      and harmony. Connor draws the same conclusion for jazz: <q>This whole notion of improvisation 
+      can really be broken down to a science.</q> [1:04]
+    </p>
+    <p>
+      The lesson then demonstrates a series of increasingly sophisticated patterns over B<flat/>7, 
+      using the <term>B<flat/> dominant 7th scale</term> (also known as B<flat/> Mixolydian: 
+      B<flat/>, C, D, E<flat/>, F, G, A<flat/>, B<flat/>). For each pattern Connor first plays 
+      an ascending <em>and</em> descending version, then shows how adding a half-step approach 
+      note below the first note of each group enriches the sound.
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-dom7-scale-outline">
+    <title>Scale Outline (from the Previous Video)</title>
+    <p>
+      Connor begins with a brief recap of the scale-outline technique from his previous lesson 
+      (the 12-bar blues form), demonstrating how a B<flat/>7 scale outline moves to an E<flat/>7 
+      in the context of a simple chord progression.
+    </p>
+    <figure xml:id="fig-connor-dom7-p1">
+      <caption>
+        Mm. 1&#x2013;5. Scale outline over B<flat/>7 and E<flat/>7, as introduced in the 
+        previous video. [0:00&#x2013;3:32]
+      </caption>
+      <image xml:id="img-connor-dom7-p1-ex1" source="notation/connor-dom7-basics-1" width="100%" />
+    </figure>
+  </subsection>
+
+  <subsection xml:id="subsec-dom7-scale-up-down">
+    <title>Scale Up and Down; Thirds; Triads; Full 7th Chords</title>
+    <p>
+      <q>So, by now you should be able to just run, for instance, a B<flat/> dominant 7th scale 
+      by itself.</q> [3:32]
+    </p>
+    <p>
+      Connor then demonstrates the same scale in thirds (playing scale degree 1 with scale 
+      degree 3, degree 2 with degree 4, and so on), then in triads (three-note groups built 
+      from each scale degree), and finally as full seventh chords. Each of these represents a 
+      distinct set of <q>puzzle pieces</q> that can be recombined to make improvised phrases &#x2014; 
+      just as short words are learned before full sentences.
+    </p>
+    <blockquote>
+      <p>
+        When we practice small things that come from scales, what we can do is we can take the 
+        small things and we can put them together in an infinite number of different ways. 
+        It&#x2019;s almost like speech&#x2026; You learn about small words, the small phrases first. 
+        And then you put them together. [5:16]
+      </p>
+    </blockquote>
+    <figure xml:id="fig-connor-dom7-p2">
+      <caption>
+        Mm. 6&#x2013;37. B<flat/>7 scale up and down (mm. 6&#x2013;9); scale in thirds (mm. 10&#x2013;12); 
+        scale in triads (mm. 13&#x2013;18); scale outline / fast thirds (mm. 19&#x2013;21); 
+        half-step approach added (mm. 22&#x2013;37). [3:32&#x2013;6:56]
+      </caption>
+      <image xml:id="img-connor-dom7-p2" source="notation/connor-dom7-basics-2" width="100%" />
+    </figure>
+  </subsection>
+
+  <subsection xml:id="subsec-dom7-arpeggios">
+    <title>Major Arpeggios, Augmented Arpeggio, and Diminished 7th Applications</title>
+    <p>
+      Connor next moves to arpeggios. For B<flat/>7, the three important arpeggios are built 
+      on scale degrees 1, 5, and <flat/>7:
+    </p>
+    <ul>
+      <li><p>B<flat/> major arpeggio (scale degree 1): B<flat/> &#x2013; D &#x2013; F</p></li>
+      <li><p>F minor arpeggio (scale degree 5): F &#x2013; A<flat/> &#x2013; C</p></li>
+      <li><p>A<flat/> major arpeggio (scale degree <flat/>7): A<flat/> &#x2013; C &#x2013; E<flat/></p></li>
+    </ul>
+    <p>
+      All three arpeggios should be practised in all inversions. This is connected to Charlie 
+      Parker&#x2019;s bebop head <q>Chi Chi</q>, which opens with an inversion of the A<flat/> 
+      major triad: [8:10]
+    </p>
+    <p>
+      Connor also introduces the <term>augmented arpeggio</term> (a major arpeggio with a 
+      sharpened fifth: B<flat/> &#x2013; D &#x2013; F<sharp/>), which often appears in standard 
+      tunes. Like all other patterns, its inversions should also be practised.
+    </p>
+    <p>
+      Finally, Connor reminds the viewer of a fundamental Barry Harris principle: 
+      <q>A dominant seventh chord comes from a fully diminished seventh chord.</q> [10:20] 
+      This means that when improvising over a dominant quality chord, you can use the 
+      corresponding fully diminished 7th chord and its associated scale.
+    </p>
+    <figure xml:id="fig-connor-dom7-p3">
+      <caption>
+        Mm. 38&#x2013;63. Major arpeggios on scale degrees 1, 5, and <flat/>7 (mm. 38&#x2013;40); 
+        inversions (mm. 41&#x2013;50); Charlie Parker &#x201C;Chi Chi&#x201D; reference (mm. 51&#x2013;52); 
+        descending versions (mm. 53&#x2013;59); fully diminished 7th chord over B<flat/>7 (mm. 60&#x2013;63). 
+        [6:56&#x2013;10:40]
+      </caption>
+      <image xml:id="img-connor-dom7-p3" source="notation/connor-dom7-basics-3" width="100%" />
+    </figure>
+  </subsection>
+
+</section>

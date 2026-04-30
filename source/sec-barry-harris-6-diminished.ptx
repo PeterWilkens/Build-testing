@@ -186,4 +186,31 @@
       <image xml:id="img-using-maj6dim-scale-p6" source="notation/using-major-6-diminished-6" width="100%" />
     </figure>
   </subsection>
+
+  <subsection xml:id="subsec-barry-harris-dim-lesson">
+    <title>Barry Harris Diminished Chords Lesson</title>
+    <p>
+      The following transcription, made by Robert Glover from a live Barry Harris workshop 
+      (Bilbao, Spain, 20 May 2016), captures both the musical examples and Harris's spoken 
+      commentary as he demonstrated the borrow/surround technique for diminished chords. 
+      Harris shows how each note of the C diminished 7th chord is <q>surrounded</q> by the 
+      roots of its four related dominant chords, and how those borrowed tones create 
+      melodic motion back to the tonic. The original video was recorded by Montxo Garcia:
+      <url href="https://youtu.be/JlQNLZiKTY0" visual="youtu.be/JlQNLZiKTY0">youtu.be/JlQNLZiKTY0</url>.
+    </p>
+
+    <figure xml:id="fig-barry-harris-dim-lesson">
+      <caption>
+        Barry Harris Diminished Chords Lesson (Bilbao, Spain, 2016; transcript R. Glover, 2019).
+        The score illustrates the borrow/surround technique: dominant roots surrounding each 
+        note of the diminished 7th chord resolve stepwise back to the tonic chord tones.
+        Green noteheads show the C diminished 7th chord tones; red noteheads show the 
+        borrowed dominant roots.
+      </caption>
+      <image xml:id="img-barry-harris-dim-lesson-p1" source="notation/barry-harris-dim-lesson-1" width="100%" />
+      <image xml:id="img-barry-harris-dim-lesson-p2" source="notation/barry-harris-dim-lesson-2" width="100%" />
+      <image xml:id="img-barry-harris-dim-lesson-p3" source="notation/barry-harris-dim-lesson-3" width="100%" />
+      <image xml:id="img-barry-harris-dim-lesson-p4" source="notation/barry-harris-dim-lesson-4" width="100%" />
+    </figure>
+  </subsection>
 </section>
