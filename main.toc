@@ -1,0 +1,124 @@
+\hypertarget {my-great-book}{}
+\contentsline {chapter}{About This Document}{iv}{chapter*.1}%
+\contentsline {chapter}{\numberline {1}The Chromatic Button Accordion}{1}{chapter.3}%
+\contentsline {section}{\numberline {1.1}A Chromatic Button Accordion}{1}{section.4}%
+\contentsline {section}{\numberline {1.2}C System Accordion Keyboards with Stradella Bass}{2}{section.7}%
+\contentsline {section}{\numberline {1.3}C System Accordion Keyboards with Free Bass}{5}{section.10}%
+\contentsline {chapter}{\numberline {2}Scales and Intervals}{9}{chapter.13}%
+\contentsline {section}{\numberline {2.1}C Major Scale Construction}{9}{section.14}%
+\contentsline {section}{\numberline {2.2}C Natural Minor Scale Construction}{11}{section.21}%
+\contentsline {section}{\numberline {2.3}C Harmonic Minor Scale Construction}{12}{section.26}%
+\contentsline {section}{\numberline {2.4}C Melodic Minor Scale Construction (Ascending)}{13}{section.31}%
+\contentsline {section}{\numberline {2.5}C Melodic Minor Scale Construction (Descending)}{14}{section.36}%
+\contentsline {chapter}{\numberline {3}Intervals and the Button Keyboard}{16}{chapter.41}%
+\contentsline {section}{\numberline {3.1}Intervals on the Keyboard}{16}{section.42}%
+\contentsline {section}{\numberline {3.2}Interval Relationships on Both Keyboards}{17}{section.71}%
+\contentsline {section}{\numberline {3.3}Using Intervals to Navigate the C System Keyboard}{18}{section.80}%
+\contentsline {chapter}{\numberline {4}Scale Shapes}{21}{chapter.93}%
+\contentsline {section}{\numberline {4.1}C Major Scale Shape}{21}{section.94}%
+\contentsline {subsection}{\numberline {4.1.1}Basic C Shape Scale}{21}{subsection.95}%
+\contentsline {section}{\numberline {4.2}D Major Scale Shape}{22}{section.103}%
+\contentsline {subsection}{\numberline {4.2.1}Basic D Shape Scale}{22}{subsection.104}%
+\contentsline {section}{\numberline {4.3}G Major Scale Shape}{23}{section.112}%
+\contentsline {subsection}{\numberline {4.3.1}Basic G Shape Scale}{23}{subsection.113}%
+\contentsline {section}{\numberline {4.4}C Harmonic Minor Scale Shape}{24}{section.121}%
+\contentsline {subsection}{\numberline {4.4.1}Basic C Harmonic Minor Shape}{24}{subsection.122}%
+\contentsline {section}{\numberline {4.5}C Melodic Minor Scale Shape Ascending}{25}{section.130}%
+\contentsline {subsection}{\numberline {4.5.1}Basic C Melodic Minor Shape}{25}{subsection.131}%
+\contentsline {section}{\numberline {4.6}C Melodic Minor Descending Scale Shape}{26}{section.139}%
+\contentsline {subsection}{\numberline {4.6.1}Basic C Melodic Minor Descending Shape}{26}{subsection.140}%
+\contentsline {section}{\numberline {4.7}D Harmonic Minor Scale Shape}{27}{section.148}%
+\contentsline {subsection}{\numberline {4.7.1}Basic D Harmonic Minor Shape}{28}{subsection.149}%
+\contentsline {section}{\numberline {4.8}D Melodic Minor Scale Shape Ascending}{28}{section.157}%
+\contentsline {subsection}{\numberline {4.8.1}Basic D Melodic Minor Shape}{29}{subsection.158}%
+\contentsline {section}{\numberline {4.9}D Melodic Minor Descending Scale Shape}{29}{section.166}%
+\contentsline {subsection}{\numberline {4.9.1}Basic D Melodic Minor Descending Shape}{30}{subsection.167}%
+\contentsline {section}{\numberline {4.10}G Harmonic Minor Scale Shape}{30}{section.175}%
+\contentsline {subsection}{\numberline {4.10.1}Basic G Harmonic Minor Shape}{31}{subsection.176}%
+\contentsline {section}{\numberline {4.11}G Melodic Minor Scale Shape Ascending}{31}{section.184}%
+\contentsline {subsection}{\numberline {4.11.1}Basic G Melodic Minor Shape}{32}{subsection.185}%
+\contentsline {section}{\numberline {4.12}G Melodic Minor Descending Scale Shape}{32}{section.193}%
+\contentsline {subsection}{\numberline {4.12.1}Basic G Melodic Minor Descending Shape}{33}{subsection.194}%
+\contentsline {chapter}{\numberline {5}Chords and Chord Construction}{34}{chapter.202}%
+\contentsline {section}{\numberline {5.1}Building Chords from Intervals}{34}{section.203}%
+\contentsline {subsection}{\numberline {5.1.1}Stacking Thirds}{34}{subsection.204}%
+\contentsline {subsection}{\numberline {5.1.2}The Triad Formula}{35}{subsection.207}%
+\contentsline {section}{\numberline {5.2}Types of Triad}{36}{section.208}%
+\contentsline {subsection}{\numberline {5.2.1}Major Triad}{36}{subsection.209}%
+\contentsline {subsection}{\numberline {5.2.2}Minor Triad}{36}{subsection.210}%
+\contentsline {subsection}{\numberline {5.2.3}Augmented Triad}{36}{subsection.211}%
+\contentsline {subsection}{\numberline {5.2.4}Diminished Triad}{36}{subsection.212}%
+\contentsline {section}{\numberline {5.3}Extending Chords: Seventh Chords}{37}{section.215}%
+\contentsline {section}{\numberline {5.4}Extended and Suspended Chords}{37}{section.216}%
+\contentsline {subsection}{\numberline {5.4.1}Ninth Chords}{37}{subsection.217}%
+\contentsline {subsection}{\numberline {5.4.2}Eleventh Chords}{38}{subsection.218}%
+\contentsline {subsection}{\numberline {5.4.3}Thirteenth Chords}{38}{subsection.219}%
+\contentsline {subsection}{\numberline {5.4.4}Added Sixth Chords}{38}{subsection.220}%
+\contentsline {subsection}{\numberline {5.4.5}Suspended Chords}{39}{subsection.221}%
+\contentsline {chapter}{\numberline {6}Building Chords from Scales}{41}{chapter.224}%
+\contentsline {section}{\numberline {6.1}Diatonic Seventh Chords of C Major}{41}{section.225}%
+\contentsline {chapter}{\numberline {7}Chord Shapes}{43}{chapter.254}%
+\contentsline {section}{\numberline {7.1}Major and Minor Triads}{43}{section.255}%
+\contentsline {section}{\numberline {7.2}Seventh Chords}{44}{section.276}%
+\contentsline {section}{\numberline {7.3}Seventh Chords (2nd Inversion)}{44}{section.297}%
+\contentsline {section}{\numberline {7.4}Seventh Chords (3rd Inversion and Cdim7)}{45}{section.318}%
+\contentsline {chapter}{\numberline {8}Chord Scale Cyclic Movement}{47}{chapter.339}%
+\contentsline {section}{\numberline {8.1}Closed Voice Triads from C Major Scale, Progressing Down in Intervals of a Second}{47}{section.340}%
+\contentsline {section}{\numberline {8.2}Closed Voice Triads from C Major Scale, Roots Ascending in 2nds (Cycle 2)}{49}{section.356}%
+\contentsline {section}{\numberline {8.3}Closed Voice Triads from C Major Scale, Roots rising by diatonic 4th (Cycle 4)}{52}{section.378}%
+\contentsline {section}{\numberline {8.4}Closed Voice Triads from C Major Scale, Roots Ascending by a Diatonic 6th (Cycle 6)}{55}{section.400}%
+\contentsline {section}{\numberline {8.5}Progression of Drop 2 Diatonic Chords from C Major Scale (Cycle 4)}{58}{section.422}%
+\contentsline {section}{\numberline {8.6}7th Chord Voicings from C Major Scale (Descending Voice Leading by Diatonic 6ths)}{62}{section.451}%
+\contentsline {section}{\numberline {8.7}Drop 2 Diatonic 7th Chords from C Major Scale (Cycle 6)}{65}{section.480}%
+\contentsline {section}{\numberline {8.8}Drop 3 Diatonic 7th Chords from C Major Scale (Cycle 6)}{69}{section.509}%
+\contentsline {section}{\numberline {8.9}Drop 2 Diatonic 7th Chords — C Major, Roots Ascending in 2nds (Cycle 2)}{71}{section.538}%
+\contentsline {section}{\numberline {8.10}Progression of Drop 2 Diatonic Chords from C Harmonic Minor Scale}{75}{section.567}%
+\contentsline {section}{\numberline {8.11}Progression of Drop 2 Diatonic Chords from C Melodic Minor Scale}{79}{section.596}%
+\contentsline {chapter}{\numberline {9}Chord Progressions}{83}{chapter.625}%
+\contentsline {section}{\numberline {9.1}2-5-1 Progressions of Maj7 Chords with Voice Leading (naturally follows Circle of Fifths)}{83}{section.626}%
+\contentsline {section}{\numberline {9.2}2-5-1 Closed in C Major}{84}{section.651}%
+\contentsline {chapter}{\numberline {10}The Circle of Fifths}{87}{chapter.671}%
+\contentsline {section}{\numberline {10.1}Structure of the Circle}{88}{section.672}%
+\contentsline {section}{\numberline {10.2}Relative Minor Keys}{89}{section.677}%
+\contentsline {section}{\numberline {10.3}Chord Progressions and the Circle}{89}{section.680}%
+\contentsline {section}{\numberline {10.4}The Circle of Fifths on the Chromatic Button Accordion}{91}{section.683}%
+\contentsline {chapter}{\numberline {11}Scales, Modes and Chords}{92}{chapter.684}%
+\contentsline {chapter}{\numberline {12}Barry Harris and Jazz Piano Theory}{101}{chapter.701}%
+\contentsline {section}{\numberline {12.1}Introduction to Barry Harris and His Philosophy}{101}{section.702}%
+\contentsline {subsection}{\numberline {12.1.1}Core Philosophy}{102}{subsection.703}%
+\contentsline {section}{\numberline {12.2}The Bebop Scales}{102}{section.704}%
+\contentsline {subsection}{\numberline {12.2.1}The Major Bebop Scale}{102}{subsection.705}%
+\contentsline {subsection}{\numberline {12.2.2}The Dominant Bebop Scale}{103}{subsection.710}%
+\contentsline {subsection}{\numberline {12.2.3}The Minor Bebop Scale}{104}{subsection.715}%
+\contentsline {section}{\numberline {12.3}The 6th Chord \slash {} Diminished 7th System}{105}{section.720}%
+\contentsline {subsection}{\numberline {12.3.1}Constructing the 6th and Diminished Pair}{105}{subsection.721}%
+\contentsline {subsection}{\numberline {12.3.2}Voice Leading Between the Two Chords}{106}{subsection.724}%
+\contentsline {subsection}{\numberline {12.3.3}The Four Inversions Through One Octave}{106}{subsection.725}%
+\contentsline {subsection}{\numberline {12.3.4}Using the Major 6th Diminished Scale}{107}{subsection.730}%
+\contentsline {subsection}{\numberline {12.3.5}Barry Harris Diminished Chords Lesson}{113}{subsection.733}%
+\contentsline {section}{\numberline {12.4}Basics of the Dominant 7th Scale}{117}{section.736}%
+\contentsline {subsection}{\numberline {12.4.1}Scale Outline (from the Previous Video)}{118}{subsection.737}%
+\contentsline {subsection}{\numberline {12.4.2}Scale Up and Down; Thirds; Triads; Full 7th Chords}{118}{subsection.740}%
+\contentsline {subsection}{\numberline {12.4.3}Major Arpeggios, Augmented Arpeggio, and Diminished 7th Applications}{119}{subsection.743}%
+\contentsline {section}{\numberline {12.5}Daily Scale and Chord Exercises}{120}{section.746}%
+\contentsline {subsection}{\numberline {12.5.1}Exercise 1: The Bebop Scale}{120}{subsection.747}%
+\contentsline {subsection}{\numberline {12.5.2}Exercise 2: The 6th Chord \slash {} Diminished Alternation}{121}{subsection.753}%
+\contentsline {subsection}{\numberline {12.5.3}Exercise 3: The Harmonized Major Scale}{121}{subsection.759}%
+\contentsline {subsection}{\numberline {12.5.4}Warm-Up Exercise}{122}{subsection.767}%
+\contentsline {subsection}{\numberline {12.5.5}Practice Tips from the Barry Harris Workshop}{123}{subsection.775}%
+\contentsline {section}{\numberline {12.6}C6 \slash {} B°7 Chord Shapes on the Accordion Keyboard}{124}{section.776}%
+\contentsline {chapter}{\numberline {13}Turning Exercises into real musical lines.}{126}{chapter.785}%
+\contentsline {section}{\numberline {13.1}The Exercise}{126}{section.786}%
+\contentsline {section}{\numberline {13.2}Building Your Jazz Vocabulary}{129}{section.793}%
+\contentsline {section}{\numberline {13.3}Don't Just Practice in All 12 Keys}{136}{section.808}%
+\contentsline {section}{\numberline {13.4}Barry Harris' Arpeggio From the 3rd}{137}{section.809}%
+\contentsline {subsection}{\numberline {13.4.1}Why Is the Arpeggio from the 3rd so Powerful?}{137}{subsection.810}%
+\contentsline {section}{\numberline {13.5}Transcription: How High the Moon}{137}{section.811}%
+\contentsline {chapter}{\numberline {14}Templates and References}{139}{chapter.814}%
+\contentsline {section}{\numberline {14.1}Blank Chord Shape Template}{139}{section.815}%
+\contentsline {section}{\numberline {14.2}Extended Chord Progression Template}{140}{section.834}%
+\contentsline {section}{\numberline {14.3}Node Reference Grid (1–30)}{141}{section.853}%
+\contentsline {section}{\numberline {14.4}Grid 1 — Nodes 8, 14, 19, 27 (FMaj7)}{142}{section.856}%
+\contentsline {section}{\numberline {14.5}Extended Grid 1 — 55-Node Reference}{143}{section.859}%
+\contentsline {part}{Back Matter}{145}{section*.862}%
+\contentsfinish 
