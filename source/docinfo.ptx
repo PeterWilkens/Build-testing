@@ -48,9 +48,11 @@
 \newcommand{\gn}[4]{%
   \ifnum#4=1%
     \node[circle,draw=black,line width=0.9pt,fill=gray!65,inner sep=0pt,minimum size=22pt,text width=16pt,align=center,font=\fontsize{4}{4.5}\selectfont] at (#1*\hlen,#2*\vlen) {#3};%
+  \else\ifnum#4=2%
+    \node[circle,draw=black,line width=0.9pt,dashed,fill=gray!10,inner sep=0pt,minimum size=22pt,text width=16pt,align=center,font=\fontsize{4}{4.5}\selectfont] at (#1*\hlen,#2*\vlen) {#3};%
   \else%
     \node[circle,draw=gray,fill=gray!10,inner sep=0pt,minimum size=22pt,text width=16pt,align=center,font=\fontsize{4}{4.5}\selectfont] at (#1*\hlen,#2*\vlen) {#3};%
-  \fi%
+  \fi\fi%
 }%
 \newcommand{\gnref}[4]{%
   \gn{#1}{#2}{#3}{0}%
