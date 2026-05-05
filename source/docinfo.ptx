@@ -17,7 +17,7 @@
   <!-- macros for defining latex math shortcuts. It is good practice -->
   <!-- to define these semantically, so that the macro relates to what-->
   <!-- it defines. -->
-  <macros> \newcommand{\N}{\mathbb N} \newcommand{\Z}{\mathbb Z} \newcommand{\Q}{\mathbb Q} \newcommand{\R}{\mathbb R} \AtBeginDocument{\tcbset{figureptxstyle/.append style={breakable}}} \ifdefined\DeclareUnicodeCharacter \DeclareUnicodeCharacter{266D}{$\flat$} \DeclareUnicodeCharacter{266E}{$\natural$} \DeclareUnicodeCharacter{266F}{$\sharp$} \fi </macros>
+  <macros> \newcommand{\N}{\mathbb N} \newcommand{\Z}{\mathbb Z} \newcommand{\Q}{\mathbb Q} \newcommand{\R}{\mathbb R} \AtBeginDocument{\ifdefined\tcbset\tcbset{figureptxstyle/.append style={breakable}}\fi} \ifdefined\DeclareUnicodeCharacter \DeclareUnicodeCharacter{266D}{$\flat$} \DeclareUnicodeCharacter{266E}{$\natural$} \DeclareUnicodeCharacter{266F}{$\sharp$} \fi </macros>
 
   <!-- If you put any latex-image elements you can include preambles -->
   <!-- for those in the next element. -->
