@@ -1221,8 +1221,8 @@ var ptx_lunr_docs = [
   "url": "sec-seventh-chords-page3.html",
   "type": "Section",
   "number": "7.4",
-  "title": "Seventh Chords (3rd Inversion and Cdim7)",
-  "body": " Seventh Chords (3rd Inversion and Cdim7)   The Chord Shapes shown can be moved to different positions on the keyboard and take the name of the Root Chord. Thus, if you know the shape of one chord type, you know the shape of all chords of that type in that shape or inversion.     7th Chords 3rd Inversion                        Cmaj7 3rd inversion chord on treble staff    C7 3rd inversion chord on treble staff    Cm7 3rd inversion chord on treble staff    Cm7b5 3rd inversion chord on treble staff      Cdim7 Root Position and Inversions                        Cdim7 chord on treble staff    Cdim7 1st inversion chord on treble staff    Cdim7 2nd inversion chord on treble staff    Cdim7 3rd inversion chord on treble staff    "
+  "title": "Seventh Chords (3rd Inversion)",
+  "body": " Seventh Chords (3rd Inversion)   The Chord Shapes shown can be moved to different positions on the keyboard and take the name of the Root Chord. Thus, if you know the shape of one chord type, you know the shape of all chords of that type in that shape or inversion.     7th Chords 3rd Inversion                        Cmaj7 3rd inversion chord on treble staff    C7 3rd inversion chord on treble staff    Cm7 3rd inversion chord on treble staff    Cm7b5 3rd inversion chord on treble staff      Cdim7 Root Position and Inversions                        Cdim7 chord on treble staff    Cdim7 1st inversion chord on treble staff    Cdim7 2nd inversion chord on treble staff    Cdim7 3rd inversion chord on treble staff     "
 },
 {
   "id": "fig-chord-grids-p3-row1",
@@ -1241,6 +1241,24 @@ var ptx_lunr_docs = [
   "number": "7.4.2",
   "title": "",
   "body": " Cdim7 Root Position and Inversions                    "
+},
+{
+  "id": "sec-dim7-to-dom7",
+  "level": "1",
+  "url": "sec-dim7-to-dom7.html",
+  "type": "Section",
+  "number": "7.5",
+  "title": "dim7 to Dom7",
+  "body": " dim7 to Dom7  Because a diminished seventh chord consists entirely of stacked minor thirds, every one of its four notes sits exactly one semitone above a note that belongs to a dominant seventh chord. Lowering any one note of a Ddim7 chord (D–F–A –B) by one semitone therefore produces a dominant 7th chord: lower B → B 7; lower A → G7; lower F → E7; lower D → D 7. All four results are shown below.   Ddim7 (D–F–A –B) as source chord, and the four dominant 7th chords produced by lowering each note by one semitone in turn. Row 1: the Ddim7 shape. Row 2 (left to right): B 7 (lower B → B ); G7 (lower A → G); E7 (lower F → E); D 7 (lower D → D ).            Ddim7 chord on treble staff                          Bb7 chord on treble staff    G7 chord on treble staff    E7 chord on treble staff    Db7 chord on treble staff      "
+},
+{
+  "id": "fig-chord-grids-p3-row3",
+  "level": "2",
+  "url": "sec-dim7-to-dom7.html#fig-chord-grids-p3-row3",
+  "type": "Figure",
+  "number": "7.5.1",
+  "title": "",
+  "body": " Ddim7 (D–F–A –B) as source chord, and the four dominant 7th chords produced by lowering each note by one semitone in turn. Row 1: the Ddim7 shape. Row 2 (left to right): B 7 (lower B → B ); G7 (lower A → G); E7 (lower F → E); D 7 (lower D → D ).            Ddim7 chord on treble staff                          Bb7 chord on treble staff    G7 chord on treble staff    E7 chord on treble staff    Db7 chord on treble staff     "
 },
 {
   "id": "sec-closed-triads-cmaj-desc-2nds",
