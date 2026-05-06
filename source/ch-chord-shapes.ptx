@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <chapter xml:id="ch-chord-shapes" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Chord Shapes</title>
-
+  <introduction>
+  
+<p>
+  Playing through the various chord shapes on the Free Bass and Treble Keyboard is useful in getting familiar with the layout of the keys and developing muscle memory on the accordion.  Using the various diagrams and information given in Chapters 5,6,7,8 and 9 in this document will help you become familiar with chord construction in general. Organized by type of chord, the chord shapes include major and minor triads, seventh chords, and diminished seventh chords. Although the chord shapes are not exhaustive, they provide a good starting point for learning how to play chords on the accordion. More importantly, this document provides all the necessary information for any user, with a little application, to build any chord from scratch.
+</p>
+</introduction>
 
    <xi:include href="./sec-major-minor-triads.ptx" />
   <xi:include href="./sec-seventh-chords.ptx" />

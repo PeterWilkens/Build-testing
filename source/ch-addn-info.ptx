@@ -4,32 +4,24 @@
 
   <introduction>
     <p>
-      
-      This exercise is designed to help you play solos that feel and sound like jazz, not just mechanically cycling through scales and arpeggios.
-    </p>
+      I have taken some information about Barry Harris from a number of videos produced by Jens Larsen a jazz guitarist with many useful instructional videos on You Tube.</p>
+      <p>This exercise is about taking scales and arpeggios you've learned and turning them into attractive musical lines that you can use in your playing. It's one thing to know the right notes to play over a chord, but it's another thing entirely to create strong, melodic lines that sound good. </p>
    
-  </introduction>
+  </introduction> 
 
   <section xml:id="sec-addn-barry-harris-core">
     <title>The Exercise</title>
 
     <p>
-      A practical way to learn a song and connect each chord to the right scale.
+    Learn a song and connect each chord to the right scale.
     </p>
     <p>
-      For illustration, we'll use the song <em>How High The Moon</em> See Section 13.5 for score.
-      As you play through the song, you play the scale that matches
-      each chord in the progression. 
+      Using <em>How High The Moon</em> See Section 13.5 for the score.
+      Play the scale that matches each chord in the progression. 
     </p>
-    <figure xml:id="fig-how-high-the-moon-tab">
-      <caption>
-        First four bars of <em>How High The Moon</em> — melody with guitar tablature,
-        showing scale runs matching each chord in the progression.
-      </caption>
-      <image xml:id="img-how-high-the-moon-tab" source="notation/how-high-the-moon-tab" width="100%" />
-    </figure>
+    
     <p>
-      This approach helps you understand the song's structure, the chord
+      This will help you understand the song's structure, the chord
       changes, and the scale that fits each chord:
     </p>
     <ul>
@@ -63,9 +55,9 @@
     </figure>
 
     <p>
-      This gives you an overview of the song, allowing you to understand how the chords and scales relate to each other, which is essential for improvising.
+      This  helps you to understand how the chords and scales relate to each other.
     
-      Having started with this, you can then build the solo by replacing scales for real solo phrases. 
+      Now build the solo by replacing scales with solo phrases. 
     </p>
   </section>
 
@@ -73,8 +65,9 @@
     <title>Building Your Jazz Vocabulary</title>
 
     <p>
-      First learn the scales for a song. Then in order to create melodic jazz lines.
-      use arpeggios for building licks that start to sound like jazz.
+      Having learned the scales and arpeggios, you can now start to build your jazz vocabulary by creating phrases that are based on those scales and arpeggios.</p> <p>The key is to connect those phrases directly to the song you're playing, so that they become part of your musical language rather than just exercises.</p><p> By taking a phrase through the song, you understand how it works and can easily move it around the progression. This is how you build your jazz vocabulary — by creating and internalising phrases
+     that are directly connected to the music you want to play, rather than just mechanically cycling through scales.
+    
     </p>
     <p>
       Start by playing the basic arpeggios through the first four bars of <em>How High The Moon</em>.
@@ -88,10 +81,10 @@
       <image xml:id="img-how-high-the-moon-arpeggios" source="notation/how-high-the-moon-arpeggios" width="100%" />
     </figure>
 
-    <p>Then level it up:</p>
+    <p>Then:</p>
     <ul>
       <li>
-        <p>Add a triplet rhythm to give it some bebop energy.</p>
+        <p>Add a triplet rhythm to give it some energy.</p>
         <figure xml:id="fig-how-high-the-moon-bebop-triplet">
           <caption>
             Triplet rhythm applied to the arpeggio — giving it that bebop energy.
@@ -101,7 +94,7 @@
       </li>
       <li>
         <p>
-          Throw in a leading note — a chromatic note just before the first arpeggio note — and
+          Add a leading note — a chromatic note just before the first arpeggio note — and
           finish with a scale run with another chromatic note.
         </p>
         <figure xml:id="fig-how-high-the-moon-leading-note-1">
@@ -119,7 +112,7 @@
       </li>
     </ul>
     <p>
-      Hear how much more like jazz that sounds? Now try moving this lick around the song.
+      Hear how much more like jazz that sounds? Now try moving this phrase around the song.
       All three versions are beautiful jazz lines you can use right away.
     </p>
     <figure xml:id="fig-how-high-the-moon-chromatic-note">
@@ -147,7 +140,7 @@
       with a leading note.
     </p>
     <p>
-      This approach opens up a whole new world for your playing. Suddenly you're not just playing the right notes over a chord, but you're creating strong, melodic lines that sound like jazz. By connecting the lick to the song, you understand how it works and can easily move it around the progression. This is how you build your jazz vocabulary — by creating and internalising licks that are directly connected to the music you want to play, rather than just mechanically cycling through
+      This opens up a whole new world for your playing. Suddenly you're not just playing the right notes over a chord, but you're creating strong, melodic lines that sound like jazz. By connecting the phrase to the song, you understand how it works and can easily move it around the progression. This is how you build your jazz vocabulary — by creating and internalising phrases that are directly connected to the music you want to play, rather than just mechanically cycling through
       scales.
     </p>
   </section>
@@ -156,12 +149,12 @@
     <title>Don't Just Practice in All 12 Keys</title>
 
     <p>
-      You've probably heard this advice a thousand times: <q>take this lick through all 12 keys.</q>
+      You've probably heard this advice a thousand times: <q>take this phrase through all 12 keys.</q>
       Of course that is useful, but it's still <q>just</q> an exercise, and not the fastest way
       to learn to play jazz.
     </p>
     <p>
-      Instead, here's what's way more powerful: <em>take your lick through an actual song.</em>
+      Instead, here's what's way more powerful: <em>take your phrase through an actual song.</em>
       When you do this:
     </p>
     <ul>
@@ -170,7 +163,7 @@
       <li><p>You're turning it into a flexible phrase that works on lots of chords.</p></li>
       <li>
         <p>
-          In the process, you also figure out <em>how</em> the lick works, not just practising
+          In the process, you also figure out <em>how</em> the phrase works, not just practising
           how to play it.
         </p>
       </li>
