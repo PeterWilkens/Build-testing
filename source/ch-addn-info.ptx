@@ -4,7 +4,7 @@
 
   <introduction>
     <p>
-      I have taken some information about Barry Harris from a number of videos produced by Jens Larsen a jazz guitarist with many useful instructional videos on You Tube.</p>
+      I have used some information about Barry Harris from a number of videos produced by Jens Larsen a jazz guitarist who has many useful instructional videos on You Tube.</p>
       <p>This exercise is about taking scales and arpeggios you've learned and turning them into attractive musical lines that you can use in your playing. It's one thing to know the right notes to play over a chord, but it's another thing entirely to create strong, melodic lines that sound good. </p>
    
   </introduction> 
@@ -70,26 +70,25 @@
     
     </p>
     <p>
-      Start by playing the basic arpeggios through the first four bars of <em>How High The Moon</em>.
+      Take the basic arpeggios from the first four bars of <em>How High The Moon</em>.
     </p>
 
     <figure xml:id="fig-how-high-the-moon-arpeggios">
       <caption>
-        Basic arpeggios through the first four bars of <em>How High The Moon</em> —
-        Gmaj7, Gm7, and C7 with guitar tablature.
+        Basic Arpeggios
       </caption>
-      <image xml:id="img-how-high-the-moon-arpeggios" source="notation/how-high-the-moon-arpeggios" width="100%" />
+     <image xml:id="img-how-high-the-moon-arpeggios" source="notation/how-high-the-moon-arpeggios" width="100%" />
     </figure>
 
     <p>Then:</p>
     <ul>
       <li>
-        <p>Add a triplet rhythm to give it some energy.</p>
+        <p>Add a triplet rhythm.</p>
         <figure xml:id="fig-how-high-the-moon-bebop-triplet">
           <caption>
-            Triplet rhythm applied to the arpeggio — giving it that bebop energy.
+            Triplet rhythm applied to the arpeggio
           </caption>
-          <image xml:id="img-how-high-the-moon-bebop-triplet" source="how-high-the-moon-bebop-triplet" width="100%" />
+          <image xml:id="img-how-high-the-moon-bebop-triplet" source="how-high-the-moon-bebop-triplet" width="70%" />
         </figure>
       </li>
       <li>
@@ -99,14 +98,21 @@
         </p>
         <figure xml:id="fig-how-high-the-moon-leading-note-1">
           <caption>
-            Leading note — chromatic approach into the first arpeggio note.
+           Added leading note — chromatic note into the first arpeggio.
           </caption>
           <image xml:id="img-how-high-the-moon-leading-note-1" source="how-high-the-moon-leading-note-1" width="100%" />
         </figure>
+      </li>
+      <li>
+        <p>
+          Giving:
+        </p>
+
         <figure xml:id="fig-how-high-the-moon-leading-note-2">
           <caption>
             Scale run finishing with a chromatic leading note.
           </caption>
+
           <image xml:id="img-how-high-the-moon-leading-note-2" source="how-high-the-moon-leading-note-2" width="100%" />
         </figure>
       </li>
@@ -119,7 +125,7 @@
       <caption>
         Chromatic approach note leading into the arpeggio.
       </caption>
-      <image xml:id="img-how-high-the-moon-chromatic-note" source="how-high-the-moon-chromatic-note" width="100%" />
+      <image xml:id="img-how-high-the-moon-chromatic-note" source="how-high-the-moon-chromatic-note" width="55%" />
     </figure>
     <figure xml:id="fig-how-high-the-moon-bebop-phrase-1">
       <caption>
@@ -146,12 +152,10 @@
   </section>
 
   <section xml:id="sec-addn-lick-through-song">
-    <title>Don't Just Practice in All 12 Keys</title>
+    <title>How to Practice</title>
 
     <p>
-      You've probably heard this advice a thousand times: <q>take this phrase through all 12 keys.</q>
-      Of course that is useful, but it's still <q>just</q> an exercise, and not the fastest way
-      to learn to play jazz.
+      Taking your phrase through an actual song is a powerful and enjoyable way to develop your playing. By doing this, you're not just moving your fingers; you're connecting it directly to the music you want to play. This turns it into a flexible phrase that works on lots of chords, and in the process, you also figure out how the phrase works, not just practising how to play it. That's how you get better at creating your own licks that actually sound like jazz, instead of just playing the right notes over a chord.
     </p>
     <p>
       Instead, here's what's way more powerful: <em>take your phrase through an actual song.</em>
@@ -168,10 +172,7 @@
         </p>
       </li>
     </ul>
-    <p>
-      That's how you get better at creating your own licks that actually sound like jazz, instead
-      of just playing the right notes over a chord.
-    </p>
+    
     <p>
       Here's a Gmaj7 lick to illustrate. First, find the basic chord tones: G, B, F# and D.
       Then look at what connects them: a leading note into the low 3rd (notice how great this
