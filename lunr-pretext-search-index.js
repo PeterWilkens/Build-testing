@@ -2050,7 +2050,34 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "13.3",
   "title": "How to Practice",
-  "body": " How to Practice  Taking your phrase through an actual song is a powerful and enjoyable way to develop your playing. By doing this, you're not just moving your fingers; you're connecting it directly to the music you want to play. This turns it into a flexible phrase that works on lots of chords, and in the process, you also figure out how the phrase works, not just practising how to play it. That's how you get better at creating your own licks that actually sound like jazz, instead of just playing the right notes over a chord.  Instead, here's what's way more powerful: take your phrase through an actual song. When you do this:   You're not just moving your fingers.  You're connecting it directly to the music you want to play.  You're turning it into a flexible phrase that works on lots of chords.   In the process, you also figure out how the phrase works, not just practising how to play it.    Here's a Gmaj7 lick to illustrate. First, find the basic chord tones: G, B, F# and D. Then look at what connects them: a leading note into the low 3rd (notice how great this interval skip sounds), and a scale note between the 7th and the 5th.  Once you understand the structure, moving the lick to a new chord becomes easy — for example onto Gm7 (G B♭ F D) and then onto C7.  Next, take it through the song slowly. Don't worry about tempo; out of time is the best place to start. Just move it around the progression. Once that feels natural, start using it inside a solo. That's when it stops being an exercise, and becomes real jazz vocabulary.  "
+  "body": " How to Practice  Taking your phrase through an actual song is a powerful and enjoyable way to develop your playing. By doing this, you're not just moving your fingers; you're connecting it directly to the music you want to play. This turns it into a flexible phrase that works on lots of chords, and in the process, you also figure out how the phrase works, not just practising how to play it. That's how you get better at creating your own licks that actually sound like jazz, instead of just playing the right notes over a chord.  Instead, here's what's way more powerful: take your phrase through an actual song. When you do this:   You're not just moving your fingers.  You're connecting it directly to the music you want to play.  You're turning it into a flexible phrase that works on lots of chords.   In the process, you also figure out how the phrase works, not just practising how to play it.    Here's a Gmaj7 lick to illustrate. First, find the basic chord tones: G, B, F# and D. Then look at what connects them: a leading note into the low 3rd (notice how great this interval skip sounds), and a scale note between the 7th and the 5th.   Gmaj7 arpeggio with leading tone: G (root), A♯ (leading tone to B), B (3rd), F♯ (7th), E (13th), D (5th).    Once you understand the structure, moving the lick to a new chord becomes easy — for example onto Gm7 (G B♭ F D) and then onto C7.   Moving the lick to Gm7: G (root), A (leading tone), B♭ (3rd), F (7th), E (passing), D (5th).     Moving the lick to C7: C (root), D♯ (leading tone), E (3rd), B♭ (7th), A (passing), G (5th).    Next, take it through the song slowly. Don't worry about tempo; out of time is the best place to start. Just move it around the progression. Once that feels natural, start using it inside a solo. That's when it stops being an exercise, and becomes real jazz vocabulary.  "
+},
+{
+  "id": "fig-gmaj7-arpeggio-third",
+  "level": "2",
+  "url": "sec-addn-lick-through-song.html#fig-gmaj7-arpeggio-third",
+  "type": "Figure",
+  "number": "13.3.1",
+  "title": "",
+  "body": " Gmaj7 arpeggio with leading tone: G (root), A♯ (leading tone to B), B (3rd), F♯ (7th), E (13th), D (5th).   "
+},
+{
+  "id": "fig-gm7-arpeggio-third",
+  "level": "2",
+  "url": "sec-addn-lick-through-song.html#fig-gm7-arpeggio-third",
+  "type": "Figure",
+  "number": "13.3.2",
+  "title": "",
+  "body": " Moving the lick to Gm7: G (root), A (leading tone), B♭ (3rd), F (7th), E (passing), D (5th).   "
+},
+{
+  "id": "fig-c7-arpeggio-third",
+  "level": "2",
+  "url": "sec-addn-lick-through-song.html#fig-c7-arpeggio-third",
+  "type": "Figure",
+  "number": "13.3.3",
+  "title": "",
+  "body": " Moving the lick to C7: C (root), D♯ (leading tone), E (3rd), B♭ (7th), A (passing), G (5th).   "
 },
 {
   "id": "sec-addn-arpeggio-from-third",
@@ -2059,7 +2086,43 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "13.4",
   "title": "Barry Harris’ Arpeggio From the 3rd",
-  "body": " Barry Harris' Arpeggio From the 3rd  You may have heard the advice to use the arpeggio from the 3rd of the chord — it's what Charlie Parker and Wes Montgomery do all the time. But knowing the concept and being able to use it in your solos are two very different things. This is where the approach above becomes incredibly useful.   Why Is the Arpeggio from the 3rd so Powerful?  For Gmaj7 the full arpeggio is G B D F#. The 3rd is B, and the diatonic arpeggio on B is Bm7: B D F# A. You are still playing three chord tones, but you have now added an A on top — a beautiful 9th that makes your solos more colourful.  Start by connecting the regular arpeggio to the arpeggio from the 3rd. First play the arpeggio from the root, then connect it to the version starting from the 3rd.  This helps you hear how the two relate, and also connects them on the neck so moving between them becomes natural and the arpeggio from the 3rd is much easier to find.  Now take the arpeggio from the 3rd through the song. Once that feels comfortable, start building short lines from it and move those lines through the progression, just like before. It will make the arpeggio from the 3rd a part of your playing in no time!   "
+  "body": " Barry Harris' Arpeggio From the 3rd  You may have heard the advice to use the arpeggio from the 3rd of the chord. But knowing the concept and being able to use it in your solos are two very different things. This is where the approach above becomes incredibly useful.   Why Is the Arpeggio from the 3rd so Powerful?  For Gmaj7 the full arpeggio is G B D F#. The 3rd is B, and the diatonic arpeggio on B is Bm7: B D F# A. You are still playing three chord tones, but you have now added an A on top — a beautiful 9th that makes your solos more colourful.   Gmaj7 from the root (G B D F♯), then Bm7 — arpeggio from the 3rd — sharing the same three chord tones but adding A, the 9th of the Gmaj7 arpeggio.    Start by connecting the regular arpeggio to the arpeggio from the 3rd. First play the arpeggio from the root, then connect it to the version starting from the 3rd.  Applied to the How High the Moon you get:   Extract from How High the Moon 2nd arpeggio in each bar is from the 3rd of the first arpeggio.    This helps you hear how the two relate, and also connects them on the keyboard so moving between them becomes natural and the arpeggio from the 3rd is much easier to find.  Now take the arpeggio from the 3rd through the song.   Arpeggio from the 3rd through four bars of How High the Moon : Gmaj7 (bars 1–2), Gm7 (bar 3), C7 (bar 4).    Once that feels comfortable, start building short lines from it and move those lines through the progression, just like before. It will make the arpeggio from the 3rd a part of your playing in no time!   A bebop phrase using the arpeggio from the 3rd through four bars of How High the Moon : Gmaj7 (bars 1–2), Gm7 (bar 3), C7 (bar 4).     "
+},
+{
+  "id": "fig-gmaj7-bm7-arpeggio",
+  "level": "2",
+  "url": "sec-addn-arpeggio-from-third.html#fig-gmaj7-bm7-arpeggio",
+  "type": "Figure",
+  "number": "13.4.1",
+  "title": "",
+  "body": " Gmaj7 from the root (G B D F♯), then Bm7 — arpeggio from the 3rd — sharing the same three chord tones but adding A, the 9th of the Gmaj7 arpeggio.   "
+},
+{
+  "id": "fig-hhtm-arpeggio-progression",
+  "level": "2",
+  "url": "sec-addn-arpeggio-from-third.html#fig-hhtm-arpeggio-progression",
+  "type": "Figure",
+  "number": "13.4.2",
+  "title": "",
+  "body": " Extract from How High the Moon 2nd arpeggio in each bar is from the 3rd of the first arpeggio.   "
+},
+{
+  "id": "fig-hhtm-arpeggio-from-third",
+  "level": "2",
+  "url": "sec-addn-arpeggio-from-third.html#fig-hhtm-arpeggio-from-third",
+  "type": "Figure",
+  "number": "13.4.3",
+  "title": "",
+  "body": " Arpeggio from the 3rd through four bars of How High the Moon : Gmaj7 (bars 1–2), Gm7 (bar 3), C7 (bar 4).   "
+},
+{
+  "id": "fig-hhtm-arpeggio-phrase",
+  "level": "2",
+  "url": "sec-addn-arpeggio-from-third.html#fig-hhtm-arpeggio-phrase",
+  "type": "Figure",
+  "number": "13.4.4",
+  "title": "",
+  "body": " A bebop phrase using the arpeggio from the 3rd through four bars of How High the Moon : Gmaj7 (bars 1–2), Gm7 (bar 3), C7 (bar 4).   "
 },
 {
   "id": "sec-addn-how-high-the-moon",
