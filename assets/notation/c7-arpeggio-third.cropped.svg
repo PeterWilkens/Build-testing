@@ -43,7 +43,7 @@ tspan { white-space: pre; }
 <g transform="translate(23.4504, 5.3600)">
 <rect x="-0.0650" y="-2.8139" width="0.1300" height="2.8186" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:37:4:5">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:39:4:5">
 <g transform="translate(23.3854, 2.3600)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
@@ -52,114 +52,120 @@ tspan { white-space: pre; }
 <path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
 c-13 0 -23 11 -23 25z" fill="currentColor"/>
 </g>
+<g color="rgb(60.0000%, 60.0000%, 60.0000%)">
 <g transform="translate(19.8774, 12.9941)">
 <text font-family="serif" font-size="1.9598" text-anchor="start" fill="currentColor">
 <tspan>7th</tspan>
 </text>
 </g>
 <g transform="translate(20.8812, 1.8600)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.6521" y1="0.6450" x2="0.6521" y2="9.6450"/>
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0400" stroke="currentColor" x1="0.6521" y1="0.6450" x2="0.6521" y2="9.6450"/>
 </g>
 <g transform="translate(20.8812, 1.8600)">
-<rect x="-0.1500" y="-0.6950" width="1.6042" height="0.1000" ry="0.0250" fill="currentColor"/>
+<rect x="-0.1200" y="-0.6650" width="1.5442" height="0.0400" ry="0.0200" fill="currentColor"/>
 </g>
 <g transform="translate(20.8812, 1.8600)">
-<rect x="-0.1500" y="0.5950" width="1.6042" height="0.1000" ry="0.0250" fill="currentColor"/>
+<rect x="-0.1200" y="0.6250" width="1.5442" height="0.0400" ry="0.0200" fill="currentColor"/>
 </g>
 <g transform="translate(20.8812, 1.8600)">
-<rect x="1.3542" y="-0.6950" width="0.1000" height="1.3900" ry="0.0250" fill="currentColor"/>
+<rect x="1.3842" y="-0.6650" width="0.0400" height="1.3300" ry="0.0200" fill="currentColor"/>
 </g>
 <g transform="translate(20.8812, 1.8600)">
-<rect x="-0.1500" y="-0.6950" width="0.1000" height="1.3900" ry="0.0250" fill="currentColor"/>
+<rect x="-0.1200" y="-0.6650" width="0.0400" height="1.3300" ry="0.0200" fill="currentColor"/>
+</g>
 </g>
 <g transform="translate(20.9462, 5.3600)">
 <rect x="-0.0650" y="-3.3139" width="0.1300" height="5.1239" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:36:4:5">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:38:4:5">
 <g transform="translate(20.8812, 1.8600)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
+<g color="rgb(60.0000%, 60.0000%, 60.0000%)">
 <g transform="translate(17.3049, 13.9941)">
 <text font-family="serif" font-size="1.9598" text-anchor="start" fill="currentColor">
 <tspan>3rd</tspan>
 </text>
 </g>
 <g transform="translate(18.3770, 3.8600)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.6521" y1="0.6450" x2="0.6521" y2="8.6450"/>
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0400" stroke="currentColor" x1="0.6521" y1="0.6450" x2="0.6521" y2="8.6450"/>
 </g>
 <g transform="translate(18.3770, 3.8600)">
-<rect x="-0.1500" y="-0.6950" width="1.6042" height="0.1000" ry="0.0250" fill="currentColor"/>
+<rect x="-0.1200" y="-0.6650" width="1.5442" height="0.0400" ry="0.0200" fill="currentColor"/>
 </g>
 <g transform="translate(18.3770, 3.8600)">
-<rect x="-0.1500" y="0.5950" width="1.6042" height="0.1000" ry="0.0250" fill="currentColor"/>
+<rect x="-0.1200" y="0.6250" width="1.5442" height="0.0400" ry="0.0200" fill="currentColor"/>
 </g>
 <g transform="translate(18.3770, 3.8600)">
-<rect x="1.3542" y="-0.6950" width="0.1000" height="1.3900" ry="0.0250" fill="currentColor"/>
+<rect x="1.3842" y="-0.6650" width="0.0400" height="1.3300" ry="0.0200" fill="currentColor"/>
 </g>
 <g transform="translate(18.3770, 3.8600)">
-<rect x="-0.1500" y="-0.6950" width="0.1000" height="1.3900" ry="0.0250" fill="currentColor"/>
+<rect x="-0.1200" y="-0.6650" width="0.0400" height="1.3300" ry="0.0200" fill="currentColor"/>
+</g>
 </g>
 <g transform="translate(18.4420, 5.3600)">
 <rect x="-0.0650" y="-1.3139" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:34:4:5">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:36:4:5">
 <g transform="translate(18.3770, 3.8600)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:37:8:9">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:39:8:9">
 <g transform="translate(23.3854, 5.3600)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.5942 -0.0100 2.5942 0.3900 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:31:9:10">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:33:9:10">
 <g transform="translate(13.3686, 7.1700)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.6026 -0.2000 7.6026 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:40:4:5">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:42:4:5">
 <g transform="translate(28.3938, 5.3600)">
 <path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
 c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
 </g>
 </a>
+<g color="rgb(60.0000%, 60.0000%, 60.0000%)">
 <g transform="translate(24.8858, 12.9941)">
 <text font-family="serif" font-size="1.9598" text-anchor="start" fill="currentColor">
 <tspan>5th</tspan>
 </text>
 </g>
 <g transform="translate(25.8896, 2.8600)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.6521" y1="0.6450" x2="0.6521" y2="8.6450"/>
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0400" stroke="currentColor" x1="0.6521" y1="0.6450" x2="0.6521" y2="8.6450"/>
 </g>
 <g transform="translate(25.8896, 2.8600)">
-<rect x="-0.1500" y="-0.6950" width="1.6042" height="0.1000" ry="0.0250" fill="currentColor"/>
+<rect x="-0.1200" y="-0.6650" width="1.5442" height="0.0400" ry="0.0200" fill="currentColor"/>
 </g>
 <g transform="translate(25.8896, 2.8600)">
-<rect x="-0.1500" y="0.5950" width="1.6042" height="0.1000" ry="0.0250" fill="currentColor"/>
+<rect x="-0.1200" y="0.6250" width="1.5442" height="0.0400" ry="0.0200" fill="currentColor"/>
 </g>
 <g transform="translate(25.8896, 2.8600)">
-<rect x="1.3542" y="-0.6950" width="0.1000" height="1.3900" ry="0.0250" fill="currentColor"/>
+<rect x="1.3842" y="-0.6650" width="0.0400" height="1.3300" ry="0.0200" fill="currentColor"/>
 </g>
 <g transform="translate(25.8896, 2.8600)">
-<rect x="-0.1500" y="-0.6950" width="0.1000" height="1.3900" ry="0.0250" fill="currentColor"/>
+<rect x="-0.1200" y="-0.6650" width="0.0400" height="1.3300" ry="0.0200" fill="currentColor"/>
+</g>
 </g>
 <g transform="translate(25.9546, 5.3600)">
 <rect x="-0.0650" y="-2.3139" width="0.1300" height="2.4992" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:39:4:5">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:41:4:5">
 <g transform="translate(25.8896, 2.8600)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:29:4:5">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:31:4:5">
 <g transform="translate(7.1450, 15.2548)">
 <text font-family="serif" font-weight="bold" font-size="1.9598" text-anchor="start" fill="currentColor">
 <tspan>C7</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:31:4:5">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:33:4:5">
 <g transform="translate(13.3686, 1.3600)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
@@ -168,7 +174,7 @@ c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42
 <path transform="scale(0.0040, -0.0040)" d="M250 262c116 0 176 -106 176 -163c0 -40 -30 -72 -67 -72c-31 0 -75 25 -75 75c0 38 27 77 72 77c4 0 9 0 14 -1c-28 37 -72 59 -120 59c-106 0 -113 -73 -113 -186v-51v-51c0 -113 7 -187 113 -187c80 0 139 70 158 151c2 7 7 10 12 10c6 0 13 -4 13 -12
 c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:23:4:5">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:25:4:5">
 </a>
 <g transform="translate(0.8000, 6.3600)">
 <path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
@@ -176,7 +182,7 @@ c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -
 c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
 c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:25:4:5">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:27:4:5">
 <g transform="translate(8.7000, 5.3600)">
 <path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
 c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
@@ -189,7 +195,7 @@ v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-1
 <g transform="translate(15.9378, 5.3600)">
 <rect x="-0.0650" y="-0.8139" width="0.1300" height="2.6239" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:32:4:5">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/c7-arpeggio-third.ly:34:4:5">
 <g transform="translate(15.8728, 4.3600)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
@@ -197,24 +203,26 @@ v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-1
 <g transform="translate(13.4336, 5.3600)">
 <rect x="-0.0650" y="-3.8139" width="0.1300" height="5.6239" ry="0.0400" fill="currentColor"/>
 </g>
+<g color="rgb(60.0000%, 60.0000%, 60.0000%)">
 <g transform="translate(11.9721, 13.3381)">
 <text font-family="serif" font-size="1.9598" text-anchor="start" fill="currentColor">
 <tspan>root</tspan>
 </text>
 </g>
 <g transform="translate(13.3686, 1.3600)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.6521" y1="0.6450" x2="0.6521" y2="10.6450"/>
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0400" stroke="currentColor" x1="0.6521" y1="0.6450" x2="0.6521" y2="10.6450"/>
 </g>
 <g transform="translate(13.3686, 1.3600)">
-<rect x="-0.1500" y="-0.6950" width="1.6042" height="0.1000" ry="0.0250" fill="currentColor"/>
+<rect x="-0.1200" y="-0.6650" width="1.5442" height="0.0400" ry="0.0200" fill="currentColor"/>
 </g>
 <g transform="translate(13.3686, 1.3600)">
-<rect x="-0.1500" y="0.5950" width="1.6042" height="0.1000" ry="0.0250" fill="currentColor"/>
+<rect x="-0.1200" y="0.6250" width="1.5442" height="0.0400" ry="0.0200" fill="currentColor"/>
 </g>
 <g transform="translate(13.3686, 1.3600)">
-<rect x="1.3542" y="-0.6950" width="0.1000" height="1.3900" ry="0.0250" fill="currentColor"/>
+<rect x="1.3842" y="-0.6650" width="0.0400" height="1.3300" ry="0.0200" fill="currentColor"/>
 </g>
 <g transform="translate(13.3686, 1.3600)">
-<rect x="-0.1500" y="-0.6950" width="0.1000" height="1.3900" ry="0.0250" fill="currentColor"/>
+<rect x="-0.1200" y="-0.6650" width="0.0400" height="1.3300" ry="0.0200" fill="currentColor"/>
+</g>
 </g>
 </svg>

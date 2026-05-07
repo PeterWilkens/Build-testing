@@ -19,6 +19,8 @@
   \new Staff \with {
     \consists "Balloon_engraver"
   } {
+    \override BalloonText.thickness = #0.4
+    \override BalloonText.color = #(x11-color 'grey60)
     \clef treble
     \key g \major
     \cadenzaOn
