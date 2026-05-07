@@ -178,10 +178,36 @@
       Then look at what connects them: a leading note into the low 3rd (notice how great this
       interval skip sounds), and a scale note between the 7th and the 5th.
     </p>
+
+    <figure xml:id="fig-gmaj7-arpeggio-third">
+      <caption>
+        Gmaj7 arpeggio with leading tone: G (root), A&#x266F; (leading tone to B), B (3rd),
+        F&#x266F; (7th), E (13th), D (5th).
+      </caption>
+      <image xml:id="img-gmaj7-arpeggio-third" source="notation/gmaj7-arpeggio-third" width="80%" />
+    </figure>
+
     <p>
       Once you understand the structure, moving the lick to a new chord becomes easy — for
       example onto Gm7 (G B&#9837; F D) and then onto C7.
     </p>
+
+    <figure xml:id="fig-gm7-arpeggio-third">
+      <caption>
+        Moving the lick to Gm7: G (root), A (leading tone), B&#9837; (3rd),
+        F (7th), E (passing), D (5th).
+      </caption>
+      <image xml:id="img-gm7-arpeggio-third" source="notation/gm7-arpeggio-third" width="80%" />
+    </figure>
+
+    <figure xml:id="fig-c7-arpeggio-third">
+      <caption>
+        Moving the lick to C7: C (root), D&#x266F; (leading tone), E (3rd),
+        B&#9837; (7th), A (passing), G (5th).
+      </caption>
+      <image xml:id="img-c7-arpeggio-third" source="notation/c7-arpeggio-third" width="80%" />
+    </figure>
+
     <p>
       Next, take it through the song slowly. Don't worry about tempo; out of time is the best
       place to start. Just move it around the progression. Once that feels natural, start using
