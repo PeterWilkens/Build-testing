@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="ch-scale-exercises" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Scale Exercises</title>
+
+  <introduction>
+    <p>
+      This chapter presents a set of melodic scale exercises based on the Cmaj7 tonal centre. 
+      Each exercise trains a different intervallic pattern — diatonic thirds, triads — and 
+      should be practised slowly before increasing tempo. Once secure in C major, transpose 
+      to all twelve keys.
+    </p>
+  </introduction>
+
+  <section xml:id="sec-scale-exercise-cmaj7-in-thirds">
+    <title>Cmaj7 — In Thirds</title>
+    <p>
+      The following exercise moves through the C major scale in diatonic thirds, ascending 
+      then descending. Practise with a steady pulse; every pair of notes should be even and 
+      connected.
+    </p>
+
+    <figure xml:id="fig-scale-exercise-cmaj7-in-thirds">
+      <caption>
+        Cmaj7 scale exercise in thirds — ascending and descending in diatonic thirds 
+        over a C major tonal centre.
+      </caption>
+      <image xml:id="img-scale-exercise-cmaj7-in-thirds"
+             source="notation/scale-exercise-cmaj7-in-thirds"
+             width="100%" />
+    </figure>
+  </section>
+
+  <section xml:id="sec-scale-exercise-cmaj7-in-triads">
+    <title>Cmaj7 — In Triads</title>
+    <p>
+      This exercise extends the pattern to diatonic triads. Each group of three notes outlines 
+      a triad built from successive scale degrees. The exercise ascends through two octaves and 
+      descends back to the root.
+    </p>
+
+    <figure xml:id="fig-scale-exercise-cmaj7-in-triads">
+      <caption>
+        Cmaj7 scale exercise in triads — diatonic triads ascending and descending over a 
+        C major tonal centre.
+      </caption>
+      <image xml:id="img-scale-exercise-cmaj7-in-triads"
+             source="notation/scale-exercise-cmaj7-in-triads"
+             width="100%" />
+    </figure>
+
+    <subsection xml:id="subsec-scale-exercise-cmaj7-variation">
+      <title>Variation</title>
+      <p>
+        The following variation applies a descending triad pattern starting from the upper 
+        register. The groupings move downward through each chord tone before stepping to 
+        the next scale degree.
+      </p>
+
+      <figure xml:id="fig-scale-exercise-cmaj7-variation">
+        <caption>
+          Cmaj7 scale exercise in triads — descending variation.
+        </caption>
+        <image xml:id="img-scale-exercise-cmaj7-variation"
+               source="notation/scale-exercise-cmaj7-variation"
+               width="100%" />
+      </figure>
+    </subsection>
+  </section>
+
+</chapter>
