@@ -2148,8 +2148,8 @@ var ptx_lunr_docs = [
   "url": "sec-scale-exercise-cmaj7-in-thirds.html",
   "type": "Section",
   "number": "14.1",
-  "title": "Cmaj7 — In Thirds",
-  "body": " Cmaj7 — In Thirds  The following exercise moves through the C major scale in diatonic thirds, ascending then descending. Practise with a steady pulse; every pair of notes should be even and connected.   Cmaj7 scale exercise in thirds — ascending and descending in diatonic thirds over a C major tonal centre.    "
+  "title": "Cmaj — In Thirds",
+  "body": " Cmaj — In Thirds  The following exercise moves through the C major scale in diatonic thirds, ascending then descending. Practise with a steady pulse; every pair of notes should be even and connected.   Cmaj7 scale exercise in thirds — ascending and descending in diatonic thirds over a C major tonal centre.    "
 },
 {
   "id": "fig-scale-exercise-cmaj7-in-thirds",
@@ -2166,8 +2166,8 @@ var ptx_lunr_docs = [
   "url": "sec-scale-exercise-cmaj7-in-triads.html",
   "type": "Section",
   "number": "14.2",
-  "title": "Cmaj7 — In Triads",
-  "body": " Cmaj7 — In Triads  This exercise extends the pattern to diatonic triads. Each group of three notes outlines a triad built from successive scale degrees. The exercise ascends through two octaves and descends back to the root.   Cmaj7 scale exercise in triads — diatonic triads ascending and descending over a C major tonal centre.     Variation  The following variation applies a descending triad pattern starting from the upper register. The groupings move downward through each chord tone before stepping to the next scale degree.   Cmaj7 scale exercise in triads — descending variation.     "
+  "title": "Cmaj — In Triads",
+  "body": " Cmaj — In Triads  This exercise extends the pattern to diatonic triads. Each group of three notes outlines a triad built from successive scale degrees. The exercise ascends through two octaves and descends back to the root.   Cmaj7 scale exercise in triads — diatonic triads ascending and descending over a C major tonal centre.     Variation  The following variation applies a descending triad pattern starting from the upper register. The groupings move downward through each chord tone before stepping to the next scale degree.   Cmaj7 scale exercise in triads — descending variation.     "
 },
 {
   "id": "fig-scale-exercise-cmaj7-in-triads",
@@ -2193,8 +2193,8 @@ var ptx_lunr_docs = [
   "url": "sec-scale-exercise-cmaj7-in-sevenths.html",
   "type": "Section",
   "number": "14.3",
-  "title": "Cmaj7 — Diatonic 7th Chord Arpeggios",
-  "body": " Cmaj7 — Diatonic 7th Chord Arpeggios  This exercise arpeggiates each diatonic seventh chord in C major in sequence: Cmaj7, Dm7, Em7, Fmaj7, G7, Am7, Bm7♭5, and Cmaj7 an octave higher. Each chord is played root–3rd–5th–7th as four eighth notes. The first line ascends through the progression from middle C; the second line descends symmetrically back.   Diatonic 7th chord arpeggios in C major — ascending (line 1) and descending (line 2), all eighth notes from middle C.    "
+  "title": "Cmaj — Diatonic 7th Chord Arpeggios",
+  "body": " Cmaj — Diatonic 7th Chord Arpeggios  This exercise arpeggiates each diatonic seventh chord in C major in sequence: Cmaj7, Dm7, Em7, Fmaj7, G7, Am7, Bm7♭5, and Cmaj7 an octave higher.   Diatonic 7th chord arpeggios in C major — ascending (line 1) and descending (line 2).    "
 },
 {
   "id": "fig-scale-exercise-cmaj7-in-sevenths",
@@ -2203,7 +2203,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "14.3.1",
   "title": "",
-  "body": " Diatonic 7th chord arpeggios in C major — ascending (line 1) and descending (line 2), all eighth notes from middle C.   "
+  "body": " Diatonic 7th chord arpeggios in C major — ascending (line 1) and descending (line 2).   "
 },
 {
   "id": "sec-scale-exercise-cmaj7-thirds-chromatic",
@@ -2211,8 +2211,8 @@ var ptx_lunr_docs = [
   "url": "sec-scale-exercise-cmaj7-thirds-chromatic.html",
   "type": "Section",
   "number": "14.4",
-  "title": "Cmaj7 — In Thirds with Chromatic Pickups",
-  "body": " Cmaj7 — In Thirds with Chromatic Pickups  This exercise moves through the C major scale in diatonic thirds in 6\/8 time. Each group of three eighth notes begins with a chromatic leading note a semitone below the target, slurred into it, followed by the diatonic third above. The exercise ascends from B below middle C to E above the staff, then descends symmetrically back. The final bar ends with a dotted quarter rest.   C major scale in diatonic thirds with chromatic pickups — 6\/8, ascending (line 1) and descending (line 2), all eighth notes.    "
+  "title": "Cmaj — In Thirds with Chromatic Pickups",
+  "body": " Cmaj — In Thirds with Chromatic Pickups  This exercise moves through the C major scale in diatonic thirds in 6\/8 time. Each group of three eighth notes begins with a chromatic leading note a semitone below the target followed by the diatonic third above.   C major scale in diatonic thirds with chromatic pickups — 6\/8, ascending (line 1) and descending (line 2).    "
 },
 {
   "id": "fig-scale-exercise-cmaj7-thirds-chromatic",
@@ -2221,7 +2221,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "14.4.1",
   "title": "",
-  "body": " C major scale in diatonic thirds with chromatic pickups — 6\/8, ascending (line 1) and descending (line 2), all eighth notes.   "
+  "body": " C major scale in diatonic thirds with chromatic pickups — 6\/8, ascending (line 1) and descending (line 2).   "
 },
 {
   "id": "sec-scale-exercise-cmaj7-triads-chromatic",
@@ -2229,8 +2229,8 @@ var ptx_lunr_docs = [
   "url": "sec-scale-exercise-cmaj7-triads-chromatic.html",
   "type": "Section",
   "number": "14.5",
-  "title": "Cmaj7 — In Triads with Chromatic Pickups",
-  "body": " Cmaj7 — In Triads with Chromatic Pickups  This exercise moves through the diatonic triads of C major in 4\/4 time. Each group of four eighth notes begins with a chromatic leading note a semitone below the target, slurred into it, then ascends through the triad (root–3rd–5th). The descending half mirrors the same pattern: chromatic pickup slurred into the top note, then the triad descends (5th–3rd–root). The exercise ascends from B below middle C through all seven diatonic triads to the upper Cmaj, then descends back to middle C.   C major diatonic triads with chromatic pickups — 4\/4, ascending (line 1) and descending (line 2), all eighth notes from B below middle C.    "
+  "title": "Cmaj — In Triads with Chromatic Pickups",
+  "body": " Cmaj — In Triads with Chromatic Pickups     C major diatonic triads with chromatic pickups — 4\/4, ascending (line 1) and descending (line 2), all eighth notes from B below middle C.    "
 },
 {
   "id": "fig-scale-exercise-cmaj7-triads-chromatic",
@@ -2247,8 +2247,8 @@ var ptx_lunr_docs = [
   "url": "sec-scale-exercise-7ths-chromatic.html",
   "type": "Section",
   "number": "14.6",
-  "title": "Diatonic 7th Chords — With Chromatic Pickups",
-  "body": " Diatonic 7th Chords — With Chromatic Pickups  This exercise arpeggiates the diatonic seventh chords of C major in common time, each with a chromatic leading note a semitone below, slurred across the barline into the first note of the next chord. The rhythmic pattern in each bar is two groups of: eighth-note triplet, eighth note, eighth note. Bar 1 contains only the opening lead-in (B below middle C). Bars 2–8 ascend through Cmaj7, Dm7, Em7, Fmaj7, G7, Am7, and Bm7♭5 in root position (root–3rd–5th–7th). Bars 9–16 descend through the same chords starting from the 7th (Cmaj7 with B on top, then Bm7♭5 down to Cmaj7), ending on a quarter-note C.   Diatonic 7th chord arpeggios with chromatic pickups — common time, ascending (lines 1–2) and descending (lines 3–4), ending on middle C.    "
+  "title": "7th Chords — With Chromatic Pickups",
+  "body": " 7th Chords — With Chromatic Pickups     Diatonic 7th chord arpeggios with chromatic pickups — common time, ascending (lines 1–2) and descending (lines 3–4), ending on middle C.    "
 },
 {
   "id": "fig-scale-exercise-7ths-chromatic",
