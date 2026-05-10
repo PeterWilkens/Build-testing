@@ -2143,11 +2143,128 @@ var ptx_lunr_docs = [
   "body": "  How High the Moon — lead sheet with melody and chord symbols.   "
 },
 {
+  "id": "sec-scale-exercise-cmaj7-in-thirds",
+  "level": "1",
+  "url": "sec-scale-exercise-cmaj7-in-thirds.html",
+  "type": "Section",
+  "number": "14.1",
+  "title": "Cmaj7 — In Thirds",
+  "body": " Cmaj7 — In Thirds  The following exercise moves through the C major scale in diatonic thirds, ascending then descending. Practise with a steady pulse; every pair of notes should be even and connected.   Cmaj7 scale exercise in thirds — ascending and descending in diatonic thirds over a C major tonal centre.    "
+},
+{
+  "id": "fig-scale-exercise-cmaj7-in-thirds",
+  "level": "2",
+  "url": "sec-scale-exercise-cmaj7-in-thirds.html#fig-scale-exercise-cmaj7-in-thirds",
+  "type": "Figure",
+  "number": "14.1.1",
+  "title": "",
+  "body": " Cmaj7 scale exercise in thirds — ascending and descending in diatonic thirds over a C major tonal centre.   "
+},
+{
+  "id": "sec-scale-exercise-cmaj7-in-triads",
+  "level": "1",
+  "url": "sec-scale-exercise-cmaj7-in-triads.html",
+  "type": "Section",
+  "number": "14.2",
+  "title": "Cmaj7 — In Triads",
+  "body": " Cmaj7 — In Triads  This exercise extends the pattern to diatonic triads. Each group of three notes outlines a triad built from successive scale degrees. The exercise ascends through two octaves and descends back to the root.   Cmaj7 scale exercise in triads — diatonic triads ascending and descending over a C major tonal centre.     Variation  The following variation applies a descending triad pattern starting from the upper register. The groupings move downward through each chord tone before stepping to the next scale degree.   Cmaj7 scale exercise in triads — descending variation.     "
+},
+{
+  "id": "fig-scale-exercise-cmaj7-in-triads",
+  "level": "2",
+  "url": "sec-scale-exercise-cmaj7-in-triads.html#fig-scale-exercise-cmaj7-in-triads",
+  "type": "Figure",
+  "number": "14.2.1",
+  "title": "",
+  "body": " Cmaj7 scale exercise in triads — diatonic triads ascending and descending over a C major tonal centre.   "
+},
+{
+  "id": "fig-scale-exercise-cmaj7-variation",
+  "level": "2",
+  "url": "sec-scale-exercise-cmaj7-in-triads.html#fig-scale-exercise-cmaj7-variation",
+  "type": "Figure",
+  "number": "14.2.2",
+  "title": "",
+  "body": " Cmaj7 scale exercise in triads — descending variation.   "
+},
+{
+  "id": "sec-scale-exercise-cmaj7-in-sevenths",
+  "level": "1",
+  "url": "sec-scale-exercise-cmaj7-in-sevenths.html",
+  "type": "Section",
+  "number": "14.3",
+  "title": "Cmaj7 — Diatonic 7th Chord Arpeggios",
+  "body": " Cmaj7 — Diatonic 7th Chord Arpeggios  This exercise arpeggiates each diatonic seventh chord in C major in sequence: Cmaj7, Dm7, Em7, Fmaj7, G7, Am7, Bm7♭5, and Cmaj7 an octave higher. Each chord is played root–3rd–5th–7th as four eighth notes. The first line ascends through the progression from middle C; the second line descends symmetrically back.   Diatonic 7th chord arpeggios in C major — ascending (line 1) and descending (line 2), all eighth notes from middle C.    "
+},
+{
+  "id": "fig-scale-exercise-cmaj7-in-sevenths",
+  "level": "2",
+  "url": "sec-scale-exercise-cmaj7-in-sevenths.html#fig-scale-exercise-cmaj7-in-sevenths",
+  "type": "Figure",
+  "number": "14.3.1",
+  "title": "",
+  "body": " Diatonic 7th chord arpeggios in C major — ascending (line 1) and descending (line 2), all eighth notes from middle C.   "
+},
+{
+  "id": "sec-scale-exercise-cmaj7-thirds-chromatic",
+  "level": "1",
+  "url": "sec-scale-exercise-cmaj7-thirds-chromatic.html",
+  "type": "Section",
+  "number": "14.4",
+  "title": "Cmaj7 — In Thirds with Chromatic Pickups",
+  "body": " Cmaj7 — In Thirds with Chromatic Pickups  This exercise moves through the C major scale in diatonic thirds in 6\/8 time. Each group of three eighth notes begins with a chromatic leading note a semitone below the target, slurred into it, followed by the diatonic third above. The exercise ascends from B below middle C to E above the staff, then descends symmetrically back. The final bar ends with a dotted quarter rest.   C major scale in diatonic thirds with chromatic pickups — 6\/8, ascending (line 1) and descending (line 2), all eighth notes.    "
+},
+{
+  "id": "fig-scale-exercise-cmaj7-thirds-chromatic",
+  "level": "2",
+  "url": "sec-scale-exercise-cmaj7-thirds-chromatic.html#fig-scale-exercise-cmaj7-thirds-chromatic",
+  "type": "Figure",
+  "number": "14.4.1",
+  "title": "",
+  "body": " C major scale in diatonic thirds with chromatic pickups — 6\/8, ascending (line 1) and descending (line 2), all eighth notes.   "
+},
+{
+  "id": "sec-scale-exercise-cmaj7-triads-chromatic",
+  "level": "1",
+  "url": "sec-scale-exercise-cmaj7-triads-chromatic.html",
+  "type": "Section",
+  "number": "14.5",
+  "title": "Cmaj7 — In Triads with Chromatic Pickups",
+  "body": " Cmaj7 — In Triads with Chromatic Pickups  This exercise moves through the diatonic triads of C major in 4\/4 time. Each group of four eighth notes begins with a chromatic leading note a semitone below the target, slurred into it, then ascends through the triad (root–3rd–5th). The descending half mirrors the same pattern: chromatic pickup slurred into the top note, then the triad descends (5th–3rd–root). The exercise ascends from B below middle C through all seven diatonic triads to the upper Cmaj, then descends back to middle C.   C major diatonic triads with chromatic pickups — 4\/4, ascending (line 1) and descending (line 2), all eighth notes from B below middle C.    "
+},
+{
+  "id": "fig-scale-exercise-cmaj7-triads-chromatic",
+  "level": "2",
+  "url": "sec-scale-exercise-cmaj7-triads-chromatic.html#fig-scale-exercise-cmaj7-triads-chromatic",
+  "type": "Figure",
+  "number": "14.5.1",
+  "title": "",
+  "body": " C major diatonic triads with chromatic pickups — 4\/4, ascending (line 1) and descending (line 2), all eighth notes from B below middle C.   "
+},
+{
+  "id": "sec-scale-exercise-7ths-chromatic",
+  "level": "1",
+  "url": "sec-scale-exercise-7ths-chromatic.html",
+  "type": "Section",
+  "number": "14.6",
+  "title": "Diatonic 7th Chords — With Chromatic Pickups",
+  "body": " Diatonic 7th Chords — With Chromatic Pickups  This exercise arpeggiates the diatonic seventh chords of C major in common time, each with a chromatic leading note a semitone below, slurred across the barline into the first note of the next chord. The rhythmic pattern in each bar is two groups of: eighth-note triplet, eighth note, eighth note. Bar 1 contains only the opening lead-in (B below middle C). Bars 2–8 ascend through Cmaj7, Dm7, Em7, Fmaj7, G7, Am7, and Bm7♭5 in root position (root–3rd–5th–7th). Bars 9–16 descend through the same chords starting from the 7th (Cmaj7 with B on top, then Bm7♭5 down to Cmaj7), ending on a quarter-note C.   Diatonic 7th chord arpeggios with chromatic pickups — common time, ascending (lines 1–2) and descending (lines 3–4), ending on middle C.    "
+},
+{
+  "id": "fig-scale-exercise-7ths-chromatic",
+  "level": "2",
+  "url": "sec-scale-exercise-7ths-chromatic.html#fig-scale-exercise-7ths-chromatic",
+  "type": "Figure",
+  "number": "14.6.1",
+  "title": "",
+  "body": " Diatonic 7th chord arpeggios with chromatic pickups — common time, ascending (lines 1–2) and descending (lines 3–4), ending on middle C.   "
+},
+{
   "id": "sec-blank-chord-shape-template",
   "level": "1",
   "url": "sec-blank-chord-shape-template.html",
   "type": "Section",
-  "number": "14.1",
+  "number": "15.1",
   "title": "Blank Chord Shape Template",
   "body": " Blank Chord Shape Template                                                        "
 },
@@ -2156,7 +2273,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r1",
   "type": "Figure",
-  "number": "14.1.1",
+  "number": "15.1.1",
   "title": "",
   "body": "                "
 },
@@ -2165,7 +2282,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r2",
   "type": "Figure",
-  "number": "14.1.2",
+  "number": "15.1.2",
   "title": "",
   "body": "                "
 },
@@ -2174,7 +2291,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r3",
   "type": "Figure",
-  "number": "14.1.3",
+  "number": "15.1.3",
   "title": "",
   "body": "                "
 },
@@ -2183,7 +2300,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-chord-progression-template.html",
   "type": "Section",
-  "number": "14.2",
+  "number": "15.2",
   "title": "Extended Chord Progression Template",
   "body": " Extended Chord Progression Template  This template uses the shared 52-node extended 11-row grid layout, including the added lower and upper extension nodes.                                                        "
 },
@@ -2192,7 +2309,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r1",
   "type": "Figure",
-  "number": "14.2.1",
+  "number": "15.2.1",
   "title": "",
   "body": "                "
 },
@@ -2201,7 +2318,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r2",
   "type": "Figure",
-  "number": "14.2.2",
+  "number": "15.2.2",
   "title": "",
   "body": "                "
 },
@@ -2210,7 +2327,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r3",
   "type": "Figure",
-  "number": "14.2.3",
+  "number": "15.2.3",
   "title": "",
   "body": "                "
 },
@@ -2219,7 +2336,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-node-reference-grid.html",
   "type": "Section",
-  "number": "14.3",
+  "number": "15.3",
   "title": "Node Reference Grid (1–30)",
   "body": " Node Reference Grid (1–30)  The grid below numbers every node from (lowest C, bottom-right) to (highest G, top-left). Each diagonal band of five nodes rises from col 5 (right) to col 1 (left). To request a chord shape, simply name the node numbers to highlight — for example nodes 1, 7, 12 gives the C major triad (C, E, G).   Node numbering reference — node 1 is the lowest C (bottom-right); node 30 is the highest G (top-left).      Full lookup table — node number, note name, and \\gn address ( col , row ):      Node Note col row  Node Note col row   1  C  5 1.5  16 A  5 4.5  2  C♯\/D♭ 4 2  17 B♭\/A♯ 4 5  3  D  3 2.5  18 B  3 5.5  4  E♭\/D♯ 2 3  19 C  2 6  5  E  1 3.5  20 C♯\/D♭ 1 6.5  6  E♭\/D♯ 5 2.5  21 C  5 5.5  7  E  4 3  22 C♯\/D♭ 4 6  8  F  3 3.5  23 D  3 6.5  9  F♯\/G♭ 2 4  24 E♭\/D♯ 2 7  10 G  1 4.5  25 E  1 7.5  11 F♯\/G♭ 5 3.5  26 E♭\/D♯ 5 6.5  12 G  4 4  27 E  4 7  13 A♭\/G♯ 3 4.5  28 F  3 7.5  14 A  2 5  29 F♯\/G♭ 2 8  15 B♭\/A♯ 1 5.5  30 G  1 8.5   "
 },
@@ -2228,7 +2345,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-node-reference-grid.html#fig-node-reference",
   "type": "Figure",
-  "number": "14.3.1",
+  "number": "15.3.1",
   "title": "",
   "body": " Node numbering reference — node 1 is the lowest C (bottom-right); node 30 is the highest G (top-left).     "
 },
@@ -2237,7 +2354,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-grid1-highlight.html",
   "type": "Section",
-  "number": "14.4",
+  "number": "15.4",
   "title": "Grid 1 — Nodes 8, 14, 19, 27 (FMaj7)",
   "body": " Grid 1 — Nodes 8, 14, 19, 27 (FMaj7)   Nodes 8 (F), 14 (A), 19 (C), 27 (E) highlighted — FMaj7 shape.      "
 },
@@ -2246,7 +2363,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-grid1-highlight.html#fig-grid1-highlight",
   "type": "Figure",
-  "number": "14.4.1",
+  "number": "15.4.1",
   "title": "",
   "body": " Nodes 8 (F), 14 (A), 19 (C), 27 (E) highlighted — FMaj7 shape.     "
 },
@@ -2255,7 +2372,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-extended-grid-55-node-reference.html",
   "type": "Section",
-  "number": "14.5",
+  "number": "15.5",
   "title": "Extended Grid 1 — 55-Node Reference",
   "body": " Extended Grid 1 — 55-Node Reference  This reference shows all positions in the extended 11-row grid, with each node retaining its note label and carrying an identification number, including the added lower and upper extension nodes used by the drop-2 and chord-progression template figures.   Extended 11-row reference showing note labels and identification numbers for all 55 positions in the shared extended grid layout.      "
 },
@@ -2264,7 +2381,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-extended-grid-55-node-reference.html#fig-extended-grid-55-node-reference",
   "type": "Figure",
-  "number": "14.5.1",
+  "number": "15.5.1",
   "title": "",
   "body": " Extended 11-row reference showing note labels and identification numbers for all 55 positions in the shared extended grid layout.     "
 },
