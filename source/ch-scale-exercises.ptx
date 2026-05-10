@@ -5,7 +5,8 @@
   <introduction>
     <p>
       This chapter presents a set of melodic scale exercises based on the Cmaj7 tonal centre. 
-      Each exercise trains a different intervallic pattern — diatonic thirds, triads — and 
+      Each exercise trains a different intervallic pattern — diatonic thirds, triads, and 
+      diatonic seventh chord arpeggios — and 
       should be practised slowly before increasing tempo. Once secure in C major, transpose 
       to all twelve keys.
     </p>
@@ -65,6 +66,93 @@
                width="100%" />
       </figure>
     </subsection>
+  </section>
+
+  <section xml:id="sec-scale-exercise-cmaj7-in-sevenths">
+    <title>Cmaj7 — Diatonic 7th Chord Arpeggios</title>
+    <p>
+      This exercise arpeggiates each diatonic seventh chord in C major in sequence: 
+      Cmaj7, Dm7, Em7, Fmaj7, G7, Am7, Bm7♭5, and Cmaj7 an octave higher. Each chord 
+      is played root–3rd–5th–7th as four eighth notes. The first line ascends through 
+      the progression from middle C; the second line descends symmetrically back.
+    </p>
+
+    <figure xml:id="fig-scale-exercise-cmaj7-in-sevenths">
+      <caption>
+        Diatonic 7th chord arpeggios in C major — ascending (line 1) and descending 
+        (line 2), all eighth notes from middle C.
+      </caption>
+      <image xml:id="img-scale-exercise-cmaj7-in-sevenths"
+             source="notation/scale-exercise-cmaj7-in-sevenths"
+             width="100%" />
+    </figure>
+  </section>
+
+  <section xml:id="sec-scale-exercise-cmaj7-thirds-chromatic">
+    <title>Cmaj7 — In Thirds with Chromatic Pickups</title>
+    <p>
+      This exercise moves through the C major scale in diatonic thirds in 6/8 time. 
+      Each group of three eighth notes begins with a chromatic leading note a semitone 
+      below the target, slurred into it, followed by the diatonic third above. 
+      The exercise ascends from B below middle C to E above the staff, then descends 
+      symmetrically back. The final bar ends with a dotted quarter rest.
+    </p>
+
+    <figure xml:id="fig-scale-exercise-cmaj7-thirds-chromatic">
+      <caption>
+        C major scale in diatonic thirds with chromatic pickups — 6/8, ascending 
+        (line 1) and descending (line 2), all eighth notes.
+      </caption>
+      <image xml:id="img-scale-exercise-cmaj7-thirds-chromatic"
+             source="notation/scale-exercise-cmaj7-thirds-chromatic"
+             width="100%" />
+    </figure>
+  </section>
+
+  <section xml:id="sec-scale-exercise-cmaj7-triads-chromatic">
+    <title>Cmaj7 — In Triads with Chromatic Pickups</title>
+    <p>
+      This exercise moves through the diatonic triads of C major in 4/4 time. Each group 
+      of four eighth notes begins with a chromatic leading note a semitone below the target, 
+      slurred into it, then ascends through the triad (root–3rd–5th). The descending 
+      half mirrors the same pattern: chromatic pickup slurred into the top note, then 
+      the triad descends (5th–3rd–root). The exercise ascends from B below middle C 
+      through all seven diatonic triads to the upper Cmaj, then descends back to middle C.
+    </p>
+
+    <figure xml:id="fig-scale-exercise-cmaj7-triads-chromatic">
+      <caption>
+        C major diatonic triads with chromatic pickups — 4/4, ascending (line 1) 
+        and descending (line 2), all eighth notes from B below middle C.
+      </caption>
+      <image xml:id="img-scale-exercise-cmaj7-triads-chromatic"
+             source="notation/scale-exercise-cmaj7-triads-chromatic"
+             width="100%" />
+    </figure>
+  </section>
+
+  <section xml:id="sec-scale-exercise-7ths-chromatic">
+    <title>Diatonic 7th Chords — With Chromatic Pickups</title>
+    <p>
+      This exercise arpeggiates the diatonic seventh chords of C major in common time, 
+      each with a chromatic leading note a semitone below, slurred across the barline 
+      into the first note of the next chord. The rhythmic pattern in each bar is two 
+      groups of: eighth-note triplet, eighth note, eighth note. Bar 1 contains only the 
+      opening lead-in (B below middle C). Bars 2–8 ascend through Cmaj7, Dm7, Em7, 
+      Fmaj7, G7, Am7, and Bm7♭5 in root position (root–3rd–5th–7th). Bars 9–16 
+      descend through the same chords starting from the 7th (Cmaj7 with B on top, then 
+      Bm7♭5 down to Cmaj7), ending on a quarter-note C.
+    </p>
+
+    <figure xml:id="fig-scale-exercise-7ths-chromatic">
+      <caption>
+        Diatonic 7th chord arpeggios with chromatic pickups — common time, ascending 
+        (lines 1–2) and descending (lines 3–4), ending on middle C.
+      </caption>
+      <image xml:id="img-scale-exercise-7ths-chromatic"
+             source="notation/scale-exercise-7ths-chromatic"
+             width="100%" />
+    </figure>
   </section>
 
 </chapter>

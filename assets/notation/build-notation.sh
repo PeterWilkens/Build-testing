@@ -1,5 +1,5 @@
 #!/bin/bash
-# Regenerate all notation SVGs from .ly source files.
+# Regenerate all notation SVGs and PDFs from .ly source files.
 # Edit the .ly files to change notes, then run this script.
 # Usage: bash build-notation.sh
 
@@ -12,6 +12,8 @@ for lyfile in *.ly; do
   lilypond -dcrop --svg -o "$base" "$lyfile"
   cp "${base}.cropped.svg" "${base}.svg"
   echo "  -> ${base}.svg (cropped)"
+  lilypond -dcrop --pdf -o "$base" "$lyfile"
+  echo "  -> ${base}.pdf"
 done
 
-echo "All notation SVGs rebuilt."
+echo "All notation SVGs and PDFs rebuilt."
