@@ -2260,11 +2260,65 @@ var ptx_lunr_docs = [
   "body": " Diatonic 7th chord arpeggios with chromatic pickups   "
 },
 {
+  "id": "sec-scale-exercise-harry-likas-pivots-surrounds",
+  "level": "1",
+  "url": "sec-scale-exercise-harry-likas-pivots-surrounds.html",
+  "type": "Section",
+  "number": "14.7",
+  "title": "Alternate Pivots and Surrounds Down the C Bop Scale",
+  "body": " Alternate Pivots and Surrounds Down the C Bop Scale  Arranged by Harry Likas, this exercise alternates Barry Harris' two favourite embellishments down the C scale with a b6 added to the scale.  The pivot is any inverted triad arpeggio. The surround in this case is a three-note enclosure of a note: you approach it from above and then from a half step below. These two patterns alternate continuously as the melody descends through the C bop scale over a I–IV–♯iv°7–I\/5–VI7–ii-7–V7 chord progression at ♩ = 136.   Alternate pivots and surrounds down the C bop scale — arranged by Harry Likas. Scale degree numbers above the melody indicate position in the C bop scale (8 down to 1).    "
+},
+{
+  "id": "sec-scale-exercise-harry-likas-pivots-surrounds-3",
+  "level": "2",
+  "url": "sec-scale-exercise-harry-likas-pivots-surrounds.html#sec-scale-exercise-harry-likas-pivots-surrounds-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "pivot surround "
+},
+{
+  "id": "fig-scale-exercise-harry-likas-pivots-surrounds",
+  "level": "2",
+  "url": "sec-scale-exercise-harry-likas-pivots-surrounds.html#fig-scale-exercise-harry-likas-pivots-surrounds",
+  "type": "Figure",
+  "number": "14.7.1",
+  "title": "",
+  "body": " Alternate pivots and surrounds down the C bop scale — arranged by Harry Likas. Scale degree numbers above the melody indicate position in the C bop scale (8 down to 1).   "
+},
+{
+  "id": "sec-scale-exercise-harry-likas-additional-p2",
+  "level": "1",
+  "url": "sec-scale-exercise-harry-likas-additional-p2.html",
+  "type": "Section",
+  "number": "14.8",
+  "title": "Additional Exercises — Pivots, Surrounds and More (Page 2)",
+  "body": " Additional Exercises — Pivots, Surrounds and More (Page 2)  This page by Harry Likas continues the pivot and surround concepts with further exercises. It covers 7th chord patterns (ascending and descending), chromatic approach notes to 7th chords, and explains the pivot and surround in more detail:  The surround encloses a target note by approaching from above and below by half steps. The pivot rearranges the notes of an arpeggio to give it a different shape. The page demonstrates four combinations — 5-to-4 pivot, 4-to-3 surround, 3-to-2 pivot, and 2-to-1 surround — as well as the 5-4-3-2 and 8-7-6-b6 descending sequences over a C b6 tonal centre. It also includes Oscar Peterson's famous blues break from his recording of \"C Jam Blues\" and Bill Evans motifs featuring multi-surrounds and arpeggio patterns.   Additional exercises by Harry Likas: 7th chord patterns, chromatic approach notes, pivot and surround combinations, Oscar Peterson blues break, and Bill Evans motifs.    "
+},
+{
+  "id": "sec-scale-exercise-harry-likas-additional-p2-3",
+  "level": "2",
+  "url": "sec-scale-exercise-harry-likas-additional-p2.html#sec-scale-exercise-harry-likas-additional-p2-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "surround pivot "
+},
+{
+  "id": "fig-scale-exercise-harry-likas-additional-p2",
+  "level": "2",
+  "url": "sec-scale-exercise-harry-likas-additional-p2.html#fig-scale-exercise-harry-likas-additional-p2",
+  "type": "Figure",
+  "number": "14.8.1",
+  "title": "",
+  "body": " Additional exercises by Harry Likas: 7th chord patterns, chromatic approach notes, pivot and surround combinations, Oscar Peterson blues break, and Bill Evans motifs.   "
+},
+{
   "id": "sec-scale-exercise-chromatic",
   "level": "1",
   "url": "sec-scale-exercise-chromatic.html",
   "type": "Section",
-  "number": "14.7",
+  "number": "14.9",
   "title": "Chromatic Scale",
   "body": " Chromatic Scale  This exercise presents the chromatic scale in common time, ascending from middle C and descending back. Each scale tone of C major falls on the beat; the off-beat is filled with a chromatic passing tone (sharps ascending, flats descending). Where two consecutive scale tones already form a semitone — E to F and B to C ascending, F to E descending — no chromatic passing tone is available, so an upper scale tone is added instead to keep every note synchronised on the beat. The final bar completes the descent with four eighth notes and a half note on middle C.       "
 },
@@ -2273,7 +2327,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-scale-exercise-chromatic.html#fig-scale-exercise-chromatic",
   "type": "Figure",
-  "number": "14.7.1",
+  "number": "14.9.1",
   "title": "",
   "body": "    "
 },
