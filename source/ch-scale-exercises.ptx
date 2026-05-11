@@ -77,8 +77,7 @@
 
     <figure xml:id="fig-scale-exercise-cmaj7-in-sevenths">
       <caption>
-        Diatonic 7th chord arpeggios in C major — ascending (line 1) and descending 
-        (line 2).
+        Diatonic 7th chord arpeggios in C major
       </caption>
       <image xml:id="img-scale-exercise-cmaj7-in-sevenths"
              source="notation/scale-exercise-cmaj7-in-sevenths"
@@ -96,8 +95,7 @@
 
     <figure xml:id="fig-scale-exercise-cmaj7-thirds-chromatic">
       <caption>
-        C major scale in diatonic thirds with chromatic pickups — 6/8, ascending 
-        (line 1) and descending (line 2).
+        C major scale in diatonic thirds with chromatic pickups
       </caption>
       <image xml:id="img-scale-exercise-cmaj7-thirds-chromatic"
              source="notation/scale-exercise-cmaj7-thirds-chromatic"
@@ -113,8 +111,8 @@
 
     <figure xml:id="fig-scale-exercise-cmaj7-triads-chromatic">
       <caption>
-        C major diatonic triads with chromatic pickups — 4/4, ascending (line 1) 
-        and descending (line 2), all eighth notes from B below middle C.
+        C major diatonic triads with chromatic pickups
+        
       </caption>
       <image xml:id="img-scale-exercise-cmaj7-triads-chromatic"
              source="notation/scale-exercise-cmaj7-triads-chromatic"
@@ -129,11 +127,30 @@
 
     <figure xml:id="fig-scale-exercise-7ths-chromatic">
       <caption>
-        Diatonic 7th chord arpeggios with chromatic pickups — common time, ascending 
-        (lines 1–2) and descending (lines 3–4), ending on middle C.
-      </caption>
+        Diatonic 7th chord arpeggios with chromatic pickups</caption>
       <image xml:id="img-scale-exercise-7ths-chromatic"
              source="notation/scale-exercise-7ths-chromatic"
+             width="100%" />
+    </figure>
+  </section>
+
+  <section xml:id="sec-scale-exercise-chromatic">
+    <title>Chromatic Scale</title>
+    <p>
+      This exercise presents the chromatic scale in common time, ascending from middle C 
+      and descending back. Each scale tone of C major falls on the beat; the off-beat is 
+      filled with a chromatic passing tone (sharps ascending, flats descending). Where two 
+      consecutive scale tones already form a semitone — E to F and B to C ascending, 
+      F to E descending — no chromatic passing tone is available, so an upper scale tone 
+      is added instead to keep every note synchronised on the beat. The final bar 
+      completes the descent with four eighth notes and a half note on middle C.
+    </p>
+
+    <figure xml:id="fig-scale-exercise-chromatic">
+      <caption>
+        </caption>
+      <image xml:id="img-scale-exercise-chromatic"
+             source="notation/scale-exercise-chromatic"
              width="100%" />
     </figure>
   </section>
