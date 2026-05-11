@@ -2194,7 +2194,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "14.3",
   "title": "Cmaj — Diatonic 7th Chord Arpeggios",
-  "body": " Cmaj — Diatonic 7th Chord Arpeggios  This exercise arpeggiates each diatonic seventh chord in C major in sequence: Cmaj7, Dm7, Em7, Fmaj7, G7, Am7, Bm7♭5, and Cmaj7 an octave higher.   Diatonic 7th chord arpeggios in C major — ascending (line 1) and descending (line 2).    "
+  "body": " Cmaj — Diatonic 7th Chord Arpeggios  This exercise arpeggiates each diatonic seventh chord in C major in sequence: Cmaj7, Dm7, Em7, Fmaj7, G7, Am7, Bm7♭5, and Cmaj7 an octave higher.   Diatonic 7th chord arpeggios in C major    "
 },
 {
   "id": "fig-scale-exercise-cmaj7-in-sevenths",
@@ -2203,7 +2203,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "14.3.1",
   "title": "",
-  "body": " Diatonic 7th chord arpeggios in C major — ascending (line 1) and descending (line 2).   "
+  "body": " Diatonic 7th chord arpeggios in C major   "
 },
 {
   "id": "sec-scale-exercise-cmaj7-thirds-chromatic",
@@ -2212,7 +2212,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "14.4",
   "title": "Cmaj — In Thirds with Chromatic Pickups",
-  "body": " Cmaj — In Thirds with Chromatic Pickups  This exercise moves through the C major scale in diatonic thirds in 6\/8 time. Each group of three eighth notes begins with a chromatic leading note a semitone below the target followed by the diatonic third above.   C major scale in diatonic thirds with chromatic pickups — 6\/8, ascending (line 1) and descending (line 2).    "
+  "body": " Cmaj — In Thirds with Chromatic Pickups  This exercise moves through the C major scale in diatonic thirds in 6\/8 time. Each group of three eighth notes begins with a chromatic leading note a semitone below the target followed by the diatonic third above.   C major scale in diatonic thirds with chromatic pickups    "
 },
 {
   "id": "fig-scale-exercise-cmaj7-thirds-chromatic",
@@ -2221,7 +2221,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "14.4.1",
   "title": "",
-  "body": " C major scale in diatonic thirds with chromatic pickups — 6\/8, ascending (line 1) and descending (line 2).   "
+  "body": " C major scale in diatonic thirds with chromatic pickups   "
 },
 {
   "id": "sec-scale-exercise-cmaj7-triads-chromatic",
@@ -2230,7 +2230,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "14.5",
   "title": "Cmaj — In Triads with Chromatic Pickups",
-  "body": " Cmaj — In Triads with Chromatic Pickups     C major diatonic triads with chromatic pickups — 4\/4, ascending (line 1) and descending (line 2), all eighth notes from B below middle C.    "
+  "body": " Cmaj — In Triads with Chromatic Pickups     C major diatonic triads with chromatic pickups    "
 },
 {
   "id": "fig-scale-exercise-cmaj7-triads-chromatic",
@@ -2239,7 +2239,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "14.5.1",
   "title": "",
-  "body": " C major diatonic triads with chromatic pickups — 4\/4, ascending (line 1) and descending (line 2), all eighth notes from B below middle C.   "
+  "body": " C major diatonic triads with chromatic pickups   "
 },
 {
   "id": "sec-scale-exercise-7ths-chromatic",
@@ -2248,7 +2248,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "14.6",
   "title": "7th Chords — With Chromatic Pickups",
-  "body": " 7th Chords — With Chromatic Pickups     Diatonic 7th chord arpeggios with chromatic pickups — common time, ascending (lines 1–2) and descending (lines 3–4), ending on middle C.    "
+  "body": " 7th Chords — With Chromatic Pickups     Diatonic 7th chord arpeggios with chromatic pickups    "
 },
 {
   "id": "fig-scale-exercise-7ths-chromatic",
@@ -2257,7 +2257,25 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "14.6.1",
   "title": "",
-  "body": " Diatonic 7th chord arpeggios with chromatic pickups — common time, ascending (lines 1–2) and descending (lines 3–4), ending on middle C.   "
+  "body": " Diatonic 7th chord arpeggios with chromatic pickups   "
+},
+{
+  "id": "sec-scale-exercise-chromatic",
+  "level": "1",
+  "url": "sec-scale-exercise-chromatic.html",
+  "type": "Section",
+  "number": "14.7",
+  "title": "Chromatic Scale",
+  "body": " Chromatic Scale  This exercise presents the chromatic scale in common time, ascending from middle C and descending back. Each scale tone of C major falls on the beat; the off-beat is filled with a chromatic passing tone (sharps ascending, flats descending). Where two consecutive scale tones already form a semitone — E to F and B to C ascending, F to E descending — no chromatic passing tone is available, so an upper scale tone is added instead to keep every note synchronised on the beat. The final bar completes the descent with four eighth notes and a half note on middle C.       "
+},
+{
+  "id": "fig-scale-exercise-chromatic",
+  "level": "2",
+  "url": "sec-scale-exercise-chromatic.html#fig-scale-exercise-chromatic",
+  "type": "Figure",
+  "number": "14.7.1",
+  "title": "",
+  "body": "    "
 },
 {
   "id": "sec-blank-chord-shape-template",
