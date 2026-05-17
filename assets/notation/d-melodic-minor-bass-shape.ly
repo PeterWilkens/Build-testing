@@ -3,11 +3,11 @@
 #(set-global-staff-size 14)
 
 ascendingPlaceholders = \lyricmode {
-  "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "15"
+  "2" "3" "2" "3" "4" "3" "4" "3" "0" "0" "0" "0" "0" "0" "0"
 }
 
 descendingPlaceholders = \lyricmode {
-  "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "15"
+  "0" "0" "0" "0" "0" "0" "0" "3" "2" "3" "2" "4" "3" "2" "3"
 }
 
 \paper {
@@ -47,7 +47,7 @@ descendingPlaceholders = \lyricmode {
       \key d \minor
       \omit Staff.TimeSignature
       \new Voice = "ascendingScale" {
-        { d,4 e, f g a b cis d e f g a b cis' d' \bar "||" }
+        { d,4 e, f, g, a, b, cis d e f g a b cis' d' \bar "||" }
       }
     }
     \new Lyrics \lyricsto "ascendingScale" \ascendingPlaceholders
