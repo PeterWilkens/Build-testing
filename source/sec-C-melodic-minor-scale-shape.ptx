@@ -9,7 +9,7 @@
     <title>Basic C Melodic Minor Shape</title>
 
     <figure xml:id="fig-C-melodic-minor-scale-shape">
-      <caption>Basic C melodic minor shape. Ascending fingering numbers appear at the top of each button.</caption>
+      <caption>Basic C melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.</caption>
       <image xml:id="img-C-melodic-minor-scale-shape">
         <latex-image>
 \begin{tikzpicture}[scale=0.85, transform shape]
@@ -85,6 +85,7 @@
   \node[nodestyle#6] at (#1*\hlen,#2*\vlen) {};
   \node[font=\bfseries\small] at (#1*\hlen,#2*\vlen) {#3};
   \node[font=\bfseries\scriptsize] at (#1*\hlen-0.25,#2*\vlen+0.24) {#4};
+  \node[font=\bfseries\scriptsize] at (#1*\hlen+0.25,#2*\vlen-0.24) {#5};
 }
 
 \begin{scope}[xshift=\leftshift cm]
@@ -99,7 +100,7 @@
     \csname templatenodestyle\endcsname{5}{3.5}{}{3}
     \csname templatenodestyle\endcsname{6}{4.0}{}{3}
 
-    \csname templatesplitnodestylebass\endcsname{1}{2.5}{E$\flat$}{4}{4}{2}
+    \csname templatesplitnodestylebass\endcsname{1}{2.5}{E$\flat$}{2}{2}{2}
     \csname templatenodestyle\endcsname{2}{3.0}{}{3}
     \csname templatesplitnodestylebass\endcsname{3}{3.5}{F}{3}{3}{2}
     \csname templatenodestyle\endcsname{4}{4.0}{}{3}
@@ -107,50 +108,50 @@
     \csname templatenodestyle\endcsname{6}{5.0}{}{3}
 
     \csname templatenodestyle\endcsname{1}{3.5}{}{3}
-    \csname templatesplitnodestylebass\endcsname{2}{4.0}{G}{1}{1}{2}
+    \csname templatesplitnodestylebass\endcsname{2}{4.0}{G}{4}{2}{2}
     \csname templatenodestyle\endcsname{3}{4.5}{}{3}
     \csname templatenodestyle\endcsname{4}{5.0}{}{3}
     \csname templatenodestyle\endcsname{5}{5.5}{}{3}
     \csname templatenodestyle\endcsname{6}{6.0}{}{3}
 
-    \csname templatesplitnodestylebass\endcsname{1}{4.5}{A}{3}{3}{2}
+    \csname templatesplitnodestylebass\endcsname{1}{4.5}{A}{2}{3}{2}
     \csname templatenodestyle\endcsname{2}{5.0}{}{3}
-    \csname templatesplitnodestylebass\endcsname{3}{5.5}{B}{4}{4}{2}
+    \csname templatesplitnodestylebass\endcsname{3}{5.5}{B}{3}{4}{2}
     \csname templatenodestyle\endcsname{4}{6.0}{}{3}
     \csname templatenodestyle\endcsname{5}{6.5}{}{3}
     \csname templatenodestyle\endcsname{6}{7.0}{}{3}
 
-    \csname templatesplitnodestylebass\endcsname{1}{5.5}{C}{2}{2}{2}
+    \csname templatesplitnodestylebass\endcsname{1}{5.5}{C}{4}{5}{2}
     \csname templatenodestyle\endcsname{2}{6.0}{}{3}
-    \csname templatesplitnodestylebass\endcsname{3}{6.5}{D}{3}{3}{2}
+    \csname templatesplitnodestylebass\endcsname{3}{6.5}{D}{}{}{2}
     \csname templatenodestyle\endcsname{4}{7.0}{}{3}
     \csname templatenodestyle\endcsname{5}{7.5}{}{3}
     \csname templatenodestyle\endcsname{6}{8.0}{}{3}
 
-    \csname templatesplitnodestylebass\endcsname{1}{6.5}{E$\flat$}{4}{4}{2}
+    \csname templatesplitnodestylebass\endcsname{1}{6.5}{E$\flat$}{}{}{2}
     \csname templatenodestyle\endcsname{2}{7.0}{}{3}
-    \csname templatesplitnodestylebass\endcsname{3}{7.5}{F}{3}{3}{2}
+    \csname templatesplitnodestylebass\endcsname{3}{7.5}{F}{}{}{2}
     \csname templatenodestyle\endcsname{4}{8.0}{}{3}
     \csname templatenodestyle\endcsname{5}{8.5}{}{3}
     \csname templatenodestyle\endcsname{6}{9.0}{}{3}
 
     \csname templatenodestyle\endcsname{1}{7.5}{}{3}
-    \csname templatesplitnodestylebass\endcsname{2}{8.0}{G}{1}{1}{2}
+    \csname templatesplitnodestylebass\endcsname{2}{8.0}{G}{}{}{2}
     \csname templatenodestyle\endcsname{3}{8.5}{}{3}
     \csname templatenodestyle\endcsname{4}{9.0}{}{3}
     \csname templatenodestyle\endcsname{5}{9.5}{}{3}
     \csname templatenodestyle\endcsname{6}{10.0}{}{3}
 
-    \csname templatesplitnodestylebass\endcsname{1}{8.5}{A}{2}{2}{2}
+    \csname templatesplitnodestylebass\endcsname{1}{8.5}{A}{}{}{2}
     \csname templatenodestyle\endcsname{2}{9.0}{}{3}
-    \csname templatesplitnodestylebass\endcsname{3}{9.5}{B}{3}{3}{2}
+    \csname templatesplitnodestylebass\endcsname{3}{9.5}{B}{}{}{2}
     \csname templatenodestyle\endcsname{4}{10.0}{}{3}
     \csname templatenodestyle\endcsname{5}{10.5}{}{3}
     \csname templatenodestyle\endcsname{6}{11.0}{}{3}
 
-    \csname templatesplitnodestylebass\endcsname{1}{9.5}{C}{4}{4}{2}
+    \csname templatesplitnodestylebass\endcsname{1}{9.5}{C}{}{}{2}
     \csname templatenodestyle\endcsname{2}{10.0}{}{3}
-    \csname templatesplitnodestylebass\endcsname{3}{10.5}{D}{3}{3}{2}
+    \csname templatesplitnodestylebass\endcsname{3}{10.5}{D}{}{}{2}
     \csname templatenodestyle\endcsname{4}{11.0}{}{3}
     \csname templatenodestyle\endcsname{5}{11.5}{}{3}
     \csname templatenodestyle\endcsname{6}{12.0}{}{3}
