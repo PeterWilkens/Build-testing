@@ -312,8 +312,8 @@ var ptx_lunr_docs = [
   "url": "sec-C-major-scale-shape.html",
   "type": "Section",
   "number": "4.1",
-  "title": "C Major Scale Shape",
-  "body": " C Major Scale Shape   Use this shape to form other major scales where the shape fits, for example E♭ D♯, G♭, A♯.    Basic C Shape Scale   Basic C shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
+  "title": "C Major Basic Scale Shape",
+  "body": " C Major Basic Scale Shape   Use this shape to form other major scales starting from the same column, for example E♭\/D♯, F♯\/G♭, A. The fingering is then transferable using the same pattern. Similarly where there are five columns the same major scale pattern can be used when starting from any root note in the second or third column from the extreme right column.    Basic C Major Scale Shape   Basic C shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
 {
   "id": "fig-C-major-scale-shape",
@@ -339,8 +339,8 @@ var ptx_lunr_docs = [
   "url": "sec-D-major-scale-shape.html",
   "type": "Section",
   "number": "4.2",
-  "title": "D Major Scale Shape",
-  "body": " D Major Scale Shape   Use this shape to form other major scales where the shape fits, for example F, G♯ A♭, B.    Basic D Shape Scale   Basic D shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
+  "title": "D Major Basic Scale Shape",
+  "body": " D Major Basic Scale Shape   Use this shape to form other major scales where the shape fits, for example F, G♯ A♭, B.    Basic D Major Scale Shape   Basic D shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
 {
   "id": "fig-D-major-scale-shape",
@@ -366,8 +366,8 @@ var ptx_lunr_docs = [
   "url": "sec-G-major-scale-shape.html",
   "type": "Section",
   "number": "4.3",
-  "title": "G Major Scale Shape",
-  "body": " G Major Scale Shape   Use this shape to form other major scales where the shape fits, for example A♯ B♭, C♯ D♭, E.    Basic G Shape Scale   Basic G shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
+  "title": "G Major Basic Scale Shape",
+  "body": " G Major Basic Scale Shape   Use this shape to form other major scales where the shape fits, for example A♯ B♭, C♯ D♭, E.    Basic G Major Scale Shape   Basic G shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
 {
   "id": "fig-G-major-scale-shape",
@@ -421,7 +421,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.5",
   "title": "C Melodic Minor Scale Shape Ascending",
-  "body": " C Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits.    Basic C Melodic Minor Shape   Basic C melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
+  "body": " C Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits, ie; starting from the same column or using the same pattern in different positions. Scale name will be given by the first note of the scale.    Basic C Melodic Minor Shape   Basic C melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
 {
   "id": "fig-C-melodic-minor-scale-shape",
@@ -448,7 +448,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.6",
   "title": "C Melodic Minor Descending Scale Shape",
-  "body": " C Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other descending melodic minor scales where the shape fits.    Basic C Melodic Minor Descending Shape   Basic C melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.               "
+  "body": " C Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other melodic minor scales where the shape fits, ie; starting from the same column or using the same pattern in different positions. Scale name will be given by the first note of the scale.    Basic C Melodic Minor Descending Shape   Basic C melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.               "
 },
 {
   "id": "fig-C-melodic-minor-descending-scale-shape",

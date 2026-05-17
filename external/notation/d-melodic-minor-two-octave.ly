@@ -47,7 +47,7 @@ descendingPlaceholders = \lyricmode {
       \key d \minor
       \omit Staff.TimeSignature
       \new Voice = "ascendingScale" {
-        { d4 e f g a b cis' d' e' f' g' a' b' cis'' d'' \bar "||" }
+        { d'4 e' f' g' a' b' cis'' d'' e'' f'' g'' a'' b'' cis''' d''' \bar "||" }
       }
     }
     \new Lyrics \lyricsto "ascendingScale" \ascendingPlaceholders
@@ -63,7 +63,7 @@ descendingPlaceholders = \lyricmode {
       \key d \minor
       \omit Staff.TimeSignature
       \new Voice = "descendingScale" {
-        { d''4 c'' bes' a' g' f' e' d' c' bes a g f e d \bar "||" }
+        { d'''4 c''' bes'' a'' g'' f'' e'' d'' c'' bes' a' g' f' e' d' \bar "||" }
       }
     }
     \new Lyrics \lyricsto "descendingScale" \descendingPlaceholders
