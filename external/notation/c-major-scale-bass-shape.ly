@@ -13,12 +13,12 @@
 
 % Ascending: C D E F G A B  C D E F G A B  C  (15 notes)
 ascendingPlaceholders = \lyricmode {
-  "2" "3" "4" "3" "4" "2" "3" "2" "3" "4" "3" "4" "2" "3" "4"
+  "2" "3" "4" "3" "4" "2" "3" "4" "0" "0" "0" "0" "0" "0" "0"
 }
 
 % Descending: C B A G F E D  C B A G F E D  C  (15 notes)
 descendingPlaceholders = \lyricmode {
-  "4" "3" "2" "4" "3" "2" "3" "4" "3" "2" "4" "3" "2" "3" "2"
+  "4" "3" "2" "4" "3" "2" "3" "2" "0" "0" "0" "0" "0" "0" "0"
 }
 
 \paper {

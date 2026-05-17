@@ -421,7 +421,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.5",
   "title": "C Melodic Minor Scale Shape Ascending",
-  "body": " C Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits.    Basic C Melodic Minor Shape   Basic C melodic minor shape. Ascending fingering numbers appear at the top of each button.               "
+  "body": " C Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits.    Basic C Melodic Minor Shape   Basic C melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
 {
   "id": "fig-C-melodic-minor-scale-shape",
@@ -430,7 +430,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.5.1",
   "title": "",
-  "body": " Basic C melodic minor shape. Ascending fingering numbers appear at the top of each button.     "
+  "body": " Basic C melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.     "
 },
 {
   "id": "fig-C-melodic-minor-scale-shape-notation",
