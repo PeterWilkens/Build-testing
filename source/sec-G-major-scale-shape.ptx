@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section xml:id="sec-G-major-scale-shape" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>G Major Scale Shape</title>
+  <title>G Major Basic Scale Shape</title>
   <introduction>
     <p>Use this shape to form other major scales where the shape fits, for example A♯ B♭, C♯ D♭, E.</p>
   </introduction>
 
   <subsection xml:id="subsec-G-major-scale-shape-layout">
-    <title>Basic G Shape Scale</title>
+    <title>Basic G Major Scale Shape</title>
 
     <figure xml:id="fig-G-major-scale-shape">
       <caption>Basic G shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.</caption>

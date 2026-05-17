@@ -48,7 +48,7 @@ descendingPlaceholders = \lyricmode {
       \omit Staff.TimeSignature
       \new Voice = "ascendingScale" {
         {
-          d4 e fis g a b cis' d' e' fis' g' a' b' cis'' d'' \bar "||"
+          d'4 e' fis' g' a' b' cis'' d'' e'' fis'' g'' a'' b'' cis''' d''' \bar "||"
         }
       }
     }
@@ -66,7 +66,7 @@ descendingPlaceholders = \lyricmode {
       \omit Staff.TimeSignature
       \new Voice = "descendingScale" {
         {
-          d''4 cis'' b' a' g' fis' e' d' cis' b a g fis e d \bar "||"
+          d'''4 cis''' b'' a'' g'' fis'' e'' d'' cis'' b' a' g' fis' e' d' \bar "||"
         }
       }
     }

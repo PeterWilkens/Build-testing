@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section xml:id="sec-C-major-scale-shape" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>C Major Scale Shape</title>
+  <title>C Major Basic Scale Shape</title>
   <introduction>
-    <p>Use this shape to form other major scales where the shape fits, for example E♭ D♯, G♭, A♯.</p>
+    <p>Use this shape to form other major scales starting from the same column, for example E♭/D♯, F♯/G♭, A. The fingering is then transferable using the same pattern. Similarly where there are five columns the same major scale pattern can be used when starting from any root note in the second or third column from the extreme right column.</p>
   </introduction>
 
   <subsection xml:id="subsec-C-major-scale-shape-layout">
-    <title>Basic C Shape Scale</title>
+    <title>Basic C Major Scale Shape</title>
 
     <figure xml:id="fig-C-major-scale-shape">
       <caption>Basic C shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.</caption>

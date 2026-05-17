@@ -2,7 +2,7 @@
 <section xml:id="sec-C-melodic-minor-scale-shape" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>C Melodic Minor Scale Shape Ascending</title>
   <introduction>
-    <p>Use this shape to form other melodic minor scales where the shape fits.</p>
+    <p>Use this shape to form other melodic minor scales where the shape fits, ie; starting from the same column or using the same pattern in different positions. Scale name will be given by the first note of the scale.</p>
   </introduction>
 
   <subsection xml:id="subsec-C-melodic-minor-scale-shape-layout">

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section xml:id="sec-D-major-scale-shape" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>D Major Scale Shape</title>
+  <title>D Major Basic Scale Shape</title>
   <introduction>
     <p>Use this shape to form other major scales where the shape fits, for example F, G♯ A♭, B.</p>
   </introduction>
 
   <subsection xml:id="subsec-D-major-scale-shape-layout">
-    <title>Basic D Shape Scale</title>
+    <title>Basic D Major Scale Shape</title>
 
     <figure xml:id="fig-D-major-scale-shape">
       <caption>Basic D shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.</caption>
