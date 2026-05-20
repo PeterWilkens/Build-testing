@@ -58,6 +58,11 @@
   \gn{#1}{#2}{#3}{0}%
   \node[circle,draw=gray,fill=white,inner sep=0.4pt,font=\fontsize{4}{4}\selectfont\bfseries,xshift=5pt,yshift=4pt] at (#1*\hlen,#2*\vlen) {#4};%
 }%
+\newcommand{\gnf}[5]{%
+  \gn{#1}{#2}{#3}{1}%
+  \node[font=\fontsize{3.5}{4}\selectfont\bfseries] at (#1*\hlen-0.12,#2*\vlen+0.12) {#4};%
+  \node[font=\fontsize{3.5}{4}\selectfont\bfseries] at (#1*\hlen+0.12,#2*\vlen-0.12) {#5};%
+}%
 \newcommand{\extendedgridbottomsquare}{%
 \gn{3}{-0.5}{B}{0}%
 \gn{5}{-0.5}{C}{0}%

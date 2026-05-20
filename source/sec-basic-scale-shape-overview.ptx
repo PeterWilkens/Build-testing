@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-basic-scale-shape-overview" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Basic Scale Shape Overview</title>
+  <introduction>
+    <p>The three basic scale shapes on the treble keyboard are shown below. Ascending fingering numbers appear at the upper-left of each highlighted button and descending fingering numbers at the lower-right.</p>
+  </introduction>
+
+  <subsection xml:id="subsec-basic-scale-shape-grids">
+    <title>Three Basic Scale Shapes</title>
+
+    <figure xml:id="fig-basic-scale-shape-grids">
+      <caption>The three basic scale shapes on the treble keyboard. C major scale, two octaves ascending and descending.</caption>
+      <sidebyside widths="30% 30% 30%" margins="3%">
+
+        <!-- Grid 1: Basic Shape 1 — C major scale in C-shape, starting C at col 5 (node 2) -->
+        <image xml:id="img-basic-scale-shape-g1">
+          <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Basic Shape 1};
+\extendedgridnotes
+% C major scale — C shape, 2 octaves, starting C at (col 5, row -0.5)
+% Ascending finger top-left, descending finger bottom-right
+\gnf{5}{-0.5}{C}{1}{1}
+\gnf{3}{0.5}{D}{3}{2}
+\gnf{4}{1}{E}{4}{1}
+\gnf{3}{1.5}{F}{2}{3}
+\gnf{4}{2}{G}{3}{4}
+\gnf{5}{2.5}{A}{4}{1}
+\gnf{3}{3.5}{B}{3}{3}
+\gnf{5}{3.5}{C}{1}{1}
+\gnf{3}{4.5}{D}{3}{2}
+\gnf{4}{5}{E}{4}{1}
+\gnf{3}{5.5}{F}{2}{3}
+\gnf{4}{6}{G}{3}{4}
+\gnf{5}{6.5}{A}{4}{1}
+\gnf{3}{7.5}{B}{3}{3}
+\gnf{5}{7.5}{C}{4}{4}
+\end{tikzpicture}
+          </latex-image>
+        </image>
+
+        <!-- Grid 2: Basic Shape 2 — C major scale in D-shape, starting C at col 2 (node 5) -->
+        <image xml:id="img-basic-scale-shape-g2">
+          <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Basic Shape 2};
+\extendedgridnotes
+% C major scale — D shape applied to C, 2 octaves, starting C at (col 2, row 0) = node 5
+% Fingering from treble D major basic scale shape
+\gnf{2}{0}{C}{2}{2}
+\gnf{3}{0.5}{D}{3}{3}
+\gnf{4}{1}{E}{4}{1}
+\gnf{3}{1.5}{F}{3}{3}
+\gnf{4}{2}{G}{1}{1}
+\gnf{2}{3}{A}{3}{2}
+\gnf{3}{3.5}{B}{4}{1}
+\gnf{2}{4}{C}{2}{3}
+\gnf{3}{4.5}{D}{3}{4}
+\gnf{4}{5}{E}{4}{1}
+\gnf{3}{5.5}{F}{3}{3}
+\gnf{4}{6}{G}{1}{1}
+\gnf{2}{7}{A}{2}{2}
+\gnf{3}{7.5}{B}{3}{3}
+\gnf{2}{8}{C}{4}{4}
+\end{tikzpicture}
+          </latex-image>
+        </image>
+
+        <!-- Grid 3: Basic Shape 3 — C major scale in G-shape, starting C at col 2 (node 5) -->
+        <image xml:id="img-basic-scale-shape-g3">
+          <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Basic Shape 3};
+\extendedgridnotes
+% C major scale — G shape applied to C, 2 octaves, starting C at (col 2, row 0) = node 5
+% G-shape pattern shifted 2 columns left; fingering from treble G major basic scale shape
+\gnf{2}{0}{C}{2}{2}
+\gnf{3}{0.5}{D}{1}{1}
+\gnf{1}{1.5}{E}{3}{2}
+\gnf{3}{1.5}{F}{1}{1}
+\gnf{1}{2.5}{G}{2}{3}
+\gnf{2}{3}{A}{3}{4}
+\gnf{3}{3.5}{B}{4}{1}
+\gnf{2}{4}{C}{3}{3}
+\gnf{3}{4.5}{D}{1}{1}
+\gnf{1}{5.5}{E}{3}{2}
+\gnf{3}{5.5}{F}{1}{1}
+\gnf{1}{6.5}{G}{2}{2}
+\gnf{2}{7}{A}{3}{3}
+\gnf{3}{7.5}{B}{4}{4}
+\gnf{2}{8}{C}{5}{5}
+\end{tikzpicture}
+          </latex-image>
+        </image>
+
+      </sidebyside>
+    </figure>
+
+  </subsection>
+
+</section>
+

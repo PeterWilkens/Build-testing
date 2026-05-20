@@ -13,6 +13,8 @@
     <xi:include href="sec-D-major-scale-shape.ptx" />
     <xi:include href="sec-G-major-scale-shape.ptx" />
 
+    <xi:include href="sec-basic-scale-shape-overview.ptx" />
+
       <!-- Harmonic and Melodic Minor Scale Shapes (relative minors) -->
 
         <xi:include href="sec-C-harmonic-minor-scale-shape.ptx" />
