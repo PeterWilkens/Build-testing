@@ -388,11 +388,29 @@ var ptx_lunr_docs = [
   "body": "       "
 },
 {
+  "id": "sec-basic-scale-shape-overview",
+  "level": "1",
+  "url": "sec-basic-scale-shape-overview.html",
+  "type": "Section",
+  "number": "4.4",
+  "title": "Basic Scale Shape Overview",
+  "body": " Basic Scale Shape Overview   The three basic scale shapes on the treble keyboard are shown below. Ascending fingering numbers appear at the upper-left of each highlighted button and descending fingering numbers at the lower-right.    Three Basic Scale Shapes   The three basic scale shapes on the treble keyboard. C major scale, two octaves ascending and descending.                  "
+},
+{
+  "id": "fig-basic-scale-shape-grids",
+  "level": "2",
+  "url": "sec-basic-scale-shape-overview.html#fig-basic-scale-shape-grids",
+  "type": "Figure",
+  "number": "4.4.1",
+  "title": "",
+  "body": " The three basic scale shapes on the treble keyboard. C major scale, two octaves ascending and descending.                "
+},
+{
   "id": "sec-C-harmonic-minor-scale-shape",
   "level": "1",
   "url": "sec-C-harmonic-minor-scale-shape.html",
   "type": "Section",
-  "number": "4.4",
+  "number": "4.5",
   "title": "C Harmonic Minor Scale Shape",
   "body": " C Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic C Harmonic Minor Shape   Basic C harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
@@ -401,7 +419,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-C-harmonic-minor-scale-shape.html#fig-C-harmonic-minor-scale-shape",
   "type": "Figure",
-  "number": "4.4.1",
+  "number": "4.5.1",
   "title": "",
   "body": " Basic C harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.     "
 },
@@ -410,7 +428,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-C-harmonic-minor-scale-shape.html#fig-C-harmonic-minor-scale-shape-notation",
   "type": "Figure",
-  "number": "4.4.2",
+  "number": "4.5.2",
   "title": "",
   "body": "       "
 },
@@ -419,7 +437,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-C-melodic-minor-scale-shape.html",
   "type": "Section",
-  "number": "4.5",
+  "number": "4.6",
   "title": "C Melodic Minor Scale Shape Ascending",
   "body": " C Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits, ie; starting from the same column or using the same pattern in different positions. Scale name will be given by the first note of the scale.    Basic C Melodic Minor Shape   Basic C melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
@@ -428,7 +446,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-C-melodic-minor-scale-shape.html#fig-C-melodic-minor-scale-shape",
   "type": "Figure",
-  "number": "4.5.1",
+  "number": "4.6.1",
   "title": "",
   "body": " Basic C melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.     "
 },
@@ -437,7 +455,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-C-melodic-minor-scale-shape.html#fig-C-melodic-minor-scale-shape-notation",
   "type": "Figure",
-  "number": "4.5.2",
+  "number": "4.6.2",
   "title": "",
   "body": "       "
 },
@@ -446,7 +464,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-C-melodic-minor-descending-scale-shape.html",
   "type": "Section",
-  "number": "4.6",
+  "number": "4.7",
   "title": "C Melodic Minor Descending Scale Shape",
   "body": " C Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other melodic minor scales where the shape fits, ie; starting from the same column or using the same pattern in different positions. Scale name will be given by the first note of the scale.    Basic C Melodic Minor Descending Shape   Basic C melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.               "
 },
@@ -455,7 +473,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-C-melodic-minor-descending-scale-shape.html#fig-C-melodic-minor-descending-scale-shape",
   "type": "Figure",
-  "number": "4.6.1",
+  "number": "4.7.1",
   "title": "",
   "body": " Basic C melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.     "
 },
@@ -464,7 +482,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-C-melodic-minor-descending-scale-shape.html#fig-C-melodic-minor-descending-scale-shape-notation",
   "type": "Figure",
-  "number": "4.6.2",
+  "number": "4.7.2",
   "title": "",
   "body": "       "
 },
@@ -473,7 +491,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-D-harmonic-minor-scale-shape.html",
   "type": "Section",
-  "number": "4.7",
+  "number": "4.8",
   "title": "D Harmonic Minor Scale Shape",
   "body": " D Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic D Harmonic Minor Shape   Basic D harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
@@ -482,7 +500,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-D-harmonic-minor-scale-shape.html#fig-D-harmonic-minor-scale-shape",
   "type": "Figure",
-  "number": "4.7.1",
+  "number": "4.8.1",
   "title": "",
   "body": " Basic D harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.     "
 },
@@ -491,7 +509,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-D-harmonic-minor-scale-shape.html#fig-D-harmonic-minor-scale-shape-notation",
   "type": "Figure",
-  "number": "4.7.2",
+  "number": "4.8.2",
   "title": "",
   "body": "       "
 },
@@ -500,7 +518,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-D-melodic-minor-scale-shape.html",
   "type": "Section",
-  "number": "4.8",
+  "number": "4.9",
   "title": "D Melodic Minor Scale Shape Ascending",
   "body": " D Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits.    Basic D Melodic Minor Shape   Basic D melodic minor shape. Ascending fingering numbers appear at the top of each button.               "
 },
@@ -509,7 +527,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-D-melodic-minor-scale-shape.html#fig-D-melodic-minor-scale-shape",
   "type": "Figure",
-  "number": "4.8.1",
+  "number": "4.9.1",
   "title": "",
   "body": " Basic D melodic minor shape. Ascending fingering numbers appear at the top of each button.     "
 },
@@ -518,7 +536,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-D-melodic-minor-scale-shape.html#fig-D-melodic-minor-scale-shape-notation",
   "type": "Figure",
-  "number": "4.8.2",
+  "number": "4.9.2",
   "title": "",
   "body": "       "
 },
@@ -527,7 +545,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-D-melodic-minor-descending-scale-shape.html",
   "type": "Section",
-  "number": "4.9",
+  "number": "4.10",
   "title": "D Melodic Minor Descending Scale Shape",
   "body": " D Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other descending melodic minor scales where the shape fits.    Basic D Melodic Minor Descending Shape   Basic D melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.               "
 },
@@ -536,7 +554,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-D-melodic-minor-descending-scale-shape.html#fig-D-melodic-minor-descending-scale-shape",
   "type": "Figure",
-  "number": "4.9.1",
+  "number": "4.10.1",
   "title": "",
   "body": " Basic D melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.     "
 },
@@ -545,7 +563,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-D-melodic-minor-descending-scale-shape.html#fig-D-melodic-minor-descending-scale-shape-notation",
   "type": "Figure",
-  "number": "4.9.2",
+  "number": "4.10.2",
   "title": "",
   "body": "       "
 },
@@ -554,7 +572,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-G-harmonic-minor-scale-shape.html",
   "type": "Section",
-  "number": "4.10",
+  "number": "4.11",
   "title": "G Harmonic Minor Scale Shape",
   "body": " G Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic G Harmonic Minor Shape   Basic G harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
@@ -563,7 +581,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-G-harmonic-minor-scale-shape.html#fig-G-harmonic-minor-scale-shape",
   "type": "Figure",
-  "number": "4.10.1",
+  "number": "4.11.1",
   "title": "",
   "body": " Basic G harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.     "
 },
@@ -572,7 +590,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-G-harmonic-minor-scale-shape.html#fig-G-harmonic-minor-scale-shape-notation",
   "type": "Figure",
-  "number": "4.10.2",
+  "number": "4.11.2",
   "title": "",
   "body": "       "
 },
@@ -581,7 +599,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-G-melodic-minor-scale-shape.html",
   "type": "Section",
-  "number": "4.11",
+  "number": "4.12",
   "title": "G Melodic Minor Scale Shape Ascending",
   "body": " G Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits.    Basic G Melodic Minor Shape   Basic G melodic minor shape. Ascending fingering numbers appear at the top of each button.               "
 },
@@ -590,7 +608,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-G-melodic-minor-scale-shape.html#fig-G-melodic-minor-scale-shape",
   "type": "Figure",
-  "number": "4.11.1",
+  "number": "4.12.1",
   "title": "",
   "body": " Basic G melodic minor shape. Ascending fingering numbers appear at the top of each button.     "
 },
@@ -599,7 +617,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-G-melodic-minor-scale-shape.html#fig-G-melodic-minor-scale-shape-notation",
   "type": "Figure",
-  "number": "4.11.2",
+  "number": "4.12.2",
   "title": "",
   "body": "       "
 },
@@ -608,7 +626,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-G-melodic-minor-descending-scale-shape.html",
   "type": "Section",
-  "number": "4.12",
+  "number": "4.13",
   "title": "G Melodic Minor Descending Scale Shape",
   "body": " G Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other descending melodic minor scales where the shape fits.    Basic G Melodic Minor Descending Shape   Basic G melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.               "
 },
@@ -617,7 +635,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-G-melodic-minor-descending-scale-shape.html#fig-G-melodic-minor-descending-scale-shape",
   "type": "Figure",
-  "number": "4.12.1",
+  "number": "4.13.1",
   "title": "",
   "body": " Basic G melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.     "
 },
@@ -626,7 +644,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-G-melodic-minor-descending-scale-shape.html#fig-G-melodic-minor-descending-scale-shape-notation",
   "type": "Figure",
-  "number": "4.12.2",
+  "number": "4.13.2",
   "title": "",
   "body": "       "
 },
