@@ -10,7 +10,7 @@
 
     <figure xml:id="fig-basic-scale-shape-grids">
       <caption>The three basic scale shapes on the treble keyboard. C major scale, two octaves ascending and descending.</caption>
-      <sidebyside widths="30% 30% 30%" margins="3%">
+      <sidebyside widths="28% 28% 28%" margins="3%">
 
         <!-- Grid 1: Basic Shape 1 — C major scale in C-shape, starting C at col 5 (node 2) -->
         <image xml:id="img-basic-scale-shape-g1">
