@@ -20,11 +20,14 @@
         <xi:include href="sec-C-harmonic-minor-scale-shape.ptx" />
         <xi:include href="sec-C-melodic-minor-scale-shape.ptx" />
         <xi:include href="sec-C-melodic-minor-descending-scale-shape.ptx" />
+        <xi:include href="sec-C-melodic-minor-asc-desc-overview.ptx" />
         <xi:include href="sec-D-harmonic-minor-scale-shape.ptx" />
         <xi:include href="sec-D-melodic-minor-scale-shape.ptx" />
         <xi:include href="sec-D-melodic-minor-descending-scale-shape.ptx" />
+        <xi:include href="sec-D-melodic-minor-asc-desc-overview.ptx" />
         <xi:include href="sec-G-harmonic-minor-scale-shape.ptx" />
         <xi:include href="sec-G-melodic-minor-scale-shape.ptx" />
         <xi:include href="sec-G-melodic-minor-descending-scale-shape.ptx" />
+        <xi:include href="sec-G-melodic-minor-asc-desc-overview.ptx" />
 
   </chapter> 

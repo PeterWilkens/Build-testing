@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section xml:id="sec-basic-scale-shape-overview" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Basic Scale Shape Overview</title>
+  <title>Basic Treble Major Scale Shape Overview</title>
   <introduction>
-    <p>The three basic scale shapes on the treble keyboard are shown below. Ascending fingering numbers appear at the upper-left of each highlighted button and descending fingering numbers at the lower-right.</p>
+    <p>The three basic Major scale shapes on the treble keyboard are shown below. Ascending fingering numbers appear at the upper-left of each highlighted button and descending fingering numbers at the lower-right.</p><p>Any major scale can be formed by moving any of the 3 shapes to a different position on the keyboard. The scale will be named by the 1st note.</p>
   </introduction>
 
   <subsection xml:id="subsec-basic-scale-shape-grids">
-    <title>Three Basic Scale Shapes</title>
+    <title>Three Basic Major Scale Shapes</title>
 
     <figure xml:id="fig-basic-scale-shape-grids">
       <caption>The three basic scale shapes on the treble keyboard. C major scale, two octaves ascending and descending.</caption>

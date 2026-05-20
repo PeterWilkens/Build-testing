@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-C-melodic-minor-asc-desc-overview" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Treble Keyboard C Melodic Minor Ascending and Descending</title>
+  <introduction>
+    <p>The treble keyboard shapes for the C melodic minor scale ascending and descending are shown side by side. The ascending form uses the raised 6th (A natural) and 7th (B natural) degrees; the descending form reverts to the natural minor scale (A flat and B flat). Ascending fingering numbers appear at the upper-left of each highlighted button; descending fingering numbers at the lower-right.</p>
+  </introduction>
+
+  <subsection xml:id="subsec-C-melodic-minor-asc-desc-treble-grids">
+    <title>C Melodic Minor Ascending and Descending Treble Shapes</title>
+
+    <figure xml:id="fig-C-melodic-minor-asc-desc-treble-grids">
+      <caption>C melodic minor scale treble shapes side by side. Left: ascending (raised 6th and 7th degrees). Right: descending (natural minor form, flattened 6th and 7th).</caption>
+      <sidebyside widths="44% 6% 44%" margins="1%">
+
+        <!-- Grid 1: Treble shape from 4.6.1 — C melodic minor ascending -->
+        <image xml:id="img-C-melodic-minor-asc-treble-grid">
+          <latex-image>
+\begin{tikzpicture}[scale=0.65, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{13}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{1.4}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+
+\csname tikzset\endcsname{
+  nodestyle2/.style={circle, draw=gray, fill=gray!40, inner sep=1pt, minimum size=36pt},
+  nodestyle3/.style={circle, draw=gray, fill=gray!10, inner sep=1pt, minimum size=36pt},
+}
+
+\newcommand{\templatenodestyle}[4]{
+  \node[nodestyle#4] at (#1*\hlen,#2*\vlen) {#3};
+}
+
+% Ascending: show ascending finger at top-left (arg 4)
+\newcommand{\templatesplitnodestyle}[6]{
+  \node[nodestyle#6] at (#1*\hlen,#2*\vlen) {};
+  \node[font=\bfseries\small] at (#1*\hlen,#2*\vlen) {#3};
+  \node[font=\bfseries\scriptsize] at (#1*\hlen-0.23,#2*\vlen+0.23) {#4};
+}
+
+\node[font=\small\bfseries] at ({\xmax/2},{12.6*\vlen}) {Ascending};
+
+% Group 1
+\csname templatesplitnodestyle\endcsname{5}{1.5}{C}{1}{4}{2}
+\csname templatenodestyle\endcsname{4}{2.0}{}{3}
+\csname templatesplitnodestyle\endcsname{3}{2.5}{D}{3}{3}{2}
+\csname templatenodestyle\endcsname{2}{3.0}{}{3}
+\csname templatenodestyle\endcsname{1}{3.5}{}{3}
+
+% Group 2
+\csname templatesplitnodestyle\endcsname{5}{2.5}{E$\flat$}{4}{1}{2}
+\csname templatenodestyle\endcsname{4}{3.0}{}{3}
+\csname templatesplitnodestyle\endcsname{3}{3.5}{F}{2}{4}{2}
+\csname templatenodestyle\endcsname{2}{4.0}{}{3}
+\csname templatenodestyle\endcsname{1}{4.5}{}{3}
+
+% Group 3
+\csname templatenodestyle\endcsname{5}{3.5}{}{3}
+\csname templatesplitnodestyle\endcsname{4}{4.0}{G}{3}{3}{2}
+\csname templatenodestyle\endcsname{3}{4.5}{}{3}
+\csname templatenodestyle\endcsname{2}{5.0}{}{3}
+\csname templatenodestyle\endcsname{1}{5.5}{}{3}
+
+% Group 4
+\csname templatesplitnodestyle\endcsname{5}{4.5}{A}{4}{1}{2}
+\csname templatenodestyle\endcsname{4}{5.0}{}{3}
+\csname templatesplitnodestyle\endcsname{3}{5.5}{B}{3}{2}{2}
+\csname templatenodestyle\endcsname{2}{6.0}{}{3}
+\csname templatenodestyle\endcsname{1}{6.5}{}{3}
+
+% Group 5
+\csname templatesplitnodestyle\endcsname{5}{5.5}{C}{1}{1}{2}
+\csname templatenodestyle\endcsname{4}{6.0}{}{3}
+\csname templatesplitnodestyle\endcsname{3}{6.5}{D}{3}{3}{2}
+\csname templatenodestyle\endcsname{2}{7.0}{}{3}
+\csname templatenodestyle\endcsname{1}{7.5}{}{3}
+
+% Group 6
+\csname templatesplitnodestyle\endcsname{5}{6.5}{E$\flat$}{4}{1}{2}
+\csname templatenodestyle\endcsname{4}{7.0}{}{3}
+\csname templatesplitnodestyle\endcsname{3}{7.5}{F}{2}{4}{2}
+\csname templatenodestyle\endcsname{2}{8.0}{}{3}
+\csname templatenodestyle\endcsname{1}{8.5}{}{3}
+
+% Group 7
+\csname templatenodestyle\endcsname{5}{7.5}{}{3}
+\csname templatesplitnodestyle\endcsname{4}{8.0}{G}{3}{3}{2}
+\csname templatenodestyle\endcsname{3}{8.5}{}{3}
+\csname templatenodestyle\endcsname{2}{9.0}{}{3}
+\csname templatenodestyle\endcsname{1}{9.5}{}{3}
+
+% Group 8
+\csname templatesplitnodestyle\endcsname{5}{8.5}{A}{4}{1}{2}
+\csname templatenodestyle\endcsname{4}{9.0}{}{3}
+\csname templatesplitnodestyle\endcsname{3}{9.5}{B}{3}{2}{2}
+\csname templatenodestyle\endcsname{2}{10.0}{}{3}
+\csname templatenodestyle\endcsname{1}{10.5}{}{3}
+
+% Group 9
+\csname templatesplitnodestyle\endcsname{5}{9.5}{C}{4}{1}{2}
+\csname templatenodestyle\endcsname{4}{10.0}{}{3}
+\csname templatenodestyle\endcsname{3}{10.5}{D}{3}
+\csname templatenodestyle\endcsname{2}{11.0}{}{3}
+\csname templatenodestyle\endcsname{1}{11.5}{}{3}
+
+\end{tikzpicture}
+          </latex-image>
+        </image>
+
+        <p></p>
+
+        <!-- Grid 2: Treble shape from 4.7.1 — C melodic minor descending (natural minor) -->
+        <image xml:id="img-C-melodic-minor-desc-treble-grid">
+          <latex-image>
+\begin{tikzpicture}[scale=0.65, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{13}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{1.4}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+
+\csname tikzset\endcsname{
+  nodestyle2/.style={circle, draw=gray, fill=gray!40, inner sep=1pt, minimum size=36pt},
+  nodestyle3/.style={circle, draw=gray, fill=gray!10, inner sep=1pt, minimum size=36pt},
+}
+
+\newcommand{\templatenodestyle}[4]{
+  \node[nodestyle#4] at (#1*\hlen,#2*\vlen) {#3};
+}
+
+% Descending: show descending finger at bottom-right (arg 5)
+\newcommand{\templatesplitnodestyle}[6]{
+  \node[nodestyle#6] at (#1*\hlen,#2*\vlen) {};
+  \node[font=\bfseries\small] at (#1*\hlen,#2*\vlen) {#3};
+  \node[font=\bfseries\scriptsize] at (#1*\hlen+0.23,#2*\vlen-0.23) {#5};
+}
+
+\node[font=\small\bfseries] at ({\xmax/2},{12.6*\vlen}) {Descending};
+
+% Group 1
+\csname templatesplitnodestyle\endcsname{5}{1.5}{C}{1}{4}{2}
+\csname templatenodestyle\endcsname{4}{2.0}{}{3}
+\csname templatesplitnodestyle\endcsname{3}{2.5}{D}{3}{3}{2}
+\csname templatenodestyle\endcsname{2}{3.0}{}{3}
+\csname templatenodestyle\endcsname{1}{3.5}{}{3}
+
+% Group 2
+\csname templatesplitnodestyle\endcsname{5}{2.5}{E$\flat$}{4}{1}{2}
+\csname templatenodestyle\endcsname{4}{3.0}{}{3}
+\csname templatesplitnodestyle\endcsname{3}{3.5}{F}{2}{4}{2}
+\csname templatenodestyle\endcsname{2}{4.0}{}{3}
+\csname templatenodestyle\endcsname{1}{4.5}{}{3}
+
+% Group 3
+\csname templatenodestyle\endcsname{5}{3.5}{}{3}
+\csname templatesplitnodestyle\endcsname{4}{4.0}{G}{3}{3}{2}
+\csname templatesplitnodestyle\endcsname{3}{4.5}{A$\flat$}{4}{1}{2}
+\csname templatenodestyle\endcsname{2}{5.0}{}{3}
+\csname templatenodestyle\endcsname{1}{5.5}{}{3}
+
+% Group 4
+\csname templatenodestyle\endcsname{5}{4.5}{}{3}
+\csname templatesplitnodestyle\endcsname{4}{5.0}{B$\flat$}{3}{2}{2}
+\csname templatenodestyle\endcsname{3}{5.5}{}{3}
+\csname templatenodestyle\endcsname{2}{6.0}{}{3}
+\csname templatenodestyle\endcsname{1}{6.5}{}{3}
+
+% Group 5
+\csname templatesplitnodestyle\endcsname{5}{5.5}{C}{1}{1}{2}
+\csname templatenodestyle\endcsname{4}{6.0}{}{3}
+\csname templatesplitnodestyle\endcsname{3}{6.5}{D}{3}{3}{2}
+\csname templatenodestyle\endcsname{2}{7.0}{}{3}
+\csname templatenodestyle\endcsname{1}{7.5}{}{3}
+
+% Group 6
+\csname templatesplitnodestyle\endcsname{5}{6.5}{E$\flat$}{4}{1}{2}
+\csname templatenodestyle\endcsname{4}{7.0}{}{3}
+\csname templatesplitnodestyle\endcsname{3}{7.5}{F}{2}{4}{2}
+\csname templatenodestyle\endcsname{2}{8.0}{}{3}
+\csname templatenodestyle\endcsname{1}{8.5}{}{3}
+
+% Group 7
+\csname templatenodestyle\endcsname{5}{7.5}{}{3}
+\csname templatesplitnodestyle\endcsname{4}{8.0}{G}{3}{3}{2}
+\csname templatesplitnodestyle\endcsname{3}{8.5}{A$\flat$}{4}{1}{2}
+\csname templatenodestyle\endcsname{2}{9.0}{}{3}
+\csname templatenodestyle\endcsname{1}{9.5}{}{3}
+
+% Group 8
+\csname templatenodestyle\endcsname{5}{8.5}{}{3}
+\csname templatesplitnodestyle\endcsname{4}{9.0}{B$\flat$}{3}{2}{2}
+\csname templatenodestyle\endcsname{3}{9.5}{}{3}
+\csname templatenodestyle\endcsname{2}{10.0}{}{3}
+\csname templatenodestyle\endcsname{1}{10.5}{}{3}
+
+% Group 9
+\csname templatesplitnodestyle\endcsname{5}{9.5}{C}{4}{1}{2}
+\csname templatenodestyle\endcsname{4}{10.0}{}{3}
+\csname templatenodestyle\endcsname{3}{10.5}{}{3}
+\csname templatenodestyle\endcsname{2}{11.0}{}{3}
+\csname templatenodestyle\endcsname{1}{11.5}{}{3}
+
+\end{tikzpicture}
+          </latex-image>
+        </image>
+
+      </sidebyside>
+    </figure>
+
+  </subsection>
+
+</section>
