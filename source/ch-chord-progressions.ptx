@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <chapter xml:id="ch-chord-progressions" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Chord Progressions</title>
+<introduction>
+  <p>
+    A chord progression is a sequence of chords played in a specific order. They act as the harmonic foundation of the music, creating a journey of tension (pulling the listener away from the <q>home</q> note) and resolution (returning to a stable, familiar sound).
+  </p>
 
+  <paragraphs>
+    <title>The Foundation: Chords in a Key</title>
+    <p>Every major or minor key is built from a 7-note scale. By stacking notes (usually in thirds) on top of each scale degree, you get the chords diatonic (naturally available) to that key.
+    In a major key, the standard chord types built on each scale degree are:</p>
+    <ul>
+      <li><p>I: Major (Root)</p></li>
+      <li><p>ii: minor</p></li>
+      <li><p>iii: minor</p></li>
+      <li><p>IV: Major</p></li>
+      <li><p>V: Major</p></li>
+      <li><p>vi: minor</p></li>
+      <li><p>vii°: Diminished</p></li>
+    </ul>
+    <p>For example, in the key of C major: C, Dm, Em, F, G, Am, and B°.</p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Functional Harmony: The Rules of Movement</title>
+    <p>Chords are categorized into three main <q>functions</q> that guide how they should flow into one another:</p>
+    <ol>
+      <li><p><term>Tonic (Home)</term>: The I, iii, and vi chords. These provide stability and a sense of resolution. The progression usually starts and ends here.</p></li>
+      <li><p><term>Subdominant (Departure)</term>: The ii and IV chords. These create a slight push away from home, acting as bridges that build mild tension.</p></li>
+      <li><p><term>Dominant (Tension)</term>: The V and vii° chords. These contain the strongest pull and create massive tension that demands to be resolved back to the Tonic.</p></li>
+    </ol>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Roman Numeral Analysis</title>
+    <p>Roman numerals are used to write down chord progressions so they can be easily understood and played in any key.</p>
+    <ul>
+      <li><p>Uppercase numerals (I, IV, V) indicate major chords.</p></li>
+      <li><p>Lowercase numerals (ii, iii, vi) indicate minor chords.</p></li>
+    </ul>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Common Progressions</title>
+    <p>Countless hit songs utilize a few staple formulas. These are the most common:</p>
+    <ul>
+      <li><p>The 1-4-5-1 (I <ndash/> IV <ndash/> V <ndash/> I): The backbone of blues, rock, and early pop. In C major, this is C <ndash/> F <ndash/> G <ndash/> C.</p></li>
+      <li><p>The 2-5-1 (ii <ndash/> V <ndash/> I): The most famous progression in jazz. In C major, this is Dm <ndash/> G <ndash/> C.</p></li>
+      <li><p>The Pop-Punk / Four-Chord Loop (I <ndash/> V <ndash/> vi <ndash/> IV): Used in hundreds of modern pop songs. In C major, this is C <ndash/> G <ndash/> Am <ndash/> F.</p></li>
+      <li><p>The Doo-Wop (I <ndash/> vi <ndash/> IV <ndash/> V): The sound of the 1950s. In C major, this is C <ndash/> Am <ndash/> F <ndash/> G.</p></li>
+    </ul>
+  </paragraphs>
+</introduction>
   <xi:include href="./sec-2-5-1-progressions.ptx" />
   <xi:include href="./sec-2-5-1-closed-in-C-Maj.ptx" />
  
