@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-secondary-dominants" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Secondary Dominants</title>
+
+  <introduction>
+    <p>
+      In any major key, the only dominant 7th chord that occurs naturally is the V7 chord — 
+      built on the fifth scale degree. But music would be very limited if that were the only 
+      source of harmonic tension. <term>Secondary dominants</term> solve this problem: they 
+      are dominant 7th chords borrowed from outside the key that are built to resolve to any 
+      diatonic chord, not just the tonic. They add chromatic colour, forward momentum, and 
+      a sense of brief harmonic adventure without fully leaving the key.
+    </p>
+    <p>
+      The concept is often described as <em>tonicisation</em> — temporarily treating a 
+      diatonic chord as though it were the home chord (I) of its own mini-key, for just 
+      a moment, before continuing in the original key.
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-secondary-dom-what-is">
+    <title>What Is a Secondary Dominant?</title>
+    <p>
+      A secondary dominant is the V7 chord of any diatonic chord other than the tonic (I). 
+      It is written using the notation <m>V/x</m>, read as <q>five of <m>x</m></q>, where 
+      <m>x</m> is the target chord. For example:
+    </p>
+    <ul>
+      <li><p><m>V/V</m> — the dominant of the dominant chord</p></li>
+      <li><p><m>V/ii</m> — the dominant of the ii chord</p></li>
+      <li><p><m>V/IV</m> — the dominant of the IV chord</p></li>
+    </ul>
+    <p>
+      When a secondary dominant resolves to its target, the listener briefly hears the 
+      target chord as a temporary tonic. This moment of tonicisation gives the progression 
+      a sense of direction and colour that purely diatonic harmony cannot achieve.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-secondary-dom-construction">
+    <title>How to Construct a Secondary Dominant</title>
+    <p>
+      The construction rule is simple and applies to any target chord in any key:
+    </p>
+    <ol>
+      <li><p>Identify the root of your <em>target chord</em>.</p></li>
+      <li><p>Go up a <em>perfect fifth</em> (or equivalently, down a perfect fourth) from that root.</p></li>
+      <li><p>Build a <em>dominant 7th chord</em> on that new root (major triad + minor 7th).</p></li>
+    </ol>
+    <p>
+      The resulting chord is the secondary dominant of your target. For example, to find 
+      <m>V7/ii</m> in C major:
+    </p>
+    <ul>
+      <li><p>The ii chord is Dm. Its root is D.</p></li>
+      <li><p>A perfect fifth above D is A.</p></li>
+      <li><p>Build a dominant 7th on A: A–C<sharp/>–E–G = <em>A7</em>.</p></li>
+    </ul>
+    <p>
+      A7 is the <m>V7/ii</m> in C major. It resolves naturally to Dm.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-secondary-dom-in-c-major">
+    <title>The Secondary Dominants in C Major</title>
+    <p>
+      The table below lists all of the common secondary dominants available in the key of 
+      C major, together with the chromatic note each one introduces.
+    </p>
+    <tabular halign="center" top="medium" bottom="medium" left="medium" right="medium">
+      <col right="medium"/>
+      <col right="medium"/>
+      <col right="medium"/>
+      <col/>
+      <row header="yes" bottom="medium">
+        <cell>Symbol</cell>
+        <cell>Chord (C major)</cell>
+        <cell>Notes</cell>
+        <cell>Resolves to</cell>
+      </row>
+      <row>
+        <cell><m>V7/ii</m></cell>
+        <cell>A7</cell>
+        <cell>A – C<sharp/> – E – G</cell>
+        <cell>Dm (ii)</cell>
+      </row>
+      <row>
+        <cell><m>V7/iii</m></cell>
+        <cell>B7</cell>
+        <cell>B – D<sharp/> – F<sharp/> – A</cell>
+        <cell>Em (iii)</cell>
+      </row>
+      <row>
+        <cell><m>V7/IV</m></cell>
+        <cell>C7</cell>
+        <cell>C – E – G – B<flat/></cell>
+        <cell>F (IV)</cell>
+      </row>
+      <row>
+        <cell><m>V7/V</m></cell>
+        <cell>D7</cell>
+        <cell>D – F<sharp/> – A – C</cell>
+        <cell>G (V)</cell>
+      </row>
+      <row>
+        <cell><m>V7/vi</m></cell>
+        <cell>E7</cell>
+        <cell>E – G<sharp/> – B – D</cell>
+        <cell>Am (vi)</cell>
+      </row>
+    </tabular>
+    <p>
+      Notice that <m>V7/IV</m> (C7 in C major) is simply the tonic chord with a flatted 
+      seventh added. This is sometimes called the <q>flatted seventh trick</q>: whenever 
+      you want to move toward the IV chord, turn the I chord into a dominant 7th.
+    </p>
+    <p>
+      The <m>V7/vii°</m> is not typically used because the diminished seventh chord 
+      (vii°) is an unstable chord that does not function convincingly as a tonic target.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-secondary-dom-tritone">
+    <title>Why They Work: The Tritone and Voice Leading</title>
+    <p>
+      The power of any dominant 7th chord — primary or secondary — comes from the 
+      <term>tritone</term> it contains. In a dominant 7th chord, the interval between 
+      the third and the seventh is a tritone (diminished fifth / augmented fourth), the 
+      most harmonically tense interval in tonal music.
+    </p>
+    <p>
+      This tritone resolves by contrary half-step motion:
+    </p>
+    <ul>
+      <li><p>The <em>major third</em> of the dominant chord (the leading tone of the 
+        temporary key) rises by a half step to the root of the target chord.</p></li>
+      <li><p>The <em>minor seventh</em> of the dominant chord falls by a half step to 
+        the third of the target chord.</p></li>
+    </ul>
+    <p>
+      For example, in the resolution A7 → Dm:
+    </p>
+    <ul>
+      <li><p>C<sharp/> (third of A7) resolves up to D (root of Dm) — a half step up.</p></li>
+      <li><p>G (seventh of A7) resolves down to F (third of Dm) — a half step down.</p></li>
+    </ul>
+    <p>
+      This smooth chromatic contrary motion is what gives secondary dominants their 
+      characteristic sense of inevitability and pull.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-secondary-dom-common-uses">
+    <title>Common Uses in Progressions</title>
+
+    <paragraphs>
+      <title>Setting Up the V Chord: <m>V7/V</m></title>
+      <p>
+        The most common secondary dominant is <m>V7/V</m> — the dominant of the dominant. 
+        It adds a chromatic stepping stone before the V chord. In C major, D7 precedes G7, 
+        which then resolves to C:
+      </p>
+      <p>
+        <me>C \rightarrow D7 \rightarrow G7 \rightarrow C</me>
+      </p>
+      <p>
+        The F<sharp/> in D7 creates a chromatic passing tone between the diatonic F and 
+        G, giving the progression extra forward drive.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>The <m>V7/IV</m> Flat-Seven Technique</title>
+      <p>
+        Turning the I chord into a dominant 7th creates a strong pull toward the IV chord. 
+        This is extremely common in blues, gospel, and pop:
+      </p>
+      <p>
+        <me>C \rightarrow C7 \rightarrow F \rightarrow \ldots</me>
+      </p>
+      <p>
+        The added B<flat/> in C7 introduces the only chromatic note needed to propel 
+        the harmony convincingly to F.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Approaching the ii Chord: <m>V7/ii</m></title>
+      <p>
+        In jazz, the ii–V–I progression is the central building block. A secondary 
+        dominant can precede the ii chord to create an extended chain:
+      </p>
+      <p>
+        <me>A7 \rightarrow Dm7 \rightarrow G7 \rightarrow Cmaj7</me>
+      </p>
+      <p>
+        This is often heard as a <q>ii–V of ii</q> followed by ii–V–I.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Secondary Dominant Chains</title>
+      <p>
+        Secondary dominants can be chained together, each one resolving to the next, 
+        creating a cascade of tension that drives all the way to the tonic. Because each 
+        secondary dominant is a fifth above its target, a chain of secondary dominants 
+        follows the circle of fifths. In C major, a full chain might be:
+      </p>
+      <p>
+        <me>E7 \rightarrow A7 \rightarrow D7 \rightarrow G7 \rightarrow C</me>
+      </p>
+      <p>
+        Here, E7 is <m>V7/vi</m>, A7 is <m>V7/ii</m>, D7 is <m>V7/V</m>, and G7 is 
+        the primary dominant V7. Each chord resolves down a fifth to the next, creating 
+        a powerful momentum toward the final tonic.
+      </p>
+    </paragraphs>
+  </subsection>
+
+  <subsection xml:id="subsec-secondary-dom-jazz-extended">
+    <title>Extended ii–V–I Substitutions in Jazz</title>
+    <p>
+      In jazz harmony, secondary dominants are often preceded by their own ii chord, 
+      creating a series of overlapping ii–V–I patterns. This technique extends and 
+      colours longer progressions. For example, to approach G7 (the V of C), a jazz 
+      player might insert Am7–D7 (the ii–V of G) before the G7 itself:
+    </p>
+    <p>
+      <me>Cmaj7 \rightarrow Am7 \rightarrow D7 \rightarrow Dm7 \rightarrow G7 \rightarrow Cmaj7</me>
+    </p>
+    <p>
+      This is the same principle that underlies the <em>cycle of dominants</em> used 
+      throughout bebop and modern jazz. Mastering secondary dominants is, in effect, 
+      mastering the language of harmonic motion that drives all jazz improvisation.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-secondary-dom-tips">
+    <title>Practical Tips</title>
+    <ol>
+      <li>
+        <p><em>Start with <m>V7/V</m>.</em> It is the most natural and musical 
+        secondary dominant. Insert a D7 before G in any C major progression and 
+        listen to the difference.</p>
+      </li>
+      <li>
+        <p><em>Use the flat-seven trick freely.</em> Adding a minor 7th to the I chord 
+        (making it I7) is one of the quickest ways to add colour and propel toward the 
+        IV chord, especially in blues and gospel styles.</p>
+      </li>
+      <li>
+        <p><em>Listen for the chromatic note.</em> Each secondary dominant introduces 
+        exactly one note not in the home key. That chromatic note is what your ear 
+        latches on to — learn to hear it and then resolve it.</p>
+      </li>
+      <li>
+        <p><em>Practise the chain.</em> Work through the full secondary dominant chain 
+        (<m>E7 \rightarrow A7 \rightarrow D7 \rightarrow G7 \rightarrow C</m>) slowly, 
+        listening to how each dominant resolves smoothly into the next by a descending 
+        fifth. Transpose this chain to all twelve keys.</p>
+      </li>
+      <li>
+        <p><em>Pair each secondary dominant with its ii chord.</em> Once you are 
+        comfortable with secondary dominants alone, add their related ii chord before 
+        each one to build extended jazz progressions.</p>
+      </li>
+    </ol>
+  </subsection>
+
+</section>
