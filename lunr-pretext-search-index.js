@@ -393,8 +393,8 @@ var ptx_lunr_docs = [
   "url": "sec-basic-scale-shape-overview.html",
   "type": "Section",
   "number": "4.4",
-  "title": "Basic Scale Shape Overview",
-  "body": " Basic Scale Shape Overview   The three basic scale shapes on the treble keyboard are shown below. Ascending fingering numbers appear at the upper-left of each highlighted button and descending fingering numbers at the lower-right.    Three Basic Scale Shapes   The three basic scale shapes on the treble keyboard. C major scale, two octaves ascending and descending.                  "
+  "title": "Basic Treble Major Scale Shape Overview",
+  "body": " Basic Treble Major Scale Shape Overview   The three basic Major scale shapes on the treble keyboard are shown below. Ascending fingering numbers appear at the upper-left of each highlighted button and descending fingering numbers at the lower-right. Any major scale can be formed by moving any of the 3 shapes to a different position on the keyboard. The scale will be named by the 1st note.    Three Basic Major Scale Shapes   The three basic scale shapes on the treble keyboard. C major scale, two octaves ascending and descending.                  "
 },
 {
   "id": "fig-basic-scale-shape-grids",
@@ -487,11 +487,29 @@ var ptx_lunr_docs = [
   "body": "       "
 },
 {
+  "id": "sec-C-melodic-minor-asc-desc-overview",
+  "level": "1",
+  "url": "sec-C-melodic-minor-asc-desc-overview.html",
+  "type": "Section",
+  "number": "4.8",
+  "title": "Treble Keyboard C Melodic Minor Ascending and Descending",
+  "body": " Treble Keyboard C Melodic Minor Ascending and Descending   The treble keyboard shapes for the C melodic minor scale ascending and descending are shown side by side. The ascending form uses the raised 6th (A natural) and 7th (B natural) degrees; the descending form reverts to the natural minor scale (A flat and B flat). Ascending fingering numbers appear at the upper-left of each highlighted button; descending fingering numbers at the lower-right.    C Melodic Minor Ascending and Descending Treble Shapes   C melodic minor scale treble shapes side by side. Left: ascending (raised 6th and 7th degrees). Right: descending (natural minor form, flattened 6th and 7th).               "
+},
+{
+  "id": "fig-C-melodic-minor-asc-desc-treble-grids",
+  "level": "2",
+  "url": "sec-C-melodic-minor-asc-desc-overview.html#fig-C-melodic-minor-asc-desc-treble-grids",
+  "type": "Figure",
+  "number": "4.8.1",
+  "title": "",
+  "body": " C melodic minor scale treble shapes side by side. Left: ascending (raised 6th and 7th degrees). Right: descending (natural minor form, flattened 6th and 7th).             "
+},
+{
   "id": "sec-D-harmonic-minor-scale-shape",
   "level": "1",
   "url": "sec-D-harmonic-minor-scale-shape.html",
   "type": "Section",
-  "number": "4.8",
+  "number": "4.9",
   "title": "D Harmonic Minor Scale Shape",
   "body": " D Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic D Harmonic Minor Shape   Basic D harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
@@ -500,7 +518,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-D-harmonic-minor-scale-shape.html#fig-D-harmonic-minor-scale-shape",
   "type": "Figure",
-  "number": "4.8.1",
+  "number": "4.9.1",
   "title": "",
   "body": " Basic D harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.     "
 },
@@ -509,7 +527,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-D-harmonic-minor-scale-shape.html#fig-D-harmonic-minor-scale-shape-notation",
   "type": "Figure",
-  "number": "4.8.2",
+  "number": "4.9.2",
   "title": "",
   "body": "       "
 },
@@ -518,7 +536,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-D-melodic-minor-scale-shape.html",
   "type": "Section",
-  "number": "4.9",
+  "number": "4.10",
   "title": "D Melodic Minor Scale Shape Ascending",
   "body": " D Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits.    Basic D Melodic Minor Shape   Basic D melodic minor shape. Ascending fingering numbers appear at the top of each button.               "
 },
@@ -527,7 +545,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-D-melodic-minor-scale-shape.html#fig-D-melodic-minor-scale-shape",
   "type": "Figure",
-  "number": "4.9.1",
+  "number": "4.10.1",
   "title": "",
   "body": " Basic D melodic minor shape. Ascending fingering numbers appear at the top of each button.     "
 },
@@ -536,7 +554,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-D-melodic-minor-scale-shape.html#fig-D-melodic-minor-scale-shape-notation",
   "type": "Figure",
-  "number": "4.9.2",
+  "number": "4.10.2",
   "title": "",
   "body": "       "
 },
@@ -545,7 +563,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-D-melodic-minor-descending-scale-shape.html",
   "type": "Section",
-  "number": "4.10",
+  "number": "4.11",
   "title": "D Melodic Minor Descending Scale Shape",
   "body": " D Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other descending melodic minor scales where the shape fits.    Basic D Melodic Minor Descending Shape   Basic D melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.               "
 },
@@ -554,7 +572,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-D-melodic-minor-descending-scale-shape.html#fig-D-melodic-minor-descending-scale-shape",
   "type": "Figure",
-  "number": "4.10.1",
+  "number": "4.11.1",
   "title": "",
   "body": " Basic D melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.     "
 },
@@ -563,16 +581,34 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-D-melodic-minor-descending-scale-shape.html#fig-D-melodic-minor-descending-scale-shape-notation",
   "type": "Figure",
-  "number": "4.10.2",
+  "number": "4.11.2",
   "title": "",
   "body": "       "
+},
+{
+  "id": "sec-D-melodic-minor-asc-desc-overview",
+  "level": "1",
+  "url": "sec-D-melodic-minor-asc-desc-overview.html",
+  "type": "Section",
+  "number": "4.12",
+  "title": "Treble Keyboard D Melodic Minor Ascending and Descending",
+  "body": " Treble Keyboard D Melodic Minor Ascending and Descending   The treble keyboard shapes for the D melodic minor scale ascending and descending are shown side by side. The ascending form uses the raised 6th (B natural) and 7th (C sharp) degrees; the descending form reverts to the natural minor scale (B flat and C natural). Ascending fingering numbers appear at the upper-left of each highlighted button; descending fingering numbers at the lower-right.    D Melodic Minor Ascending and Descending Treble Shapes   D melodic minor scale treble shapes side by side. Left: ascending (raised 6th and 7th degrees). Right: descending (natural minor form, flattened 6th and 7th).               "
+},
+{
+  "id": "fig-D-melodic-minor-asc-desc-treble-grids",
+  "level": "2",
+  "url": "sec-D-melodic-minor-asc-desc-overview.html#fig-D-melodic-minor-asc-desc-treble-grids",
+  "type": "Figure",
+  "number": "4.12.1",
+  "title": "",
+  "body": " D melodic minor scale treble shapes side by side. Left: ascending (raised 6th and 7th degrees). Right: descending (natural minor form, flattened 6th and 7th).             "
 },
 {
   "id": "sec-G-harmonic-minor-scale-shape",
   "level": "1",
   "url": "sec-G-harmonic-minor-scale-shape.html",
   "type": "Section",
-  "number": "4.11",
+  "number": "4.13",
   "title": "G Harmonic Minor Scale Shape",
   "body": " G Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic G Harmonic Minor Shape   Basic G harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
 },
@@ -581,7 +617,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-G-harmonic-minor-scale-shape.html#fig-G-harmonic-minor-scale-shape",
   "type": "Figure",
-  "number": "4.11.1",
+  "number": "4.13.1",
   "title": "",
   "body": " Basic G harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.     "
 },
@@ -590,7 +626,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-G-harmonic-minor-scale-shape.html#fig-G-harmonic-minor-scale-shape-notation",
   "type": "Figure",
-  "number": "4.11.2",
+  "number": "4.13.2",
   "title": "",
   "body": "       "
 },
@@ -599,7 +635,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-G-melodic-minor-scale-shape.html",
   "type": "Section",
-  "number": "4.12",
+  "number": "4.14",
   "title": "G Melodic Minor Scale Shape Ascending",
   "body": " G Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits.    Basic G Melodic Minor Shape   Basic G melodic minor shape. Ascending fingering numbers appear at the top of each button.               "
 },
@@ -608,7 +644,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-G-melodic-minor-scale-shape.html#fig-G-melodic-minor-scale-shape",
   "type": "Figure",
-  "number": "4.12.1",
+  "number": "4.14.1",
   "title": "",
   "body": " Basic G melodic minor shape. Ascending fingering numbers appear at the top of each button.     "
 },
@@ -617,7 +653,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-G-melodic-minor-scale-shape.html#fig-G-melodic-minor-scale-shape-notation",
   "type": "Figure",
-  "number": "4.12.2",
+  "number": "4.14.2",
   "title": "",
   "body": "       "
 },
@@ -626,7 +662,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-G-melodic-minor-descending-scale-shape.html",
   "type": "Section",
-  "number": "4.13",
+  "number": "4.15",
   "title": "G Melodic Minor Descending Scale Shape",
   "body": " G Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other descending melodic minor scales where the shape fits.    Basic G Melodic Minor Descending Shape   Basic G melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.               "
 },
@@ -635,7 +671,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-G-melodic-minor-descending-scale-shape.html#fig-G-melodic-minor-descending-scale-shape",
   "type": "Figure",
-  "number": "4.13.1",
+  "number": "4.15.1",
   "title": "",
   "body": " Basic G melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.     "
 },
@@ -644,9 +680,27 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-G-melodic-minor-descending-scale-shape.html#fig-G-melodic-minor-descending-scale-shape-notation",
   "type": "Figure",
-  "number": "4.13.2",
+  "number": "4.15.2",
   "title": "",
   "body": "       "
+},
+{
+  "id": "sec-G-melodic-minor-asc-desc-overview",
+  "level": "1",
+  "url": "sec-G-melodic-minor-asc-desc-overview.html",
+  "type": "Section",
+  "number": "4.16",
+  "title": "Treble Keyboard G Melodic Minor Ascending and Descending",
+  "body": " Treble Keyboard G Melodic Minor Ascending and Descending   The treble keyboard shapes for the G melodic minor scale ascending and descending are shown side by side. The ascending form uses the raised 6th (E natural) and 7th (F sharp) degrees; the descending form reverts to the natural minor scale (E flat and F natural). Ascending fingering numbers appear at the upper-left of each highlighted button; descending fingering numbers at the lower-right.    G Melodic Minor Ascending and Descending Treble Shapes   G melodic minor scale treble shapes side by side. Left: ascending (raised 6th and 7th degrees). Right: descending (natural minor form, flattened 6th and 7th).               "
+},
+{
+  "id": "fig-G-melodic-minor-asc-desc-treble-grids",
+  "level": "2",
+  "url": "sec-G-melodic-minor-asc-desc-overview.html#fig-G-melodic-minor-asc-desc-treble-grids",
+  "type": "Figure",
+  "number": "4.16.1",
+  "title": "",
+  "body": " G melodic minor scale treble shapes side by side. Left: ascending (raised 6th and 7th degrees). Right: descending (natural minor form, flattened 6th and 7th).             "
 },
 {
   "id": "sec-chords-from-intervals",
@@ -1378,11 +1432,137 @@ var ptx_lunr_docs = [
   "body": " Progression of Drop 2 Diatonic Chords from C Melodic Minor Scale                                                                                                           "
 },
 {
+  "id": "sec-secondary-dominants",
+  "level": "1",
+  "url": "sec-secondary-dominants.html",
+  "type": "Section",
+  "number": "9.1",
+  "title": "Secondary Dominants",
+  "body": " Secondary Dominants   In any major key, the only dominant 7th chord that occurs naturally is the V7 chord — built on the fifth scale degree. But music would be very limited if that were the only source of harmonic tension. Secondary dominants solve this problem: they are dominant 7th chords borrowed from outside the key that are built to resolve to any diatonic chord, not just the tonic. They add chromatic colour, forward momentum, and a sense of brief harmonic adventure without fully leaving the key.  The concept is often described as tonicisation — temporarily treating a diatonic chord as though it were the home chord (I) of its own mini-key, for just a moment, before continuing in the original key.    What Is a Secondary Dominant?  A secondary dominant is the V7 chord of any diatonic chord other than the tonic (I). It is written using the notation , read as five of , where is the target chord. Secondary dominants are also known as applied dominant chords — a name that emphasises their function: each is a dominant chord applied to a specific diatonic target. For example:   — the dominant of the dominant chord  — the dominant of the ii chord  — the dominant of the IV chord   When a secondary dominant resolves to its target, the listener briefly hears the target chord as a temporary tonic. This moment of tonicisation gives the progression a sense of direction and colour that purely diatonic harmony cannot achieve.    How to Construct a Secondary Dominant  The construction rule is simple and applies to any target chord in any key:   Identify the root of your target chord .  Go up a perfect fifth (or equivalently, down a perfect fourth) from that root.  Build a dominant 7th chord on that new root (major triad + minor 7th).   The resulting chord is the secondary dominant of your target. For example, to find in C major:   The ii chord is Dm. Its root is D.  A perfect fifth above D is A.  Build a dominant 7th on A: A–C –E–G = A7 .   A7 is the in C major. It resolves naturally to Dm.    The Secondary Dominants in C Major  The table below lists all of the common secondary dominants available in the key of C major, together with the chromatic note each one introduces.        Symbol  Chord (C major)  Notes  Resolves to     A7  A – C – E – G  Dm (ii)     B7  B – D – F – A  Em (iii)     C7  C – E – G – B  F (IV)     D7  D – F – A – C  G (V)     E7  E – G – B – D  Am (vi)    Notice that (C7 in C major) is simply the tonic chord with a flatted seventh added. This is sometimes called the flatted seventh trick : whenever you want to move toward the IV chord, turn the I chord into a dominant 7th.  The is not typically used because the diminished seventh chord (vii°) is an unstable chord that does not function convincingly as a tonic target.  Secondary dominants need not be plain dominant 7th chords. Like the primary dominant, they may appear as extended dominants ( , ), altered dominants ( , ), or suspended dominants ( ). The richer the voicing, the more colour is added, though the dominant-to-target resolution principle remains unchanged.    Recognising Secondary Dominants at a Glance  When reading a chord chart you will often encounter dominant 7th chords that appear to be diatonic but are actually secondary dominants in disguise. The following table maps each apparent Roman numeral in a major key to its usual secondary dominant function.        Looks like  Actually functions as  Example (C major)  Resolves to      D7  G (V)      C7  F (IV)      E7  Am (vi)      A7  Dm (ii)      B7  Em (iii)    Exception: in blues, the is the tonic chord itself rather than a secondary dominant. Outside the blues context, a major-key almost invariably functions as .    Why They Work: The Tritone and Voice Leading  The power of any dominant 7th chord — primary or secondary — comes from the tritone it contains. In a dominant 7th chord, the interval between the third and the seventh is a tritone (diminished fifth \/ augmented fourth), the most harmonically tense interval in tonal music.  This tritone resolves by contrary half-step motion:   The major third of the dominant chord (the leading tone of the temporary key) rises by a half step to the root of the target chord.  The minor seventh of the dominant chord falls by a half step to the third of the target chord.   For example, in the resolution A7 → Dm:   C (third of A7) resolves up to D (root of Dm) — a half step up.  G (seventh of A7) resolves down to F (third of Dm) — a half step down.   This smooth chromatic contrary motion is what gives secondary dominants their characteristic sense of inevitability and pull.    Common Uses in Progressions   Setting Up the V Chord:  The most common secondary dominant is — the dominant of the dominant. It adds a chromatic stepping stone before the V chord. In C major, D7 precedes G7, which then resolves to C:     The F in D7 creates a chromatic passing tone between the diatonic F and G, giving the progression extra forward drive.    The Flat-Seven Technique  Turning the I chord into a dominant 7th creates a strong pull toward the IV chord. This is extremely common in blues, gospel, and pop:     The added B in C7 introduces the only chromatic note needed to propel the harmony convincingly to F.    Approaching the ii Chord:  In jazz, the ii–V–I progression is the central building block. A secondary dominant can precede the ii chord to create an extended chain:     This is often heard as a ii–V of ii followed by ii–V–I.    Secondary Dominant Chains  Secondary dominants can be chained together, each one resolving to the next, creating a cascade of tension that drives all the way to the tonic. Because each secondary dominant is a fifth above its target, a chain of secondary dominants follows the circle of fifths. In C major, a full chain might be:     Here, E7 is , A7 is , D7 is , and G7 is the primary dominant V7. Each chord resolves down a fifth to the next, creating a powerful momentum toward the final tonic.     Secondary Dominants in Familiar Songs  Secondary dominants appear throughout jazz standards, pop, and folk repertoire. The following examples illustrate each of the five secondary dominants as heard in well-known songs. Each chord progression is shown in C major; the secondary dominant chord is highlighted by its Roman numeral analysis below the staff.  Extracts from the songs shown below are from https:\/\/pianowithjonny.com\/piano-lessons\/secondary-dominants-the-complete-guide\/#tonal_terminology_in_music_theory   — Tequila (The Champs, 1958)  The bridge of Tequila ends on D7, the of C major, which propels the music into G7 before the famous instrumental break. The F in D7 is the sole chromatic note: it acts as a leading tone pulling upward to G.    in C major: D7 resolves to G7, then to C.     Song extract: the (D7) in context — I, V7\/V, V7, I in C major, as heard in the bridge of Tequila (The Champs, 1958).         — The Nearness of You (Carmichael \/ Washington, 1937)  In the second bar of the A section of The Nearness of You , C7 appears as the , adding a B to the tonic chord and pulling the harmony convincingly toward F.    in C major: C7 resolves to F.     Song extract: opening A section of The Nearness of You (Carmichael \/ Washington, 1937) in C major. The C7sus4–C7 in bar 4 is the resolving convincingly to Fmaj7.         — Georgia on My Mind (Hoagy Carmichael, 1930)  In bar two of Georgia on My Mind , E7 arrives as the , temporarily tonicising A minor. The G in E7 is the chromatic intruder that signals the brief tonicisation before the phrase continues in C major.    in C major: E7 resolves to Am.     Song extract: opening phrase of Georgia on My Mind (Hoagy Carmichael, 1930) in C major, bars 1–8. E7 ( ) arrives in bar 3, preceded by the half-diminished Bm7 5 and resolving to Am7.         — Crazy (Willie Nelson \/ Patsy Cline, 1961)   Crazy opens with A7 functioning as , resolving to Dm7 and leading directly into a ii–V–I cadence. The C in A7 is the chromatic note that drives the ear toward D minor.    in C major: A7 resolves to Dm7, continuing through G7 to Cmaj7.     Song extract: opening phrase of Crazy (Willie Nelson \/ Patsy Cline, 1961) in C major. A7 ( ) in bar 2 launches a ii–V–I cadence back to Cmaj7.         — The Best Thing for You (Irving Berlin, 1950)  Irving Berlin's The Best Thing for You showcases the less common : B7 resolves to E minor. The D in B7 acts as a leading tone to E, giving the resolution a distinctly chromatic colour.    in C major: B7 resolves to Em.     Song extract: A section of The Best Thing for You (Irving Berlin, 1950) in C major. B7 ( ) opens the phrase and triggers a chain of secondary dominants — V7\/iii, V7\/ii, V7 — that resolves to I△7, then recycles through vi–ii–V–I.             Extended ii–V–I Substitutions in Jazz  In jazz harmony, secondary dominants are often preceded by their own ii chord, creating a series of overlapping ii–V–I patterns. This technique extends and colours longer progressions. For example, to approach G7 (the V of C), a jazz player might insert Am7–D7 (the ii–V of G) before the G7 itself:     This is the same principle that underlies the cycle of dominants used throughout bebop and modern jazz. Mastering secondary dominants is, in effect, mastering the language of harmonic motion that drives all jazz improvisation.    Practical Tips    Start with . It is the most natural and musical secondary dominant. Insert a D7 before G in any C major progression and listen to the difference.    Use the flat-seven trick freely. Adding a minor 7th to the I chord (making it I7) is one of the quickest ways to add colour and propel toward the IV chord, especially in blues and gospel styles.    Listen for the chromatic note. Each secondary dominant introduces exactly one note not in the home key. That chromatic note is what your ear latches on to — learn to hear it and then resolve it.    Practise the chain. Work through the full secondary dominant chain ( ) slowly, listening to how each dominant resolves smoothly into the next by a descending fifth. Transpose this chain to all twelve keys.    Pair each secondary dominant with its ii chord. Once you are comfortable with secondary dominants alone, add their related ii chord before each one to build extended jazz progressions.     "
+},
+{
+  "id": "sec-secondary-dominants-2-1",
+  "level": "2",
+  "url": "sec-secondary-dominants.html#sec-secondary-dominants-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Secondary dominants "
+},
+{
+  "id": "subsec-secondary-dom-what-is-2",
+  "level": "2",
+  "url": "sec-secondary-dominants.html#subsec-secondary-dom-what-is-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "applied dominant chords "
+},
+{
+  "id": "subsec-secondary-dom-tritone-2",
+  "level": "2",
+  "url": "sec-secondary-dominants.html#subsec-secondary-dom-tritone-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "tritone "
+},
+{
+  "id": "fig-sec-dom-vofv",
+  "level": "2",
+  "url": "sec-secondary-dominants.html#fig-sec-dom-vofv",
+  "type": "Figure",
+  "number": "9.1.1",
+  "title": "",
+  "body": "  in C major: D7 resolves to G7, then to C.   "
+},
+{
+  "id": "fig-sec-dom-vofv-song",
+  "level": "2",
+  "url": "sec-secondary-dominants.html#fig-sec-dom-vofv-song",
+  "type": "Figure",
+  "number": "9.1.2",
+  "title": "",
+  "body": " Song extract: the (D7) in context — I, V7\/V, V7, I in C major, as heard in the bridge of Tequila (The Champs, 1958).   "
+},
+{
+  "id": "fig-sec-dom-vofiv",
+  "level": "2",
+  "url": "sec-secondary-dominants.html#fig-sec-dom-vofiv",
+  "type": "Figure",
+  "number": "9.1.3",
+  "title": "",
+  "body": "  in C major: C7 resolves to F.   "
+},
+{
+  "id": "fig-sec-dom-vofiv-song",
+  "level": "2",
+  "url": "sec-secondary-dominants.html#fig-sec-dom-vofiv-song",
+  "type": "Figure",
+  "number": "9.1.4",
+  "title": "",
+  "body": " Song extract: opening A section of The Nearness of You (Carmichael \/ Washington, 1937) in C major. The C7sus4–C7 in bar 4 is the resolving convincingly to Fmaj7.   "
+},
+{
+  "id": "fig-sec-dom-vofvi",
+  "level": "2",
+  "url": "sec-secondary-dominants.html#fig-sec-dom-vofvi",
+  "type": "Figure",
+  "number": "9.1.5",
+  "title": "",
+  "body": "  in C major: E7 resolves to Am.   "
+},
+{
+  "id": "fig-sec-dom-vofvi-song",
+  "level": "2",
+  "url": "sec-secondary-dominants.html#fig-sec-dom-vofvi-song",
+  "type": "Figure",
+  "number": "9.1.6",
+  "title": "",
+  "body": " Song extract: opening phrase of Georgia on My Mind (Hoagy Carmichael, 1930) in C major, bars 1–8. E7 ( ) arrives in bar 3, preceded by the half-diminished Bm7 5 and resolving to Am7.   "
+},
+{
+  "id": "fig-sec-dom-vofii",
+  "level": "2",
+  "url": "sec-secondary-dominants.html#fig-sec-dom-vofii",
+  "type": "Figure",
+  "number": "9.1.7",
+  "title": "",
+  "body": "  in C major: A7 resolves to Dm7, continuing through G7 to Cmaj7.   "
+},
+{
+  "id": "fig-sec-dom-vofii-song",
+  "level": "2",
+  "url": "sec-secondary-dominants.html#fig-sec-dom-vofii-song",
+  "type": "Figure",
+  "number": "9.1.8",
+  "title": "",
+  "body": " Song extract: opening phrase of Crazy (Willie Nelson \/ Patsy Cline, 1961) in C major. A7 ( ) in bar 2 launches a ii–V–I cadence back to Cmaj7.   "
+},
+{
+  "id": "fig-sec-dom-vofiii",
+  "level": "2",
+  "url": "sec-secondary-dominants.html#fig-sec-dom-vofiii",
+  "type": "Figure",
+  "number": "9.1.9",
+  "title": "",
+  "body": "  in C major: B7 resolves to Em.   "
+},
+{
+  "id": "fig-sec-dom-vofiii-song",
+  "level": "2",
+  "url": "sec-secondary-dominants.html#fig-sec-dom-vofiii-song",
+  "type": "Figure",
+  "number": "9.1.10",
+  "title": "",
+  "body": " Song extract: A section of The Best Thing for You (Irving Berlin, 1950) in C major. B7 ( ) opens the phrase and triggers a chain of secondary dominants — V7\/iii, V7\/ii, V7 — that resolves to I△7, then recycles through vi–ii–V–I.   "
+},
+{
   "id": "sec-2-5-1-progressions",
   "level": "1",
   "url": "sec-2-5-1-progressions.html",
   "type": "Section",
-  "number": "9.1",
+  "number": "9.2",
   "title": "2-5-1 Progressions of Maj7 Chords with Voice Leading (naturally follows Circle of Fifths)",
   "body": " 2-5-1 Progressions of Maj7 Chords with Voice Leading (naturally follows Circle of Fifths)                                                                          "
 },
@@ -1391,7 +1571,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-2-5-1-progressions.html#fig-251-p1r1",
   "type": "Figure",
-  "number": "9.1.1",
+  "number": "9.2.1",
   "title": "",
   "body": "                "
 },
@@ -1400,7 +1580,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-2-5-1-progressions.html#fig-251-p1r2",
   "type": "Figure",
-  "number": "9.1.2",
+  "number": "9.2.2",
   "title": "",
   "body": "                "
 },
@@ -1409,7 +1589,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-2-5-1-progressions.html#fig-251-p2r1",
   "type": "Figure",
-  "number": "9.1.3",
+  "number": "9.2.3",
   "title": "",
   "body": "                "
 },
@@ -1418,7 +1598,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-2-5-1-progressions.html#fig-251-p2r2",
   "type": "Figure",
-  "number": "9.1.4",
+  "number": "9.2.4",
   "title": "",
   "body": "                "
 },
@@ -1427,7 +1607,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-2-5-1-closed-in-C-Maj.html",
   "type": "Section",
-  "number": "9.2",
+  "number": "9.3",
   "title": "2-5-1 Closed in C Major",
   "body": " 2-5-1 Closed in C Major  This progression is built from a 4 note grip (chord formed by content of the grip shown above the shape) and a bass note that is the Root of the Progression Chord (named in the notation).  ===== Row 1: Shapes 1-4 =====-->                    Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips                                          "
 },
@@ -1436,7 +1616,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-2-5-1-closed-in-C-Maj.html#fig-251-cmaj-r1",
   "type": "Figure",
-  "number": "9.2.1",
+  "number": "9.3.1",
   "title": "",
   "body": "                   Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips     "
 },
@@ -1445,7 +1625,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-2-5-1-closed-in-C-Maj.html#fig-251-cmaj-r2",
   "type": "Figure",
-  "number": "9.2.2",
+  "number": "9.3.2",
   "title": "",
   "body": "                "
 },
@@ -1454,7 +1634,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-2-5-1-closed-in-C-Maj.html#fig-251-cmaj-r3",
   "type": "Figure",
-  "number": "9.2.3",
+  "number": "9.3.3",
   "title": "",
   "body": "                "
 },
