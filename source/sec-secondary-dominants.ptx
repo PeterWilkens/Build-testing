@@ -23,7 +23,9 @@
     <p>
       A secondary dominant is the V7 chord of any diatonic chord other than the tonic (I). 
       It is written using the notation <m>V/x</m>, read as <q>five of <m>x</m></q>, where 
-      <m>x</m> is the target chord. For example:
+      <m>x</m> is the target chord. Secondary dominants are also known as
+      <term>applied dominant chords</term> — a name that emphasises their function:
+      each is a dominant chord applied to a specific diatonic target. For example:
     </p>
     <ul>
       <li><p><m>V/V</m> — the dominant of the dominant chord</p></li>
@@ -117,6 +119,70 @@
     <p>
       The <m>V7/vii°</m> is not typically used because the diminished seventh chord 
       (vii°) is an unstable chord that does not function convincingly as a tonic target.
+    </p>
+    <p>
+      Secondary dominants need not be plain dominant 7th chords. Like the primary
+      dominant, they may appear as extended dominants (<m>V9</m>, <m>V13</m>),
+      altered dominants (<m>V7\flat9</m>, <m>V7\sharp11</m>), or suspended dominants
+      (<m>V7sus4</m>). The richer the voicing, the more colour is added, though the
+      dominant-to-target resolution principle remains unchanged.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-secondary-dom-recognition">
+    <title>Recognising Secondary Dominants at a Glance</title>
+    <p>
+      When reading a chord chart you will often encounter dominant 7th chords that
+      appear to be diatonic but are actually secondary dominants in disguise. The
+      following table maps each apparent Roman numeral in a major key to its usual
+      secondary dominant function.
+    </p>
+    <tabular halign="center" top="medium" bottom="medium" left="medium" right="medium">
+      <col right="medium"/>
+      <col right="medium"/>
+      <col right="medium"/>
+      <col/>
+      <row header="yes" bottom="medium">
+        <cell>Looks like</cell>
+        <cell>Actually functions as</cell>
+        <cell>Example (C major)</cell>
+        <cell>Resolves to</cell>
+      </row>
+      <row>
+        <cell><m>II7</m></cell>
+        <cell><m>V7/V</m></cell>
+        <cell>D7</cell>
+        <cell>G (V)</cell>
+      </row>
+      <row>
+        <cell><m>I7</m></cell>
+        <cell><m>V7/IV</m></cell>
+        <cell>C7</cell>
+        <cell>F (IV)</cell>
+      </row>
+      <row>
+        <cell><m>III7</m></cell>
+        <cell><m>V7/vi</m></cell>
+        <cell>E7</cell>
+        <cell>Am (vi)</cell>
+      </row>
+      <row>
+        <cell><m>VI7</m></cell>
+        <cell><m>V7/ii</m></cell>
+        <cell>A7</cell>
+        <cell>Dm (ii)</cell>
+      </row>
+      <row>
+        <cell><m>VII7</m></cell>
+        <cell><m>V7/iii</m></cell>
+        <cell>B7</cell>
+        <cell>Em (iii)</cell>
+      </row>
+    </tabular>
+    <p>
+      Exception: in blues, the <m>I7</m> is the tonic chord itself rather than a
+      secondary dominant. Outside the blues context, a major-key <m>I7</m> almost
+      invariably functions as <m>V7/IV</m>.
     </p>
   </subsection>
 
@@ -215,6 +281,37 @@
         a powerful momentum toward the final tonic.
       </p>
     </paragraphs>
+  </subsection>
+
+  <subsection xml:id="subsec-secondary-dom-songs">
+    <title>Secondary Dominants in Familiar Songs</title>
+    <p>
+      Secondary dominants appear throughout jazz standards, pop, and folk repertoire.
+      The following examples illustrate each of the five secondary dominants as heard
+      in well-known songs.
+    </p>
+    <ul>
+      <li>
+        <p><m>V7/V</m> — <em>Tequila</em> (The Champs, 1958). The bridge ends on D7,
+        which propels the music into G before the famous instrumental break.</p>
+      </li>
+      <li>
+        <p><m>V7/IV</m> — <em>The Nearness of You</em> (Hoagy Carmichael / Ned Washington,
+        1937). C7 appears in the second bar of the A section, pulling toward the F chord.</p>
+      </li>
+      <li>
+        <p><m>V7/vi</m> — <em>Georgia on My Mind</em> (Hoagy Carmichael, 1930). E7 arrives
+        in bar two, temporarily tonicising A minor before the phrase continues.</p>
+      </li>
+      <li>
+        <p><m>V7/ii</m> — <em>Crazy</em> (Willie Nelson / Patsy Cline, 1961). A7 opens
+        the song, resolving to D minor and leading into the ii–V–I that follows.</p>
+      </li>
+      <li>
+        <p><m>V7/iii</m> — <em>The Best Thing for You</em> (Irving Berlin, 1950). B7
+        resolves to E minor, showcasing the less common <m>V/iii</m> in action.</p>
+      </li>
+    </ul>
   </subsection>
 
   <subsection xml:id="subsec-secondary-dom-jazz-extended">
