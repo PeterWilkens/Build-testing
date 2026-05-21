@@ -288,30 +288,146 @@
     <p>
       Secondary dominants appear throughout jazz standards, pop, and folk repertoire.
       The following examples illustrate each of the five secondary dominants as heard
-      in well-known songs.
+      in well-known songs. Each chord progression is shown in C major; the secondary
+      dominant chord is highlighted by its Roman numeral analysis below the staff.</p>
+      <p>Extracts from the songs shown below are from https://pianowithjonny.com/piano-lessons/secondary-dominants-the-complete-guide/#tonal_terminology_in_music_theory
+    
     </p>
-    <ul>
-      <li>
-        <p><m>V7/V</m> — <em>Tequila</em> (The Champs, 1958). The bridge ends on D7,
-        which propels the music into G before the famous instrumental break.</p>
-      </li>
-      <li>
-        <p><m>V7/IV</m> — <em>The Nearness of You</em> (Hoagy Carmichael / Ned Washington,
-        1937). C7 appears in the second bar of the A section, pulling toward the F chord.</p>
-      </li>
-      <li>
-        <p><m>V7/vi</m> — <em>Georgia on My Mind</em> (Hoagy Carmichael, 1930). E7 arrives
-        in bar two, temporarily tonicising A minor before the phrase continues.</p>
-      </li>
-      <li>
-        <p><m>V7/ii</m> — <em>Crazy</em> (Willie Nelson / Patsy Cline, 1961). A7 opens
-        the song, resolving to D minor and leading into the ii–V–I that follows.</p>
-      </li>
-      <li>
-        <p><m>V7/iii</m> — <em>The Best Thing for You</em> (Irving Berlin, 1950). B7
-        resolves to E minor, showcasing the less common <m>V/iii</m> in action.</p>
-      </li>
-    </ul>
+
+    <paragraphs>
+      <title><m>V7/V</m> — <em>Tequila</em> (The Champs, 1958)</title>
+      <p>
+        The bridge of <em>Tequila</em> ends on D7, the <m>V7/V</m> of C major, which
+        propels the music into G7 before the famous instrumental break. The F<sharp/>
+        in D7 is the sole chromatic note: it acts as a leading tone pulling upward to G.
+      </p>
+      <figure xml:id="fig-sec-dom-vofv">
+        <caption>
+          <m>V7/V</m> in C major: D7 resolves to G7, then to C.
+        </caption>
+        <image xml:id="img-sec-dom-vofv" source="notation/sec-dom-vofv" width="70%" />
+      </figure>
+      <figure xml:id="fig-sec-dom-vofv-song">
+        <caption>
+          Song extract: the <m>V7/V</m> (D7) in context — I, V7/V, V7, I in C major,
+          as heard in the bridge of <em>Tequila</em> (The Champs, 1958).
+        </caption>
+        <image xml:id="img-sec-dom-vofv-song" source="notation/sec-dom-vofv-song" width="80%" />
+      </figure>
+      <p>
+        <image source="Tequilla-Secondary-Domiant-V-of-V.png" width="80%" />
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title><m>V7/IV</m> — <em>The Nearness of You</em> (Carmichael / Washington, 1937)</title>
+      <p>
+        In the second bar of the A section of <em>The Nearness of You</em>, C7 appears
+        as the <m>V7/IV</m>, adding a B<flat/> to the tonic chord and pulling the
+        harmony convincingly toward F.
+      </p>
+      <figure xml:id="fig-sec-dom-vofiv">
+        <caption>
+          <m>V7/IV</m> in C major: C7 resolves to F.
+        </caption>
+        <image xml:id="img-sec-dom-vofiv" source="notation/sec-dom-vofiv" width="70%" />
+      </figure>
+      <figure xml:id="fig-sec-dom-vofiv-song">
+        <caption>
+          Song extract: opening A section of <em>The Nearness of You</em>
+          (Carmichael / Washington, 1937) in C major. The C7sus4–C7 in bar 4
+          is the <m>V7/IV</m> resolving convincingly to Fmaj7.
+        </caption>
+        <image xml:id="img-sec-dom-vofiv-song" source="notation/sec-dom-vofiv-song" width="95%" />
+      </figure>
+      <p>
+        <image source="The-NearnessSecondary-Dominant-V-of-IV.png" width="80%" />
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title><m>V7/vi</m> — <em>Georgia on My Mind</em> (Hoagy Carmichael, 1930)</title>
+      <p>
+        In bar two of <em>Georgia on My Mind</em>, E7 arrives as the <m>V7/vi</m>,
+        temporarily tonicising A minor. The G<sharp/> in E7 is the chromatic intruder
+        that signals the brief tonicisation before the phrase continues in C major.
+      </p>
+      <figure xml:id="fig-sec-dom-vofvi">
+        <caption>
+          <m>V7/vi</m> in C major: E7 resolves to Am.
+        </caption>
+        <image xml:id="img-sec-dom-vofvi" source="notation/sec-dom-vofvi" width="70%" />
+      </figure>
+      <figure xml:id="fig-sec-dom-vofvi-song">
+        <caption>
+          Song extract: opening phrase of <em>Georgia on My Mind</em>
+          (Hoagy Carmichael, 1930) in C major, bars 1–8. E7 (<m>V7/vi</m>)
+          arrives in bar 3, preceded by the half-diminished Bm7<flat/>5 and
+          resolving to Am7.
+        </caption>
+        <image xml:id="img-sec-dom-vofvi-song" source="notation/sec-dom-vofvi-song" width="95%" />
+      </figure>
+      <p>
+        <image source="GeorgiaSecondary-Dominant-V-of-VI.png" width="80%" />
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title><m>V7/ii</m> — <em>Crazy</em> (Willie Nelson / Patsy Cline, 1961)</title>
+      <p>
+        <em>Crazy</em> opens with A7 functioning as <m>V7/ii</m>, resolving to Dm7
+        and leading directly into a ii–V–I cadence. The C<sharp/> in A7 is the
+        chromatic note that drives the ear toward D minor.
+      </p>
+      <figure xml:id="fig-sec-dom-vofii">
+        <caption>
+          <m>V7/ii</m> in C major: A7 resolves to Dm7, continuing through G7 to Cmaj7.
+        </caption>
+        <image xml:id="img-sec-dom-vofii" source="notation/sec-dom-vofii" width="90%" />
+      </figure>
+      <figure xml:id="fig-sec-dom-vofii-song">
+        <caption>
+          Song extract: opening phrase of <em>Crazy</em>
+          (Willie Nelson / Patsy Cline, 1961) in C major. A7 (<m>V7/ii</m>)
+          in bar 2 launches a ii–V–I cadence back to Cmaj7.
+        </caption>
+        <image xml:id="img-sec-dom-vofii-song" source="notation/sec-dom-vofii-song" width="85%" />
+      </figure>
+      <p>
+        <image source="CrazySecondary-Dominant-V-of-II-1755099310.png" width="80%" />
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title><m>V7/iii</m> — <em>The Best Thing for You</em> (Irving Berlin, 1950)</title>
+      <p>
+        Irving Berlin's <em>The Best Thing for You</em> showcases the less common
+        <m>V7/iii</m>: B7 resolves to E minor. The D<sharp/> in B7 acts as a
+        leading tone to E, giving the resolution a distinctly chromatic colour.
+      </p>
+      <figure xml:id="fig-sec-dom-vofiii">
+        <caption>
+          <m>V7/iii</m> in C major: B7 resolves to Em.
+        </caption>
+        <image xml:id="img-sec-dom-vofiii" source="notation/sec-dom-vofiii" width="70%" />
+      </figure>
+      <figure xml:id="fig-sec-dom-vofiii-song">
+        <caption>
+          Song extract: A section of <em>The Best Thing for You</em>
+          (Irving Berlin, 1950) in C major. B7 (<m>V7/iii</m>) opens the phrase
+          and triggers a chain of secondary dominants — V7/iii, V7/ii, V7 —
+          that resolves to I△7, then recycles through vi–ii–V–I.
+        </caption>
+        <image xml:id="img-sec-dom-vofiii-song" source="notation/sec-dom-vofiii-song" width="90%" />
+      </figure>
+      <p>
+        <image source="The-BestThingSecondary-Dominant-V-of-III-1755028097.png" width="80%" />
+      </p>
+      <p>
+        <image source="22Mary-Had-a-Little-Lamb22-with-Basic-Piano-Chords.png" width="80%" />
+      </p>
+    </paragraphs>
+
   </subsection>
 
   <subsection xml:id="subsec-secondary-dom-jazz-extended">
