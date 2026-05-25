@@ -113,35 +113,88 @@
     </ol>
   </subsection>
 
-  <subsection xml:id="subsec-barry-harris-warm-up">
-    <title>Warm-Up Exercise</title>
+  <subsection xml:id="subsec-barry-harris-lincoln-center-1">
+    <title>Barry Harris Jazz Theory — Lincoln Center Part 1</title>
     <p>
-      The following warm-up, transcribed by Adam Manness (Open Studio Jazz), distils the 
-      essential Barry Harris hand positions into a concise eleven-measure exercise. It 
-      cycles through the alternating 6th chord and diminished 7th voicings in close 
-      position, ascending and descending over the C major <em>bebop</em> tonal centre. 
-      Practise it slowly until every voicing is even and balanced, then transpose to all 
-      twelve keys.
+      The following exercises are transcribed from Barry Harris's Jazz Theory session at 
+      Lincoln Center's Jazz Academy (transcript by R. Glover, July 2018; 
+      source: <url href="https://youtu.be/F8JJncSUdUU">youtu.be/F8JJncSUdUU</url>). 
+      Harris demonstrates two core exercises: first, a C major scale practised at 
+      progressively faster tempos; second, the harmonized diatonic major scale cycling 
+      through all twelve keys.
     </p>
 
-    <figure xml:id="fig-barry-harris-warm-up">
+    <figure xml:id="fig-bh-lincoln-scale-intro">
       <caption>
-        Barry Harris Warm-Up exercise (Adam Manness / Open Studio Jazz). Alternating 
-        C6 and B°7 voicings ascending and descending in close four-voice position.
+        C major scale exercise at ♩ = 70 (measure 2). Harris demonstrates the ascending 
+        and descending scale in a two-voice, hands-together texture.
       </caption>
-      <image xml:id="img-barry-harris-warm-up" source="notation/barry-harris-warm-up" width="100%" />
+      <image xml:id="img-bh-lincoln-p1"
+             source="notation/barry-harris-lincoln-center-p1.png"
+             width="100%" />
+    </figure>
+
+    <figure xml:id="fig-bh-lincoln-scale-variations">
+      <caption>
+        C major scale exercise at ♩ = 85 (measure 4), ♩ = 50 with triplet sixteenth-note 
+        figures (measures 6–7), and ♩ = 30 (measure 8). The same pattern is repeated at 
+        each faster tempo without stopping.
+      </caption>
+      <image xml:id="img-bh-lincoln-p2"
+             source="notation/barry-harris-lincoln-center-p2.png"
+             width="100%" />
+    </figure>
+
+    <figure xml:id="fig-bh-lincoln-scale-fast">
+      <caption>
+        Scale exercise continued at ♩ = 30 (measures 9–11), leading into the opening of 
+        the harmonized diatonic scale: Cmaj⁷ – Dmin⁷ – Emin⁷ – Fmin⁷ (measure 12).
+      </caption>
+      <image xml:id="img-bh-lincoln-p3"
+             source="notation/barry-harris-lincoln-center-p3.png"
+             width="100%" />
+    </figure>
+
+    <figure xml:id="fig-bh-lincoln-harmonized-c">
+      <caption>
+        Harmonized diatonic scale continued in E♭ major (measure 13: E♭maj⁷ – Fmin⁷ – 
+        Gmin⁷ – A♭min⁷), F♯ major (measure 14: F♯maj⁷ – G♯min⁷ – A♯min⁷ – Bmin⁷), 
+        and A major (measure 15: Amaj⁷ – Bmin⁷ – C♯min⁷ – Dmin⁷). These four keys — 
+        C, E♭, F♯, A — form one of the four "family" groups related by minor thirds.
+      </caption>
+      <image xml:id="img-bh-lincoln-p4"
+             source="notation/barry-harris-lincoln-center-p4.png"
+             width="100%" />
+    </figure>
+
+    <figure xml:id="fig-bh-lincoln-slow-c-eb">
+      <caption>
+        Harmonized diatonic scale at ♩ = 30 in C major (measure 17: Cmaj⁷ – Dmin⁷ – 
+        Emin⁷ – Fmin⁷) and E♭ major (measure 18: E♭maj⁷ – Fmin⁷ – Gmin⁷ – A♭min⁷). 
+        The right-hand melody (red) and left-hand accompaniment (green) are shown 
+        separately to clarify voice independence.
+      </caption>
+      <image xml:id="img-bh-lincoln-p5"
+             source="notation/barry-harris-lincoln-center-p5.png"
+             width="100%" />
+    </figure>
+
+    <figure xml:id="fig-bh-lincoln-slow-gb-a">
+      <caption>
+        Harmonized diatonic scale at ♩ = 30 in G♭ major (measure 19: G♭maj⁷ – A♭min⁷ – 
+        B♭min⁷ – Bmin⁷) and A major (measure 20: Amaj⁷ – Bmin⁷ – C♯min⁷ – Dmin⁷).
+      </caption>
+      <image xml:id="img-bh-lincoln-p6"
+             source="notation/barry-harris-lincoln-center-p6.png"
+             width="100%" />
     </figure>
 
     <p>
-      Work through the exercise in the following stages:
+      Harris emphasised that the twelve keys divide into four "family" groups related by 
+      minor thirds: {C, E♭, G♭, A} and {D♭, E, G, B♭} are two such groups (with D, F, 
+      A♭, B forming another). Practise the harmonized scale exercise in all twelve keys 
+      before moving on.
     </p>
-    <ol>
-      <li><p>Right hand alone, ascending through the full exercise.</p></li>
-      <li><p>Right hand alone, descending.</p></li>
-      <li><p>Add the bass note in the left hand, matching the inversion in the right hand.</p></li>
-      <li><p>Play the complete exercise hands together at a slow, steady tempo (quarter = 60).</p></li>
-      <li><p>Increase speed gradually; aim for quarter = 100 before transposing to the next key.</p></li>
-    </ol>
   </subsection>
 
   <subsection xml:id="subsec-daily-practice-tips">
