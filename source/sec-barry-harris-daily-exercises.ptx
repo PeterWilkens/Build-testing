@@ -197,6 +197,63 @@
     </p>
   </subsection>
 
+  <subsection xml:id="subsec-barry-harris-stride-exercise">
+    <title>Barry Harris 6th Dim Stride Exercise</title>
+    <p>
+      The following notation is transcribed from a live workshop demonstration by Barry Harris 
+      (source: <url href="https://youtu.be/G1siDXQ92Nw">youtu.be/G1siDXQ92Nw</url>, 
+      7:58–9:00; transcript by R. Glover, July 2018). Harris demonstrates the 6th diminished 
+      scale applied in a stride piano texture, moving through several variations: the basic 
+      stride pattern in C major and B♭ major, drop-2 voicings, contrary motion, the scale 
+      in tenths, the minor 6th diminished scale (C minor and F minor), and finally a 
+      diminished scale approach.
+    </p>
+
+    <figure xml:id="fig-bh-stride-p1">
+      <caption>
+        Measures 1–3. Measure 1: Cmaj⁶ dim scale in stride (♩ = 44, 4/4), ascending 
+        through the 6th/diminished alternation with a stride bass, cadencing on D⁷♭9♯11. 
+        Measure 2: the same pattern transposed to B♭ major (Bbmaj⁶ dim scale), cadencing 
+        on C⁷♭9♯11. Measure 3: Cmaj⁶ dim scale in drop-2 voicings.
+      </caption>
+      <image xml:id="img-bh-stride-p1"
+             source="notation/barry-harris-stride-ex-p1.png"
+             width="100%" />
+    </figure>
+
+    <figure xml:id="fig-bh-stride-p2">
+      <caption>
+        Measures 6–13. Measure 6: Cmaj⁶ dim scale drop 2 in contrary motion (right hand 
+        ascending, left hand descending). Measure 7: Cmaj⁶ dim scale in 2/4. Measure 8 
+        (4/4): the scale played in tenths. Measures 11–14: Cmin⁶ dim scale in stride.
+      </caption>
+      <image xml:id="img-bh-stride-p2"
+             source="notation/barry-harris-stride-ex-p2.png"
+             width="100%" />
+    </figure>
+
+    <figure xml:id="fig-bh-stride-p3">
+      <caption>
+        Measures 15–20. Measures 15–16: Cmin⁶ dim scale with a swung (syncopated) right 
+        hand. Measures 18–19: Cmin⁶ dim scale moving into A♯dim⁷. Measure 20: Fmin⁶ 
+        dim scale.
+      </caption>
+      <image xml:id="img-bh-stride-p3"
+             source="notation/barry-harris-stride-ex-p3.png"
+             width="100%" />
+    </figure>
+
+    <figure xml:id="fig-bh-stride-p4">
+      <caption>
+        Measures 21–22. Continuation of the Fmin section, passing through Cdim⁷, then 
+        moving to the B♭ diminished 6th scale.
+      </caption>
+      <image xml:id="img-bh-stride-p4"
+             source="notation/barry-harris-stride-ex-p4.png"
+             width="100%" />
+    </figure>
+  </subsection>
+
   <subsection xml:id="subsec-daily-practice-tips">
     <title>Practice Tips from the Barry Harris Workshop</title>
     <p>
