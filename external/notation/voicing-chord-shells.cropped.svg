@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="102.42mm" height="23.41mm" viewBox="0.0000 0.0000 58.2826 13.3242">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(0.0000, 9.7330)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="19.0612" y2="0"/>
+</g>
+<g transform="translate(0.0000, 8.7330)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="19.0612" y2="0"/>
+</g>
+<g transform="translate(0.0000, 7.7330)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="19.0612" y2="0"/>
+</g>
+<g transform="translate(0.0000, 6.7330)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="19.0612" y2="0"/>
+</g>
+<g transform="translate(0.0000, 5.7330)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="19.0612" y2="0"/>
+</g>
+<g transform="translate(0.0000, 4.7330)">
+<rect x="5.4739" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(18.9212, 7.7330)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(18.4312, 7.7330)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/voicing-chord-shells.ly:21:7:8">
+<g transform="translate(8.8023, 6.2330)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/voicing-chord-shells.ly:21:9:10">
+<g transform="translate(8.8023, 5.2330)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/voicing-chord-shells.ly:21:12:13">
+<g transform="translate(8.8023, 1.6329)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>G7</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(8.8673, 7.7330)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="4.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/voicing-chord-shells.ly:22:7:8">
+<g transform="translate(11.8045, 8.2330)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/voicing-chord-shells.ly:22:10:11">
+<g transform="translate(11.8045, 5.2330)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/voicing-chord-shells.ly:22:14:15">
+<g transform="translate(11.8045, 4.1968)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>CMaj7</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(11.8695, 7.7330)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="5.9806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/voicing-chord-shells.ly:20:7:8">
+<g transform="translate(5.8000, 7.7330)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/voicing-chord-shells.ly:20:9:10">
+<g transform="translate(5.8000, 4.7330)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/voicing-chord-shells.ly:20:13:14">
+<g transform="translate(5.8000, 3.7280)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Dm7</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(0.8000, 6.7330)">
+<path transform="scale(0.0040, -0.0040)" d="M557 -125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM557 125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM232 263c172 0 293 -88 293 -251c0 -263 -263 -414 -516 -521c-3 -3 -6 -4 -9 -4c-7 0 -13 6 -13 13c0 3 1 6 4 9
+c202 118 412 265 412 493c0 120 -63 235 -171 235c-74 0 -129 -54 -154 -126c11 5 22 8 34 8c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 102 244 232 244z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/voicing-chord-shells.ly:17:4:5">
+</a>
+<g transform="translate(5.8650, 7.7330)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="6.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(0.0000, 12.8888)">
+<text font-family="serif" font-style="italic" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>Bud Powell shells (R+7, R+3, R+7) on IIm7–V7–Imaj7 in C</tspan>
+</text>
+</g>
+</svg>
