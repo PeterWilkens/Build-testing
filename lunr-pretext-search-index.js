@@ -2113,7 +2113,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "12.5",
   "title": "Daily Scale and Chord Exercises",
-  "body": " Daily Scale and Chord Exercises   Barry Harris was insistent that theory without daily practice is meaningless. His workshop exercises are designed to be drilled slowly and methodically, at a tempo where every note is even, every chord change is smooth, and the sound of each chord type is committed to memory. He recommended beginning in C major and then transposing each exercise to all twelve keys before moving on.  The exercises below form the core daily practice routine that Harris taught at his workshops. They should be practised with a metronome and, once comfortable, with a rhythm section playalong.    Exercise 1: The Bebop Scale  Play each of the three bebop scales (major, dominant, and minor) ascending and descending for two octaves in every key. Pay close attention to the placement of the chromatic passing tone — it should sound smooth and connected, not like an accidental. Barry Harris often said that the bebop scale should feel like a single phrase, not like a seven-note scale with a wrong note added.   Practice progression:    Right hand alone, one octave ascending and descending, slowly (quarter = 60).  Left hand alone, one octave ascending and descending.  Hands together in parallel motion (both hands playing the same scale in the same direction).  Hands together in contrary motion (right hand ascending while left hand descends).  Increase tempo gradually to quarter = 120 before moving to the next key.   Begin with the dominant bebop scale, as it is the most common in jazz. The major bebop scale follows naturally, and the minor bebop scale should be introduced once the first two are secure.    Exercise 2: The 6th Chord \/ Diminished Alternation  This is the central exercise of the Barry Harris method. It trains the ear, the fingers, and the musical imagination simultaneously. Play the ascending 6th chord and diminished chord exercise (shown in the previous section) using close four-voice block chords.   Practice routine:    Right hand alone, ascending: C6 — B°7\/D — C6\/E — B°7\/F — C6\/G — C6\/A — B°7 — C6 (upper octave).  Right hand alone, descending: reverse the above, moving from the upper C6 back to the root position.  Left hand plays sustained root (C in the bass), right hand ascends and descends.  Left hand plays the bass note that corresponds to the inversion in the right hand (walking through the scale: C — D — E — F — G — A — B — C).  Play the full exercise in all twelve keys.   Listen carefully to the way each chord connects to the next. Barry Harris emphasised that the exercise should produce a singing, melodic sound , not a mechanical arpeggio. The top voice traces the major bebop scale — this is the melody you are harmonising.    Exercise 3: The Harmonized Major Scale  This exercise combines the melodic and harmonic aspects of the system. Play the C major scale in the right hand (single notes, one octave ascending) while assigning each note its correct chord symbol from the 6th \/ diminished system:   Scale degrees 1, 3, 5, 6 (C, E, G, A) belong to the C6 chord.  Scale degrees 2, 4, 7 (D, F, B) belong to the B°7 chord.   In practice, each note of the melody is played as the top voice of the corresponding four-note block chord. The figure below shows the chord symbol that applies to each scale degree as you ascend.   C major scale with Barry Harris 6th \/ diminished chord assignments. Each note of the ascending scale is labelled with its corresponding chord: C6 for chord tones, B°7 for passing tones.     Practice routine:    Sing or play the scale degree while naming the chord aloud (for example: C — C6, D — B°7, E — C6, F — B°7 ... ).   Play the melody note as the top voice of a full four-voice block chord in the right hand. Use the inversions from the table in the previous section, moving upward smoothly.   Add a bass note in the left hand: the root of the chord for chord tones, or the bass note of the inversion for passing diminished chords.  Practise descending as well as ascending.  Transpose to all twelve keys.     Warm-Up Exercise  The following warm-up, transcribed by Adam Manness (Open Studio Jazz), distils the essential Barry Harris hand positions into a concise eleven-measure exercise. It cycles through the alternating 6th chord and diminished 7th voicings in close position, ascending and descending over the C major bebop tonal centre. Practise it slowly until every voicing is even and balanced, then transpose to all twelve keys.   Barry Harris Warm-Up exercise (Adam Manness \/ Open Studio Jazz). Alternating C6 and B°7 voicings ascending and descending in close four-voice position.    Work through the exercise in the following stages:   Right hand alone, ascending through the full exercise.  Right hand alone, descending.  Add the bass note in the left hand, matching the inversion in the right hand.  Play the complete exercise hands together at a slow, steady tempo (quarter = 60).  Increase speed gradually; aim for quarter = 100 before transposing to the next key.     Practice Tips from the Barry Harris Workshop  Barry Harris offered the following guidance consistently throughout his teaching:     Slow is fast. Always begin at a tempo where every note speaks clearly and every chord is balanced. Speed is a consequence of accuracy, not a goal in itself.     Twelve keys, every day. A pattern learned in only one or two keys is not truly learned. The chromatic button accordion makes this particularly accessible, since the fingering pattern for any exercise is identical in every key.     Listen to the top voice. When practising block chord exercises, the top voice is the melody. Train yourself to hear it singing above the harmony, and ensure it has a connected, vocal quality.     Hear the chord before you play it. Harris insisted that students should be able to sing or audiate each voicing before placing their hands on the keys. The ear leads, the hands follow.     The diminished is not a chord, it is a passageway. The B°7 is a connecting structure — a set of four passing tones that link one position of the C6 chord to the next. Understanding it this way keeps the ear focused on the tonic harmony and prevents the diminished chord from sounding like an unrelated intrusion.     "
+  "body": " Daily Scale and Chord Exercises   Barry Harris was insistent that theory without daily practice is meaningless. His workshop exercises are designed to be drilled slowly and methodically, at a tempo where every note is even, every chord change is smooth, and the sound of each chord type is committed to memory. He recommended beginning in C major and then transposing each exercise to all twelve keys before moving on.  The exercises below form the core daily practice routine that Harris taught at his workshops. They should be practised with a metronome and, once comfortable, with a rhythm section playalong.    Exercise 1: The Bebop Scale  Play each of the three bebop scales (major, dominant, and minor) ascending and descending for two octaves in every key. Pay close attention to the placement of the chromatic passing tone — it should sound smooth and connected, not like an accidental. Barry Harris often said that the bebop scale should feel like a single phrase, not like a seven-note scale with a wrong note added.   Practice progression:    Right hand alone, one octave ascending and descending, slowly (quarter = 60).  Left hand alone, one octave ascending and descending.  Hands together in parallel motion (both hands playing the same scale in the same direction).  Hands together in contrary motion (right hand ascending while left hand descends).  Increase tempo gradually to quarter = 120 before moving to the next key.   Begin with the dominant bebop scale, as it is the most common in jazz. The major bebop scale follows naturally, and the minor bebop scale should be introduced once the first two are secure.    Exercise 2: The 6th Chord \/ Diminished Alternation  This is the central exercise of the Barry Harris method. It trains the ear, the fingers, and the musical imagination simultaneously. Play the ascending 6th chord and diminished chord exercise (shown in the previous section) using close four-voice block chords.   Practice routine:    Right hand alone, ascending: C6 — B°7\/D — C6\/E — B°7\/F — C6\/G — C6\/A — B°7 — C6 (upper octave).  Right hand alone, descending: reverse the above, moving from the upper C6 back to the root position.  Left hand plays sustained root (C in the bass), right hand ascends and descends.  Left hand plays the bass note that corresponds to the inversion in the right hand (walking through the scale: C — D — E — F — G — A — B — C).  Play the full exercise in all twelve keys.   Listen carefully to the way each chord connects to the next. Barry Harris emphasised that the exercise should produce a singing, melodic sound , not a mechanical arpeggio. The top voice traces the major bebop scale — this is the melody you are harmonising.    Exercise 3: The Harmonized Major Scale  This exercise combines the melodic and harmonic aspects of the system. Play the C major scale in the right hand (single notes, one octave ascending) while assigning each note its correct chord symbol from the 6th \/ diminished system:   Scale degrees 1, 3, 5, 6 (C, E, G, A) belong to the C6 chord.  Scale degrees 2, 4, 7 (D, F, B) belong to the B°7 chord.   In practice, each note of the melody is played as the top voice of the corresponding four-note block chord. The figure below shows the chord symbol that applies to each scale degree as you ascend.   C major scale with Barry Harris 6th \/ diminished chord assignments. Each note of the ascending scale is labelled with its corresponding chord: C6 for chord tones, B°7 for passing tones.     Practice routine:    Sing or play the scale degree while naming the chord aloud (for example: C — C6, D — B°7, E — C6, F — B°7 ... ).   Play the melody note as the top voice of a full four-voice block chord in the right hand. Use the inversions from the table in the previous section, moving upward smoothly.   Add a bass note in the left hand: the root of the chord for chord tones, or the bass note of the inversion for passing diminished chords.  Practise descending as well as ascending.  Transpose to all twelve keys.     Barry Harris Jazz Theory — Lincoln Center Part 1  The following exercises are transcribed from Barry Harris's Jazz Theory session at Lincoln Center's Jazz Academy (transcript by R. Glover, July 2018; source: youtu.be\/F8JJncSUdUU ). Harris demonstrates two core exercises: first, a C major scale practised at progressively faster tempos; second, the harmonized diatonic major scale cycling through all twelve keys.   C major scale exercise at ♩ = 70 (measure 2). Harris demonstrates the ascending and descending scale in a two-voice, hands-together texture.     C major scale exercise at ♩ = 85 (measure 4), ♩ = 50 with triplet sixteenth-note figures (measures 6–7), and ♩ = 30 (measure 8). The same pattern is repeated at each faster tempo without stopping.     Scale exercise continued at ♩ = 30 (measures 9–11), leading into the opening of the harmonized diatonic scale: Cmaj⁷ – Dmin⁷ – Emin⁷ – Fmin⁷ (measure 12).     Harmonized diatonic scale continued in E♭ major (measure 13: E♭maj⁷ – Fmin⁷ – Gmin⁷ – A♭min⁷), F♯ major (measure 14: F♯maj⁷ – G♯min⁷ – A♯min⁷ – Bmin⁷), and A major (measure 15: Amaj⁷ – Bmin⁷ – C♯min⁷ – Dmin⁷). These four keys — C, E♭, F♯, A — form one of the four \"family\" groups related by minor thirds.     Harmonized diatonic scale at ♩ = 30 in C major (measure 17: Cmaj⁷ – Dmin⁷ – Emin⁷ – Fmin⁷) and E♭ major (measure 18: E♭maj⁷ – Fmin⁷ – Gmin⁷ – A♭min⁷). The right-hand melody (red) and left-hand accompaniment (green) are shown separately to clarify voice independence.     Harmonized diatonic scale at ♩ = 30 in G♭ major (measure 19: G♭maj⁷ – A♭min⁷ – B♭min⁷ – Bmin⁷) and A major (measure 20: Amaj⁷ – Bmin⁷ – C♯min⁷ – Dmin⁷).    Harris emphasised that the twelve keys divide into four \"family\" groups related by minor thirds: {C, E♭, G♭, A} and {D♭, E, G, B♭} are two such groups (with D, F, A♭, B forming another). Practise the harmonized scale exercise in all twelve keys before moving on.    Barry Harris 6th Dim Stride Exercise  The following notation is transcribed from a live workshop demonstration by Barry Harris (source: youtu.be\/G1siDXQ92Nw , 7:58–9:00; transcript by R. Glover, July 2018). Harris demonstrates the 6th diminished scale applied in a stride piano texture, moving through several variations: the basic stride pattern in C major and B♭ major, drop-2 voicings, contrary motion, the scale in tenths, the minor 6th diminished scale (C minor and F minor), and finally a diminished scale approach.   Measures 1–3. Measure 1: Cmaj⁶ dim scale in stride (♩ = 44, 4\/4), ascending through the 6th\/diminished alternation with a stride bass, cadencing on D⁷♭9♯11. Measure 2: the same pattern transposed to B♭ major (Bbmaj⁶ dim scale), cadencing on C⁷♭9♯11. Measure 3: Cmaj⁶ dim scale in drop-2 voicings.     Measures 6–13. Measure 6: Cmaj⁶ dim scale drop 2 in contrary motion (right hand ascending, left hand descending). Measure 7: Cmaj⁶ dim scale in 2\/4. Measure 8 (4\/4): the scale played in tenths. Measures 11–14: Cmin⁶ dim scale in stride.     Measures 15–20. Measures 15–16: Cmin⁶ dim scale with a swung (syncopated) right hand. Measures 18–19: Cmin⁶ dim scale moving into A♯dim⁷. Measure 20: Fmin⁶ dim scale.     Measures 21–22. Continuation of the Fmin section, passing through Cdim⁷, then moving to the B♭ diminished 6th scale.      Practice Tips from the Barry Harris Workshop  Barry Harris offered the following guidance consistently throughout his teaching:     Slow is fast. Always begin at a tempo where every note speaks clearly and every chord is balanced. Speed is a consequence of accuracy, not a goal in itself.     Twelve keys, every day. A pattern learned in only one or two keys is not truly learned. The chromatic button accordion makes this particularly accessible, since the fingering pattern for any exercise is identical in every key.     Listen to the top voice. When practising block chord exercises, the top voice is the melody. Train yourself to hear it singing above the harmony, and ensure it has a connected, vocal quality.     Hear the chord before you play it. Harris insisted that students should be able to sing or audiate each voicing before placing their hands on the keys. The ear leads, the hands follow.     The diminished is not a chord, it is a passageway. The B°7 is a connecting structure — a set of four passing tones that link one position of the C6 chord to the next. Understanding it this way keeps the ear focused on the tonic harmony and prevents the diminished chord from sounding like an unrelated intrusion.     "
 },
 {
   "id": "fig-barry-harris-harmonized-scale",
@@ -2125,13 +2125,94 @@ var ptx_lunr_docs = [
   "body": " C major scale with Barry Harris 6th \/ diminished chord assignments. Each note of the ascending scale is labelled with its corresponding chord: C6 for chord tones, B°7 for passing tones.   "
 },
 {
-  "id": "fig-barry-harris-warm-up",
+  "id": "fig-bh-lincoln-scale-intro",
   "level": "2",
-  "url": "sec-barry-harris-daily-exercises.html#fig-barry-harris-warm-up",
+  "url": "sec-barry-harris-daily-exercises.html#fig-bh-lincoln-scale-intro",
   "type": "Figure",
   "number": "12.5.2",
   "title": "",
-  "body": " Barry Harris Warm-Up exercise (Adam Manness \/ Open Studio Jazz). Alternating C6 and B°7 voicings ascending and descending in close four-voice position.   "
+  "body": " C major scale exercise at ♩ = 70 (measure 2). Harris demonstrates the ascending and descending scale in a two-voice, hands-together texture.   "
+},
+{
+  "id": "fig-bh-lincoln-scale-variations",
+  "level": "2",
+  "url": "sec-barry-harris-daily-exercises.html#fig-bh-lincoln-scale-variations",
+  "type": "Figure",
+  "number": "12.5.3",
+  "title": "",
+  "body": " C major scale exercise at ♩ = 85 (measure 4), ♩ = 50 with triplet sixteenth-note figures (measures 6–7), and ♩ = 30 (measure 8). The same pattern is repeated at each faster tempo without stopping.   "
+},
+{
+  "id": "fig-bh-lincoln-scale-fast",
+  "level": "2",
+  "url": "sec-barry-harris-daily-exercises.html#fig-bh-lincoln-scale-fast",
+  "type": "Figure",
+  "number": "12.5.4",
+  "title": "",
+  "body": " Scale exercise continued at ♩ = 30 (measures 9–11), leading into the opening of the harmonized diatonic scale: Cmaj⁷ – Dmin⁷ – Emin⁷ – Fmin⁷ (measure 12).   "
+},
+{
+  "id": "fig-bh-lincoln-harmonized-c",
+  "level": "2",
+  "url": "sec-barry-harris-daily-exercises.html#fig-bh-lincoln-harmonized-c",
+  "type": "Figure",
+  "number": "12.5.5",
+  "title": "",
+  "body": " Harmonized diatonic scale continued in E♭ major (measure 13: E♭maj⁷ – Fmin⁷ – Gmin⁷ – A♭min⁷), F♯ major (measure 14: F♯maj⁷ – G♯min⁷ – A♯min⁷ – Bmin⁷), and A major (measure 15: Amaj⁷ – Bmin⁷ – C♯min⁷ – Dmin⁷). These four keys — C, E♭, F♯, A — form one of the four \"family\" groups related by minor thirds.   "
+},
+{
+  "id": "fig-bh-lincoln-slow-c-eb",
+  "level": "2",
+  "url": "sec-barry-harris-daily-exercises.html#fig-bh-lincoln-slow-c-eb",
+  "type": "Figure",
+  "number": "12.5.6",
+  "title": "",
+  "body": " Harmonized diatonic scale at ♩ = 30 in C major (measure 17: Cmaj⁷ – Dmin⁷ – Emin⁷ – Fmin⁷) and E♭ major (measure 18: E♭maj⁷ – Fmin⁷ – Gmin⁷ – A♭min⁷). The right-hand melody (red) and left-hand accompaniment (green) are shown separately to clarify voice independence.   "
+},
+{
+  "id": "fig-bh-lincoln-slow-gb-a",
+  "level": "2",
+  "url": "sec-barry-harris-daily-exercises.html#fig-bh-lincoln-slow-gb-a",
+  "type": "Figure",
+  "number": "12.5.7",
+  "title": "",
+  "body": " Harmonized diatonic scale at ♩ = 30 in G♭ major (measure 19: G♭maj⁷ – A♭min⁷ – B♭min⁷ – Bmin⁷) and A major (measure 20: Amaj⁷ – Bmin⁷ – C♯min⁷ – Dmin⁷).   "
+},
+{
+  "id": "fig-bh-stride-p1",
+  "level": "2",
+  "url": "sec-barry-harris-daily-exercises.html#fig-bh-stride-p1",
+  "type": "Figure",
+  "number": "12.5.8",
+  "title": "",
+  "body": " Measures 1–3. Measure 1: Cmaj⁶ dim scale in stride (♩ = 44, 4\/4), ascending through the 6th\/diminished alternation with a stride bass, cadencing on D⁷♭9♯11. Measure 2: the same pattern transposed to B♭ major (Bbmaj⁶ dim scale), cadencing on C⁷♭9♯11. Measure 3: Cmaj⁶ dim scale in drop-2 voicings.   "
+},
+{
+  "id": "fig-bh-stride-p2",
+  "level": "2",
+  "url": "sec-barry-harris-daily-exercises.html#fig-bh-stride-p2",
+  "type": "Figure",
+  "number": "12.5.9",
+  "title": "",
+  "body": " Measures 6–13. Measure 6: Cmaj⁶ dim scale drop 2 in contrary motion (right hand ascending, left hand descending). Measure 7: Cmaj⁶ dim scale in 2\/4. Measure 8 (4\/4): the scale played in tenths. Measures 11–14: Cmin⁶ dim scale in stride.   "
+},
+{
+  "id": "fig-bh-stride-p3",
+  "level": "2",
+  "url": "sec-barry-harris-daily-exercises.html#fig-bh-stride-p3",
+  "type": "Figure",
+  "number": "12.5.10",
+  "title": "",
+  "body": " Measures 15–20. Measures 15–16: Cmin⁶ dim scale with a swung (syncopated) right hand. Measures 18–19: Cmin⁶ dim scale moving into A♯dim⁷. Measure 20: Fmin⁶ dim scale.   "
+},
+{
+  "id": "fig-bh-stride-p4",
+  "level": "2",
+  "url": "sec-barry-harris-daily-exercises.html#fig-bh-stride-p4",
+  "type": "Figure",
+  "number": "12.5.11",
+  "title": "",
+  "body": " Measures 21–22. Continuation of the Fmin section, passing through Cdim⁷, then moving to the B♭ diminished 6th scale.   "
 },
 {
   "id": "sec-barry-harris-chord-shapes",
