@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="ch-chord-voicings" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Jazz Chord Voicings</title>
+
+  <introduction>
+    <p>
+      Listening to pianists such as Bud Powell, Bill Evans, Red Garland, George Shearing,
+      or Herbie Hancock, one notices that each player voices chords quite differently — even
+      over identical chord symbols. The study of <term>chord voicings</term> is, in large part,
+      what separates the beginner from the fluent jazz player.
+    </p>
+    <p>
+      A <term>chord voicing</term> is a specific selection and arrangement of chord tones that
+      produces a desired sound for a given musical context. The same chord symbol can be
+      realised as something thin and sparse, or thick and resonant; dark and mysterious, or
+      bright and transparent. Beyond the bare chord tones, voicings frequently incorporate
+      extensions (9th, 11th, 13th) and alterations to add colour.
+    </p>
+    <p>
+      Although the techniques described here originated on the piano, they are directly
+      applicable to the chromatic button accordion played with a free-bass (converter)
+      system: every note on the keyboard is available to the left hand, so all the voicing
+      patterns described below can be realised exactly as written. Players using a Stradella
+      bass will find the concepts invaluable for understanding what the chords they are
+      playing should <em>sound</em> like, even if the full voicing cannot be fingered directly.
+    </p>
+    <p>
+      This chapter presents six progressive voicing techniques, each illustrated with
+      examples drawn from the jazz standard repertoire. The techniques are:
+    </p>
+    <ul>
+      <li><p><term>Chord Shells</term> — sparse two-note voicings pioneered by Bud Powell</p></li>
+      <li><p><term>Guide Tones</term> — 3rd and 7th as a stand-alone shell</p></li>
+      <li><p><term>Rootless Voicings</term> — four-note colour voicings popularised by Bill Evans</p></li>
+      <li><p><term>Block Chords</term> — five-note locked-hands style of George Shearing</p></li>
+      <li><p><term>Drop 2 Voicings</term> — four-note melodic harmonisation</p></li>
+      <li><p><term>Quartal Voicings</term> — stacked-fourth sonorities of McCoy Tyner</p></li>
+    </ul>
+    <p>
+      All examples are shown in the key of C major or its relative A minor, using a
+      IIm7–V7–Imaj7 progression as the main vehicle. The notation throughout is for
+      concert pitch (treble clef or bass clef, as appropriate).
+    </p>
+  </introduction>
+
+  <!-- ============================================================ -->
+  <section xml:id="sec-chord-shells">
+    <title>Chord Shells</title>
+
+    <p>
+      A <term>chord shell</term> is any two- or three-note voicing that captures the essential
+      identity of a chord without stating it fully. The most common type — sometimes called
+      a <term>Bud Powell voicing</term> — uses only two notes: the <em>root</em> paired with
+      either the <em>3rd</em> (R+3) or the <em>7th</em> (R+7). These sparse textures were
+      the hallmark of bebop pianists of the late 1940s including Bud Powell, Thelonious Monk,
+      Duke Jordan, and Tadd Dameron.
+    </p>
+    <p>
+      The R+7 shell (root plus minor or major 7th) and the R+3 shell (root plus major or minor
+      3rd) contain the two notes that most strongly define the chord quality. By alternating
+      between R+7 and R+3 through a cycle-of-fifths progression, the inner voice moves by
+      only a semitone or stays put — producing the smooth <em>voice leading</em> that is the
+      hallmark of idiomatic jazz harmony.
+    </p>
+
+    <paragraphs>
+      <title>Application 1: Alternating R+7 and R+3 shells</title>
+      <p>
+        The following example applies alternating R+7 and R+3 shells through the complete
+        cycle-of-fifths A-section progression in C major/A minor — the same sequence
+        underlying <q>Autumn Leaves</q> and many other jazz standards:
+        Dm7 – G7 – CMaj7 – Fmaj7 – Bm7♭5 – E7 – Am7.
+        The shell type alternates on every chord: R+7 for Dm7, R+3 for G7, R+7 for CMaj7,
+        R+3 for Fmaj7, and so on through the progression.
+      </p>
+      <p>
+        Follow the top (non-root) voice through the progression:
+        C – B – B – A – A – G♯ – G.
+        Each step moves by at most a semitone, and several hold the same pitch across
+        adjacent chords. This stepwise motion is the defining characteristic of idiomatic
+        jazz voice leading: the harmony changes underneath while the melodic line moves
+        as little as possible.
+      </p>
+
+      <sidebyside width="90%" margins="5%">
+        <image xml:id="img-voicing-chord-shells-full" source="notation/voicing-chord-shells-full">
+          <shortdescription>
+            Bud Powell shells alternating R+7 and R+3 through the full cycle of 5ths in
+            C major/A minor: Dm7 R+7, G7 R+3, CMaj7 R+7, Fmaj7 R+3, Bm7b5 R+7, E7 R+3,
+            Am7 R+7. Top voice descends C–B–B–A–A–G sharp–G throughout.
+          </shortdescription>
+        </image>
+      </sidebyside>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Application 2: R+10 shells</title>
+      <p>
+        A third common shell is <term>R+10</term> (root plus 10th), a compound version of
+        R+3: the 3rd is raised by an octave. R+10 substitutes directly for R+3 in an
+        alternating shell progression — the R+7 chord positions remain exactly as in
+        Application 1. The wider interval produces a fuller, more open sound suited to
+        solo performance or open-textured trio settings.
+      </p>
+      <p>
+        In the notation below, the treble staff carries the upper note (7th or 10th) and the
+        bass staff carries the root. For the R+7 positions the upper note sits just below
+        the treble staff, showing the closer interval. For the R+10 positions the upper note —
+        the 3rd raised an octave — rises clearly onto the treble staff, making the wider
+        interval immediately visible. The bass line is the same cycle-of-fifths root movement
+        as in Application 1: D – G – C – F – B – E – A.
+      </p>
+
+      <sidebyside width="90%" margins="5%">
+        <image xml:id="img-voicing-chord-shells-10ths" source="notation/voicing-chord-shells-10ths">
+          <shortdescription>
+            R+10 shells substituting for R+3 through the full cycle of 5ths: Dm7 R+7,
+            G7 R+10, CMaj7 R+7, Fmaj7 R+10, Bm7b5 R+7, E7 R+10, Am7 R+7. Treble staff
+            shows the upper note (7th or compound 3rd); bass staff shows the root.
+          </shortdescription>
+        </image>
+      </sidebyside>
+    </paragraphs>
+
+    <note>
+      <title>Accordion application</title>
+      <p>
+        On the free-bass accordion, chord shells are an excellent starting point for
+        comping in a small-group setting. Play the root on beat 1 and the 3rd or 7th
+        on the offbeat for a characteristic jazz left-hand accompaniment pattern.
+        The R+10 voicing is particularly accessible on the accordion: the free-bass
+        left hand has a wide range of independent buttons, so spanning a 10th requires
+        no stretch — simply select the root button and the note a 10th above it.
+      </p>
+    </note>
+  </section>
+
+  <!-- ============================================================ -->
+  <section xml:id="sec-guide-tones">
+    <title>Guide Tones</title>
+
+    <p>
+      <term>Guide tones</term> are the 3rd and 7th of a 7th chord considered as a unit.
+      They are called <q>guide tones</q> because:
+    </p>
+    <ul>
+      <li><p>they determine the <em>quality</em> of the chord (major 7, dominant 7, minor 7, etc.), and</p></li>
+      <li><p>they <em>guide resolution</em> — in a V7–I movement the 7th resolves down by step and the 3rd resolves up (or holds) to form the tonic chord.</p></li>
+    </ul>
+
+    <p>
+      For Am7, the guide tones are C (3rd) and G (7th). They may be voiced in two ways:
+    </p>
+    <ul>
+      <li><p><em>Root-position guide tones</em>: 3rd below 7th (C below G, a perfect 5th apart).</p></li>
+      <li><p><em>Inverted guide tones</em>: 7th below 3rd (G below C, a perfect 4th apart).</p></li>
+    </ul>
+
+    <sidebyside width="45%" margins="27.5%">
+      <image xml:id="img-voicing-guide-tones" source="notation/voicing-guide-tones">
+        <shortdescription>
+          Am7 guide tones in root position and inverted
+        </shortdescription>
+      </image>
+    </sidebyside>
+
+    <paragraphs>
+      <title>Application 1: Stand-alone guide tone shells</title>
+      <p>
+        The guide tones may be played as a two-note shell — with no root — relying on the
+        bass player to supply the bass note. Through a cycle-of-fifths progression, alternate
+        between root-position and inverted guide tones to keep the voice leading smooth.
+        This is an ideal starting point for jazz pianists (or free-bass accordion players)
+        working in a small group.
+      </p>
+      <sidebyside width="90%" margins="5%">
+        <image xml:id="img-voicing-guide-tones-app1" source="notation/voicing-guide-tones-app1">
+          <shortdescription>
+            Guide tone shells (no root) alternating root-position and inverted through the
+            full cycle of 5ths in C major/A minor: Dm7, G7, CMaj7, Fmaj7, Bm7b5, E7, Am7.
+          </shortdescription>
+        </image>
+      </sidebyside>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Application 2: Root plus guide tones</title>
+      <p>
+        For solo performance — where no bass player is present — add the root of each chord
+        either on beat 1 or on the downbeat, then play the guide tones on the <q>and</q> of
+        beat 2. This produces the characteristic <em>oom-pah</em> left-hand texture common
+        in solo jazz piano and equally effective on the free-bass accordion.
+      </p>
+      <sidebyside width="65%" margins="17.5%">
+        <image xml:id="img-voicing-guide-tones-app2" source="notation/voicing-guide-tones-app2">
+          <shortdescription>
+            Root plus guide tones oom-pah pattern: root on beat 1 (bass staff), guide tones
+            on beat 3 (treble staff), shown for Dm7, G7, and CMaj7.
+          </shortdescription>
+        </image>
+      </sidebyside>
+    </paragraphs>
+  </section>
+
+  <!-- ============================================================ -->
+  <section xml:id="sec-rootless-voicings">
+    <title>Rootless Voicings</title>
+
+    <p>
+      In the mid-to-late 1950s, pianists <em>Bill Evans</em>, <em>Red Garland</em>, and
+      <em>Wynton Kelly</em> popularised a richer approach: by <em>omitting the root</em>
+      from the left-hand chord they freed the remaining fingers to add colourful extensions —
+      9th, 11th, 13th. The resulting <term>rootless voicings</term> typically contain four
+      notes built from the 3rd upward (or 7th upward), voiced in the range C3–A4.
+    </p>
+
+    <paragraphs>
+      <title>A voicings and B voicings</title>
+      <p>
+        Following the classification introduced by jazz educator Dan Haerle in
+        <em>The Jazz Language</em>, rootless voicings fall into two categories:
+      </p>
+      <ul>
+        <li><p><term>A voicing</term> — built upward from the 3rd: interval formula 3–5–7–9.</p></li>
+        <li><p><term>B voicing</term> — built upward from the 7th: interval formula 7–9–3–5.</p></li>
+      </ul>
+      <p>
+        For Am7 (or Am9 with the 9th included), the two voicings are:
+      </p>
+      <ul>
+        <li><p>A voicing: C–E–G–B (notes C4–E4–G4–B4)</p></li>
+        <li><p>B voicing: G–B–C–E (notes G3–B3–C4–E4)</p></li>
+      </ul>
+    </paragraphs>
+
+    <sidebyside width="55%" margins="22.5%">
+      <image xml:id="img-voicing-rootless-am9" source="notation/voicing-rootless-am9">
+        <shortdescription>
+          Am9 rootless A voicing (3–5–7–9) and B voicing (7–9–3–5)
+        </shortdescription>
+      </image>
+    </sidebyside>
+
+    <paragraphs>
+      <title>Voice leading through the IIm7–V7–Imaj7</title>
+      <p>
+        In a cycle-of-fifths progression, smooth voice leading is achieved by alternating
+        A and B voicings (or B and A) from chord to chord. The following example shows
+        rootless voicings on a IIm7–V7–Imaj7 in C, using A–B–A alternation:
+      </p>
+      <ul>
+        <li><p>Dm9 <em>A</em> voicing: F–A–C–E</p></li>
+        <li><p>G13 <em>B</em> voicing: F–A–B–D</p></li>
+        <li><p>CMaj9 <em>A</em> voicing: E–G–B–D</p></li>
+      </ul>
+    </paragraphs>
+
+    <sidebyside width="70%" margins="15%">
+      <image xml:id="img-voicing-rootless-251" source="notation/voicing-rootless-251">
+        <shortdescription>
+          Rootless voicings on IIm9–V13–Imaj9 in C, alternating A and B voicings
+        </shortdescription>
+      </image>
+    </sidebyside>
+
+    <p>
+      Observe the top-voice motion: E–D–D (step down, holds) and the bottom-voice motion:
+      F–F–E (holds, step down). This contrary and oblique movement produces the effortless
+      smoothness characteristic of Evans, Garland, and Kelly.
+    </p>
+
+    <note>
+      <title>A useful shortcut</title>
+      <p>
+        The A voicing for a major 7th chord (e.g.\ CMaj9 = E–G–B–D) is enharmonically
+        identical to a minor 7th chord built on the 3rd (Em7). Similarly, the A voicing
+        for a dominant 7th chord (e.g.\ G13 = F–A–B–D... actually B voicing here) shares
+        notes with related chord structures. Learning the shapes by feel — as Mark Levine
+        advises — is ultimately more valuable than computing note names at tempo.
+      </p>
+    </note>
+  </section>
+
+  <!-- ============================================================ -->
+  <section xml:id="sec-block-chords">
+    <title>Block Chords</title>
+
+    <p>
+      <term>Block chords</term> (also called <term>locked hands</term> or
+      <term>Shearing-style voicings</term>) place the melody in the right hand and
+      harmonise each note of the melody with a full chord, creating a rich, orchestral
+      texture. Developed by pianist <em>George Shearing</em> (1919–2011) in the 1940s
+      and 50s, the technique uses five notes total.
+    </p>
+
+    <paragraphs>
+      <title>Construction</title>
+      <ol>
+        <li><p>Play the melody note in the 4th or 5th finger of the right hand.</p></li>
+        <li><p>Double the melody note one octave lower in the left hand.</p></li>
+        <li><p>Fill in the three inner harmony notes in the right hand, drawn from the chord.</p></li>
+        <li><p>Add chromatic ghost notes and scoops in the left hand for stylistic colour.</p></li>
+      </ol>
+    </paragraphs>
+
+    <p>
+      For an Am7 chord with the melody note C (at the top of the right hand), the
+      block chord voicing is built as follows: the right hand plays E–G–A–C (bottom to
+      top), and the left hand doubles the C an octave lower.
+    </p>
+
+    <sidebyside width="60%" margins="20%">
+      <image xml:id="img-voicing-block-chord-am7" source="notation/voicing-block-chord-am7">
+        <shortdescription>
+          Block chord voicing for Am7 with melody note C: RH E–G–A–C, LH C
+        </shortdescription>
+      </image>
+    </sidebyside>
+
+    <p>
+      Each melody note in the phrase receives this same harmonisation treatment. The
+      inner voices move smoothly with each change of melody note and chord. The result is
+      a thick, parallel texture where all five voices move together — the sound most
+      associated with Shearing's late-night, <q>cool</q> jazz quartet recordings.
+    </p>
+  </section>
+
+  <!-- ============================================================ -->
+  <section xml:id="sec-drop2-voicings">
+    <title>Drop 2 Voicings</title>
+
+    <p>
+      <term>Drop 2 voicings</term> refine the block chord approach into a four-note texture
+      with a more open, modern sound. The technique involves taking the Shearing-style right
+      hand voicing and dropping the second note from the top down an octave into the left hand.
+    </p>
+
+    <paragraphs>
+      <title>Construction</title>
+      <ol>
+        <li><p>Begin with the right-hand portion of the block chord (melody note + three inner harmonies).</p></li>
+        <li><p>Identify the <em>second note from the top</em> — this is the <q>drop 2</q> note.</p></li>
+        <li><p>Remove it from the right hand and place it an octave lower in the left hand.</p></li>
+        <li><p>The left hand now contains the drop-2 note and the doubled melody, creating a
+            characteristic interval of a 9th or 10th.</p></li>
+      </ol>
+    </paragraphs>
+
+    <p>
+      For Am7 with melody note C, the block chord right hand is E–G–A–C. The second note
+      from the top is A. Moving A down an octave produces:
+    </p>
+    <ul>
+      <li><p>Right hand: E–G–C (three notes, melody C on top)</p></li>
+      <li><p>Left hand: A + C (drop-2 note A3 and doubled melody C4, a 10th apart)</p></li>
+    </ul>
+
+    <sidebyside width="60%" margins="20%">
+      <image xml:id="img-voicing-drop2-am7" source="notation/voicing-drop2-am7">
+        <shortdescription>
+          Drop 2 voicing for Am7 with melody note C: RH E–G–C, LH A–C
+        </shortdescription>
+      </image>
+    </sidebyside>
+
+    <p>
+      Drop 2 voicings sit higher on the instrument and have a more transparent, <q>open</q>
+      sound compared to block chords. The left hand's 10th interval provides harmonic
+      grounding without the heaviness of a full octave doubling plus inner voices.
+      This texture is particularly associated with pianists of the post-bop era.
+    </p>
+  </section>
+
+  <!-- ============================================================ -->
+  <section xml:id="sec-quartal-voicings">
+    <title>Quartal Voicings</title>
+
+    <p>
+      <term>Quartal voicings</term> replace the conventional stacking of thirds with
+      stacking of <em>fourths</em>. Popularised by <em>McCoy Tyner</em> in the early 1960s
+      (and associated with <em>Chick Corea</em> and <em>Herbie Hancock</em>), this approach
+      creates an open, ambiguous, and distinctly modern sound.
+    </p>
+    <p>
+      A quartal voicing ideally uses consecutive perfect 4ths, though the exact intervals
+      vary slightly depending on the chord type and melody note. The ambiguity is actually
+      a feature: the same quartal voicing can function over multiple chord symbols,
+      giving the pianist (or accordion player) great harmonic flexibility.
+    </p>
+
+    <paragraphs>
+      <title>Construction for Am11</title>
+      <p>
+        With a melody note of C over Am7, a five-note all-perfect-4ths voicing is:
+        E–A–D–G–C. Each adjacent pair forms a perfect 4th. The chord produced is Am11
+        (adding the 11th, D). In performance the five notes are typically split between
+        two hands:
+      </p>
+      <ul>
+        <li><p>Left hand: E–A (one perfect 4th)</p></li>
+        <li><p>Right hand: D–G–C (two stacked perfect 4ths, melody C on top)</p></li>
+      </ul>
+    </paragraphs>
+
+    <sidebyside width="60%" margins="20%">
+      <image xml:id="img-voicing-quartal-am11" source="notation/voicing-quartal-am11">
+        <shortdescription>
+          Quartal voicing for Am11: LH E–A, RH D–G–C — all perfect 4ths
+        </shortdescription>
+      </image>
+    </sidebyside>
+
+    <p>
+      Note the harmonic ambiguity: the voicing E–A–D–G–C also fits
+      C major 6/9, F major 7, D7(sus4), and B♭ major 9(♯11) depending on context.
+      This flexibility makes quartal voicings a powerful tool for improvised accompaniment.
+    </p>
+
+    <note>
+      <title>Quartal voicings on accordion</title>
+      <p>
+        The isomorphic layout of the chromatic button accordion means that quartal
+        voicings, like all other patterns, have exactly the same fingering in every key.
+        A quartal shape learned in A minor can immediately be transposed to D minor,
+        G minor, and so on, simply by shifting the hand position.
+      </p>
+    </note>
+  </section>
+
+  <!-- ============================================================ -->
+  <section xml:id="sec-chord-voicings-summary">
+    <title>Summary: The Six Voicing Techniques</title>
+
+    <p>
+      The following table summarises the six voicing techniques introduced in this chapter,
+      shown for an Am7 chord (or Am9/Am11 where extensions apply).
+    </p>
+
+    <tabular halign="left" top="major" bottom="major" left="minor" right="minor">
+      <col right="minor" />
+      <col right="minor" />
+      <col right="minor" />
+      <col />
+      <row header="yes" bottom="medium">
+        <cell>Technique</cell>
+        <cell>Notes (Am7)</cell>
+        <cell>No. of voices</cell>
+        <cell>Associated with</cell>
+      </row>
+      <row bottom="minor">
+        <cell>Chord Shell R+7</cell>
+        <cell>A + G</cell>
+        <cell>2</cell>
+        <cell>Bud Powell, Thelonious Monk</cell>
+      </row>
+      <row bottom="minor">
+        <cell>Chord Shell R+3</cell>
+        <cell>A + C</cell>
+        <cell>2</cell>
+        <cell>Bud Powell, bebop era</cell>
+      </row>
+      <row bottom="minor">
+        <cell>Guide Tones</cell>
+        <cell>C + G (or G + C)</cell>
+        <cell>2</cell>
+        <cell>Universal</cell>
+      </row>
+      <row bottom="minor">
+        <cell>Rootless A voicing</cell>
+        <cell>C–E–G–B (3–5–7–9)</cell>
+        <cell>4</cell>
+        <cell>Bill Evans, Red Garland</cell>
+      </row>
+      <row bottom="minor">
+        <cell>Rootless B voicing</cell>
+        <cell>G–B–C–E (7–9–3–5)</cell>
+        <cell>4</cell>
+        <cell>Bill Evans, Wynton Kelly</cell>
+      </row>
+      <row bottom="minor">
+        <cell>Block chord</cell>
+        <cell>E–G–A–C (RH) + C (LH)</cell>
+        <cell>5</cell>
+        <cell>George Shearing</cell>
+      </row>
+      <row bottom="minor">
+        <cell>Drop 2</cell>
+        <cell>E–G–C (RH) + A–C (LH)</cell>
+        <cell>4</cell>
+        <cell>Post-bop era</cell>
+      </row>
+      <row bottom="major">
+        <cell>Quartal (Am11)</cell>
+        <cell>E–A (LH) + D–G–C (RH)</cell>
+        <cell>5</cell>
+        <cell>McCoy Tyner, Chick Corea</cell>
+      </row>
+    </tabular>
+
+    <p>
+      The professional jazz player uses all of these techniques, switching between them
+      according to the texture required, the setting (solo versus ensemble), and the
+      musical character of each passage. Mastery comes through internalising the shapes
+      and sounds — not through calculating note names at the moment of playing.
+    </p>
+    <p>
+      <em>Source material:</em> This chapter draws on concepts presented in
+      <q>Jazz Piano Chord Voicings — The Complete Guide</q> (Piano With Jonny, 2026),
+      with additional adaptation for the chromatic button accordion.
+    </p>
+  </section>
+
+</chapter>
