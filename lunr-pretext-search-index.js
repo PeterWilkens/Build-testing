@@ -2017,6 +2017,42 @@ var ptx_lunr_docs = [
   "body": " Summary: The Six Voicing Techniques  The following table summarises the six voicing techniques introduced in this chapter, shown for an Am7 chord (or Am9\/Am11 where extensions apply).        Technique  Notes (Am7)  No. of voices  Associated with    Chord Shell R+7  A + G  2  Bud Powell, Thelonious Monk    Chord Shell R+3  A + C  2  Bud Powell, bebop era    Guide Tones  C + G (or G + C)  2  Universal    Rootless A voicing  C–E–G–B (3–5–7–9)  4  Bill Evans, Red Garland    Rootless B voicing  G–B–C–E (7–9–3–5)  4  Bill Evans, Wynton Kelly    Block chord  E–G–A–C (RH) + C (LH)  5  George Shearing    Drop 2  E–G–C (RH) + A–C (LH)  4  Post-bop era    Quartal (Am11)  E–A (LH) + D–G–C (RH)  5  McCoy Tyner, Chick Corea    The professional jazz player uses all of these techniques, switching between them according to the texture required, the setting (solo versus ensemble), and the musical character of each passage. Mastery comes through internalising the shapes and sounds — not through calculating note names at the moment of playing.   Source material: This chapter draws on concepts presented in Jazz Piano Chord Voicings — The Complete Guide (Piano With Jonny, 2026), with additional adaptation for the chromatic button accordion.  "
 },
 {
+  "id": "sec-am9-rootless-voicings-grid",
+  "level": "1",
+  "url": "sec-am9-rootless-voicings-grid.html",
+  "type": "Section",
+  "number": "12.8",
+  "title": "Am9 Rootless Voicings — 12-Shape Grid",
+  "body": " Am9 Rootless Voicings — 12-Shape Grid  Using the 12-shape extended chord progression grid, the following shows Am9 rootless voicings across all 12 keys. Category A places chord tones 3–5–7–9 ascending from the bottom; Category B re-voices to 7–9–3–5, keeping the lower two tones (7 and 9) in place while moving the 3rd and 5th up by an octave.                                                                    "
+},
+{
+  "id": "fig-am9-rootless-r1",
+  "level": "2",
+  "url": "sec-am9-rootless-voicings-grid.html#fig-am9-rootless-r1",
+  "type": "Figure",
+  "number": "12.8.1",
+  "title": "",
+  "body": "                    "
+},
+{
+  "id": "fig-am9-rootless-r2",
+  "level": "2",
+  "url": "sec-am9-rootless-voicings-grid.html#fig-am9-rootless-r2",
+  "type": "Figure",
+  "number": "12.8.2",
+  "title": "",
+  "body": "                    "
+},
+{
+  "id": "fig-am9-rootless-r3",
+  "level": "2",
+  "url": "sec-am9-rootless-voicings-grid.html#fig-am9-rootless-r3",
+  "type": "Figure",
+  "number": "12.8.3",
+  "title": "",
+  "body": "                    "
+},
+{
   "id": "sec-barry-harris-intro",
   "level": "1",
   "url": "sec-barry-harris-intro.html",
