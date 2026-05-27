@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="sec-am9-rootless-voicings-grid" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Am9 Rootless Voicings — 12-Shape Grid</title>
+
+  <p>
+    Using the 12-shape extended chord progression grid, the following shows Am9 rootless
+    voicings across all 12 keys. Category A places chord tones 3–5–7–9 ascending from the
+    bottom; Category B re-voices to 7–9–3–5, keeping the lower two tones (7 and 9) in place
+    while moving the 3rd and 5th up by an octave.
+  </p>
+
+  <!-- ===== Row 1: Shapes 1–4 ===== -->
+  <figure xml:id="fig-am9-rootless-r1">
+    <caption></caption>
+    <sidebyside widths="22% 22% 22% 22%" margins="3%">
+
+      <!-- Shape 1: Am9 rootless Cat A — nodes 25 (C/♭3), 31 (E/5), 36 (G/♭7), 42 (B/9) -->
+      <image xml:id="img-am9-rootless-r1-g1">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries, align=center] at ({\xmax/2},{11.3*\vlen}) {Am9 rootless\\Cat A};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{2}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{1}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{2}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{1}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{2}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{1}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{1}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Shape 2: Am9 Cat B — nodes 36 (G/♭7), 42 (B/9), 45 (C/♭3 upper), 51 (E/5 upper) -->
+      <image xml:id="img-am9-rootless-r1-g2">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Am9 Cat B};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{1}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{1}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{1}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{1}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Shape 3: Ami6/9 Cat A — nodes 23(C),29(E),33(Gb),42(B) highlighted -->
+      <image xml:id="img-am9-rootless-r1-g3">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries, align=center] at ({\xmax/2},{11.3*\vlen}) {Ami6/9\\Cat A};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{1}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{1}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{1}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{1}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Shape 4: Ami6/9 Cat B — nodes 33(Gb),42(B),43(C),49(E) highlighted -->
+      <image xml:id="img-am9-rootless-r1-g4">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries, align=center] at ({\xmax/2},{11.3*\vlen}) {Ami6/9\\Cat B};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{1}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{1}%
+\gn{2}{8}{C}{1}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{1}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+    </sidebyside>
+  </figure>
+
+  <!-- ===== Row 2: Shapes 5–8 ===== -->
+  <figure xml:id="fig-am9-rootless-r2">
+    <caption></caption>
+    <sidebyside widths="22% 22% 22% 22%" margins="3%">
+
+      <!-- Shape 5: Amaj9 Cat A — as Shape 1 but node 25 (C) removed, node 26 (C#/3) highlighted -->
+      <image xml:id="img-am9-rootless-r2-g1">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries, align=center] at ({\xmax/2},{11.3*\vlen}) {Amaj9\\Cat A};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{2}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{1}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{2}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{1}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{2}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{1}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{1}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Shape 6: Amaj9 Cat B — as Shape 2 but node 45 (C) replaced with node 46 (C#/3) -->
+      <image xml:id="img-am9-rootless-r2-g2">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries, align=center] at ({\xmax/2},{11.3*\vlen}) {Amaj9\\Cat B};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{1}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{1}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{1}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{1}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Shape 7: blank placeholder -->
+      <image xml:id="img-am9-rootless-r2-g3">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Shape 7};
+\extendedgridnotes
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Shape 8: blank placeholder -->
+      <image xml:id="img-am9-rootless-r2-g4">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Shape 8};
+\extendedgridnotes
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+    </sidebyside>
+  </figure>
+
+  <!-- ===== Row 3: Shapes 9–12 ===== -->
+  <figure xml:id="fig-am9-rootless-r3">
+    <caption></caption>
+    <sidebyside widths="22% 22% 22% 22%" margins="3%">
+
+      <!-- Shape 9: blank placeholder -->
+      <image xml:id="img-am9-rootless-r3-g1">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Shape 9};
+\extendedgridnotes
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Shape 10: blank placeholder -->
+      <image xml:id="img-am9-rootless-r3-g2">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Shape 10};
+\extendedgridnotes
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Shape 11: extended reference grid with identification numbers -->
+      <image xml:id="img-am9-rootless-r3-g3">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Shape 11};
+\extendedgridreferencenodes
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+      <!-- Shape 12: A maj scale — nodes 20,22,26,27,31,35,37,40 highlighted -->
+      <image xml:id="img-am9-rootless-r3-g4">
+        <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {A maj scale};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{1}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{1}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{1}%
+\gn{3}{4.5}{D}{1}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{1}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{1}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{1}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{1}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+        </latex-image>
+      </image>
+
+    </sidebyside>
+  </figure>
+
+</section>
