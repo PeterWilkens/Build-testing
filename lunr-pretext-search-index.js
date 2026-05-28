@@ -2023,7 +2023,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "12.8",
   "title": "Am9 Rootless Voicings — 12-Shape Grid",
-  "body": " Am9 Rootless Voicings — 12-Shape Grid  Using the 12-shape extended chord progression grid, the following shows Am9 rootless voicings across all 12 keys. Category A places chord tones 3–5–7–9 ascending from the bottom; Category B re-voices to 7–9–3–5, keeping the lower two tones (7 and 9) in place while moving the 3rd and 5th up by an octave.                                                                    "
+  "body": " Am9 Rootless Voicings — 12-Shape Grid  The following chord progression demonstrates how rootless Category A and Category B minor 9th voicings cycle through the circle of 5ths with good voice leading (only two notes change in each succesive rootless chord) Category A places chord tones 3–5–7–9 ascending from the bottom; Category B re-voices to 7–9–3–5, keeping the lower two tones (7 and 9) in place while moving the 3rd and 5th up by an octave.                                                                                                                                      "
 },
 {
   "id": "fig-am9-rootless-r1",
@@ -2049,6 +2049,33 @@ var ptx_lunr_docs = [
   "url": "sec-am9-rootless-voicings-grid.html#fig-am9-rootless-r3",
   "type": "Figure",
   "number": "12.8.3",
+  "title": "",
+  "body": "                    "
+},
+{
+  "id": "fig-am9-rootless-r4",
+  "level": "2",
+  "url": "sec-am9-rootless-voicings-grid.html#fig-am9-rootless-r4",
+  "type": "Figure",
+  "number": "12.8.4",
+  "title": "",
+  "body": "                    "
+},
+{
+  "id": "fig-am9-rootless-r5",
+  "level": "2",
+  "url": "sec-am9-rootless-voicings-grid.html#fig-am9-rootless-r5",
+  "type": "Figure",
+  "number": "12.8.5",
+  "title": "",
+  "body": "                    "
+},
+{
+  "id": "fig-am9-rootless-r6",
+  "level": "2",
+  "url": "sec-am9-rootless-voicings-grid.html#fig-am9-rootless-r6",
+  "type": "Figure",
+  "number": "12.8.6",
   "title": "",
   "body": "                    "
 },
