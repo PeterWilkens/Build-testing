@@ -11,7 +11,7 @@
 
   <!-- ===== Row 1: Shapes 1–4 ===== -->
   <figure xml:id="fig-am9-rootless-r1">
-    <caption></caption>
+    <caption>Rootless ii–V–I Voicings</caption>
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <!-- Shape 1: Am9 rootless Cat A — nodes 25 (C/♭3), 31 (E/5), 36 (G/♭7), 42 (B/9) -->
@@ -288,9 +288,7 @@
   </figure>
 
   <!-- ===== Row 2: Shapes 5–8 ===== -->
-  <figure xml:id="fig-am9-rootless-r2">
-    <caption></caption>
-    <sidebyside widths="22% 22% 22% 22%" margins="3%">
+  <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <!-- Shape 5: Cm9 Cat A — nodes 28(Eb), 34(G), 39(Bb), 47(D) highlighted -->
       <image xml:id="img-am9-rootless-r2-g1">
@@ -556,13 +554,10 @@
         </latex-image>
       </image>
 
-    </sidebyside>
-  </figure>
+  </sidebyside>
 
   <!-- ===== Row 3: Shapes 9–12 ===== -->
-  <figure xml:id="fig-am9-rootless-r3">
-    <caption></caption>
-    <sidebyside widths="22% 22% 22% 22%" margins="3%">
+  <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <!-- Shape 9: blank placeholder -->
       <image xml:id="img-am9-rootless-r3-g1">
@@ -690,15 +685,12 @@
         </latex-image>
       </image>
 
-    </sidebyside>
-  </figure>
+  </sidebyside>
 
 
 <pagebreak/>
   <!-- ===== Row 4: Shapes 13–16 ===== -->
-  <figure xml:id="fig-am9-rootless-r4">
-    <caption></caption>
-    <sidebyside widths="22% 22% 22% 22%" margins="3%">
+  <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <!-- Shape 13: blank placeholder -->
       <image xml:id="img-am9-rootless-r4-g1">
@@ -780,13 +772,10 @@
         </latex-image>
       </image>
 
-    </sidebyside>
-  </figure>
+  </sidebyside>
 
   <!-- ===== Row 5: Shapes 17–20 ===== -->
-  <figure xml:id="fig-am9-rootless-r5">
-    <caption></caption>
-    <sidebyside widths="22% 22% 22% 22%" margins="3%">
+  <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <!-- Shape 17: Amaj9 Cat A — as Shape 1 but node 25 (C) removed, node 26 (C#/3) highlighted -->
       <image xml:id="img-am9-rootless-r5-g1">
@@ -1052,13 +1041,10 @@
         </latex-image>
       </image>
 
-    </sidebyside>
-  </figure>
+  </sidebyside>
 
   <!-- ===== Row 6: Shapes 21–24 ===== -->
-  <figure xml:id="fig-am9-rootless-r6">
-    <caption></caption>
-    <sidebyside widths="22% 22% 22% 22%" margins="3%">
+  <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <!-- Shape 21: blank placeholder -->
       <image xml:id="img-am9-rootless-r6-g1">
@@ -1186,6 +1172,5 @@
         </latex-image>
       </image>
 
-    </sidebyside>
-  </figure>
+  </sidebyside>
 </section>
