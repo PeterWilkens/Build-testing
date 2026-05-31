@@ -1906,7 +1906,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "12.3",
   "title": "Rootless Voicings",
-  "body": " Rootless Voicings  In the mid-to-late 1950s, pianists Bill Evans , Red Garland , and Wynton Kelly popularised a richer approach: by omitting the root from the left-hand chord they freed the remaining fingers to add colourful extensions — 9th, 11th, 13th. The resulting rootless voicings typically contain four notes built from the 3rd upward (or 7th upward), voiced in the range C3–A4.   A voicings and B voicings  Following the classification introduced by jazz educator Dan Haerle in The Jazz Language , rootless voicings fall into two categories:   A voicing — built upward from the 3rd: interval formula 3–5–7–9.  B voicing — built upward from the 7th: interval formula 7–9–3–5.   For Am7 (or Am9 with the 9th included), the two voicings are:   A voicing: C–E–G–B (notes C4–E4–G4–B4)  B voicing: G–B–C–E (notes G3–B3–C4–E4)      Am9 rootless A voicing (3–5–7–9) and B voicing (7–9–3–5)     Voice leading through the IIm7–V7–Imaj7  In a cycle-of-fifths progression, smooth voice leading is achieved by alternating A and B voicings (or B and A) from chord to chord. The following example shows rootless voicings on a IIm7–V7–Imaj7 in C, using A–B–A alternation:   Dm9 A voicing: F–A–C–E  G13 B voicing: F–A–B–D  CMaj9 A voicing: E–G–B–D      Rootless voicings on IIm9–V13–Imaj9 in C, alternating A and B voicings    Observe the top-voice motion: E–D–D (step down, holds) and the bottom-voice motion: F–F–E (holds, step down). This contrary and oblique movement produces the effortless smoothness characteristic of Evans, Garland, and Kelly.   A useful shortcut  The A voicing for a major 7th chord (e.g.\\ CMaj9 = E–G–B–D) is enharmonically identical to a minor 7th chord built on the 3rd (Em7). Similarly, the A voicing for a dominant 7th chord (e.g.\\ G13 = F–A–B–D... actually B voicing here) shares notes with related chord structures. Learning the shapes by feel — as Mark Levine advises — is ultimately more valuable than computing note names at tempo.   "
+  "body": " Rootless Voicings  In the mid-to-late 1950s, pianists Bill Evans , Red Garland , and Wynton Kelly popularised a richer approach: by omitting the root from the left-hand chord they freed the remaining fingers to add colourful extensions — 9th, 11th, 13th. The resulting rootless voicings typically contain four notes built from the 3rd upward (or 7th upward), voiced in the range C3–A4.   A voicings and B voicings  Following the classification introduced by jazz educator Dan Haerle in The Jazz Language , rootless voicings fall into two categories:   A voicing — built upward from the 3rd: interval formula 3–5–7–9.  B voicing — built upward from the 7th: interval formula 7–9–3–5.   For Am7 (or Am9 with the 9th included), the two voicings are:   A voicing: C–E–G–B (notes C4–E4–G4–B4)  B voicing: G–B–C–E (notes G3–B3–C4–E4)      Am9 rootless A voicing (3–5–7–9) and B voicing (7–9–3–5)     Voice leading through the IIm7–V7–Imaj7  In a cycle-of-fifths progression, smooth voice leading is achieved by alternating A and B voicings (or B and A) from chord to chord. The following example shows rootless voicings on a IIm7–V7–Imaj7 in C, using A–B–A alternation:   Dm9 A voicing: F–A–C–E  G13 B voicing: F–A–B–D  CMaj9 A voicing: E–G–B–D      Rootless voicings on IIm9–V13–Imaj9 in C, alternating A and B voicings    Observe the top-voice motion: E–D–D (step down, holds) and the bottom-voice motion: F–F–E (holds, step down). This contrary and oblique movement produces the effortless smoothness characteristic of Evans, Garland, and Kelly.   A useful shortcut  The A voicing for a major 7th chord (e.g.\\ CMaj9 = E–G–B–D) is enharmonically identical to a minor 7th chord built on the 3rd (Em7). Similarly, the A voicing for a dominant 7th chord (e.g.\\ G13 = F–A–B–D... actually B voicing here) shares notes with related chord structures. Learning the shapes by feel — as Mark Levine advises — is ultimately more valuable than computing note names at tempo.    Rootless II–V–I voicings in all twelve keys. Each pair of bars shows the A voicing (IIm9) and B voicing (V13) resolving to the I Maj6\/9 chord. Chord symbols appear above; roots in the bass staff below. Keys cycle through the full circle of fifths.   Rootless A and B voicings for the IIm9–V13–IMaj6\/9 progression cycled through all twelve major keys in circle-of-fifths order.                                                                   "
 },
 {
   "id": "sec-rootless-voicings-2",
@@ -1943,6 +1943,15 @@ var ptx_lunr_docs = [
   "number": "12.3.1",
   "title": "A useful shortcut.",
   "body": " A useful shortcut  The A voicing for a major 7th chord (e.g.\\ CMaj9 = E–G–B–D) is enharmonically identical to a minor 7th chord built on the 3rd (Em7). Similarly, the A voicing for a dominant 7th chord (e.g.\\ G13 = F–A–B–D... actually B voicing here) shares notes with related chord structures. Learning the shapes by feel — as Mark Levine advises — is ultimately more valuable than computing note names at tempo.  "
+},
+{
+  "id": "fig-rootless-251-all-keys",
+  "level": "2",
+  "url": "sec-rootless-voicings.html#fig-rootless-251-all-keys",
+  "type": "Figure",
+  "number": "12.3.2",
+  "title": "",
+  "body": " Rootless II–V–I voicings in all twelve keys. Each pair of bars shows the A voicing (IIm9) and B voicing (V13) resolving to the I Maj6\/9 chord. Chord symbols appear above; roots in the bass staff below. Keys cycle through the full circle of fifths.   Rootless A and B voicings for the IIm9–V13–IMaj6\/9 progression cycled through all twelve major keys in circle-of-fifths order.   "
 },
 {
   "id": "sec-block-chords",
@@ -2023,7 +2032,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "12.8",
   "title": "Am9 Rootless Voicings — 12-Shape Grid",
-  "body": " Am9 Rootless Voicings — 12-Shape Grid  The following chord progression demonstrates how rootless Category A and Category B minor 9th voicings cycle through the circle of 5ths with good voice leading (only two notes change in each succesive rootless chord) Category A places chord tones 3–5–7–9 ascending from the bottom; Category B re-voices to 7–9–3–5, keeping the lower two tones (7 and 9) in place while moving the 3rd and 5th up by an octave.                                                                                                                                      "
+  "body": " Am9 Rootless Voicings — 12-Shape Grid  The following chord progression demonstrates how rootless Category A and Category B minor 9th voicings cycle through the circle of 5ths with good voice leading (only two notes change in each succesive rootless chord) Category A places chord tones 3–5–7–9 ascending from the bottom; Category B re-voices to 7–9–3–5, keeping the lower two tones (7 and 9) in place while moving the 3rd and 5th up by an octave.    Rootless ii–V–I Voicings                                                                                                                    "
 },
 {
   "id": "fig-am9-rootless-r1",
@@ -2032,52 +2041,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "12.8.1",
   "title": "",
-  "body": "                    "
-},
-{
-  "id": "fig-am9-rootless-r2",
-  "level": "2",
-  "url": "sec-am9-rootless-voicings-grid.html#fig-am9-rootless-r2",
-  "type": "Figure",
-  "number": "12.8.2",
-  "title": "",
-  "body": "                    "
-},
-{
-  "id": "fig-am9-rootless-r3",
-  "level": "2",
-  "url": "sec-am9-rootless-voicings-grid.html#fig-am9-rootless-r3",
-  "type": "Figure",
-  "number": "12.8.3",
-  "title": "",
-  "body": "                    "
-},
-{
-  "id": "fig-am9-rootless-r4",
-  "level": "2",
-  "url": "sec-am9-rootless-voicings-grid.html#fig-am9-rootless-r4",
-  "type": "Figure",
-  "number": "12.8.4",
-  "title": "",
-  "body": "                    "
-},
-{
-  "id": "fig-am9-rootless-r5",
-  "level": "2",
-  "url": "sec-am9-rootless-voicings-grid.html#fig-am9-rootless-r5",
-  "type": "Figure",
-  "number": "12.8.5",
-  "title": "",
-  "body": "                    "
-},
-{
-  "id": "fig-am9-rootless-r6",
-  "level": "2",
-  "url": "sec-am9-rootless-voicings-grid.html#fig-am9-rootless-r6",
-  "type": "Figure",
-  "number": "12.8.6",
-  "title": "",
-  "body": "                    "
+  "body": " Rootless ii–V–I Voicings                    "
 },
 {
   "id": "sec-barry-harris-intro",
