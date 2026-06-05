@@ -1,8 +1,8 @@
 \version "2.24.0"
-#(set-global-staff-size 20)
+#(set-global-staff-size 32)
 \paper {
   indent = 0
-  paper-width = 10\cm
+  paper-width = 16\cm
   top-margin = 0.5\cm
   bottom-margin = 0.5\cm
   left-margin = 0.8\cm
@@ -16,8 +16,10 @@
     \clef treble
     \key a \minor
     \omit Staff.TimeSignature
-    <c' e' g' b'>2^\markup { "'A' voicing (3–5–7–9)" }
-    <g b c' e'>2^\markup { "'B' voicing (7–9–3–5)" }
+    \cadenzaOn
+    <c' e' g' b'>1^\markup { "'A' voicing (3–5–7–9)" }
+    \bar "|"
+    <g b c' e'>1^\markup { "'B' voicing (7–9–3–5)" }
     \bar "||"
   }
   \layout { }

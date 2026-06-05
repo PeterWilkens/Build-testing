@@ -19,12 +19,17 @@
       \omit Staff.TimeSignature
       \cadenzaOn
       c'1^\markup { \center-column { \bold \small "Dm7" \tiny "R+7" } }
+      \bar "|"
       b'1^\markup { \center-column { \bold \small "G7" \tiny "R+10" } }
+      \bar "|"
       b1^\markup { \center-column { \bold \small "CMaj7" \tiny "R+7" } }
+      \bar "|"
       a'1^\markup { \center-column { \bold \small "Fmaj7" \tiny "R+10" } }
       \bar "|"
       a1^\markup { \center-column { \bold \small "Bm7b5" \tiny "R+7" } }
+      \bar "|"
       gis'1^\markup { \center-column { \bold \small "E7" \tiny "R+10" } }
+      \bar "|"
       g1^\markup { \center-column { \bold \small "Am7" \tiny "R+7" } }
       \bar "||"
     }
@@ -34,12 +39,17 @@
       \omit Staff.TimeSignature
       \cadenzaOn
       d1
+      \bar "|"
       g1
+      \bar "|"
       c1
+      \bar "|"
       f1
       \bar "|"
       b,1
+      \bar "|"
       e1
+      \bar "|"
       a,1
       \bar "||"
     }

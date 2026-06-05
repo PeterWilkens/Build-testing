@@ -1,8 +1,8 @@
 \version "2.24.0"
-#(set-global-staff-size 20)
+#(set-global-staff-size 32)
 \paper {
   indent = 0
-  paper-width = 18\cm
+  paper-width = 30\cm
   top-margin = 0.8\cm
   bottom-margin = 0.5\cm
   left-margin = 0.8\cm

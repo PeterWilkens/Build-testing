@@ -191,7 +191,7 @@
         beat 2. This produces the characteristic <em>oom-pah</em> left-hand texture common
         in solo jazz piano and equally effective on the free-bass accordion.
       </p>
-      <sidebyside width="65%" margins="17.5%">
+      <sidebyside width="90%" margins="5%">
         <image xml:id="img-voicing-guide-tones-app2" source="notation/voicing-guide-tones-app2">
           <shortdescription>
             Root plus guide tones oom-pah pattern: root on beat 1 (bass staff), guide tones
@@ -233,7 +233,7 @@
       </ul>
     </paragraphs>
 
-    <sidebyside width="55%" margins="22.5%">
+    <sidebyside width="70%" margins="15%">
       <image xml:id="img-voicing-rootless-am9" source="notation/voicing-rootless-am9">
         <shortdescription>
           Am9 rootless A voicing (3–5–7–9) and B voicing (7–9–3–5)
@@ -255,7 +255,7 @@
       </ul>
     </paragraphs>
 
-    <sidebyside width="70%" margins="15%">
+    <sidebyside width="90%" margins="5%">
       <image xml:id="img-voicing-rootless-251" source="notation/voicing-rootless-251">
         <shortdescription>
           Rootless voicings on IIm9–V13–Imaj9 in C, alternating A and B voicings
@@ -1588,7 +1588,7 @@
       top), and the left hand doubles the C an octave lower.
     </p>
 
-    <sidebyside width="60%" margins="20%">
+    <sidebyside width="80%" margins="10%">
       <image xml:id="img-voicing-block-chord-am7" source="notation/voicing-block-chord-am7">
         <shortdescription>
           Block chord voicing for Am7 with melody note C: RH E–G–A–C, LH C
@@ -1634,7 +1634,7 @@
       <li><p>Left hand: A + C (drop-2 note A3 and doubled melody C4, a 10th apart)</p></li>
     </ul>
 
-    <sidebyside width="60%" margins="20%">
+    <sidebyside width="80%" margins="10%">
       <image xml:id="img-voicing-drop2-am7" source="notation/voicing-drop2-am7">
         <shortdescription>
           Drop 2 voicing for Am7 with melody note C: RH E–G–C, LH A–C

@@ -18,12 +18,17 @@
     \omit Staff.TimeSignature
     \cadenzaOn
     <d c'>1^\markup { \center-column { \bold \small "Dm7" \tiny "R+7" } }
+    \bar "|"
     <g b>1^\markup { \center-column { \bold \small "G7" \tiny "R+3" } }
+    \bar "|"
     <c b>1^\markup { \center-column { \bold \small "CMaj7" \tiny "R+7" } }
+    \bar "|"
     <f a>1^\markup { \center-column { \bold \small "Fmaj7" \tiny "R+3" } }
     \bar "|"
     <b, a>1^\markup { \center-column { \bold \small "Bm7b5" \tiny "R+7" } }
+    \bar "|"
     <e gis>1^\markup { \center-column { \bold \small "E7" \tiny "R+3" } }
+    \bar "|"
     <a, g>1^\markup { \center-column { \bold \small "Am7" \tiny "R+7" } }
     \bar "||"
   }
