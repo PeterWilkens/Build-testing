@@ -2044,6 +2044,51 @@ var ptx_lunr_docs = [
   "body": " Rootless ii–V–I Voicings                    "
 },
 {
+  "id": "sec-upper-structure-voicings",
+  "level": "1",
+  "url": "sec-upper-structure-voicings.html",
+  "type": "Section",
+  "number": "12.9",
+  "title": "Upper Structure Voicings",
+  "body": " Upper Structure Voicings   An upper structure voicing (US voicing) divides the chord between two hands: the left hand plays a two-note shell (typically the 3rd and 7th, or root and 7th), while the right hand plays a complete triad whose notes are all extensions or alterations of the underlying chord. The right-hand triad — the upper structure — floats above the shell, adding colour without cluttering the bass register.  Upper structure voicings are most commonly applied to dominant 7th chords, where the availability of altered extensions (♭9, ♯9, ♭13, ♯11) gives a wide choice of upper structure triads. They were systematised by jazz pianist and educator Mark Levine in his book The Jazz Piano Book and are labelled US I through US VII according to the diatonic degree on which the right-hand triad is built.     Construction Principles  Two rules govern the choice of upper structure triad over a dominant 7th chord:    The left-hand shell must contain the 3rd and 7th (guide tones) of the chord. All other notes of the voicing come from the right-hand triad.    No note of the right-hand triad may duplicate the root, 3rd, or 7th of the underlying chord at the same octave — this keeps the upper structure clearly separate from the shell and avoids muddiness.    The most frequently used upper structures over a G7 chord are built on the following triads:         Label  RH triad  Triad type  Extensions added  Resulting chord name    US II  A major  major  9, ♯11, 13  G13(♯11)    US ♭II  A♭ major  major  ♭9, ♯11, ♭13  G7(♭9, ♯11, ♭13)    US ♭III  B♭ major  major  ♭9, ♯9, ♭13  G7alt    US III  B minor  minor  ♯9, 5, 13  G9(♯9, 13)    US ♭VI  E♭ major  major  ♭9, ♭13, ♭7 (enharmonic)  G7(♭9, ♭13)    US VI  E minor  minor  13, 9, ♯11  G13(♯11)       Application: US II and US ♭II over G7  The two most widely used upper structures over a dominant 7th are US II (a major triad built on the 9th) and US ♭II (a major triad built on the ♭9th). Both are illustrated below over G7, with the left-hand shell holding B (3rd) and F (7th).   US II — A major triad over G7 shell  Left hand: B–F (3rd and 7th of G7, a tritone apart). Right hand: A–C♯–E (A major triad in root position or first inversion). The resulting voicing spells G13(♯11): the C♯ is the ♯11 (enharmonic ♭5), and E is the 13th. This is one of the brightest, most colourful sounds in jazz harmony and is strongly associated with the Lydian dominant sound.    Upper structure II voicing over G7: LH B–F (3rd and 7th shell), RH A–C sharp–E (A major triad). Resulting chord: G13(sharp 11).      US ♭II — A♭ major triad over G7 shell  Left hand: B–F (same shell). Right hand: A♭–C–E♭ (A♭ major triad). The resulting voicing is G7(♭9, ♭13): A♭ is the ♭9, C is the 3rd (doubled from the left hand — acceptable at the octave above), and E♭ is the ♭13. This is a darker, more dissonant sound often used in blues-influenced or tension-building contexts before resolution to C major.    Upper structure flat-II voicing over G7: LH B–F (3rd and 7th shell), RH A flat–C–E flat (A flat major triad). Resulting chord: G7(flat 9, flat 13).        Upper Structures in a IIm7–V7–Imaj7 Progression  In a standard II–V–I progression, upper structure voicings are applied almost exclusively to the V7 chord. The IIm7 chord is typically voiced as a rootless A or B voicing, and the Imaj7 resolution uses a rootless major voicing. The upper structure over V7 creates maximum tension before the resolution.  The following example shows a Dm7–G7–Cmaj7 progression in C major. The G7 is voiced with US II (A major triad, producing G13(♯11)), and both the Dm7 and Cmaj7 use rootless voicings for contrast:   Dm9 (rootless A) : F–A–C–E (3–5–7–9)  G13(♯11) US II : LH B–F, RH A–C♯–E  Cmaj9 (rootless) : E–G–B–D (3–5–7–9)     IIm7–V7–Imaj7 in C major with upper structure voicing: Dm9 rootless A voicing (F–A–C–E), G13(sharp 11) US II (LH B–F, RH A–C sharp–E), Cmaj9 rootless (E–G–B–D).    Notice how the right-hand A major triad (A–C♯–E) resolves smoothly into the rootless Cmaj9 voicing (E–G–B–D): the E is held, A moves up a half-step to B, and C♯ moves up a half-step to D. This stepwise upper-voice motion mirrors the same voice-leading economy found in rootless voicings.     Upper Structure Voicings on the Accordion  On the free-bass chromatic button accordion the upper structure voicing maps naturally onto the two hands:     Left hand : play the 3rd and 7th shell (guide tones) — two notes, typically a tritone apart. On the free-bass system these sit comfortably on adjacent rows.     Right hand : play the upper structure triad in root position or first inversion. The isomorphic layout means the triad shape is identical in every key — only the starting position changes.    Players using a Stradella bass can approximate upper structure voicings by selecting the correct chord button for the left hand and voicing the right-hand triad as if playing the melody. The full colour of the extensions will not be present, but the right-hand triad will still produce the characteristic brightness of the upper structure sound.   Transposing upper structures  Because the chromatic button accordion uses an isomorphic layout, every upper structure shape learned over G7 is immediately available over any other dominant 7th chord. To apply US II over D7, simply shift the entire voicing pattern up a perfect 5th: left hand F♯–C (3rd and 7th of D7), right hand E–G♯–B (E major triad, the 9th of D7).    "
+},
+{
+  "id": "sec-upper-structure-voicings-2-1",
+  "level": "2",
+  "url": "sec-upper-structure-voicings.html#sec-upper-structure-voicings-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "upper structure voicing upper structure "
+},
+{
+  "id": "sec-upper-structure-voicings-2-2",
+  "level": "2",
+  "url": "sec-upper-structure-voicings.html#sec-upper-structure-voicings-2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Mark Levine US I US VII "
+},
+{
+  "id": "subsec-us-application-g7-2",
+  "level": "2",
+  "url": "sec-upper-structure-voicings.html#subsec-us-application-g7-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "US II US ♭II "
+},
+{
+  "id": "subsec-us-accordion-5",
+  "level": "2",
+  "url": "sec-upper-structure-voicings.html#subsec-us-accordion-5",
+  "type": "Note",
+  "number": "12.9.1",
+  "title": "Transposing upper structures.",
+  "body": " Transposing upper structures  Because the chromatic button accordion uses an isomorphic layout, every upper structure shape learned over G7 is immediately available over any other dominant 7th chord. To apply US II over D7, simply shift the entire voicing pattern up a perfect 5th: left hand F♯–C (3rd and 7th of D7), right hand E–G♯–B (E major triad, the 9th of D7).  "
+},
+{
   "id": "sec-barry-harris-intro",
   "level": "1",
   "url": "sec-barry-harris-intro.html",
