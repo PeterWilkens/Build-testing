@@ -1,8 +1,8 @@
 \version "2.24.0"
-#(set-global-staff-size 20)
+#(set-global-staff-size 32)
 \paper {
   indent = 0
-  paper-width = 14\cm
+  paper-width = 22\cm
   top-margin = 0.5\cm
   bottom-margin = 0.5\cm
   left-margin = 0.8\cm
@@ -16,9 +16,12 @@
     \clef bass
     \key c \major
     \omit Staff.TimeSignature
-    <f a c' e'>4^\markup { "Dm9 (A)" }
-    <f a b d'>4^\markup { "G13 (B)" }
-    <e g b d'>4^\markup { "CMaj9 (A)" }
+    \cadenzaOn
+    <f a c' e'>1^\markup { "Dm9 (A)" }
+    \bar "|"
+    <f a b d'>1^\markup { "G13 (B)" }
+    \bar "|"
+    <e g b d'>1^\markup { "CMaj9 (A)" }
     \bar "||"
   }
   \layout { }

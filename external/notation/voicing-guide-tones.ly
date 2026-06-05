@@ -16,9 +16,11 @@
     \clef treble
     \key a \minor
     \omit Staff.TimeSignature
+    \cadenzaOn
     \relative c' {
-      <c g'>2^\markup { "Guide tones" }
-      <g c'>2^\markup { "Inverted" }
+      <c g'>1^\markup { "Guide tones" }
+      \bar "|"
+      <g c'>1^\markup { "Inverted" }
       \bar "||"
     }
   }
