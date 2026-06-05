@@ -198,6 +198,125 @@
   </subsection>
 
   <!-- ============================================================ -->
+  <subsection xml:id="subsec-us-c7-examples">
+    <title>Upper Structures over C7: All Voicings</title>
+
+    <paragraphs>
+      <title>All upper structures for C7</title>
+      <p>
+        The following shows all upper structures playable over a C7 chord. The left hand
+        holds E–B<m>\flat</m> throughout (the guide tones: 3rd and 7th of C7). The right
+        hand plays each triad in root position. Count the target degree carefully from the
+        chord root, then build the indicated triad quality from that note.
+      </p>
+
+      <sidebyside width="100%" margins="0%">
+        <image xml:id="img-jt12-us-all-c7" source="notation/jt12-us-all-c7">
+          <shortdescription>
+            Seven upper-structure triads over C7 (LH: E–B♭ guide tones).
+            From left: D major → C7(♯11); E♭ major → C7(♯9); E♭ minor → C7(♯9,♯11);
+            F♯ minor → C7(♭9,♯11); F♯ major → C7(♭9,♯11+); A♭ major → C7(♭13);
+            A major → C7(♭9).
+          </shortdescription>
+        </image>
+      </sidebyside>
+
+      <p>
+        The table below summarises each structure:
+      </p>
+      <tabular halign="left" top="minor" bottom="minor" left="minor" right="minor">
+        <col width="18%"/><col width="18%"/><col width="30%"/><col width="34%"/>
+        <row header="yes" bottom="medium">
+          <cell>RH triad</cell><cell>Chord label</cell>
+          <cell>Extensions added</cell><cell>Scale degree of triad root</cell>
+        </row>
+        <row><cell>D major</cell><cell>C7(<m>\sharp 11</m>)</cell><cell>9, <m>\sharp 11</m>, 13</cell><cell>2nd (major 2nd above root)</cell></row>
+        <row><cell>E<m>\flat</m> major</cell><cell>C7(<m>\sharp 9</m>)</cell><cell><m>\sharp 9</m>, 5, <m>\flat 7</m></cell><cell>minor 3rd above root</cell></row>
+        <row><cell>E<m>\flat</m> minor</cell><cell>C7(<m>\sharp 9</m>,<m>\sharp 11</m>)</cell><cell><m>\sharp 9</m>, <m>\sharp 11</m>, <m>\flat 7</m></cell><cell>minor 3rd above root</cell></row>
+        <row><cell>F<m>\sharp</m> minor</cell><cell>C7(<m>\flat 9</m>,<m>\sharp 11</m>)</cell><cell><m>\flat 9</m>, <m>\sharp 11</m>, 13</cell><cell>augmented 4th above root</cell></row>
+        <row><cell>F<m>\sharp</m> major</cell><cell>C7(<m>\flat 9</m>,<m>\sharp 11</m>)</cell><cell><m>\flat 9</m>, <m>\sharp 11</m>, <m>\flat 7</m></cell><cell>augmented 4th above root</cell></row>
+        <row><cell>A<m>\flat</m> major</cell><cell>C7(<m>\flat 13</m>)</cell><cell><m>\flat 13</m>, 1, <m>\sharp 9</m></cell><cell>major 6th above root</cell></row>
+        <row><cell>A major</cell><cell>C7(<m>\flat 9</m>)</cell><cell>13, <m>\flat 9</m>, 3</cell><cell>major 6th above root (raised)</cell></row>
+      </tabular>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Three recommended structures (Julian Bradley)</title>
+      <p>
+        Bradley recommends three upper structures as the most useful starting point:
+      </p>
+      <ul>
+        <li><p><em>D major</em> (most used) — adds the bright <m>\sharp 11</m> sound.</p></li>
+        <li><p><em>A<m>\flat</m> major</em> — dark, with the <m>\flat 13</m> colour.</p></li>
+        <li><p><em>A major</em> (most used) — adds the tense <m>\flat 9</m> against the 13th.</p></li>
+      </ul>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Voicing the triad: inversions, cut-offs, and octave doublings</title>
+      <p>
+        The right-hand triad may be voiced in several ways to match the melody or desired
+        register.  The three main techniques are:
+      </p>
+      <ul>
+        <li><p><em>Inversions</em> — rotate the triad: root position (1–3–5), 1st inversion
+          (3–5–1), or 2nd inversion (5–1–3).</p></li>
+        <li><p><em>Cut off</em> — drop one note (usually the 5th) to leave a characteristic
+          two-note dyad that is easier to voice against the melody.</p></li>
+        <li><p><em>+Octave</em> — double the root of the triad an octave higher, creating a
+          four-note spread voicing.</p></li>
+      </ul>
+      <p>
+        An additional left-hand option: instead of the standard 3rd + 7th guide tones, play
+        the full 1–7–3 stretch (root–b7–3rd spanning a 10th) for a richer bass sound when
+        no bass player is present.
+      </p>
+
+      <p><em>D major variations:</em></p>
+      <sidebyside width="85%" margins="7.5%">
+        <image xml:id="img-jt12-us-var-dmaj-c7" source="notation/jt12-us-var-dmaj-c7">
+          <shortdescription>
+            C7(♯11) with D major upper structure: root position (D–F♯–A), 1st inversion
+            (F♯–A–D), 2nd inversion (A–D–F♯), and 1–7–3 LH stretch (C2–B♭2–E3).
+          </shortdescription>
+        </image>
+      </sidebyside>
+
+      <p><em>A<m>\flat</m> major variations:</em></p>
+      <sidebyside width="85%" margins="7.5%">
+        <image xml:id="img-jt12-us-var-abmaj-c7" source="notation/jt12-us-var-abmaj-c7">
+          <shortdescription>
+            C7(♭13) with A♭ major upper structure: root position (A♭–C–E♭), 1st inversion
+            (C–E♭–A♭), cut-off dyad (A♭–C), and +octave doubling (A♭–C–E♭–A♭).
+          </shortdescription>
+        </image>
+      </sidebyside>
+
+      <p><em>A major variations:</em></p>
+      <sidebyside width="85%" margins="7.5%">
+        <image xml:id="img-jt12-us-var-amaj-c7" source="notation/jt12-us-var-amaj-c7">
+          <shortdescription>
+            C7(♭9) with A major upper structure: root position (A–C♯–E), 1st inversion
+            (C♯–E–A), cut-off dyad (A–C♯), and +octave doubling (A–C♯–E–A).
+          </shortdescription>
+        </image>
+      </sidebyside>
+    </paragraphs>
+
+    <note>
+      <title>When to use an upper structure</title>
+      <p>
+        Upper structures work best when the V7 chord is held for two to four beats (ideally
+        four or more).  Their dense harmony needs time for the ear to absorb.</p> <p> Aim to match
+        the <em>top note</em> of your chosen inversion to the melody note — invert the triad,
+        cut it, or add an octave doubling until the highest sounding pitch lines up with the
+        melody.
+      </p>
+    </note>
+
+  </subsection>
+
+  <!-- ============================================================ -->
   <subsection xml:id="subsec-us-accordion">
     <title>Upper Structure Voicings on the Accordion</title>
 
