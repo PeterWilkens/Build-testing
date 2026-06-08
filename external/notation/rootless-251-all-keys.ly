@@ -77,17 +77,20 @@ PartPOneVoiceOne = \relative ces' {
 
 PartPOneVoiceOneChords = \chordmode {
   | % 1
-  d2:m9 g2:13 c2:6.9 c2:m9 f2:13 bes2:6.9
-  bes2:m9 s1 es2:13 | % 6
-  as2:6.9 as2:m9 s2 des2:13 | % 8
+  d2:m9 g2:13 c1:6.9
+  c2:m9 f2:13 bes1:6.9
+  bes2:m9 es2:13 | % 6
+  as1:6.9 as2:m9 des2:13 | % 8
   ges1:6.9 \bar "||"
   fis2:m9 b2:13 | % 10
   e1:6.9 \bar "||"
   e2:m9 a2:13 | % 12
   d1:6.9 \bar "||"
   cis2:m9 fis2:13 | % 14
-  b2:6.9 b2:m9 s2 e2:13 | % 16
-  a2:6.9 a2:m9 s2 d2:13 | % 18
+  b1:6.9
+  b2:m9 e2:13 | % 16
+  a1:6.9
+  a2:m9 d2:13 | % 18
   g1:6.9 \bar "||"
   g2:m9 c2:13 | % 20
   f1:6.9 \bar "||"

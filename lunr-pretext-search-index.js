@@ -1906,7 +1906,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "12.3",
   "title": "Rootless Voicings",
-  "body": " Rootless Voicings  In the mid-to-late 1950s, pianists Bill Evans , Red Garland , and Wynton Kelly popularised a richer approach: by omitting the root from the left-hand chord they freed the remaining fingers to add colourful extensions — 9th, 11th, 13th. The resulting rootless voicings typically contain four notes built from the 3rd upward (or 7th upward), voiced in the range C3–A4.   A voicings and B voicings  Following the classification introduced by jazz educator Dan Haerle in The Jazz Language , rootless voicings fall into two categories:   A voicing — built upward from the 3rd: interval formula 3–5–7–9.  B voicing — built upward from the 7th: interval formula 7–9–3–5.   For Am7 (or Am9 with the 9th included), the two voicings are:   A voicing: C–E–G–B (notes C4–E4–G4–B4)  B voicing: G–B–C–E (notes G3–B3–C4–E4)      Am9 rootless A voicing (3–5–7–9) and B voicing (7–9–3–5)     Voice leading through the IIm7–V7–Imaj7  In a cycle-of-fifths progression, smooth voice leading is achieved by alternating A and B voicings (or B and A) from chord to chord. The following example shows rootless voicings on a IIm7–V7–Imaj7 in C, using A–B–A alternation:   Dm9 A voicing: F–A–C–E  G13 B voicing: F–A–B–D  CMaj9 A voicing: E–G–B–D      Rootless voicings on IIm9–V13–Imaj9 in C, alternating A and B voicings    Observe the top-voice motion: E–D–D (step down, holds) and the bottom-voice motion: F–F–E (holds, step down). This contrary and oblique movement produces the effortless smoothness characteristic of Evans, Garland, and Kelly.   A useful shortcut  The A voicing for a major 7th chord (e.g.\\ CMaj9 = E–G–B–D) is enharmonically identical to a minor 7th chord built on the 3rd (Em7). Similarly, the A voicing for a dominant 7th chord (e.g.\\ G13 = F–A–B–D... actually B voicing here) shares notes with related chord structures. Learning the shapes by feel — as Mark Levine advises — is ultimately more valuable than computing note names at tempo.    Rootless II–V–I voicings in all twelve keys. Each pair of bars shows the A voicing (IIm9) and B voicing (V13) resolving to the I Maj6\/9 chord. Chord symbols appear above; roots in the bass staff below. Keys cycle through the full circle of fifths.   Rootless A and B voicings for the IIm9–V13–IMaj6\/9 progression cycled through all twelve major keys in circle-of-fifths order.                                                                   "
+  "body": " Rootless Voicings   Rootless voicings typically contain four notes built from the 3rd upward (or 7th upward), voiced in the range C3–A4.   A voicings and B voicings  Following the classification introduced by jazz educator Dan Haerle in The Jazz Language , rootless voicings fall into two categories:   A voicing — built upward from the 3rd: interval formula 3–5–7–9.  B voicing — built upward from the 7th: interval formula 7–9–3–5.   For Am7 (or Am9 with the 9th included, the Root note A being played by the bass player), the two voicings are:   A voicing: C–E–G–B (notes C4–E4–G4–B4)  B voicing: G–B–C–E (notes G3–B3–C4–E4)      Am9 rootless A voicing (3–5–7–9) and B voicing (7–9–3–5)     Voice leading through the IIm7–V7–Imaj7  In a cycle-of-fifths progression, smooth voice leading is achieved by alternating A and B voicings (or B and A) from chord to chord. The following example shows rootless voicings on a IIm7–V7–Imaj7 progression in C, using chord Category A–B–A alternation:   Dm9 A voicing: F–A–C–E  G13 B voicing: F–A–B–D  CMaj9 A voicing: E–G–B–D      Rootless voicings on IIm9–V13–Imaj9 in C, alternating A and B voicings      A Category A rootless C major 9th chord (as in the example above) is built from the 3rds E–G–B and D which makes it enharmonically identical to a minor 7th chord built on the 3rd of C major, that is Em7. Similarly, the A voicing for a minor 9th chord e.g.) Dm9 = F–A–C–E which are also the notes of Fmaj7. This means that the same four-note voicing can be interpreted as either Dm9 or Fmaj7. In practice, the context of the progression and the bass note will make it clear that these voicings are functioning as Dm9 rather than Fmaj7. It is important to be aware of these enharmonic relationships when analyzing chord voicings, as they can lead to multiple interpretations.  Useful as it is to understand the relationships between voicings and chord structures, learning the shapes by feel and muscle memory, can be more valuable than computing note names.    Rootless II–V–I voicings in all twelve keys. Each pair of bars shows the A voicing (IIm9) and B voicing (V13) resolving to the A voiced I Maj6\/9 chord. Chord symbols appear above; roots in the bass staff below.   Rootless A and B voicings for the IIm9–V13–IMaj6\/9 progression cycled through all twelve major keys.     Rootless iim9–V13–IMaj6\/9, alternating A and B voicings. All keys. The above notation realised as chord shapes on the accordion treble keyboard.                                                                "
 },
 {
   "id": "sec-rootless-voicings-2",
@@ -1915,7 +1915,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "rootless voicings "
+  "body": "Rootless voicings "
 },
 {
   "id": "sec-rootless-voicings-3-3-1-1",
@@ -1936,22 +1936,13 @@ var ptx_lunr_docs = [
   "body": "B voicing "
 },
 {
-  "id": "sec-rootless-voicings-8",
-  "level": "2",
-  "url": "sec-rootless-voicings.html#sec-rootless-voicings-8",
-  "type": "Note",
-  "number": "12.3.1",
-  "title": "A useful shortcut.",
-  "body": " A useful shortcut  The A voicing for a major 7th chord (e.g.\\ CMaj9 = E–G–B–D) is enharmonically identical to a minor 7th chord built on the 3rd (Em7). Similarly, the A voicing for a dominant 7th chord (e.g.\\ G13 = F–A–B–D... actually B voicing here) shares notes with related chord structures. Learning the shapes by feel — as Mark Levine advises — is ultimately more valuable than computing note names at tempo.  "
-},
-{
   "id": "fig-rootless-251-all-keys",
   "level": "2",
   "url": "sec-rootless-voicings.html#fig-rootless-251-all-keys",
   "type": "Figure",
-  "number": "12.3.2",
+  "number": "12.3.1",
   "title": "",
-  "body": " Rootless II–V–I voicings in all twelve keys. Each pair of bars shows the A voicing (IIm9) and B voicing (V13) resolving to the I Maj6\/9 chord. Chord symbols appear above; roots in the bass staff below. Keys cycle through the full circle of fifths.   Rootless A and B voicings for the IIm9–V13–IMaj6\/9 progression cycled through all twelve major keys in circle-of-fifths order.   "
+  "body": " Rootless II–V–I voicings in all twelve keys. Each pair of bars shows the A voicing (IIm9) and B voicing (V13) resolving to the A voiced I Maj6\/9 chord. Chord symbols appear above; roots in the bass staff below.   Rootless A and B voicings for the IIm9–V13–IMaj6\/9 progression cycled through all twelve major keys.   "
 },
 {
   "id": "sec-block-chords",
