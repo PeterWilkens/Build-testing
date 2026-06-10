@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="45.00mm" height="35.00mm" viewBox="0.0000 -0.0000 25.6075 19.9169">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(1.7072, 4.1360)">
+<text font-family="serif" font-style="italic" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>F–A–B–E</tspan>
+</text>
+</g>
+<g transform="translate(-18.0618, 17.7210)">
+<a xlink:href="https://lilypond.org/">
+<rect x="0.0000" y="-0.4888" width="61.7311" height="2.1603" fill="none" stroke="none" stroke-width="0.0"/>
+</a>
+</g>
+<g transform="translate(-18.0618, 17.7210)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Music engraving by LilyPond 2.24.4—www.lilypond.org</tspan>
+</text>
+</g>
+</svg>

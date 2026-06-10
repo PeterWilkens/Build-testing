@@ -2089,11 +2089,38 @@ var ptx_lunr_docs = [
   "body": " Transposing upper structures  Because the chromatic button accordion uses an isomorphic layout, every upper structure shape learned over G7 is immediately available over any other dominant 7th chord. To apply US II over D7, simply shift the entire voicing pattern up a perfect 5th: left hand F♯–C (3rd and 7th of D7), right hand E–G♯–B (E major triad, the 9th of D7).  "
 },
 {
+  "id": "sec-grip-method-four-grips",
+  "level": "1",
+  "url": "sec-grip-method-four-grips.html",
+  "type": "Section",
+  "number": "13.1",
+  "title": "The Four Core Grips",
+  "body": " The Four Core Grips  The grids below show four important grips that will be used in progressions later in this section with different base notes. The chord produced by the grip is dependant on the bass note (not shown in grid below). Highlighted buttons are the chord tones; the label above each grid shows the grip name and quality; the label below shows the note names and their chord-tone functions.   (The Lydian Dominant grip is a maj7 voicing with a flattened 5th)         Staff notation for Grip 1a: F A C E   Grip 1a  Cat A maj7 grip  Dmaj9 if bass is D         Staff notation for Grip 2a: F A B E   Grip 2a  Cat A Lyd. Dom grip.  D9 if bass is D         Staff notation for Grip 1b: F A Bb D   Grip 1b   Cat B maj7 grip  Inversion of Grip 1a         Staff notation for Grip 2b: E A Bb D   Grip 2b   Cat B Lyd. Dom grip.  Inversion of Grip 2a     "
+},
+{
+  "id": "fig-gm-all-four",
+  "level": "2",
+  "url": "sec-grip-method-four-grips.html#fig-gm-all-four",
+  "type": "Figure",
+  "number": "13.1.1",
+  "title": "",
+  "body": " (The Lydian Dominant grip is a maj7 voicing with a flattened 5th)         Staff notation for Grip 1a: F A C E   Grip 1a  Cat A maj7 grip  Dmaj9 if bass is D         Staff notation for Grip 2a: F A B E   Grip 2a  Cat A Lyd. Dom grip.  D9 if bass is D         Staff notation for Grip 1b: F A Bb D   Grip 1b   Cat B maj7 grip  Inversion of Grip 1a         Staff notation for Grip 2b: E A Bb D   Grip 2b   Cat B Lyd. Dom grip.  Inversion of Grip 2a    "
+},
+{
+  "id": "sec-grip-method-maj7-cof",
+  "level": "1",
+  "url": "sec-grip-method-maj7-cof.html",
+  "type": "Section",
+  "number": "13.2",
+  "title": "Chord voicings cycling through the circle of fifths",
+  "body": " Chord voicings cycling through the circle of fifths   1st 12 grids: m7 to m7 through the circle of fifths                        13 to 36 grids: cycling m7 to dom7 through the circle of fifths                                             "
+},
+{
   "id": "sec-barry-harris-intro",
   "level": "1",
   "url": "sec-barry-harris-intro.html",
   "type": "Section",
-  "number": "13.1",
+  "number": "14.1",
   "title": "Introduction to Barry Harris and His Philosophy",
   "body": " Introduction to Barry Harris and His Philosophy  Barry Harris (1929–2021) was an American jazz pianist, born in Detroit, Michigan, and widely regarded as one of the most important custodians of the bebop tradition. He performed and recorded with many of the giants of jazz, including Coleman Hawkins, Cannonball Adderley, Yusef Lateef, Lee Morgan, and Wes Montgomery, and was a trusted companion and collaborator of Charlie Parker and Thelonious Monk.  Beyond his playing, Barry Harris was a devoted and prolific educator. He founded the Barry Harris Jazz Workshop in New York City in 1982, which continued for nearly four decades, attracting students from across the world. He was known as the keeper of the bebop flame, insisting that the language of bebop — its vocabulary, its rhythmic feel, its harmonic logic — needed to be understood deeply, not imitated superficially.   Core Philosophy  Barry Harris's approach to jazz theory is built on a small number of powerful ideas that unlock the entire harmonic language of bebop and post-bop jazz. His central claim is simple and radical:   Everything in jazz comes from the major scale.   In Harris's system, the major scale is extended into an eight-note bebop scale by inserting a single chromatic passing tone. This eight-note scale is not an arbitrary addition — it is the key that allows chord tones to fall consistently on the strong beats of the bar when playing through a scale passage. This rhythmic alignment of chord tones with strong beats is what gives bebop melody its characteristic inside, swinging quality.  The second pillar of Harris's system is the 6th chord \/ diminished 7th system , sometimes called the mother chord concept. Every major key contains a 6th chord and a related diminished 7th chord whose notes, taken together, form the bebop scale. By learning to move between these two chords through all their inversions, a jazz musician develops smooth, stepwise voice leading that works across the entire range of the keyboard.  These ideas are highly practical for the accordion player. The chromatic button accordion's isomorphic layout means that any pattern learned in one key can be transposed immediately to all twelve keys by shifting position. Barry Harris's exercises, which Barry himself insisted be practised in all twelve keys, are particularly well-suited to this instrument.   "
 },
@@ -2120,7 +2147,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-barry-harris-bebop-scales.html",
   "type": "Section",
-  "number": "13.2",
+  "number": "14.2",
   "title": "The Bebop Scales",
   "body": " The Bebop Scales   A bebop scale is an eight-note scale created by inserting a single chromatic passing tone into a standard seven-note scale. The purpose of this addition is rhythmic: when a bebop scale is played from the root descending (or ascending, starting on beat 1), chord tones fall on every strong beat (beats 1, 2, 3, 4) and passing tones fall on the off-beats (the ands ). This produces naturally swinging melodic lines in which the harmonic structure is reinforced by the rhythm.  Barry Harris taught three primary bebop scales, each derived from a standard scale by adding a chromatic passing tone at a specific location. All three are taught and practised over a major 6th chord or dominant 7th chord in the corresponding key.    The Major Bebop Scale  The major bebop scale is built from the major scale by inserting a chromatic passing tone between the 5th and 6th scale degrees — that is, between G and A in C major. This passing tone is the augmented 5th ( 5, or G in the key of C).   C Major Bebop Scale — Scale Degrees and Notes    Degree  1 2 3 4  5 5 6 7 8    Note (C)  C D E F  G G A B C     The G is a passing tone only — it does not belong to the C major chord, but allows smooth connection between G and A. When descending, the G appears between A and G as a chromatic neighbour.   C major bebop scale, ascending and descending. The 5 (G ) is the added chromatic passing tone between the 5th and 6th scale degrees.      The Dominant Bebop Scale  The dominant bebop scale is built from the Mixolydian scale (the natural mode used over a dominant 7th chord) by inserting the natural 7th as a chromatic passing tone between the 7 and the octave. In the key of C this means adding B natural between B and the upper C.   C Dominant Bebop Scale — Scale Degrees and Notes    Degree  1 2 3 4  5 6 7 7 8    Note (C)  C D E F  G A B B C     The dominant bebop scale is the most widely used of Barry Harris's scales. It is the scale associated with the dominant 7th chord (C7 in C) and is used extensively in ii–V–I progressions. The chord tones of the C7 chord (C, E, G, B ) fall on strong beats when the scale is descended from the root.   C dominant bebop scale, ascending and descending. The natural 7 (B) is the chromatic passing tone inserted between the 7 and the octave.      The Minor Bebop Scale  Barry Harris's minor bebop scale is derived from the harmonic minor scale by adding the natural 6th as a chromatic passing tone between the 6 and the raised 7th. This produces an eight-note scale that contains both the characteristic minor-key colours (the 3, 6) and a smooth leading tone (the natural 7th of the harmonic minor) with an additional passing tone (the natural 6th).   C Minor Bebop Scale — Scale Degrees and Notes    Degree  1 2 3 4  5 6 6 7 8    Note (C)  C D E F  G A A B C     Notice that the C minor bebop scale contains the notes of both the C minor 6th chord (C, E , G, A) and the B diminished 7th chord (B, D, F, A ), the same pairing that underpins the 6th\/diminished system described in the next section.   C minor bebop scale, ascending and descending. The natural 6 (A) is the chromatic passing tone inserted between 6 (A ) and the raised 7th (B).     "
 },
@@ -2147,7 +2174,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-bebop-scales.html#subsec-major-bebop-scale-3",
   "type": "Table",
-  "number": "13.2.1",
+  "number": "14.2.1",
   "title": "C Major Bebop Scale — Scale Degrees and Notes",
   "body": " C Major Bebop Scale — Scale Degrees and Notes    Degree  1 2 3 4  5 5 6 7 8    Note (C)  C D E F  G G A B C    "
 },
@@ -2156,7 +2183,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-bebop-scales.html#fig-major-bebop-c",
   "type": "Figure",
-  "number": "13.2.2",
+  "number": "14.2.2",
   "title": "",
   "body": " C major bebop scale, ascending and descending. The 5 (G ) is the added chromatic passing tone between the 5th and 6th scale degrees.   "
 },
@@ -2174,7 +2201,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-bebop-scales.html#subsec-dominant-bebop-scale-3",
   "type": "Table",
-  "number": "13.2.3",
+  "number": "14.2.3",
   "title": "C Dominant Bebop Scale — Scale Degrees and Notes",
   "body": " C Dominant Bebop Scale — Scale Degrees and Notes    Degree  1 2 3 4  5 6 7 7 8    Note (C)  C D E F  G A B B C    "
 },
@@ -2183,7 +2210,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-bebop-scales.html#fig-dominant-bebop-c",
   "type": "Figure",
-  "number": "13.2.4",
+  "number": "14.2.4",
   "title": "",
   "body": " C dominant bebop scale, ascending and descending. The natural 7 (B) is the chromatic passing tone inserted between the 7 and the octave.   "
 },
@@ -2201,7 +2228,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-bebop-scales.html#subsec-minor-bebop-scale-3",
   "type": "Table",
-  "number": "13.2.5",
+  "number": "14.2.5",
   "title": "C Minor Bebop Scale — Scale Degrees and Notes",
   "body": " C Minor Bebop Scale — Scale Degrees and Notes    Degree  1 2 3 4  5 6 6 7 8    Note (C)  C D E F  G A A B C    "
 },
@@ -2210,7 +2237,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-bebop-scales.html#fig-minor-bebop-c",
   "type": "Figure",
-  "number": "13.2.6",
+  "number": "14.2.6",
   "title": "",
   "body": " C minor bebop scale, ascending and descending. The natural 6 (A) is the chromatic passing tone inserted between 6 (A ) and the raised 7th (B).   "
 },
@@ -2219,7 +2246,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-barry-harris-6-diminished.html",
   "type": "Section",
-  "number": "13.3",
+  "number": "14.3",
   "title": "The 6th Chord \/ Diminished 7th System",
   "body": " The 6th Chord \/ Diminished 7th System   The heart of Barry Harris's harmonic teaching is the relationship between a major 6th chord and its companion diminished 7th chord. Harris called this pairing the mother chord because virtually all jazz harmony can be derived from it. Understanding and internalising this system is, in Harris's view, the foundation upon which all jazz improvisation and accompaniment is built.    Constructing the 6th and Diminished Pair  In the key of C major, the two chords of the system are:    The C major 6th chord (C6): C — E — G — A. This is a C major triad with an added major 6th (A). It is built on the tonic (scale degree 1) of C major. The notes C, E, G, A are scale degrees 1, 3, 5, and 6.    The B diminished 7th chord (B°7): B — D — F — A . This chord is built on scale degree 7 of C major, using a flattened 7th to complete the diminished 7th structure. The notes B, D, F, A fill in the four chromatic gaps between the notes of the C6 chord.    Together, these two chords contain exactly eight distinct pitches: C, D, E, F, G, A , A, B. Arranged in scale order, these are the notes of the C major bebop scale . The 6th chord and its diminished companion are, therefore, two complementary halves of the same eight-note scale.   C6 and B°7 — Notes of the 6th \/ Diminished System    Chord  Voice 1 Voice 2  Voice 3 Voice 4    C6 (tonic)  C E G A    B°7 (passing)  B D F A    Combined (ascending)  C — D E — F  G — A A — B       Voice Leading Between the Two Chords  The most remarkable property of this chord pair is the voice leading between them. Each note of the C6 chord moves by just a semitone or whole tone to reach the nearest note of the B°7 chord. Specifically:   C moves down a semitone to B (or up a semitone to C \/D in reverse direction)  E moves down a whole tone to D  G moves down a semitone to F \/G , or up to A  A moves down a semitone to A   This smooth, stepwise motion is what creates the characteristic bebop sound when alternating between these two chords. Because the diminished 7th chord is symmetrical (it divides the octave into four equal minor thirds), the B°7 chord has only three distinct inversions, and each inversion is enharmonically equivalent to a different diminished 7th chord root: B°7 = D°7 = F°7 = A °7.    The Four Inversions Through One Octave  Barry Harris's fundamental keyboard exercise involves alternating between C6 and B°7 through all four positions as you ascend (or descend) the keyboard. Because both chords are four-voice chords, and the combined scale is eight notes, one complete octave of the ascending exercise passes through exactly four C6 inversions and four B°7 inversions.   Ascending C6 \/ B°7 Exercise — Four-Voice Close Voicings    Position  Chord  Voice 4 (top)  Voice 3  Voice 2  Voice 1 (bottom)    1 C6  A G E C    2 B°7\/D  B A F D    3 C6\/E  C A G E    4 B°7\/F  D B A F    5 C6\/G  E C A G    6 C6\/A  G E C A    7 B°7  A F D B    8 C6  A G E C (octave up)      The ascending C6 \/ B°7 chord exercise. Each four-note block chord moves upward by step, alternating between the tonic 6th chord (C6) and its passing diminished chord (B°7) through their inversions.    Practise this exercise hands separately and then together. The left hand can hold sustained bass notes (C — G — C, or the full chord root progression) while the right hand moves through the ascending inversions.    Using the Major 6th Diminished Scale  The following transcription, arranged by Robert Glover from a Barry Harris demonstration, shows how the major 6th diminished scale is applied in practice. The piece cycles through the alternating C6 and B°7 voicings, illustrating how the scale generates smooth voice-leading through its inversions. Study each phrase carefully, noting how every melodic movement connects chord tones of one voicing to the nearest chord tones of the next. The original video demonstration by Barry Harris can be viewed at youtu.be\/OGA64aGWX98 .   Using the Major 6th Diminished Scale (Barry Harris, arr. Robert Glover). A demonstration of the C6 \/ B°7 system applied melodically and harmonically, showing practical voice-leading through the alternating voicings.           Barry Harris Diminished Chords Lesson  The following transcription, made by Robert Glover from a live Barry Harris workshop (Bilbao, Spain, 20 May 2016), captures both the musical examples and Harris's spoken commentary as he demonstrated the borrow\/surround technique for diminished chords. Harris shows how each note of the C diminished 7th chord is surrounded by the roots of its four related dominant chords, and how those borrowed tones create melodic motion back to the tonic. The original video was recorded by Montxo Garcia: youtu.be\/JlQNLZiKTY0 .   Barry Harris Diminished Chords Lesson (Bilbao, Spain, 2016; transcript R. Glover, 2019). The score illustrates the borrow\/surround technique: dominant roots surrounding each note of the diminished 7th chord resolve stepwise back to the tonic chord tones. Green noteheads show the C diminished 7th chord tones; red noteheads show the borrowed dominant roots.        "
 },
@@ -2255,7 +2282,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-6-diminished.html#subsec-6dim-construction-5",
   "type": "Table",
-  "number": "13.3.1",
+  "number": "14.3.1",
   "title": "C6 and B°7 — Notes of the 6th \/ Diminished System",
   "body": " C6 and B°7 — Notes of the 6th \/ Diminished System    Chord  Voice 1 Voice 2  Voice 3 Voice 4    C6 (tonic)  C E G A    B°7 (passing)  B D F A    Combined (ascending)  C — D E — F  G — A A — B    "
 },
@@ -2264,7 +2291,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-6-diminished.html#subsec-6dim-inversions-3",
   "type": "Table",
-  "number": "13.3.2",
+  "number": "14.3.2",
   "title": "Ascending C6 \/ B°7 Exercise — Four-Voice Close Voicings",
   "body": " Ascending C6 \/ B°7 Exercise — Four-Voice Close Voicings    Position  Chord  Voice 4 (top)  Voice 3  Voice 2  Voice 1 (bottom)    1 C6  A G E C    2 B°7\/D  B A F D    3 C6\/E  C A G E    4 B°7\/F  D B A F    5 C6\/G  E C A G    6 C6\/A  G E C A    7 B°7  A F D B    8 C6  A G E C (octave up)    "
 },
@@ -2273,7 +2300,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-6-diminished.html#fig-barry-harris-6dim-exercise",
   "type": "Figure",
-  "number": "13.3.3",
+  "number": "14.3.3",
   "title": "",
   "body": " The ascending C6 \/ B°7 chord exercise. Each four-note block chord moves upward by step, alternating between the tonic 6th chord (C6) and its passing diminished chord (B°7) through their inversions.   "
 },
@@ -2282,7 +2309,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-6-diminished.html#fig-using-maj6dim-scale",
   "type": "Figure",
-  "number": "13.3.4",
+  "number": "14.3.4",
   "title": "",
   "body": " Using the Major 6th Diminished Scale (Barry Harris, arr. Robert Glover). A demonstration of the C6 \/ B°7 system applied melodically and harmonically, showing practical voice-leading through the alternating voicings.        "
 },
@@ -2291,7 +2318,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-6-diminished.html#fig-barry-harris-dim-lesson",
   "type": "Figure",
-  "number": "13.3.5",
+  "number": "14.3.5",
   "title": "",
   "body": " Barry Harris Diminished Chords Lesson (Bilbao, Spain, 2016; transcript R. Glover, 2019). The score illustrates the borrow\/surround technique: dominant roots surrounding each note of the diminished 7th chord resolve stepwise back to the tonic chord tones. Green noteheads show the C diminished 7th chord tones; red noteheads show the borrowed dominant roots.      "
 },
@@ -2300,7 +2327,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-barry-harris-dom7-basics.html",
   "type": "Section",
-  "number": "13.4",
+  "number": "14.4",
   "title": "Basics of the Dominant 7th Scale",
   "body": " Basics of the Dominant 7th Scale   This section is based on a transcription by Robert Glover (26 August 2017) of a video lesson by Connor (a Barry Harris student) entitled Barry Harris…“Basics” of Dom 7 Scale ( youtu.be\/kCSB_iUW5Uk ). The lesson demonstrates simple melodic patterns that can be derived from a dominant 7th scale, using B 7 as the primary example. It is a practical companion to Barry Harris's teaching on the 6th chord \/ diminished 7th system: once you understand the underlying harmony, these short patterns give you the raw material to build longer improvised phrases.  Connor opens by arguing that jazz improvisation is not a mysterious gift for a chosen few. Historically, great composers such as Bach, Mozart, Beethoven and Liszt were also accomplished improvisers. Bach is documented to have improvised full fugues for royalty on demand. What made this possible was not genius alone, but a thorough knowledge of scales and harmony. Connor draws the same conclusion for jazz: This whole notion of improvisation can really be broken down to a science. [1:04]  The lesson then demonstrates a series of increasingly sophisticated patterns over B 7, using the B dominant 7th scale (also known as B Mixolydian: B , C, D, E , F, G, A , B ). For each pattern Connor first plays an ascending and descending version, then shows how adding a half-step approach note below the first note of each group enriches the sound.    Scale Outline (from the Previous Video)  Connor begins with a brief recap of the scale-outline technique from his previous lesson (the 12-bar blues form), demonstrating how a B 7 scale outline moves to an E 7 in the context of a simple chord progression.   Mm. 1–5. Scale outline over B 7 and E 7, as introduced in the previous video. [0:00–3:32]      Scale Up and Down; Thirds; Triads; Full 7th Chords   So, by now you should be able to just run, for instance, a B dominant 7th scale by itself. [3:32]  Connor then demonstrates the same scale in thirds (playing scale degree 1 with scale degree 3, degree 2 with degree 4, and so on), then in triads (three-note groups built from each scale degree), and finally as full seventh chords. Each of these represents a distinct set of puzzle pieces that can be recombined to make improvised phrases — just as short words are learned before full sentences.   When we practice small things that come from scales, what we can do is we can take the small things and we can put them together in an infinite number of different ways. It’s almost like speech… You learn about small words, the small phrases first. And then you put them together. [5:16]    Mm. 6–37. B 7 scale up and down (mm. 6–9); scale in thirds (mm. 10–12); scale in triads (mm. 13–18); scale outline \/ fast thirds (mm. 19–21); half-step approach added (mm. 22–37). [3:32–6:56]      Major Arpeggios, Augmented Arpeggio, and Diminished 7th Applications  Connor next moves to arpeggios. For B 7, the three important arpeggios are built on scale degrees 1, 5, and 7:   B major arpeggio (scale degree 1): B – D – F  F minor arpeggio (scale degree 5): F – A – C  A major arpeggio (scale degree 7): A – C – E   All three arpeggios should be practised in all inversions. This is connected to Charlie Parker’s bebop head Chi Chi , which opens with an inversion of the A major triad: [8:10]  Connor also introduces the augmented arpeggio (a major arpeggio with a sharpened fifth: B – D – F ), which often appears in standard tunes. Like all other patterns, its inversions should also be practised.  Finally, Connor reminds the viewer of a fundamental Barry Harris principle: A dominant seventh chord comes from a fully diminished seventh chord. [10:20] This means that when improvising over a dominant quality chord, you can use the corresponding fully diminished 7th chord and its associated scale.   Mm. 38–63. Major arpeggios on scale degrees 1, 5, and 7 (mm. 38–40); inversions (mm. 41–50); Charlie Parker “Chi Chi” reference (mm. 51–52); descending versions (mm. 53–59); fully diminished 7th chord over B 7 (mm. 60–63). [6:56–10:40]     "
 },
@@ -2318,7 +2345,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-dom7-basics.html#fig-connor-dom7-p1",
   "type": "Figure",
-  "number": "13.4.1",
+  "number": "14.4.1",
   "title": "",
   "body": " Mm. 1–5. Scale outline over B 7 and E 7, as introduced in the previous video. [0:00–3:32]   "
 },
@@ -2327,7 +2354,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-dom7-basics.html#fig-connor-dom7-p2",
   "type": "Figure",
-  "number": "13.4.2",
+  "number": "14.4.2",
   "title": "",
   "body": " Mm. 6–37. B 7 scale up and down (mm. 6–9); scale in thirds (mm. 10–12); scale in triads (mm. 13–18); scale outline \/ fast thirds (mm. 19–21); half-step approach added (mm. 22–37). [3:32–6:56]   "
 },
@@ -2345,7 +2372,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-dom7-basics.html#fig-connor-dom7-p3",
   "type": "Figure",
-  "number": "13.4.3",
+  "number": "14.4.3",
   "title": "",
   "body": " Mm. 38–63. Major arpeggios on scale degrees 1, 5, and 7 (mm. 38–40); inversions (mm. 41–50); Charlie Parker “Chi Chi” reference (mm. 51–52); descending versions (mm. 53–59); fully diminished 7th chord over B 7 (mm. 60–63). [6:56–10:40]   "
 },
@@ -2354,7 +2381,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-barry-harris-daily-exercises.html",
   "type": "Section",
-  "number": "13.5",
+  "number": "14.5",
   "title": "Daily Scale and Chord Exercises",
   "body": " Daily Scale and Chord Exercises   Barry Harris was insistent that theory without daily practice is meaningless. His workshop exercises are designed to be drilled slowly and methodically, at a tempo where every note is even, every chord change is smooth, and the sound of each chord type is committed to memory. He recommended beginning in C major and then transposing each exercise to all twelve keys before moving on.  The exercises below form the core daily practice routine that Harris taught at his workshops. They should be practised with a metronome and, once comfortable, with a rhythm section playalong.    Exercise 1: The Bebop Scale  Play each of the three bebop scales (major, dominant, and minor) ascending and descending for two octaves in every key. Pay close attention to the placement of the chromatic passing tone — it should sound smooth and connected, not like an accidental. Barry Harris often said that the bebop scale should feel like a single phrase, not like a seven-note scale with a wrong note added.   Practice progression:    Right hand alone, one octave ascending and descending, slowly (quarter = 60).  Left hand alone, one octave ascending and descending.  Hands together in parallel motion (both hands playing the same scale in the same direction).  Hands together in contrary motion (right hand ascending while left hand descends).  Increase tempo gradually to quarter = 120 before moving to the next key.   Begin with the dominant bebop scale, as it is the most common in jazz. The major bebop scale follows naturally, and the minor bebop scale should be introduced once the first two are secure.    Exercise 2: The 6th Chord \/ Diminished Alternation  This is the central exercise of the Barry Harris method. It trains the ear, the fingers, and the musical imagination simultaneously. Play the ascending 6th chord and diminished chord exercise (shown in the previous section) using close four-voice block chords.   Practice routine:    Right hand alone, ascending: C6 — B°7\/D — C6\/E — B°7\/F — C6\/G — C6\/A — B°7 — C6 (upper octave).  Right hand alone, descending: reverse the above, moving from the upper C6 back to the root position.  Left hand plays sustained root (C in the bass), right hand ascends and descends.  Left hand plays the bass note that corresponds to the inversion in the right hand (walking through the scale: C — D — E — F — G — A — B — C).  Play the full exercise in all twelve keys.   Listen carefully to the way each chord connects to the next. Barry Harris emphasised that the exercise should produce a singing, melodic sound , not a mechanical arpeggio. The top voice traces the major bebop scale — this is the melody you are harmonising.    Exercise 3: The Harmonized Major Scale  This exercise combines the melodic and harmonic aspects of the system. Play the C major scale in the right hand (single notes, one octave ascending) while assigning each note its correct chord symbol from the 6th \/ diminished system:   Scale degrees 1, 3, 5, 6 (C, E, G, A) belong to the C6 chord.  Scale degrees 2, 4, 7 (D, F, B) belong to the B°7 chord.   In practice, each note of the melody is played as the top voice of the corresponding four-note block chord. The figure below shows the chord symbol that applies to each scale degree as you ascend.   C major scale with Barry Harris 6th \/ diminished chord assignments. Each note of the ascending scale is labelled with its corresponding chord: C6 for chord tones, B°7 for passing tones.     Practice routine:    Sing or play the scale degree while naming the chord aloud (for example: C — C6, D — B°7, E — C6, F — B°7 ... ).   Play the melody note as the top voice of a full four-voice block chord in the right hand. Use the inversions from the table in the previous section, moving upward smoothly.   Add a bass note in the left hand: the root of the chord for chord tones, or the bass note of the inversion for passing diminished chords.  Practise descending as well as ascending.  Transpose to all twelve keys.     Barry Harris Jazz Theory — Lincoln Center Part 1  The following exercises are transcribed from Barry Harris's Jazz Theory session at Lincoln Center's Jazz Academy (transcript by R. Glover, July 2018; source: youtu.be\/F8JJncSUdUU ). Harris demonstrates two core exercises: first, a C major scale practised at progressively faster tempos; second, the harmonized diatonic major scale cycling through all twelve keys.   C major scale exercise at ♩ = 70 (measure 2). Harris demonstrates the ascending and descending scale in a two-voice, hands-together texture.     C major scale exercise at ♩ = 85 (measure 4), ♩ = 50 with triplet sixteenth-note figures (measures 6–7), and ♩ = 30 (measure 8). The same pattern is repeated at each faster tempo without stopping.     Scale exercise continued at ♩ = 30 (measures 9–11), leading into the opening of the harmonized diatonic scale: Cmaj⁷ – Dmin⁷ – Emin⁷ – Fmin⁷ (measure 12).     Harmonized diatonic scale continued in E♭ major (measure 13: E♭maj⁷ – Fmin⁷ – Gmin⁷ – A♭min⁷), F♯ major (measure 14: F♯maj⁷ – G♯min⁷ – A♯min⁷ – Bmin⁷), and A major (measure 15: Amaj⁷ – Bmin⁷ – C♯min⁷ – Dmin⁷). These four keys — C, E♭, F♯, A — form one of the four \"family\" groups related by minor thirds.     Harmonized diatonic scale at ♩ = 30 in C major (measure 17: Cmaj⁷ – Dmin⁷ – Emin⁷ – Fmin⁷) and E♭ major (measure 18: E♭maj⁷ – Fmin⁷ – Gmin⁷ – A♭min⁷). The right-hand melody (red) and left-hand accompaniment (green) are shown separately to clarify voice independence.     Harmonized diatonic scale at ♩ = 30 in G♭ major (measure 19: G♭maj⁷ – A♭min⁷ – B♭min⁷ – Bmin⁷) and A major (measure 20: Amaj⁷ – Bmin⁷ – C♯min⁷ – Dmin⁷).    Harris emphasised that the twelve keys divide into four \"family\" groups related by minor thirds: {C, E♭, G♭, A} and {D♭, E, G, B♭} are two such groups (with D, F, A♭, B forming another). Practise the harmonized scale exercise in all twelve keys before moving on.    Barry Harris 6th Dim Stride Exercise  The following notation is transcribed from a live workshop demonstration by Barry Harris (source: youtu.be\/G1siDXQ92Nw , 7:58–9:00; transcript by R. Glover, July 2018). Harris demonstrates the 6th diminished scale applied in a stride piano texture, moving through several variations: the basic stride pattern in C major and B♭ major, drop-2 voicings, contrary motion, the scale in tenths, the minor 6th diminished scale (C minor and F minor), and finally a diminished scale approach.   Measures 1–3. Measure 1: Cmaj⁶ dim scale in stride (♩ = 44, 4\/4), ascending through the 6th\/diminished alternation with a stride bass, cadencing on D⁷♭9♯11. Measure 2: the same pattern transposed to B♭ major (Bbmaj⁶ dim scale), cadencing on C⁷♭9♯11. Measure 3: Cmaj⁶ dim scale in drop-2 voicings.     Measures 6–13. Measure 6: Cmaj⁶ dim scale drop 2 in contrary motion (right hand ascending, left hand descending). Measure 7: Cmaj⁶ dim scale in 2\/4. Measure 8 (4\/4): the scale played in tenths. Measures 11–14: Cmin⁶ dim scale in stride.     Measures 15–20. Measures 15–16: Cmin⁶ dim scale with a swung (syncopated) right hand. Measures 18–19: Cmin⁶ dim scale moving into A♯dim⁷. Measure 20: Fmin⁶ dim scale.     Measures 21–22. Continuation of the Fmin section, passing through Cdim⁷, then moving to the B♭ diminished 6th scale.      Practice Tips from the Barry Harris Workshop  Barry Harris offered the following guidance consistently throughout his teaching:     Slow is fast. Always begin at a tempo where every note speaks clearly and every chord is balanced. Speed is a consequence of accuracy, not a goal in itself.     Twelve keys, every day. A pattern learned in only one or two keys is not truly learned. The chromatic button accordion makes this particularly accessible, since the fingering pattern for any exercise is identical in every key.     Listen to the top voice. When practising block chord exercises, the top voice is the melody. Train yourself to hear it singing above the harmony, and ensure it has a connected, vocal quality.     Hear the chord before you play it. Harris insisted that students should be able to sing or audiate each voicing before placing their hands on the keys. The ear leads, the hands follow.     The diminished is not a chord, it is a passageway. The B°7 is a connecting structure — a set of four passing tones that link one position of the C6 chord to the next. Understanding it this way keeps the ear focused on the tonic harmony and prevents the diminished chord from sounding like an unrelated intrusion.     "
 },
@@ -2363,7 +2390,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-daily-exercises.html#fig-barry-harris-harmonized-scale",
   "type": "Figure",
-  "number": "13.5.1",
+  "number": "14.5.1",
   "title": "",
   "body": " C major scale with Barry Harris 6th \/ diminished chord assignments. Each note of the ascending scale is labelled with its corresponding chord: C6 for chord tones, B°7 for passing tones.   "
 },
@@ -2372,7 +2399,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-daily-exercises.html#fig-bh-lincoln-scale-intro",
   "type": "Figure",
-  "number": "13.5.2",
+  "number": "14.5.2",
   "title": "",
   "body": " C major scale exercise at ♩ = 70 (measure 2). Harris demonstrates the ascending and descending scale in a two-voice, hands-together texture.   "
 },
@@ -2381,7 +2408,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-daily-exercises.html#fig-bh-lincoln-scale-variations",
   "type": "Figure",
-  "number": "13.5.3",
+  "number": "14.5.3",
   "title": "",
   "body": " C major scale exercise at ♩ = 85 (measure 4), ♩ = 50 with triplet sixteenth-note figures (measures 6–7), and ♩ = 30 (measure 8). The same pattern is repeated at each faster tempo without stopping.   "
 },
@@ -2390,7 +2417,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-daily-exercises.html#fig-bh-lincoln-scale-fast",
   "type": "Figure",
-  "number": "13.5.4",
+  "number": "14.5.4",
   "title": "",
   "body": " Scale exercise continued at ♩ = 30 (measures 9–11), leading into the opening of the harmonized diatonic scale: Cmaj⁷ – Dmin⁷ – Emin⁷ – Fmin⁷ (measure 12).   "
 },
@@ -2399,7 +2426,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-daily-exercises.html#fig-bh-lincoln-harmonized-c",
   "type": "Figure",
-  "number": "13.5.5",
+  "number": "14.5.5",
   "title": "",
   "body": " Harmonized diatonic scale continued in E♭ major (measure 13: E♭maj⁷ – Fmin⁷ – Gmin⁷ – A♭min⁷), F♯ major (measure 14: F♯maj⁷ – G♯min⁷ – A♯min⁷ – Bmin⁷), and A major (measure 15: Amaj⁷ – Bmin⁷ – C♯min⁷ – Dmin⁷). These four keys — C, E♭, F♯, A — form one of the four \"family\" groups related by minor thirds.   "
 },
@@ -2408,7 +2435,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-daily-exercises.html#fig-bh-lincoln-slow-c-eb",
   "type": "Figure",
-  "number": "13.5.6",
+  "number": "14.5.6",
   "title": "",
   "body": " Harmonized diatonic scale at ♩ = 30 in C major (measure 17: Cmaj⁷ – Dmin⁷ – Emin⁷ – Fmin⁷) and E♭ major (measure 18: E♭maj⁷ – Fmin⁷ – Gmin⁷ – A♭min⁷). The right-hand melody (red) and left-hand accompaniment (green) are shown separately to clarify voice independence.   "
 },
@@ -2417,7 +2444,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-daily-exercises.html#fig-bh-lincoln-slow-gb-a",
   "type": "Figure",
-  "number": "13.5.7",
+  "number": "14.5.7",
   "title": "",
   "body": " Harmonized diatonic scale at ♩ = 30 in G♭ major (measure 19: G♭maj⁷ – A♭min⁷ – B♭min⁷ – Bmin⁷) and A major (measure 20: Amaj⁷ – Bmin⁷ – C♯min⁷ – Dmin⁷).   "
 },
@@ -2426,7 +2453,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-daily-exercises.html#fig-bh-stride-p1",
   "type": "Figure",
-  "number": "13.5.8",
+  "number": "14.5.8",
   "title": "",
   "body": " Measures 1–3. Measure 1: Cmaj⁶ dim scale in stride (♩ = 44, 4\/4), ascending through the 6th\/diminished alternation with a stride bass, cadencing on D⁷♭9♯11. Measure 2: the same pattern transposed to B♭ major (Bbmaj⁶ dim scale), cadencing on C⁷♭9♯11. Measure 3: Cmaj⁶ dim scale in drop-2 voicings.   "
 },
@@ -2435,7 +2462,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-daily-exercises.html#fig-bh-stride-p2",
   "type": "Figure",
-  "number": "13.5.9",
+  "number": "14.5.9",
   "title": "",
   "body": " Measures 6–13. Measure 6: Cmaj⁶ dim scale drop 2 in contrary motion (right hand ascending, left hand descending). Measure 7: Cmaj⁶ dim scale in 2\/4. Measure 8 (4\/4): the scale played in tenths. Measures 11–14: Cmin⁶ dim scale in stride.   "
 },
@@ -2444,7 +2471,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-daily-exercises.html#fig-bh-stride-p3",
   "type": "Figure",
-  "number": "13.5.10",
+  "number": "14.5.10",
   "title": "",
   "body": " Measures 15–20. Measures 15–16: Cmin⁶ dim scale with a swung (syncopated) right hand. Measures 18–19: Cmin⁶ dim scale moving into A♯dim⁷. Measure 20: Fmin⁶ dim scale.   "
 },
@@ -2453,7 +2480,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-barry-harris-daily-exercises.html#fig-bh-stride-p4",
   "type": "Figure",
-  "number": "13.5.11",
+  "number": "14.5.11",
   "title": "",
   "body": " Measures 21–22. Continuation of the Fmin section, passing through Cdim⁷, then moving to the B♭ diminished 6th scale.   "
 },
@@ -2462,7 +2489,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-barry-harris-chord-shapes.html",
   "type": "Section",
-  "number": "13.6",
+  "number": "14.6",
   "title": "C6 \/ B°7 Chord Shapes on the Accordion Keyboard",
   "body": " C6 \/ B°7 Chord Shapes on the Accordion Keyboard   The eight diagrams below show all eight chord positions of the ascending C6 \/ B°7 exercise as they appear on the chromatic button accordion keyboard. Each diagram highlights the four notes of one chord voicing: four are C major 6th chord inversions (labelled C6) and four are B diminished 7th inversions (labelled B°7), alternating as you ascend through one octave.  The B°7 chord tones (B, D, F, A ) all fall on the same vertical column (column 3) of the isomorphic keyboard — they form a single vertical chain. The C6 chord tones (C, E, G, A) spread naturally across columns 1, 2, and 5 in compact close-position clusters. Because both chords are symmetrical (each has only three distinct shapes across all twelve keys due to the diminished 7th symmetry), once the pattern for C major is learned the shapes for all other keys follow by uniform shifting.  Shape 8 shows the B°7 chord in its root position at the lower register, illustrating how the system completes a cycle: after ascending through all seven positions, the diminished chord returns to its root-position shape ready to re-enter the pattern one octave higher.                                             Notice that all B°7 inversions (shapes 2, 4, 6, and 8) highlight four buttons in a single vertical column of the keyboard — each one simply two rows higher than the previous. This is a direct consequence of the diminished 7th chord's symmetry: all four of its notes (B, D, F, A ) lie on the same column in the isomorphic layout, separated by equal intervals of a minor 3rd.  The C6 inversions (shapes 1, 3, 5, and 7) each show a compact cluster spread across columns 1, 2, and 4–5, ascending by one scale step with each successive shape.  "
 },
@@ -2471,7 +2498,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-addn-barry-harris-core.html",
   "type": "Section",
-  "number": "14.1",
+  "number": "15.1",
   "title": "The Exercise",
   "body": " The Exercise  Learn a song and connect each chord to the right scale.  Using How High The Moon See Section 13.5 for the score. Play the scale that matches each chord in the progression.  This will help you understand the song's structure, the chord changes, and the scale that fits each chord:    If a chord lasts one bar (like Gm7 to C7), play the chord's scale from the root to the 7th note of the scale.   Gm7 and C7 each lasting one bar — scale played from root to 7th ( From The Root To The 7th ).      If a chord lasts two bars (like the first two bars), play root up to 7th, then back down to the root again.     Gmaj7 over two bars — scale ascending from root to 7th, then descending back to root ( Up & Down From The Root ).    This helps you to understand how the chords and scales relate to each other. Now build the solo by replacing scales with solo phrases.  "
 },
@@ -2480,7 +2507,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-addn-barry-harris-core.html#fig-how-high-the-moon-one-bar",
   "type": "Figure",
-  "number": "14.1.1",
+  "number": "15.1.1",
   "title": "",
   "body": " Gm7 and C7 each lasting one bar — scale played from root to 7th ( From The Root To The 7th ).   "
 },
@@ -2489,7 +2516,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-addn-barry-harris-core.html#fig-how-high-the-moon-up-down",
   "type": "Figure",
-  "number": "14.1.2",
+  "number": "15.1.2",
   "title": "",
   "body": " Gmaj7 over two bars — scale ascending from root to 7th, then descending back to root ( Up & Down From The Root ).   "
 },
@@ -2498,7 +2525,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-addn-vocabulary-recipe.html",
   "type": "Section",
-  "number": "14.2",
+  "number": "15.2",
   "title": "Building Your Jazz Vocabulary",
   "body": " Building Your Jazz Vocabulary  Having learned the scales and arpeggios, you can now start to build your jazz vocabulary by creating phrases that are based on those scales and arpeggios.  The key is to connect those phrases directly to the song you're playing, so that they become part of your musical language rather than just exercises. By taking a phrase through the song, you understand how it works and can easily move it around the progression. This is how you build your jazz vocabulary — by creating and internalising phrases that are directly connected to the music you want to play, rather than just mechanically cycling through scales.  Take the basic arpeggios from the first four bars of How High The Moon .   Basic Arpeggios    Then:    Add a triplet rhythm.   Triplet rhythm applied to the arpeggio      Add a leading note — a chromatic note just before the first arpeggio note — and finish with a scale run with another chromatic note.   Added leading note — chromatic note into the first arpeggio.      Giving:   Scale run finishing with a chromatic leading note.      Hear how much more like jazz that sounds? Now try moving this phrase around the song. All three versions are beautiful jazz lines you can use right away.   Chromatic approach note leading into the arpeggio.     Bebop phrase — first variation with arpeggio as a triplet and descending scale run.     Bebop phrase — second variation with leading note finishing the scale run.    The foundation for this exercise is to first take the phrase through the progression rubato and figure out how you can make it fit the chord. That helps you understand the building blocks: chromatic note, arpeggio as a triplet, and a descending scale run with a leading note.  This opens up a whole new world for your playing. Suddenly you're not just playing the right notes over a chord, but you're creating strong, melodic lines that sound like jazz. By connecting the phrase to the song, you understand how it works and can easily move it around the progression. This is how you build your jazz vocabulary — by creating and internalising phrases that are directly connected to the music you want to play, rather than just mechanically cycling through scales.  "
 },
@@ -2507,7 +2534,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-addn-vocabulary-recipe.html#fig-how-high-the-moon-arpeggios",
   "type": "Figure",
-  "number": "14.2.1",
+  "number": "15.2.1",
   "title": "",
   "body": " Basic Arpeggios   "
 },
@@ -2516,7 +2543,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-addn-vocabulary-recipe.html#fig-how-high-the-moon-bebop-triplet",
   "type": "Figure",
-  "number": "14.2.2",
+  "number": "15.2.2",
   "title": "",
   "body": " Triplet rhythm applied to the arpeggio   "
 },
@@ -2525,7 +2552,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-addn-vocabulary-recipe.html#fig-how-high-the-moon-leading-note-1",
   "type": "Figure",
-  "number": "14.2.3",
+  "number": "15.2.3",
   "title": "",
   "body": " Added leading note — chromatic note into the first arpeggio.   "
 },
@@ -2534,7 +2561,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-addn-vocabulary-recipe.html#fig-how-high-the-moon-leading-note-2",
   "type": "Figure",
-  "number": "14.2.4",
+  "number": "15.2.4",
   "title": "",
   "body": " Scale run finishing with a chromatic leading note.   "
 },
@@ -2543,7 +2570,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-addn-vocabulary-recipe.html#fig-how-high-the-moon-chromatic-note",
   "type": "Figure",
-  "number": "14.2.5",
+  "number": "15.2.5",
   "title": "",
   "body": " Chromatic approach note leading into the arpeggio.   "
 },
@@ -2552,7 +2579,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-addn-vocabulary-recipe.html#fig-how-high-the-moon-bebop-phrase-1",
   "type": "Figure",
-  "number": "14.2.6",
+  "number": "15.2.6",
   "title": "",
   "body": " Bebop phrase — first variation with arpeggio as a triplet and descending scale run.   "
 },
@@ -2561,7 +2588,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-addn-vocabulary-recipe.html#fig-how-high-the-moon-bebop-phrase-2",
   "type": "Figure",
-  "number": "14.2.7",
+  "number": "15.2.7",
   "title": "",
   "body": " Bebop phrase — second variation with leading note finishing the scale run.   "
 },
@@ -2570,7 +2597,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-addn-lick-through-song.html",
   "type": "Section",
-  "number": "14.3",
+  "number": "15.3",
   "title": "How to Practice",
   "body": " How to Practice  Taking your phrase through an actual song is a powerful and enjoyable way to develop your playing. By doing this, you're not just moving your fingers; you're connecting it directly to the music you want to play. This turns it into a flexible phrase that works on lots of chords, and in the process, you also figure out how the phrase works, not just practising how to play it. That's how you get better at creating your own licks that actually sound like jazz, instead of just playing the right notes over a chord.  Instead, here's what's way more powerful: take your phrase through an actual song. When you do this:   You're not just moving your fingers.  You're connecting it directly to the music you want to play.  You're turning it into a flexible phrase that works on lots of chords.   In the process, you also figure out how the phrase works, not just practising how to play it.    Here's a Gmaj7 lick to illustrate. First, find the basic chord tones: G, B, F# and D. Then look at what connects them: a leading note into the low 3rd (notice how great this interval skip sounds), and a scale note between the 7th and the 5th.   Gmaj7 arpeggio with leading tone: G (root), A♯ (leading tone to B), B (3rd), F♯ (7th), E (13th), D (5th).    Once you understand the structure, moving the lick to a new chord becomes easy — for example onto Gm7 (G B♭ F D) and then onto C7.   Moving the lick to Gm7: G (root), A (leading tone), B♭ (3rd), F (7th), E (passing), D (5th).     Moving the lick to C7: C (root), D♯ (leading tone), E (3rd), B♭ (7th), A (passing), G (5th).    Next, take it through the song slowly. Don't worry about tempo; out of time is the best place to start. Just move it around the progression. Once that feels natural, start using it inside a solo. That's when it stops being an exercise, and becomes real jazz vocabulary.  "
 },
@@ -2579,7 +2606,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-addn-lick-through-song.html#fig-gmaj7-arpeggio-third",
   "type": "Figure",
-  "number": "14.3.1",
+  "number": "15.3.1",
   "title": "",
   "body": " Gmaj7 arpeggio with leading tone: G (root), A♯ (leading tone to B), B (3rd), F♯ (7th), E (13th), D (5th).   "
 },
@@ -2588,7 +2615,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-addn-lick-through-song.html#fig-gm7-arpeggio-third",
   "type": "Figure",
-  "number": "14.3.2",
+  "number": "15.3.2",
   "title": "",
   "body": " Moving the lick to Gm7: G (root), A (leading tone), B♭ (3rd), F (7th), E (passing), D (5th).   "
 },
@@ -2597,7 +2624,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-addn-lick-through-song.html#fig-c7-arpeggio-third",
   "type": "Figure",
-  "number": "14.3.3",
+  "number": "15.3.3",
   "title": "",
   "body": " Moving the lick to C7: C (root), D♯ (leading tone), E (3rd), B♭ (7th), A (passing), G (5th).   "
 },
@@ -2606,7 +2633,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-addn-arpeggio-from-third.html",
   "type": "Section",
-  "number": "14.4",
+  "number": "15.4",
   "title": "Barry Harris’ Arpeggio From the 3rd",
   "body": " Barry Harris' Arpeggio From the 3rd  You may have heard the advice to use the arpeggio from the 3rd of the chord. But knowing the concept and being able to use it in your solos are two very different things. This is where the approach above becomes incredibly useful.   Why Is the Arpeggio from the 3rd so Powerful?  For Gmaj7 the full arpeggio is G B D F#. The 3rd is B, and the diatonic arpeggio on B is Bm7: B D F# A. You are still playing three chord tones, but you have now added an A on top — a beautiful 9th that makes your solos more colourful.   Gmaj7 from the root (G B D F♯), then Bm7 — arpeggio from the 3rd — sharing the same three chord tones but adding A, the 9th of the Gmaj7 arpeggio.    Start by connecting the regular arpeggio to the arpeggio from the 3rd. First play the arpeggio from the root, then connect it to the version starting from the 3rd.  Applied to the How High the Moon you get:   Extract from How High the Moon 2nd arpeggio in each bar is from the 3rd of the first arpeggio.    This helps you hear how the two relate, and also connects them on the keyboard so moving between them becomes natural and the arpeggio from the 3rd is much easier to find.  Now take the arpeggio from the 3rd through the song.   Arpeggio from the 3rd through four bars of How High the Moon : Gmaj7 (bars 1–2), Gm7 (bar 3), C7 (bar 4).    Once that feels comfortable, start building short lines from it and move those lines through the progression, just like before. It will make the arpeggio from the 3rd a part of your playing in no time!   A bebop phrase using the arpeggio from the 3rd through four bars of How High the Moon : Gmaj7 (bars 1–2), Gm7 (bar 3), C7 (bar 4).     "
 },
@@ -2615,7 +2642,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-addn-arpeggio-from-third.html#fig-gmaj7-bm7-arpeggio",
   "type": "Figure",
-  "number": "14.4.1",
+  "number": "15.4.1",
   "title": "",
   "body": " Gmaj7 from the root (G B D F♯), then Bm7 — arpeggio from the 3rd — sharing the same three chord tones but adding A, the 9th of the Gmaj7 arpeggio.   "
 },
@@ -2624,7 +2651,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-addn-arpeggio-from-third.html#fig-hhtm-arpeggio-progression",
   "type": "Figure",
-  "number": "14.4.2",
+  "number": "15.4.2",
   "title": "",
   "body": " Extract from How High the Moon 2nd arpeggio in each bar is from the 3rd of the first arpeggio.   "
 },
@@ -2633,7 +2660,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-addn-arpeggio-from-third.html#fig-hhtm-arpeggio-from-third",
   "type": "Figure",
-  "number": "14.4.3",
+  "number": "15.4.3",
   "title": "",
   "body": " Arpeggio from the 3rd through four bars of How High the Moon : Gmaj7 (bars 1–2), Gm7 (bar 3), C7 (bar 4).   "
 },
@@ -2642,7 +2669,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-addn-arpeggio-from-third.html#fig-hhtm-arpeggio-phrase",
   "type": "Figure",
-  "number": "14.4.4",
+  "number": "15.4.4",
   "title": "",
   "body": " A bebop phrase using the arpeggio from the 3rd through four bars of How High the Moon : Gmaj7 (bars 1–2), Gm7 (bar 3), C7 (bar 4).   "
 },
@@ -2651,7 +2678,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-addn-how-high-the-moon.html",
   "type": "Section",
-  "number": "14.5",
+  "number": "15.5",
   "title": "Transcription: How High the Moon",
   "body": " Transcription: How High the Moon  The following is a lead-sheet transcription of How High the Moon (Morgan Lewis \/ Nancy Hamilton, 1940), the song used throughout this chapter as a vehicle for the exercises above. Study the melody and chord changes before applying the scale and arpeggio exercises described in the preceding sections.    How High the Moon — lead sheet with melody and chord symbols.    "
 },
@@ -2660,7 +2687,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-addn-how-high-the-moon.html#fig-how-high-the-moon",
   "type": "Figure",
-  "number": "14.5.1",
+  "number": "15.5.1",
   "title": "",
   "body": "  How High the Moon — lead sheet with melody and chord symbols.   "
 },
@@ -2669,7 +2696,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-scale-exercise-cmaj7-in-thirds.html",
   "type": "Section",
-  "number": "15.1",
+  "number": "16.1",
   "title": "Cmaj — In Thirds",
   "body": " Cmaj — In Thirds  The following exercise moves through the C major scale in diatonic thirds, ascending then descending. Practise with a steady pulse; every pair of notes should be even and connected.   Cmaj7 scale exercise in thirds — ascending and descending in diatonic thirds over a C major tonal centre.    "
 },
@@ -2678,7 +2705,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-scale-exercise-cmaj7-in-thirds.html#fig-scale-exercise-cmaj7-in-thirds",
   "type": "Figure",
-  "number": "15.1.1",
+  "number": "16.1.1",
   "title": "",
   "body": " Cmaj7 scale exercise in thirds — ascending and descending in diatonic thirds over a C major tonal centre.   "
 },
@@ -2687,7 +2714,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-scale-exercise-cmaj7-in-triads.html",
   "type": "Section",
-  "number": "15.2",
+  "number": "16.2",
   "title": "Cmaj — In Triads",
   "body": " Cmaj — In Triads  This exercise extends the pattern to diatonic triads. Each group of three notes outlines a triad built from successive scale degrees. The exercise ascends through two octaves and descends back to the root.   Cmaj7 scale exercise in triads — diatonic triads ascending and descending over a C major tonal centre.     Variation  The following variation applies a descending triad pattern starting from the upper register. The groupings move downward through each chord tone before stepping to the next scale degree.   Cmaj7 scale exercise in triads — descending variation.     "
 },
@@ -2696,7 +2723,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-scale-exercise-cmaj7-in-triads.html#fig-scale-exercise-cmaj7-in-triads",
   "type": "Figure",
-  "number": "15.2.1",
+  "number": "16.2.1",
   "title": "",
   "body": " Cmaj7 scale exercise in triads — diatonic triads ascending and descending over a C major tonal centre.   "
 },
@@ -2705,7 +2732,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-scale-exercise-cmaj7-in-triads.html#fig-scale-exercise-cmaj7-variation",
   "type": "Figure",
-  "number": "15.2.2",
+  "number": "16.2.2",
   "title": "",
   "body": " Cmaj7 scale exercise in triads — descending variation.   "
 },
@@ -2714,7 +2741,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-scale-exercise-cmaj7-in-sevenths.html",
   "type": "Section",
-  "number": "15.3",
+  "number": "16.3",
   "title": "Cmaj — Diatonic 7th Chord Arpeggios",
   "body": " Cmaj — Diatonic 7th Chord Arpeggios  This exercise arpeggiates each diatonic seventh chord in C major in sequence: Cmaj7, Dm7, Em7, Fmaj7, G7, Am7, Bm7♭5, and Cmaj7 an octave higher.   Diatonic 7th chord arpeggios in C major    "
 },
@@ -2723,7 +2750,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-scale-exercise-cmaj7-in-sevenths.html#fig-scale-exercise-cmaj7-in-sevenths",
   "type": "Figure",
-  "number": "15.3.1",
+  "number": "16.3.1",
   "title": "",
   "body": " Diatonic 7th chord arpeggios in C major   "
 },
@@ -2732,7 +2759,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-scale-exercise-cmaj7-thirds-chromatic.html",
   "type": "Section",
-  "number": "15.4",
+  "number": "16.4",
   "title": "Cmaj — In Thirds with Chromatic Pickups",
   "body": " Cmaj — In Thirds with Chromatic Pickups  This exercise moves through the C major scale in diatonic thirds in 6\/8 time. Each group of three eighth notes begins with a chromatic leading note a semitone below the target followed by the diatonic third above.   C major scale in diatonic thirds with chromatic pickups    "
 },
@@ -2741,7 +2768,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-scale-exercise-cmaj7-thirds-chromatic.html#fig-scale-exercise-cmaj7-thirds-chromatic",
   "type": "Figure",
-  "number": "15.4.1",
+  "number": "16.4.1",
   "title": "",
   "body": " C major scale in diatonic thirds with chromatic pickups   "
 },
@@ -2750,7 +2777,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-scale-exercise-cmaj7-triads-chromatic.html",
   "type": "Section",
-  "number": "15.5",
+  "number": "16.5",
   "title": "Cmaj — In Triads with Chromatic Pickups",
   "body": " Cmaj — In Triads with Chromatic Pickups     C major diatonic triads with chromatic pickups    "
 },
@@ -2759,7 +2786,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-scale-exercise-cmaj7-triads-chromatic.html#fig-scale-exercise-cmaj7-triads-chromatic",
   "type": "Figure",
-  "number": "15.5.1",
+  "number": "16.5.1",
   "title": "",
   "body": " C major diatonic triads with chromatic pickups   "
 },
@@ -2768,7 +2795,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-scale-exercise-7ths-chromatic.html",
   "type": "Section",
-  "number": "15.6",
+  "number": "16.6",
   "title": "7th Chords — With Chromatic Pickups",
   "body": " 7th Chords — With Chromatic Pickups     Diatonic 7th chord arpeggios with chromatic pickups    "
 },
@@ -2777,7 +2804,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-scale-exercise-7ths-chromatic.html#fig-scale-exercise-7ths-chromatic",
   "type": "Figure",
-  "number": "15.6.1",
+  "number": "16.6.1",
   "title": "",
   "body": " Diatonic 7th chord arpeggios with chromatic pickups   "
 },
@@ -2786,7 +2813,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-scale-exercise-harry-likas-pivots-surrounds.html",
   "type": "Section",
-  "number": "15.7",
+  "number": "16.7",
   "title": "Alternate Pivots and Surrounds Down the C Bop Scale",
   "body": " Alternate Pivots and Surrounds Down the C Bop Scale  Arranged by Harry Likas, this exercise alternates Barry Harris' two favourite embellishments down the C scale with a b6 added to the scale.  The pivot is any inverted triad arpeggio. The surround in this case is a three-note enclosure of a note: you approach it from above and then from a half step below. These two patterns alternate continuously as the melody descends through the C bop scale over a I–IV–♯iv°7–I\/5–VI7–ii-7–V7 chord progression at ♩ = 136.   Alternate pivots and surrounds down the C bop scale — arranged by Harry Likas. Scale degree numbers above the melody indicate position in the C bop scale (8 down to 1).    "
 },
@@ -2804,7 +2831,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-scale-exercise-harry-likas-pivots-surrounds.html#fig-scale-exercise-harry-likas-pivots-surrounds",
   "type": "Figure",
-  "number": "15.7.1",
+  "number": "16.7.1",
   "title": "",
   "body": " Alternate pivots and surrounds down the C bop scale — arranged by Harry Likas. Scale degree numbers above the melody indicate position in the C bop scale (8 down to 1).   "
 },
@@ -2813,7 +2840,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-scale-exercise-harry-likas-additional-p2.html",
   "type": "Section",
-  "number": "15.8",
+  "number": "16.8",
   "title": "Additional Exercises — Pivots, Surrounds and More (Page 2)",
   "body": " Additional Exercises — Pivots, Surrounds and More (Page 2)  This page by Harry Likas continues the pivot and surround concepts with further exercises. It covers 7th chord patterns (ascending and descending), chromatic approach notes to 7th chords, and explains the pivot and surround in more detail:  The surround encloses a target note by approaching from above and below by half steps. The pivot rearranges the notes of an arpeggio to give it a different shape. The page demonstrates four combinations — 5-to-4 pivot, 4-to-3 surround, 3-to-2 pivot, and 2-to-1 surround — as well as the 5-4-3-2 and 8-7-6-b6 descending sequences over a C b6 tonal centre. It also includes Oscar Peterson's famous blues break from his recording of \"C Jam Blues\" and Bill Evans motifs featuring multi-surrounds and arpeggio patterns.   Additional exercises by Harry Likas: 7th chord patterns, chromatic approach notes, pivot and surround combinations, Oscar Peterson blues break, and Bill Evans motifs.    "
 },
@@ -2831,7 +2858,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-scale-exercise-harry-likas-additional-p2.html#fig-scale-exercise-harry-likas-additional-p2",
   "type": "Figure",
-  "number": "15.8.1",
+  "number": "16.8.1",
   "title": "",
   "body": " Additional exercises by Harry Likas: 7th chord patterns, chromatic approach notes, pivot and surround combinations, Oscar Peterson blues break, and Bill Evans motifs.   "
 },
@@ -2840,7 +2867,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-scale-exercise-chromatic.html",
   "type": "Section",
-  "number": "15.9",
+  "number": "16.9",
   "title": "Chromatic Scale",
   "body": " Chromatic Scale  This exercise presents the chromatic scale in common time, ascending from middle C and descending back. Each scale tone of C major falls on the beat; the off-beat is filled with a chromatic passing tone (sharps ascending, flats descending). Where two consecutive scale tones already form a semitone — E to F and B to C ascending, F to E descending — no chromatic passing tone is available, so an upper scale tone is added instead to keep every note synchronised on the beat. The final bar completes the descent with four eighth notes and a half note on middle C.       "
 },
@@ -2849,7 +2876,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-scale-exercise-chromatic.html#fig-scale-exercise-chromatic",
   "type": "Figure",
-  "number": "15.9.1",
+  "number": "16.9.1",
   "title": "",
   "body": "    "
 },
@@ -2858,7 +2885,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-blank-chord-shape-template.html",
   "type": "Section",
-  "number": "16.1",
+  "number": "17.1",
   "title": "Blank Chord Shape Template",
   "body": " Blank Chord Shape Template                                                        "
 },
@@ -2867,7 +2894,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r1",
   "type": "Figure",
-  "number": "16.1.1",
+  "number": "17.1.1",
   "title": "",
   "body": "                "
 },
@@ -2876,7 +2903,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r2",
   "type": "Figure",
-  "number": "16.1.2",
+  "number": "17.1.2",
   "title": "",
   "body": "                "
 },
@@ -2885,7 +2912,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r3",
   "type": "Figure",
-  "number": "16.1.3",
+  "number": "17.1.3",
   "title": "",
   "body": "                "
 },
@@ -2894,7 +2921,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-chord-progression-template.html",
   "type": "Section",
-  "number": "16.2",
+  "number": "17.2",
   "title": "Extended Chord Progression Template",
   "body": " Extended Chord Progression Template  This template uses the shared 52-node extended 11-row grid layout, including the added lower and upper extension nodes.                                                        "
 },
@@ -2903,7 +2930,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r1",
   "type": "Figure",
-  "number": "16.2.1",
+  "number": "17.2.1",
   "title": "",
   "body": "                "
 },
@@ -2912,7 +2939,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r2",
   "type": "Figure",
-  "number": "16.2.2",
+  "number": "17.2.2",
   "title": "",
   "body": "                "
 },
@@ -2921,7 +2948,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r3",
   "type": "Figure",
-  "number": "16.2.3",
+  "number": "17.2.3",
   "title": "",
   "body": "                "
 },
@@ -2930,7 +2957,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-node-reference-grid.html",
   "type": "Section",
-  "number": "16.3",
+  "number": "17.3",
   "title": "Node Reference Grid (1–30)",
   "body": " Node Reference Grid (1–30)  The grid below numbers every node from (lowest C, bottom-right) to (highest G, top-left). Each diagonal band of five nodes rises from col 5 (right) to col 1 (left). To request a chord shape, simply name the node numbers to highlight — for example nodes 1, 7, 12 gives the C major triad (C, E, G).   Node numbering reference — node 1 is the lowest C (bottom-right); node 30 is the highest G (top-left).      Full lookup table — node number, note name, and \\gn address ( col , row ):      Node Note col row  Node Note col row   1  C  5 1.5  16 A  5 4.5  2  C♯\/D♭ 4 2  17 B♭\/A♯ 4 5  3  D  3 2.5  18 B  3 5.5  4  E♭\/D♯ 2 3  19 C  2 6  5  E  1 3.5  20 C♯\/D♭ 1 6.5  6  E♭\/D♯ 5 2.5  21 C  5 5.5  7  E  4 3  22 C♯\/D♭ 4 6  8  F  3 3.5  23 D  3 6.5  9  F♯\/G♭ 2 4  24 E♭\/D♯ 2 7  10 G  1 4.5  25 E  1 7.5  11 F♯\/G♭ 5 3.5  26 E♭\/D♯ 5 6.5  12 G  4 4  27 E  4 7  13 A♭\/G♯ 3 4.5  28 F  3 7.5  14 A  2 5  29 F♯\/G♭ 2 8  15 B♭\/A♯ 1 5.5  30 G  1 8.5   "
 },
@@ -2939,7 +2966,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-node-reference-grid.html#fig-node-reference",
   "type": "Figure",
-  "number": "16.3.1",
+  "number": "17.3.1",
   "title": "",
   "body": " Node numbering reference — node 1 is the lowest C (bottom-right); node 30 is the highest G (top-left).     "
 },
@@ -2948,7 +2975,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-grid1-highlight.html",
   "type": "Section",
-  "number": "16.4",
+  "number": "17.4",
   "title": "Grid 1 — Nodes 8, 14, 19, 27 (FMaj7)",
   "body": " Grid 1 — Nodes 8, 14, 19, 27 (FMaj7)   Nodes 8 (F), 14 (A), 19 (C), 27 (E) highlighted — FMaj7 shape.      "
 },
@@ -2957,7 +2984,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-grid1-highlight.html#fig-grid1-highlight",
   "type": "Figure",
-  "number": "16.4.1",
+  "number": "17.4.1",
   "title": "",
   "body": " Nodes 8 (F), 14 (A), 19 (C), 27 (E) highlighted — FMaj7 shape.     "
 },
@@ -2966,7 +2993,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-extended-grid-55-node-reference.html",
   "type": "Section",
-  "number": "16.5",
+  "number": "17.5",
   "title": "Extended Grid 1 — 55-Node Reference",
   "body": " Extended Grid 1 — 55-Node Reference  This reference shows all positions in the extended 11-row grid, with each node retaining its note label and carrying an identification number, including the added lower and upper extension nodes used by the drop-2 and chord-progression template figures.   Extended 11-row reference showing note labels and identification numbers for all 55 positions in the shared extended grid layout.      "
 },
@@ -2975,7 +3002,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-extended-grid-55-node-reference.html#fig-extended-grid-55-node-reference",
   "type": "Figure",
-  "number": "16.5.1",
+  "number": "17.5.1",
   "title": "",
   "body": " Extended 11-row reference showing note labels and identification numbers for all 55 positions in the shared extended grid layout.     "
 },
