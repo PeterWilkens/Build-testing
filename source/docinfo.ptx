@@ -190,7 +190,14 @@
 \gnref{2}{10}{F$\sharp$/G$\flat$}{53}%
 \gnref{5}{9.5}{F$\sharp$/G$\flat$}{54}%
 \gnref{4}{10}{G}{55}%
-} </latex-image-preamble>
+}%
+% faux-bold circle-of-fifths grid label: overprints text with tiny offsets so it
+% reads slightly heavier than \bfseries in both the PDF and SVG/web output
+\newcommand{\cofgridlabel}[1]{%
+  \foreach \cofdx/\cofdy in {0/0,0.15/0,-0.15/0,0/0.15,0/-0.15}{%
+    \node[font=\fontsize{8}{9}\selectfont\bfseries, align=center, anchor=south, xshift=\cofdx pt, yshift=\cofdy pt] at ({0.5*\xmax}, {\ymax+0.4}) {#1};%
+  }%
+}% </latex-image-preamble>
 
   <!-- It is possible to rename elements: -->
   <!-- <rename element="assemblage" xml:lang="en-US">Summary</rename> -->

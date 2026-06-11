@@ -769,7 +769,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {Am7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: A) grip 1a}};
+\cofgridlabel{Am7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: A) grip 1a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r7-g2"><latex-image>
@@ -839,7 +839,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {Dm7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: D) grip 1b}};
+\cofgridlabel{Dm7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: D) grip 1b}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r7-g3"><latex-image>
@@ -909,7 +909,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {Gm7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: G) grip 1a}};
+\cofgridlabel{Gm7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: G) grip 1a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r7-g4"><latex-image>
@@ -979,7 +979,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {Cm7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: C) grip 1b}};
+\cofgridlabel{Cm7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: C) grip 1b}}
 \end{tikzpicture}
     </latex-image></image>
   </sidebyside>
@@ -1053,7 +1053,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {Fm7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: F) grip 1a}};
+\cofgridlabel{Fm7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: F) grip 1a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r8-g2"><latex-image>
@@ -1123,7 +1123,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {B$\flat$m7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: B$\flat$) grip 1b}};
+\cofgridlabel{B$\flat$m7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: B$\flat$) grip 1b}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r8-g3"><latex-image>
@@ -1193,7 +1193,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {E$\flat$m7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: E$\flat$) grip 1a}};
+\cofgridlabel{E$\flat$m7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: E$\flat$) grip 1a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r8-g4"><latex-image>
@@ -1263,7 +1263,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {A$\flat$m7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: A$\flat$) grip 1b}};
+\cofgridlabel{A$\flat$m7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: A$\flat$) grip 1b}}
 \end{tikzpicture}
     </latex-image></image>
   </sidebyside>
@@ -1337,7 +1337,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {D$\flat$m7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: D$\flat$) grip 1a}};
+\cofgridlabel{D$\flat$m7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: D$\flat$) grip 1a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r9-g2"><latex-image>
@@ -1407,7 +1407,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {G$\flat$m7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: G$\flat$) grip 1b}};
+\cofgridlabel{G$\flat$m7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: G$\flat$) grip 1b}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r9-g3"><latex-image>
@@ -1477,7 +1477,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {Bm7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: B) grip 1a}};
+\cofgridlabel{Bm7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: B) grip 1a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r9-g4"><latex-image>
@@ -1547,7 +1547,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {Em7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: E) grip 1b}};
+\cofgridlabel{Em7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: E) grip 1b}}
 \end{tikzpicture}
     </latex-image></image>
   </sidebyside>
@@ -1625,7 +1625,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {Am7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: A) grip 1a}};
+\cofgridlabel{Am7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: A) grip 1a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r10-g2"><latex-image>
@@ -1695,7 +1695,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {D7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: D) grip 2a}};
+\cofgridlabel{D7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: D) grip 2a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r10-g3"><latex-image>
@@ -1765,7 +1765,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {Dm7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: D) grip 1b}};
+\cofgridlabel{Dm7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: D) grip 1b}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r10-g4"><latex-image>
@@ -1808,18 +1808,18 @@
 \gn{4}{4}{C$\sharp$/D$\flat$}{0}%
 \gn{3}{4.5}{D}{0}%
 \gn{2}{5}{E$\flat$/D$\sharp$}{0}%
-\gn{1}{5.5}{E}{0}%
+\gn{1}{5.5}{E}{1}%
 \gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
-\gn{4}{5}{E}{1}%
+\gn{4}{5}{E}{0}%
 \gn{3}{5.5}{F}{1}%
 \gn{2}{6}{F$\sharp$/G$\flat$}{0}%
 \gn{1}{6.5}{G}{0}%
 \gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{6}{G}{0}%
 \gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
-\gn{2}{7}{A}{0}%
+\gn{2}{7}{A}{1}%
 \gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
-\gn{5}{6.5}{A}{1}%
+\gn{5}{6.5}{A}{0}%
 \gn{4}{7}{B$\flat$/A$\sharp$}{0}%
 \gn{3}{7.5}{B}{0}%
 \gn{2}{8}{C}{0}%
@@ -1835,7 +1835,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {G7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: G) grip 2b}};
+\cofgridlabel{G7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: G) grip 2b}}
 \end{tikzpicture}
     </latex-image></image>
   </sidebyside>
@@ -1909,7 +1909,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {Gm7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: G) grip 1a}};
+\cofgridlabel{Gm7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: G) grip 1a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r11-g2"><latex-image>
@@ -1979,7 +1979,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {C7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: C) grip 2a}};
+\cofgridlabel{C7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: C) grip 2a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r11-g3"><latex-image>
@@ -2049,7 +2049,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {Cm7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: C) grip 1b}};
+\cofgridlabel{Cm7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: C) grip 1b}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r11-g4"><latex-image>
@@ -2119,7 +2119,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {F7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: F) grip 2b}};
+\cofgridlabel{F7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: F) grip 2b}}
 \end{tikzpicture}
     </latex-image></image>
   </sidebyside>
@@ -2193,7 +2193,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {Fm7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: F) grip 1a}};
+\cofgridlabel{Fm7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: F) grip 1a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r12-g2"><latex-image>
@@ -2263,7 +2263,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {B$\flat$7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: B$\flat$) grip 2a}};
+\cofgridlabel{B$\flat$7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: B$\flat$) grip 2a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r12-g3"><latex-image>
@@ -2333,7 +2333,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {B$\flat$m7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: B$\flat$) grip 1b}};
+\cofgridlabel{B$\flat$m7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: B$\flat$) grip 1b}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r12-g4"><latex-image>
@@ -2403,7 +2403,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {E$\flat$7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: E$\flat$) grip 2b}};
+\cofgridlabel{E$\flat$7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: E$\flat$) grip 2b}}
 \end{tikzpicture}
     </latex-image></image>
   </sidebyside>
@@ -2477,7 +2477,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {E$\flat$m7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: E$\flat$) grip 1a}};
+\cofgridlabel{E$\flat$m7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: E$\flat$) grip 1a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r13-g2"><latex-image>
@@ -2547,7 +2547,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {A$\flat$7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: A$\flat$) grip 2a}};
+\cofgridlabel{A$\flat$7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: A$\flat$) grip 2a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r13-g3"><latex-image>
@@ -2617,7 +2617,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {A$\flat$m7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: A$\flat$) grip 1b}};
+\cofgridlabel{A$\flat$m7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: A$\flat$) grip 1b}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r13-g4"><latex-image>
@@ -2687,7 +2687,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {D$\flat$7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: D$\flat$) grip 2b}};
+\cofgridlabel{D$\flat$7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: D$\flat$) grip 2b}}
 \end{tikzpicture}
     </latex-image></image>
   </sidebyside>
@@ -2761,7 +2761,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {D$\flat$m7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: D$\flat$) grip 1a}};
+\cofgridlabel{D$\flat$m7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: D$\flat$) grip 1a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r14-g2"><latex-image>
@@ -2831,7 +2831,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {G$\flat$7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: G$\flat$) grip 2a}};
+\cofgridlabel{G$\flat$7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: G$\flat$) grip 2a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r14-g3"><latex-image>
@@ -2901,7 +2901,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {G$\flat$m7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: G$\flat$) grip 1b}};
+\cofgridlabel{G$\flat$m7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: G$\flat$) grip 1b}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r14-g4"><latex-image>
@@ -2971,7 +2971,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {B7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: B) grip 2b}};
+\cofgridlabel{B7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: B) grip 2b}}
 \end{tikzpicture}
     </latex-image></image>
   </sidebyside>
@@ -3045,7 +3045,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {Bm7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: B) grip 1a}};
+\cofgridlabel{Bm7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: B) grip 1a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r15-g2"><latex-image>
@@ -3115,7 +3115,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {E7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: E) grip 2a}};
+\cofgridlabel{E7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: E) grip 2a}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r15-g3"><latex-image>
@@ -3185,7 +3185,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {Em7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: E) grip 1b}};
+\cofgridlabel{Em7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: E) grip 1b}}
 \end{tikzpicture}
     </latex-image></image>
     <image xml:id="img-gm-cof-r15-g4"><latex-image>
@@ -3255,7 +3255,7 @@
 \gn{2}{10}{F$\sharp$/G$\flat$}{0}%
 \gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
 \gn{4}{10}{G}{0}%
-\node[font=\fontsize{6}{7}\selectfont\bfseries, align=center, anchor=south] at ({0.5*\xmax}, {\ymax+0.4}) {A7\\[-1pt]{\fontsize{5}{5.5}\selectfont(bass: A) grip 2b}};
+\cofgridlabel{A7\\[-1pt]{\fontsize{6}{7}\selectfont\bfseries(bass: A) grip 2b}}
 \end{tikzpicture}
     </latex-image></image>
   </sidebyside>
