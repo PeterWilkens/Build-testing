@@ -318,6 +318,382 @@
 
   </section>
 
+  <section xml:id="sec-grip-method-four-grips-alt-fingerings">
+    <title>Alternative fingerings of the four grids on the chromatic button accordion</title>
+
+    <p>
+      The grids below show <em>alternative fingerings</em> for the four important grips. On the chromatic button accordion. Buttons in column 4 and 5 on the treble keyboard are duplicates, which enables alternative fingerings of identical notes. This is particularly important where chords are at the exteme left or right of the keyboard.
+    </p>
+
+    <figure xml:id="fig-gm-all-four-alt">
+      <caption>(The Lydian Dominant grip is a maj7 voicing with a flattened 5th)</caption>
+      <sidebyside widths="18% 18% 18% 18% 18%" margins="2%">
+
+        <!-- ========== Grip 1a: Cat A maj7 — F A C E (3 5 7 9) ========== -->
+        <stack>
+          <image xml:id="img-gm-grip1a-alt">
+            <latex-image>
+\begin{tikzpicture}[scale=0.66, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+%% — fixed-extent edge marks (identical x in all four grids → uniform crop width) —
+\fill[gray!18] (0,{4*\vlen}) circle (0.04);
+\fill[gray!18] (\xmax,{4*\vlen}) circle (0.04);
+%% — title above grid —
+\node[font=\normalsize\bfseries, align=center]
+  at ({\xmax/2},{9.8*\vlen}) {Grip 1a};
+\node[font=\small, align=center]
+  at ({\xmax/2},{9.15*\vlen}) {Category A \textbullet{} Major 7th};
+%% — grid and all note buttons —
+\drawgridandnotes
+\gn{5}{1.5}{C}{0}
+\gn{4}{2}{C$\sharp$, D$\flat$}{0}
+\gn{3}{2.5}{D}{0}
+\gn{2}{3}{E$\flat$, D$\sharp$}{0}
+\gn{1}{3.5}{E}{0}
+\gn{5}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{3}{E}{0}
+\gn{3}{3.5}{\shortstack{\textbf{F}\\{\scriptsize\bfseries 3rd}}}{1}
+\gn{2}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{4.5}{G}{0}
+\gn{5}{3.5}{G$\flat$, F$\sharp$}{0}
+\gn{4}{4}{G}{0}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{2}{5}{\shortstack{\textbf{A}\\{\scriptsize\bfseries 5th}}}{1}
+\gn{1}{5.5}{B$\flat$, A$\sharp$}{0}
+\gn{5}{4.5}{A}{0}
+\gn{4}{5}{B$\flat$, A$\sharp$}{0}
+\gn{3}{5.5}{B}{0}
+\gn{2}{6}{\shortstack{\textbf{C}\\{\scriptsize\bfseries 7th}}}{1}
+\gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
+\gn{5}{5.5}{C}{0}
+\gn{4}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{D}{0}
+\gn{2}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{7.5}{\shortstack{\textbf{E}\\{\scriptsize\bfseries 9th}}}{1}
+\gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{7}{\shortstack{\textbf{E}\\{\scriptsize\bfseries 9th}}}{0}
+\gn{3}{7.5}{F}{0}
+\gn{2}{8}{G$\flat$, F$\sharp$}{0}
+\gn{1}{8.5}{G}{0}
+%% — note-name summary below grid —
+\node[font=\small\bfseries, align=center]
+  at ({\xmax/2},{-0.55*\vlen}) {F \textbullet{} A \textbullet{} C \textbullet{} E};
+\node[font=\scriptsize, align=center]
+  at ({\xmax/2},{-1.15*\vlen}) {3rd \textbullet{} 5th \textbullet{} 7th \textbullet{} 9th};
+\end{tikzpicture}
+            </latex-image>
+          </image>
+
+          <image xml:id="img-gm-notation1a-alt" source="notation/grip-1a" width="100%">
+            <shortdescription>Staff notation for Grip 1a: F A C E</shortdescription>
+          </image>
+          <p><em>Grip 1a</em></p>
+          <p>Cat A maj7 grip</p>
+          <p> Dmaj9 if bass is D</p>
+        </stack>
+
+        <!-- ========== Grip 2a: Cat A Lydian Dominant — F A B E (3 5 ♭7 9) ========== -->
+        <stack>
+          <image xml:id="img-gm-grip2a-alt">
+            <latex-image>
+\begin{tikzpicture}[scale=0.66, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+%% — fixed-extent edge marks (identical x in all four grids → uniform crop width) —
+\fill[gray!18] (0,{4*\vlen}) circle (0.04);
+\fill[gray!18] (\xmax,{4*\vlen}) circle (0.04);
+%% — title above grid —
+\node[font=\normalsize\bfseries, align=center]
+  at ({\xmax/2},{9.8*\vlen}) {Grip 2a};
+\node[font=\small, align=center]
+  at ({\xmax/2},{9.15*\vlen}) {Category A \textbullet{} Lydian Dom.};
+%% — grid and all note buttons —
+\drawgridandnotes
+\gn{5}{1.5}{C}{0}
+\gn{4}{2}{C$\sharp$, D$\flat$}{0}
+\gn{3}{2.5}{D}{0}
+\gn{2}{3}{E$\flat$, D$\sharp$}{0}
+\gn{1}{3.5}{E}{0}
+\gn{5}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{3}{E}{0}
+\gn{3}{3.5}{\shortstack{\textbf{F}\\{\scriptsize\bfseries 3rd}}}{1}
+\gn{2}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{4.5}{G}{0}
+\gn{5}{3.5}{G$\flat$, F$\sharp$}{0}
+\gn{4}{4}{G}{0}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{2}{5}{\shortstack{\textbf{A}\\{\scriptsize\bfseries 5th}}}{1}
+\gn{1}{5.5}{B$\flat$, A$\sharp$}{0}
+\gn{5}{4.5}{A}{0}
+\gn{4}{5}{B$\flat$, A$\sharp$}{0}
+\gn{3}{5.5}{\shortstack{\textbf{B}\\{\scriptsize\bfseries $\flat$7th}}}{1}
+\gn{2}{6}{C}{0}
+\gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
+\gn{5}{5.5}{C}{0}
+\gn{4}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{D}{0}
+\gn{2}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{7.5}{\shortstack{\textbf{E}\\{\scriptsize\bfseries 9th}}}{1}
+\gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{7}{\shortstack{\textbf{E}\\{\scriptsize\bfseries 9th}}}{0}
+\gn{3}{7.5}{F}{0}
+\gn{2}{8}{G$\flat$, F$\sharp$}{0}
+\gn{1}{8.5}{G}{0}
+%% — note-name summary below grid —
+\node[font=\small\bfseries, align=center]
+  at ({\xmax/2},{-0.55*\vlen}) {F \textbullet{} A \textbullet{} B \textbullet{} E};
+\node[font=\scriptsize, align=center]
+  at ({\xmax/2},{-1.15*\vlen}) {3rd \textbullet{} 5th \textbullet{} \(\flat\)7th \textbullet{} 9th};
+\end{tikzpicture}
+            </latex-image>
+          </image>
+
+          <image xml:id="img-gm-notation2a-alt" source="notation/grip-2a" width="100%">
+            <shortdescription>Staff notation for Grip 2a: F A B E</shortdescription>
+          </image>
+
+          <p><em>Grip 2a</em></p> 
+          <p>Cat A Lyd. Dom grip.</p>
+          <p>D9 if bass is D </p>
+        </stack>
+
+        <!-- ========== Grip 1b: Cat B maj7 — F A Bb D (7 9 3 5) ========== -->
+        <stack>
+          <image xml:id="img-gm-grip1b-alt">
+            <latex-image>
+\begin{tikzpicture}[scale=0.66, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+%% — fixed-extent edge marks (identical x in all four grids → uniform crop width) —
+\fill[gray!18] (0,{4*\vlen}) circle (0.04);
+\fill[gray!18] (\xmax,{4*\vlen}) circle (0.04);
+%% — title above grid —
+\node[font=\normalsize\bfseries, align=center]
+  at ({\xmax/2},{9.8*\vlen}) {Grip 1b};
+\node[font=\small, align=center]
+  at ({\xmax/2},{9.15*\vlen}) {Category B \textbullet{} Major 7th};
+%% — grid and all note buttons —
+\drawgridandnotes
+\gn{5}{1.5}{C}{0}
+\gn{4}{2}{C$\sharp$, D$\flat$}{0}
+\gn{3}{2.5}{D}{0}
+\gn{2}{3}{E$\flat$, D$\sharp$}{0}
+\gn{1}{3.5}{E}{0}
+\gn{5}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{3}{E}{0}
+\gn{3}{3.5}{\shortstack{\textbf{F}\\{\scriptsize\bfseries 7th}}}{1}
+\gn{2}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{4.5}{G}{0}
+\gn{5}{3.5}{G$\flat$, F$\sharp$}{0}
+\gn{4}{4}{G}{0}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{2}{5}{\shortstack{\textbf{A}\\{\scriptsize\bfseries 9th}}}{1}
+\gn{1}{5.5}{\shortstack{\textbf{B$\flat$}\\{\scriptsize\bfseries 3rd}}}{0}
+\gn{5}{4.5}{A}{0}
+\gn{4}{5}{\shortstack{\textbf{B$\flat$}\\{\scriptsize\bfseries 3rd}}}{1}
+\gn{3}{5.5}{B}{0}
+\gn{2}{6}{C}{0}
+\gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
+\gn{5}{5.5}{C}{0}
+\gn{4}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{\shortstack{\textbf{D}\\{\scriptsize\bfseries 5th}}}{1}
+\gn{2}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{7.5}{E}{0}
+\gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{7}{E}{0}
+\gn{3}{7.5}{F}{0}
+\gn{2}{8}{G$\flat$, F$\sharp$}{0}
+\gn{1}{8.5}{G}{0}
+%% — note-name summary below grid —
+\node[font=\small\bfseries, align=center]
+  at ({\xmax/2},{-0.55*\vlen}) {F \textbullet{} A \textbullet{} B\(\flat\) \textbullet{} D};
+\node[font=\scriptsize, align=center]
+  at ({\xmax/2},{-1.15*\vlen}) {7th \textbullet{} 9th \textbullet{} 3rd \textbullet{} 5th};
+\end{tikzpicture}
+            </latex-image>
+          </image>
+
+          <image xml:id="img-gm-notation1b-alt" source="notation/grip-1b" width="100%">
+            <shortdescription>Staff notation for Grip 1b: F A Bb D</shortdescription>
+          </image>
+
+          <p><em>Grip 1b</em> </p>
+          <p>Cat B maj7 grip</p>
+          <p>Inversion of Grip 1a</p>
+        </stack>
+
+        <!-- ========== Grip 2b: Cat B Lydian Dominant — E A Bb D (♭7 9 3 5) ========== -->
+        <stack>
+          <image xml:id="img-gm-grip2b-alt">
+            <latex-image>
+\begin{tikzpicture}[scale=0.66, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+%% — fixed-extent edge marks (identical x in all four grids → uniform crop width) —
+\fill[gray!18] (0,{4*\vlen}) circle (0.04);
+\fill[gray!18] (\xmax,{4*\vlen}) circle (0.04);
+%% — title above grid —
+\node[font=\normalsize\bfseries, align=center]
+  at ({\xmax/2},{9.8*\vlen}) {Grip 2b};
+\node[font=\small, align=center]
+  at ({\xmax/2},{9.15*\vlen}) {Category B \textbullet{} Lydian Dom.};
+%% — grid and all note buttons —
+\drawgridandnotes
+\gn{5}{1.5}{C}{0}
+\gn{4}{2}{C$\sharp$, D$\flat$}{0}
+\gn{3}{2.5}{D}{0}
+\gn{2}{3}{E$\flat$, D$\sharp$}{0}
+\gn{1}{3.5}{E}{0}
+\gn{5}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{3}{\shortstack{\textbf{E}\\{\scriptsize\bfseries $\flat$7th}}}{1}
+\gn{3}{3.5}{F}{0}
+\gn{2}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{4.5}{G}{0}
+\gn{5}{3.5}{G$\flat$, F$\sharp$}{0}
+\gn{4}{4}{G}{0}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{2}{5}{\shortstack{\textbf{A}\\{\scriptsize\bfseries 9th}}}{1}
+\gn{1}{5.5}{\shortstack{\textbf{B$\flat$}\\{\scriptsize\bfseries 3rd}}}{0}
+\gn{5}{4.5}{A}{0}
+\gn{4}{5}{\shortstack{\textbf{B$\flat$}\\{\scriptsize\bfseries 3rd}}}{1}
+\gn{3}{5.5}{B}{0}
+\gn{2}{6}{C}{0}
+\gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
+\gn{5}{5.5}{C}{0}
+\gn{4}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{\shortstack{\textbf{D}\\{\scriptsize\bfseries 5th}}}{1}
+\gn{2}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{7.5}{E}{0}
+\gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{7}{E}{0}
+\gn{3}{7.5}{F}{0}
+\gn{2}{8}{G$\flat$, F$\sharp$}{0}
+\gn{1}{8.5}{G}{0}
+%% — note-name summary below grid —
+\node[font=\small\bfseries, align=center]
+  at ({\xmax/2},{-0.55*\vlen}) {E \textbullet{} A \textbullet{} B\(\flat\) \textbullet{} D};
+\node[font=\scriptsize, align=center]
+  at ({\xmax/2},{-1.15*\vlen}) {\(\flat\)7th \textbullet{} 9th \textbullet{} 3rd \textbullet{} 5th};
+\end{tikzpicture}
+            </latex-image>
+          </image>
+
+          <image xml:id="img-gm-notation2b-alt" source="notation/grip-2b" width="100%">
+            <shortdescription>Staff notation for Grip 2b: E A Bb D</shortdescription>
+          </image>
+
+          <p><em>Grip 2b</em> </p>
+          <p>Cat B Lyd. Dom grip.  </p>
+          <p>Inversion of Grip 2a</p>
+        </stack>
+
+        <!-- ========== Grip 2b (alt): Cat B Lydian Dominant — E A Bb D (♭7 9 3 5), 7th fingered in column 1 ========== -->
+        <stack>
+          <image xml:id="img-gm-grip2b-alt2">
+            <latex-image>
+\begin{tikzpicture}[scale=0.66, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+%% — fixed-extent edge marks (identical x in all four grids → uniform crop width) —
+\fill[gray!18] (0,{4*\vlen}) circle (0.04);
+\fill[gray!18] (\xmax,{4*\vlen}) circle (0.04);
+%% — title above grid —
+\node[font=\normalsize\bfseries, align=center]
+  at ({\xmax/2},{9.8*\vlen}) {Grip 2b};
+\node[font=\small, align=center]
+  at ({\xmax/2},{9.15*\vlen}) {Category B \textbullet{} Lydian Dom.};
+%% — grid and all note buttons —
+\drawgridandnotes
+\gn{5}{1.5}{C}{0}
+\gn{4}{2}{C$\sharp$, D$\flat$}{0}
+\gn{3}{2.5}{D}{0}
+\gn{2}{3}{E$\flat$, D$\sharp$}{0}
+\gn{1}{3.5}{\shortstack{\textbf{E}\\{\scriptsize\bfseries $\flat$7th}}}{1}
+\gn{5}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{3}{E}{0}
+\gn{3}{3.5}{F}{0}
+\gn{2}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{4.5}{G}{0}
+\gn{5}{3.5}{G$\flat$, F$\sharp$}{0}
+\gn{4}{4}{G}{0}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{2}{5}{\shortstack{\textbf{A}\\{\scriptsize\bfseries 9th}}}{1}
+\gn{1}{5.5}{\shortstack{\textbf{B$\flat$}\\{\scriptsize\bfseries 3rd}}}{1}
+\gn{5}{4.5}{A}{0}
+\gn{4}{5}{B$\flat$, A$\sharp$}{0}
+\gn{3}{5.5}{B}{0}
+\gn{2}{6}{C}{0}
+\gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
+\gn{5}{5.5}{C}{0}
+\gn{4}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{\shortstack{\textbf{D}\\{\scriptsize\bfseries 5th}}}{1}
+\gn{2}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{7.5}{E}{0}
+\gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{7}{E}{0}
+\gn{3}{7.5}{F}{0}
+\gn{2}{8}{G$\flat$, F$\sharp$}{0}
+\gn{1}{8.5}{G}{0}
+%% — note-name summary below grid —
+\node[font=\small\bfseries, align=center]
+  at ({\xmax/2},{-0.55*\vlen}) {E \textbullet{} A \textbullet{} B\(\flat\) \textbullet{} D};
+\node[font=\scriptsize, align=center]
+  at ({\xmax/2},{-1.15*\vlen}) {\(\flat\)7th \textbullet{} 9th \textbullet{} 3rd \textbullet{} 5th};
+\end{tikzpicture}
+            </latex-image>
+          </image>
+
+          <image xml:id="img-gm-notation2b-alt2" source="notation/grip-2b" width="100%">
+            <shortdescription>Staff notation for Grip 2b: E A Bb D</shortdescription>
+          </image>
+
+          <p><em>Grip 2b</em> </p>
+          <p>Cat B Lyd. Dom grip.  </p>
+          <p>Inversion of Grip 2a</p>
+        </stack>
+
+      </sidebyside>
+    </figure>
+
+
+  </section>
+
   <section xml:id="sec-grip-method-maj7-cof">
     <title>Chord voicings cycling through the circle of fifths</title>
 
