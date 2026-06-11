@@ -2095,7 +2095,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "13.1",
   "title": "The Four Core Grips",
-  "body": " The Four Core Grips  The grids below show four important grips that will be used in progressions later in this section with different base notes. The chord produced by the grip is dependant on the bass note (not shown in grid below). Highlighted buttons are the chord tones; the label above each grid shows the grip name and quality; the label below shows the note names and their chord-tone functions.   (The Lydian Dominant grip is a maj7 voicing with a flattened 5th)         Staff notation for Grip 1a: F A C E   Grip 1a  Cat A maj7 grip  Dmaj9 if bass is D         Staff notation for Grip 2a: F A B E   Grip 2a  Cat A Lyd. Dom grip.  D9 if bass is D         Staff notation for Grip 1b: F A Bb D   Grip 1b   Cat B maj7 grip  Inversion of Grip 1a         Staff notation for Grip 2b: E A Bb D   Grip 2b   Cat B Lyd. Dom grip.  Inversion of Grip 2a     "
+  "body": " The Four Core Grips  The grids below show four important grips that will be used in progressions later in this section with different base notes. The chord produced by the grip is dependant on the bass note (not shown in grid below). Highlighted buttons are the chord tones; the label above each grid shows the grip name and quality; the label below shows the note names and their chord-tone functions.   (The Lydian Dominant grip is a maj7 voicing with a flattened 5th)         Staff notation for Grip 1a: F A C E   Grip 1a  Cat A maj7 grip  Dm9 if bass is D         Staff notation for Grip 2a: F A B E   Grip 2a  Cat A Lyd. Dom grip.  D9 if bass is D         Staff notation for Grip 1b: F A Bb D   Grip 1b   Cat B maj7 grip  Inversion of Grip 1a         Staff notation for Grip 2b: E A Bb D   Grip 2b   Cat B Lyd. Dom grip.  Inversion of Grip 2a     "
 },
 {
   "id": "fig-gm-all-four",
@@ -2104,7 +2104,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "13.1.1",
   "title": "",
-  "body": " (The Lydian Dominant grip is a maj7 voicing with a flattened 5th)         Staff notation for Grip 1a: F A C E   Grip 1a  Cat A maj7 grip  Dmaj9 if bass is D         Staff notation for Grip 2a: F A B E   Grip 2a  Cat A Lyd. Dom grip.  D9 if bass is D         Staff notation for Grip 1b: F A Bb D   Grip 1b   Cat B maj7 grip  Inversion of Grip 1a         Staff notation for Grip 2b: E A Bb D   Grip 2b   Cat B Lyd. Dom grip.  Inversion of Grip 2a    "
+  "body": " (The Lydian Dominant grip is a maj7 voicing with a flattened 5th)         Staff notation for Grip 1a: F A C E   Grip 1a  Cat A maj7 grip  Dm9 if bass is D         Staff notation for Grip 2a: F A B E   Grip 2a  Cat A Lyd. Dom grip.  D9 if bass is D         Staff notation for Grip 1b: F A Bb D   Grip 1b   Cat B maj7 grip  Inversion of Grip 1a         Staff notation for Grip 2b: E A Bb D   Grip 2b   Cat B Lyd. Dom grip.  Inversion of Grip 2a    "
 },
 {
   "id": "sec-grip-method-four-grips-alt-fingerings",
