@@ -2107,13 +2107,31 @@ var ptx_lunr_docs = [
   "body": " (The Lydian Dominant grip is a maj7 voicing with a flattened 5th)         Staff notation for Grip 1a: F A C E   Grip 1a  Cat A maj7 grip  Dmaj9 if bass is D         Staff notation for Grip 2a: F A B E   Grip 2a  Cat A Lyd. Dom grip.  D9 if bass is D         Staff notation for Grip 1b: F A Bb D   Grip 1b   Cat B maj7 grip  Inversion of Grip 1a         Staff notation for Grip 2b: E A Bb D   Grip 2b   Cat B Lyd. Dom grip.  Inversion of Grip 2a    "
 },
 {
+  "id": "sec-grip-method-four-grips-alt-fingerings",
+  "level": "1",
+  "url": "sec-grip-method-four-grips-alt-fingerings.html",
+  "type": "Section",
+  "number": "13.2",
+  "title": "Alternative fingerings of the four grips on the chromatic button accordion",
+  "body": " Alternative fingerings of the four grips on the chromatic button accordion  The grids below show alternative fingerings for the four important grips. On the chromatic button accordion. Buttons in column 4 and 5 on the treble keyboard are duplicates, which enables alternative fingerings of identical notes. This is particularly important where chords are at the exteme left or right of the keyboard.   (The Lydian Dominant grip is a maj7 voicing with a flattened 5th)         Staff notation for Grip 1a: F A C E   Grip 1a  Cat A maj7 grip  Dmaj9 if bass is D         Staff notation for Grip 2a: F A B E   Grip 2a  Cat A Lyd. Dom grip.  D9 if bass is D         Staff notation for Grip 1b: F A Bb D   Grip 1b   Cat B maj7 grip  Inversion of Grip 1a         Staff notation for Grip 2b: E A Bb D   Grip 2b   Cat B Lyd. Dom grip.  Inversion of Grip 2a         Staff notation for Grip 2b: E A Bb D   Grip 2b   Cat B Lyd. Dom grip.  Inversion of Grip 2a     "
+},
+{
+  "id": "fig-gm-all-four-alt",
+  "level": "2",
+  "url": "sec-grip-method-four-grips-alt-fingerings.html#fig-gm-all-four-alt",
+  "type": "Figure",
+  "number": "13.2.1",
+  "title": "",
+  "body": " (The Lydian Dominant grip is a maj7 voicing with a flattened 5th)         Staff notation for Grip 1a: F A C E   Grip 1a  Cat A maj7 grip  Dmaj9 if bass is D         Staff notation for Grip 2a: F A B E   Grip 2a  Cat A Lyd. Dom grip.  D9 if bass is D         Staff notation for Grip 1b: F A Bb D   Grip 1b   Cat B maj7 grip  Inversion of Grip 1a         Staff notation for Grip 2b: E A Bb D   Grip 2b   Cat B Lyd. Dom grip.  Inversion of Grip 2a         Staff notation for Grip 2b: E A Bb D   Grip 2b   Cat B Lyd. Dom grip.  Inversion of Grip 2a    "
+},
+{
   "id": "sec-grip-method-maj7-cof",
   "level": "1",
   "url": "sec-grip-method-maj7-cof.html",
   "type": "Section",
-  "number": "13.2",
-  "title": "Chord voicings cycling through the circle of fifths",
-  "body": " Chord voicings cycling through the circle of fifths   1st 12 grids: m7 to m7 through the circle of fifths                        13 to 36 grids: cycling m7 to dom7 through the circle of fifths                                             "
+  "number": "13.3",
+  "title": "Chord voicings cycling through the circle of fifths using the grip system",
+  "body": " Chord voicings cycling through the circle of fifths using the grip system   1st 12 grids: m7 to m7 through the circle of fifths                        13 to 36 grids: cycling m7 to dom7 through the circle of fifths                                             "
 },
 {
   "id": "sec-barry-harris-intro",
