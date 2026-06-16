@@ -3294,8 +3294,8 @@
         <cell>Am7</cell>
         <cell>A</cell>
         <cell>Ami7</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>D</cell>
+        <cell>Dsus</cell>
       </row>
       <row bottom="minor">
         <cell>2a</cell>
@@ -3303,8 +3303,8 @@
         <cell>D7</cell>
         <cell>A♭</cell>
         <cell>A♭7alt</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>D</cell>
+        <cell>D7</cell>
       </row>
       <row bottom="minor">
         <cell>1b</cell>
@@ -3312,8 +3312,8 @@
         <cell>Dm7</cell>
         <cell>G</cell>
         <cell>Gsus</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>G</cell>
+        <cell>Gsus</cell>
       </row>
       <row bottom="minor">
         <cell>2b</cell>
@@ -3321,188 +3321,188 @@
         <cell>G7</cell>
         <cell>G</cell>
         <cell>G7</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>G</cell>
+        <cell>G7</cell>
       </row>
       <row bottom="minor">
         <cell>1a</cell>
         <cell>G</cell>
         <cell>Gm7</cell>
         <cell>G</cell>
-        <cell>G♭7alt</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>Gm7</cell>
+        <cell>C</cell>
+        <cell>Csus</cell>
       </row>
       <row bottom="minor">
         <cell>2a</cell>
         <cell>C</cell>
         <cell>C7</cell>
         <cell>G♭</cell>
-        <cell>Fsus</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>G♭7alt</cell>
+        <cell>C</cell>
+        <cell>C7</cell>
       </row>
       <row bottom="minor">
         <cell>1b</cell>
         <cell>C</cell>
         <cell>Cm7</cell>
         <cell>F</cell>
-        <cell>F7</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>Fsus</cell>
+        <cell>F</cell>
+        <cell>Fsus</cell>
       </row>
       <row bottom="minor">
         <cell>2b</cell>
         <cell>F</cell>
         <cell>F7</cell>
         <cell>F</cell>
-        <cell>Fmi7</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>F7</cell>
+        <cell>F</cell>
+        <cell>F7</cell>
       </row>
       <row bottom="minor">
         <cell>1a</cell>
         <cell>F</cell>
         <cell>Fm7</cell>
         <cell>F</cell>
-        <cell>E7alt</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>Fmi7</cell>
+        <cell>B♭</cell>
+        <cell>B♭sus</cell>
       </row>
       <row bottom="minor">
         <cell>2a</cell>
         <cell>B♭</cell>
         <cell>B♭7</cell>
         <cell>E</cell>
-        <cell>E♭sus</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>E7alt</cell>
+        <cell>B♭</cell>
+        <cell>B♭7</cell>
       </row>
       <row bottom="minor">
         <cell>1b</cell>
         <cell>B♭</cell>
         <cell>B♭m7</cell>
         <cell>E♭</cell>
-        <cell>E♭7</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>E♭sus</cell>
+        <cell>E♭</cell>
+        <cell>E♭sus</cell>
       </row>
       <row bottom="minor">
         <cell>2b</cell>
         <cell>E♭</cell>
         <cell>E♭7</cell>
         <cell>E♭</cell>
-        <cell>E♭mi7</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>E♭7</cell>
+        <cell>E♭</cell>
+        <cell>E♭7</cell>
       </row>
       <row bottom="minor">
         <cell>1a</cell>
         <cell>E♭</cell>
         <cell>E♭m7</cell>
         <cell>E♭</cell>
-        <cell>D7alt</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>E♭mi7</cell>
+        <cell>A♭</cell>
+        <cell>A♭sus</cell>
       </row>
       <row bottom="minor">
         <cell>2a</cell>
         <cell>A♭</cell>
         <cell>A♭7</cell>
         <cell>D</cell>
-        <cell>D♭sus</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>D7alt</cell>
+        <cell>A♭</cell>
+        <cell>A♭7</cell>
       </row>
       <row bottom="minor">
         <cell>1b</cell>
         <cell>A♭</cell>
         <cell>A♭m7</cell>
         <cell>D♭</cell>
-        <cell>D♭7</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>D♭sus</cell>
+        <cell>D♭</cell>
+        <cell>D♭sus</cell>
       </row>
       <row bottom="minor">
         <cell>2b</cell>
         <cell>D♭</cell>
         <cell>D♭7</cell>
         <cell>D♭</cell>
-        <cell>C♯mi7</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>D♭7</cell>
+        <cell>D♭</cell>
+        <cell>D♭7</cell>
       </row>
       <row bottom="minor">
         <cell>1a</cell>
         <cell>D♭</cell>
         <cell>D♭m7</cell>
         <cell>C♯</cell>
-        <cell>C7alt</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>C♯mi7</cell>
+        <cell>F♯</cell>
+        <cell>F♯sus</cell>
       </row>
       <row bottom="minor">
         <cell>2a</cell>
         <cell>G♭</cell>
         <cell>G♭7</cell>
         <cell>C</cell>
-        <cell>Bsus</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>C7alt</cell>
+        <cell>F♯</cell>
+        <cell>F♯7</cell>
       </row>
       <row bottom="minor">
         <cell>1b</cell>
         <cell>G♭</cell>
         <cell>G♭m7</cell>
         <cell>B</cell>
-        <cell>B7</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>Bsus</cell>
+        <cell>B</cell>
+        <cell>Bsus</cell>
       </row>
       <row bottom="minor">
         <cell>2b</cell>
         <cell>B</cell>
         <cell>B7</cell>
         <cell>B</cell>
-        <cell>Bmi7</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>B7</cell>
+        <cell>B</cell>
+        <cell>B7</cell>
       </row>
       <row bottom="minor">
         <cell>1a</cell>
         <cell>B</cell>
         <cell>Bm7</cell>
         <cell>B</cell>
-        <cell>B♭7alt</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>Bmi7</cell>
+        <cell>E</cell>
+        <cell>Esus</cell>
       </row>
       <row bottom="minor">
         <cell>2a</cell>
         <cell>E</cell>
         <cell>E7</cell>
         <cell>B♭</cell>
-        <cell>Asus</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>B♭7alt</cell>
+        <cell>E</cell>
+        <cell>E7</cell>
       </row>
       <row bottom="minor">
         <cell>1b</cell>
         <cell>E</cell>
         <cell>Em7</cell>
         <cell>A</cell>
-        <cell>A7</cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>Asus</cell>
+        <cell>A</cell>
+        <cell>Asus</cell>
       </row>
       <row bottom="major">
         <cell>2b</cell>
         <cell>A</cell>
         <cell>A7</cell>
         <cell>A</cell>
-        <cell></cell>
-        <cell></cell>
-        <cell></cell>
+        <cell>A7</cell>
+        <cell>A</cell>
+        <cell>A7</cell>
       </row>
     </tabular>
   </paragraphs>
