@@ -2140,7 +2140,61 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "13.4",
   "title": "Dom7 grips 2b to 2a descending the circle of fifths",
-  "body": " Dom7 grips 2b to 2a descending the circle of fifths  Each grid is labelled with a dominant 7th chord descending the circle of fifths, alternating grip 2b and grip 2a.                    "
+  "body": " Dom7 grips 2b to 2a descending the circle of fifths  Each grid is labelled with a dominant 7th chord descending the circle of fifths, alternating grip 2b and grip 2a.                     How each grip shape re-harmonises with a different bass note  Each grid above fixes the four treble notes of a single grip shape; only the bass note changes. The table below shows, for every one of the twelve shapes, four useful chords that the same treble grip produces under four different bass notes — the root (dominant 7th), its tritone (an altered dominant, i.e. the tritone substitute), its major 3rd (a half-diminished chord), and its perfect 5th (a minor chord).             Shape (grip)  Bass  Chord  Bass  Chord  Bass  Chord  Bass  Chord    1 (2b)  A A7  E♭ E♭7alt  C♯ C♯mi7♭5  E Emi    2 (2a)  D D7  A♭ A♭7alt  F♯ F♯mi7♭5  A Ami    3 (2b)  G G7  D♭ D♭7alt  B Bmi7♭5  D Dmi    4 (2a)  C C7  G♭ G♭7alt  E Emi7♭5  G Gmi    5 (2b)  F F7  B B7alt  A Ami7♭5  C Cmi    6 (2a)  B♭ B♭7  E E7alt  D Dmi7♭5  F Fmi    7 (2b)  E♭ E♭7  A A7alt  G Gmi7♭5  B♭ B♭mi    8 (2a)  A♭ A♭7  D D7alt  C Cmi7♭5  E♭ E♭mi    9 (2b)  D♭ D♭7  G G7alt  F Fmi7♭5  A♭ A♭mi    10 (2a)  G♭ G♭7  C C7alt  B♭ B♭mi7♭5  D♭ D♭mi    11 (2b)  B B7  F F7alt  D♯ D♯mi7♭5  F♯ F♯mi    12 (2a)  E E7  B♭ B♭7alt  G♯ G♯mi7♭5  B Bmi     "
+},
+{
+  "id": "sec-grip-method-tonic-grip",
+  "level": "1",
+  "url": "sec-grip-method-tonic-grip.html",
+  "type": "Section",
+  "number": "13.5",
+  "title": "The Tonic Major Grip",
+  "body": " The Tonic Major Grip  Grip 3 uses the same notes as a minor pentatonic scale and is played in one inversion only   The Tonic Grip — Essentially the same shape. 3a is the most viable from a fingering point of view.        Tonic Grip 3a        Tonic Grip 3b        Tonic Grip 3c     "
+},
+{
+  "id": "fig-gm-tonic-grip-blank",
+  "level": "2",
+  "url": "sec-grip-method-tonic-grip.html#fig-gm-tonic-grip-blank",
+  "type": "Figure",
+  "number": "13.5.1",
+  "title": "",
+  "body": " The Tonic Grip — Essentially the same shape. 3a is the most viable from a fingering point of view.        Tonic Grip 3a        Tonic Grip 3b        Tonic Grip 3c    "
+},
+{
+  "id": "sec-grip-method-tonic-grip-practice",
+  "level": "1",
+  "url": "sec-grip-method-tonic-grip-practice.html",
+  "type": "Section",
+  "number": "13.6",
+  "title": "The Tonic Major Grip in Practice",
+  "body": " The Tonic Major Grip in Practice  The twelve grids below take the single tonic-major grip shape (Shape 3a) and move it through the keys around the circle of fifths. Each pair of grids keeps the same five treble buttons fixed and only changes the bass note printed beneath the grid: the first plays the grip over its own tonic (a major 6\/9 sound), and the second plays the identical treble shape over a new bass a fourth higher, just as the earlier reharmonisation tables reused a single treble grip under different bass notes. The chord that results is named above each grid.   Tonic major grip (Shape 3a): D6\/9 and Gmaj9, then C6\/9 and Fmaj9.                  Tonic major grip (Shape 3a): B$\\flat$6\/9 and E$\\flat$maj9, then A$\\flat$6\/9 and D$\\flat$maj9.                  Tonic major grip (Shape 3a): F$\\sharp$6\/9 and Bmaj9, then E6\/9 and Amaj9.                 "
+},
+{
+  "id": "fig-gm-tonic-practice-r1",
+  "level": "2",
+  "url": "sec-grip-method-tonic-grip-practice.html#fig-gm-tonic-practice-r1",
+  "type": "Figure",
+  "number": "13.6.1",
+  "title": "",
+  "body": " Tonic major grip (Shape 3a): D6\/9 and Gmaj9, then C6\/9 and Fmaj9.                "
+},
+{
+  "id": "fig-gm-tonic-practice-r2",
+  "level": "2",
+  "url": "sec-grip-method-tonic-grip-practice.html#fig-gm-tonic-practice-r2",
+  "type": "Figure",
+  "number": "13.6.2",
+  "title": "",
+  "body": " Tonic major grip (Shape 3a): B$\\flat$6\/9 and E$\\flat$maj9, then A$\\flat$6\/9 and D$\\flat$maj9.                "
+},
+{
+  "id": "fig-gm-tonic-practice-r3",
+  "level": "2",
+  "url": "sec-grip-method-tonic-grip-practice.html#fig-gm-tonic-practice-r3",
+  "type": "Figure",
+  "number": "13.6.3",
+  "title": "",
+  "body": " Tonic major grip (Shape 3a): F$\\sharp$6\/9 and Bmaj9, then E6\/9 and Amaj9.                "
 },
 {
   "id": "sec-barry-harris-intro",
