@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="sec-grip-method-tonic-grip-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Tonic Major Grip in Practice</title>
+
+    <p>
+      The twelve grids below take the single tonic-major grip shape (Shape 3a)
+      and move it through the keys around the circle of fifths. Each pair of grids
+      keeps the <em>same</em> five treble buttons fixed and only changes the bass
+      note printed beneath the grid: the first plays the grip over its own tonic
+      (a major 6/9 sound), and the second plays the identical treble shape over a
+      new bass a fourth higher, just as the earlier reharmonisation tables reused a
+      single treble grip under different bass notes. The chord that results is named
+      above each grid.
+    </p>
+
+    <figure xml:id="fig-gm-tonic-practice-r1">
+      <caption>Tonic major grip (Shape 3a): D6/9 and Gmaj9, then C6/9 and Fmaj9.</caption>
+      <sidebyside widths="22% 22% 22% 22%" margins="3%">
+        <image xml:id="img-gm-tonic-practice-g1">
+          <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\normalsize\bfseries, align=center] at ({\xmax/2},{11.7*\vlen}) {D6/9};
+\node[font=\small\bfseries, align=center] at ({\xmax/2},{-1.2*\vlen}) {Bass: D};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{1}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{1}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{1}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{1}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{1}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-gm-tonic-practice-g2">
+          <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\normalsize\bfseries, align=center] at ({\xmax/2},{11.7*\vlen}) {Gmaj9};
+\node[font=\small\bfseries, align=center] at ({\xmax/2},{-1.2*\vlen}) {Bass: G};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{1}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{1}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{1}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{1}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{1}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-gm-tonic-practice-g3">
+          <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\normalsize\bfseries, align=center] at ({\xmax/2},{11.7*\vlen}) {C6/9};
+\node[font=\small\bfseries, align=center] at ({\xmax/2},{-1.2*\vlen}) {Bass: C};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{1}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{1}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{1}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{1}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{1}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-gm-tonic-practice-g4">
+          <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\normalsize\bfseries, align=center] at ({\xmax/2},{11.7*\vlen}) {Fmaj9};
+\node[font=\small\bfseries, align=center] at ({\xmax/2},{-1.2*\vlen}) {Bass: F};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{1}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{1}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{1}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{1}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{1}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+          </latex-image>
+        </image>
+      </sidebyside>
+    </figure>
+
+    <figure xml:id="fig-gm-tonic-practice-r2">
+      <caption>Tonic major grip (Shape 3a): B$\flat$6/9 and E$\flat$maj9, then A$\flat$6/9 and D$\flat$maj9.</caption>
+      <sidebyside widths="22% 22% 22% 22%" margins="3%">
+        <image xml:id="img-gm-tonic-practice-g5">
+          <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\normalsize\bfseries, align=center] at ({\xmax/2},{11.7*\vlen}) {B$\flat$6/9};
+\node[font=\small\bfseries, align=center] at ({\xmax/2},{-1.2*\vlen}) {Bass: B$\flat$};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{1}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{1}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{1}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{1}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{1}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-gm-tonic-practice-g6">
+          <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\normalsize\bfseries, align=center] at ({\xmax/2},{11.7*\vlen}) {E$\flat$maj9};
+\node[font=\small\bfseries, align=center] at ({\xmax/2},{-1.2*\vlen}) {Bass: E$\flat$};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{1}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{1}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{1}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{1}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{1}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-gm-tonic-practice-g7">
+          <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\normalsize\bfseries, align=center] at ({\xmax/2},{11.7*\vlen}) {A$\flat$6/9};
+\node[font=\small\bfseries, align=center] at ({\xmax/2},{-1.2*\vlen}) {Bass: A$\flat$};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{1}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{1}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{1}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{1}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{1}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-gm-tonic-practice-g8">
+          <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\normalsize\bfseries, align=center] at ({\xmax/2},{11.7*\vlen}) {D$\flat$maj9};
+\node[font=\small\bfseries, align=center] at ({\xmax/2},{-1.2*\vlen}) {Bass: D$\flat$};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{1}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{1}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{1}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{1}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{1}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+          </latex-image>
+        </image>
+      </sidebyside>
+    </figure>
+
+    <figure xml:id="fig-gm-tonic-practice-r3">
+      <caption>Tonic major grip (Shape 3a): F$\sharp$6/9 and Bmaj9, then E6/9 and Amaj9.</caption>
+      <sidebyside widths="22% 22% 22% 22%" margins="3%">
+        <image xml:id="img-gm-tonic-practice-g9">
+          <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\normalsize\bfseries, align=center] at ({\xmax/2},{11.7*\vlen}) {F$\sharp$6/9};
+\node[font=\small\bfseries, align=center] at ({\xmax/2},{-1.2*\vlen}) {Bass: F$\sharp$};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{1}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{1}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{1}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{1}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{1}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-gm-tonic-practice-g10">
+          <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\normalsize\bfseries, align=center] at ({\xmax/2},{11.7*\vlen}) {Bmaj9};
+\node[font=\small\bfseries, align=center] at ({\xmax/2},{-1.2*\vlen}) {Bass: B};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{1}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{1}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{1}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{1}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{1}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{0}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{0}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-gm-tonic-practice-g11">
+          <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\normalsize\bfseries, align=center] at ({\xmax/2},{11.7*\vlen}) {E6/9};
+\node[font=\small\bfseries, align=center] at ({\xmax/2},{-1.2*\vlen}) {Bass: E};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{1}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{1}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{1}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{1}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{1}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-gm-tonic-practice-g12">
+          <latex-image>
+\begin{tikzpicture}[scale=0.58, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\node[font=\normalsize\bfseries, align=center] at ({\xmax/2},{11.7*\vlen}) {Amaj9};
+\node[font=\small\bfseries, align=center] at ({\xmax/2},{-1.2*\vlen}) {Bass: A};
+\extendedgridbottomsquare
+\gn{4}{1}{E}{0}%
+\gn{2}{1}{E$\flat$/D$\sharp$}{0}%
+\gn{3}{1.5}{F}{0}%
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{0}%
+\gn{1}{1.5}{E}{0}%
+\gn{2}{2}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{2}{G}{0}%
+\gn{1}{2.5}{G}{0}%
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{0}%
+\gn{2}{3}{A}{0}%
+\gn{1}{3.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{2.5}{A}{0}%
+\gn{4}{3}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{3.5}{B}{0}%
+\gn{2}{4}{C}{0}%
+\gn{1}{4.5}{C$\sharp$/D$\flat$}{1}%
+\gn{5}{3.5}{C}{0}%
+\gn{4}{4}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{4.5}{D}{0}%
+\gn{2}{5}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{5.5}{E}{1}%
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{5}{E}{0}%
+\gn{3}{5.5}{F}{0}%
+\gn{2}{6}{F$\sharp$/G$\flat$}{1}%
+\gn{1}{6.5}{G}{0}%
+\gn{5}{5.5}{F$\sharp$/G$\flat$}{0}%
+\gn{4}{6}{G}{0}%
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{1}%
+\gn{2}{7}{A}{0}%
+\gn{1}{7.5}{B$\flat$/A$\sharp$}{0}%
+\gn{5}{6.5}{A}{0}%
+\gn{4}{7}{B$\flat$/A$\sharp$}{0}%
+\gn{3}{7.5}{B}{1}%
+\gn{2}{8}{C}{0}%
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{0}%
+\gn{5}{7.5}{C}{0}%
+\gn{4}{8}{C$\sharp$/D$\flat$}{0}%
+\gn{3}{8.5}{D}{0}%
+\gn{2}{9}{E$\flat$/D$\sharp$}{0}%
+\gn{1}{9.5}{E}{0}%
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{0}%
+\gn{4}{9}{E}{0}%
+\gn{3}{9.5}{F}{0}%
+\gn{5}{9.5}{F$\sharp$/G$\flat$}{0}%
+\extendedgridtopsquare
+\end{tikzpicture}
+          </latex-image>
+        </image>
+      </sidebyside>
+    </figure>
+
+</section>
