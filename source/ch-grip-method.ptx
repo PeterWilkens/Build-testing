@@ -4365,6 +4365,315 @@
     </latex-image></image>
   </sidebyside>
 
+  <paragraphs>
+    <title>How each grip shape re-harmonises with a different bass note</title>
+
+    <p>
+      Each grid above fixes the four treble notes of a single grip shape; only the bass note
+      changes. The table below shows, for every one of the twelve shapes, four useful chords that
+      the <em>same</em> treble grip produces under four different bass notes — the root (dominant 7th),
+      its tritone (an altered dominant, i.e. the tritone substitute), its major 3rd (a half-diminished
+      chord), and its perfect 5th (a minor chord).
+    </p>
+
+    <tabular halign="left" top="major" bottom="major" left="minor" right="minor">
+      <col right="medium" />
+      <col right="minor" />
+      <col right="medium" />
+      <col right="minor" />
+      <col right="medium" />
+      <col right="minor" />
+      <col right="medium" />
+      <col right="minor" />
+      <col />
+      <row header="yes" bottom="medium">
+        <cell>Shape (grip)</cell>
+        <cell>Bass</cell>
+        <cell>Chord</cell>
+        <cell>Bass</cell>
+        <cell>Chord</cell>
+        <cell>Bass</cell>
+        <cell>Chord</cell>
+        <cell>Bass</cell>
+        <cell>Chord</cell>
+      </row>
+      <row bottom="minor">
+        <cell>1 (2b)</cell>
+        <cell>A</cell><cell>A7</cell>
+        <cell>E♭</cell><cell>E♭7alt</cell>
+        <cell>C♯</cell><cell>C♯mi7♭5</cell>
+        <cell>E</cell><cell>Emi</cell>
+      </row>
+      <row bottom="minor">
+        <cell>2 (2a)</cell>
+        <cell>D</cell><cell>D7</cell>
+        <cell>A♭</cell><cell>A♭7alt</cell>
+        <cell>F♯</cell><cell>F♯mi7♭5</cell>
+        <cell>A</cell><cell>Ami</cell>
+      </row>
+      <row bottom="minor">
+        <cell>3 (2b)</cell>
+        <cell>G</cell><cell>G7</cell>
+        <cell>D♭</cell><cell>D♭7alt</cell>
+        <cell>B</cell><cell>Bmi7♭5</cell>
+        <cell>D</cell><cell>Dmi</cell>
+      </row>
+      <row bottom="minor">
+        <cell>4 (2a)</cell>
+        <cell>C</cell><cell>C7</cell>
+        <cell>G♭</cell><cell>G♭7alt</cell>
+        <cell>E</cell><cell>Emi7♭5</cell>
+        <cell>G</cell><cell>Gmi</cell>
+      </row>
+      <row bottom="minor">
+        <cell>5 (2b)</cell>
+        <cell>F</cell><cell>F7</cell>
+        <cell>B</cell><cell>B7alt</cell>
+        <cell>A</cell><cell>Ami7♭5</cell>
+        <cell>C</cell><cell>Cmi</cell>
+      </row>
+      <row bottom="minor">
+        <cell>6 (2a)</cell>
+        <cell>B♭</cell><cell>B♭7</cell>
+        <cell>E</cell><cell>E7alt</cell>
+        <cell>D</cell><cell>Dmi7♭5</cell>
+        <cell>F</cell><cell>Fmi</cell>
+      </row>
+      <row bottom="minor">
+        <cell>7 (2b)</cell>
+        <cell>E♭</cell><cell>E♭7</cell>
+        <cell>A</cell><cell>A7alt</cell>
+        <cell>G</cell><cell>Gmi7♭5</cell>
+        <cell>B♭</cell><cell>B♭mi</cell>
+      </row>
+      <row bottom="minor">
+        <cell>8 (2a)</cell>
+        <cell>A♭</cell><cell>A♭7</cell>
+        <cell>D</cell><cell>D7alt</cell>
+        <cell>C</cell><cell>Cmi7♭5</cell>
+        <cell>E♭</cell><cell>E♭mi</cell>
+      </row>
+      <row bottom="minor">
+        <cell>9 (2b)</cell>
+        <cell>D♭</cell><cell>D♭7</cell>
+        <cell>G</cell><cell>G7alt</cell>
+        <cell>F</cell><cell>Fmi7♭5</cell>
+        <cell>A♭</cell><cell>A♭mi</cell>
+      </row>
+      <row bottom="minor">
+        <cell>10 (2a)</cell>
+        <cell>G♭</cell><cell>G♭7</cell>
+        <cell>C</cell><cell>C7alt</cell>
+        <cell>B♭</cell><cell>B♭mi7♭5</cell>
+        <cell>D♭</cell><cell>D♭mi</cell>
+      </row>
+      <row bottom="minor">
+        <cell>11 (2b)</cell>
+        <cell>B</cell><cell>B7</cell>
+        <cell>F</cell><cell>F7alt</cell>
+        <cell>D♯</cell><cell>D♯mi7♭5</cell>
+        <cell>F♯</cell><cell>F♯mi</cell>
+      </row>
+      <row bottom="major">
+        <cell>12 (2a)</cell>
+        <cell>E</cell><cell>E7</cell>
+        <cell>B♭</cell><cell>B♭7alt</cell>
+        <cell>G♯</cell><cell>G♯mi7♭5</cell>
+        <cell>B</cell><cell>Bmi</cell>
+      </row>
+    </tabular>
+  </paragraphs>
+
+  </section>
+
+  <section xml:id="sec-grip-method-tonic-grip">
+    <title>The Tonic Major Grip</title>
+
+    <p>
+      Grip 3 uses the same notes as a minor pentatonic scale and is played in one inversion only
+    </p>
+
+    <figure xml:id="fig-gm-tonic-grip-blank">
+      <caption>The Tonic Grip — Essentially the same shape. 3a is the most viable from a fingering point of view.</caption>
+      <sidebyside widths="20% 20% 20%" margins="5%">
+
+        <!-- ========== Tonic Grip 3a (blank) ========== -->
+        <stack>
+          <image xml:id="img-gm-tonic-grip1-blank">
+            <latex-image>
+\begin{tikzpicture}[scale=0.66, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+%% — fixed-extent edge marks (identical x in all four grids → uniform crop width) —
+\fill[gray!18] (0,{4*\vlen}) circle (0.04);
+\fill[gray!18] (\xmax,{4*\vlen}) circle (0.04);
+%% — title above grid —
+\node[font=\normalsize\bfseries, align=center]
+  at ({\xmax/2},{9.8*\vlen}) {Tonic Grip 3a};
+%% — grid and all note buttons (blank: none highlighted) —
+\drawgridandnotes
+\gn{5}{1.5}{C}{0}
+\gn{4}{2}{C$\sharp$, D$\flat$}{0}
+\gn{3}{2.5}{D}{0}
+\gn{2}{3}{E$\flat$, D$\sharp$}{0}
+\gn{1}{3.5}{E}{0}
+\gn{5}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{3}{E}{0}
+\gn{3}{3.5}{F}{0}
+\gn{2}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{4.5}{G}{1}
+\gn{5}{3.5}{G$\flat$, F$\sharp$}{0}
+\gn{4}{4}{G}{0}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{2}{5}{A}{0}
+\gn{1}{5.5}{B$\flat$, A$\sharp$}{1}
+\gn{5}{4.5}{A}{0}
+\gn{4}{5}{B$\flat$, A$\sharp$}{0}
+\gn{3}{5.5}{B}{0}
+\gn{2}{6}{C}{1}
+\gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
+\gn{5}{5.5}{C}{0}
+\gn{4}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{D}{1}
+\gn{2}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{7.5}{E}{0}
+\gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{7}{E}{0}
+\gn{3}{7.5}{F}{1}
+\gn{2}{8}{G$\flat$, F$\sharp$}{0}
+\gn{1}{8.5}{G}{0}
+\end{tikzpicture}
+            </latex-image>
+          </image>
+          <p><em>Tonic Grip 3a</em></p>
+        </stack>
+
+        <!-- ========== Tonic Grip 3b (blank) ========== -->
+        <stack>
+          <image xml:id="img-gm-tonic-grip2-blank">
+            <latex-image>
+\begin{tikzpicture}[scale=0.66, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+%% — fixed-extent edge marks (identical x in all four grids → uniform crop width) —
+\fill[gray!18] (0,{4*\vlen}) circle (0.04);
+\fill[gray!18] (\xmax,{4*\vlen}) circle (0.04);
+%% — title above grid —
+\node[font=\normalsize\bfseries, align=center]
+  at ({\xmax/2},{9.8*\vlen}) {Tonic Grip 3b};
+%% — grid and all note buttons (blank: none highlighted) —
+\drawgridandnotes
+\gn{5}{1.5}{C}{0}
+\gn{4}{2}{C$\sharp$, D$\flat$}{0}
+\gn{3}{2.5}{D}{0}
+\gn{2}{3}{E$\flat$, D$\sharp$}{0}
+\gn{1}{3.5}{E}{0}
+\gn{5}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{3}{E}{0}
+\gn{3}{3.5}{F}{0}
+\gn{2}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{4.5}{G}{0}
+\gn{5}{3.5}{G$\flat$, F$\sharp$}{0}
+\gn{4}{4}{G}{1}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{2}{5}{A}{0}
+\gn{1}{5.5}{B$\flat$, A$\sharp$}{0}
+\gn{5}{4.5}{A}{0}
+\gn{4}{5}{B$\flat$, A$\sharp$}{1}
+\gn{3}{5.5}{B}{0}
+\gn{2}{6}{C}{0}
+\gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
+\gn{5}{5.5}{C}{1}
+\gn{4}{6}{C$\sharp$, D$\flat$}{0}
+\gn{3}{6.5}{D}{1}
+\gn{2}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{7.5}{E}{0}
+\gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{7}{E}{0}
+\gn{3}{7.5}{F}{1}
+\gn{2}{8}{G$\flat$, F$\sharp$}{0}
+\gn{1}{8.5}{G}{0}
+\end{tikzpicture}
+            </latex-image>
+          </image>
+          <p><em>Tonic Grip 3b</em></p>
+        </stack>
+
+        <!-- ========== Tonic Grip 3c (blank) ========== -->
+        <stack>
+          <image xml:id="img-gm-tonic-grip3-blank">
+            <latex-image>
+\begin{tikzpicture}[scale=0.66, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{8}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+%% — fixed-extent edge marks (identical x in all four grids → uniform crop width) —
+\fill[gray!18] (0,{4*\vlen}) circle (0.04);
+\fill[gray!18] (\xmax,{4*\vlen}) circle (0.04);
+%% — title above grid —
+\node[font=\normalsize\bfseries, align=center]
+  at ({\xmax/2},{9.8*\vlen}) {Tonic Grip 3c};
+%% — grid and all note buttons (blank: none highlighted) —
+\drawgridandnotes
+\gn{5}{1.5}{C}{0}
+\gn{4}{2}{C$\sharp$, D$\flat$}{0}
+\gn{3}{2.5}{D}{0}
+\gn{2}{3}{E$\flat$, D$\sharp$}{0}
+\gn{1}{3.5}{E}{0}
+\gn{5}{2.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{3}{E}{0}
+\gn{3}{3.5}{F}{0}
+\gn{2}{4}{G$\flat$, F$\sharp$}{0}
+\gn{1}{4.5}{G}{0}
+\gn{5}{3.5}{G$\flat$, F$\sharp$}{1}
+\gn{4}{4}{G}{0}
+\gn{3}{4.5}{A$\flat$, G$\sharp$}{0}
+\gn{2}{5}{A}{0}
+\gn{1}{5.5}{B$\flat$, A$\sharp$}{0}
+\gn{5}{4.5}{A}{1}
+\gn{4}{5}{B$\flat$, A$\sharp$}{0}
+\gn{3}{5.5}{B}{1}
+\gn{2}{6}{C}{0}
+\gn{1}{6.5}{C$\sharp$, D$\flat$}{0}
+\gn{5}{5.5}{C}{0}
+\gn{4}{6}{C$\sharp$, D$\flat$}{1}
+\gn{3}{6.5}{D}{0}
+\gn{2}{7}{E$\flat$, D$\sharp$}{0}
+\gn{1}{7.5}{E}{0}
+\gn{5}{6.5}{E$\flat$, D$\sharp$}{0}
+\gn{4}{7}{E}{1}
+\gn{3}{7.5}{F}{0}
+\gn{2}{8}{G$\flat$, F$\sharp$}{0}
+\gn{1}{8.5}{G}{0}
+\end{tikzpicture}
+            </latex-image>
+          </image>
+          <p><em>Tonic Grip 3c</em></p>
+        </stack>
+
+      </sidebyside>
+    </figure>
+
   </section>
 
 </chapter>
