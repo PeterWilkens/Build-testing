@@ -1,289 +1,298 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="185.78mm" height="32.17mm" viewBox="-1.1909 0.0002 124.3746 21.5369">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="147.32mm" height="51.07mm" viewBox="-1.1724 0.0001 83.8333 29.0612">
 <style type="text/css">
 <![CDATA[
 tspan { white-space: pre; }
 ]]>
 </style>
-<g transform="translate(0.0000, 10.5258)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="123.1279" y2="0"/>
+<g transform="translate(0.0000, 11.4892)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.9980" y2="0"/>
 </g>
-<g transform="translate(0.0000, 9.5258)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="123.1279" y2="0"/>
+<g transform="translate(0.0000, 10.4892)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.9980" y2="0"/>
 </g>
-<g transform="translate(0.0000, 8.5258)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="123.1279" y2="0"/>
+<g transform="translate(0.0000, 9.4892)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.9980" y2="0"/>
 </g>
-<g transform="translate(0.0000, 7.5258)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="123.1279" y2="0"/>
+<g transform="translate(0.0000, 8.4892)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.9980" y2="0"/>
 </g>
-<g transform="translate(0.0000, 6.5258)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="123.1279" y2="0"/>
+<g transform="translate(0.0000, 7.4892)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.9980" y2="0"/>
 </g>
-<g transform="translate(61.8950, 8.5258)">
-<rect x="0.0000" y="-2.0000" width="0.2120" height="4.0558" ry="0.0000" fill="currentColor"/>
+<g transform="translate(23.9640, 9.4892)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(61.8950, 17.5258)">
-<rect x="0.0000" y="-2.0558" width="0.2120" height="4.0558" ry="0.0000" fill="currentColor"/>
+<g transform="translate(23.9640, 18.4892)">
+<rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(31.6301, -0.0000)">
-<rect x="0.0000" y="10.5816" width="0.2120" height="4.9442" ry="0.0000" fill="currentColor"/>
+<g transform="translate(13.7620, -0.0000)">
+<rect x="0.0000" y="11.5392" width="0.1900" height="4.9500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(61.8950, -0.0000)">
-<rect x="0.0000" y="10.5816" width="0.2120" height="4.9442" ry="0.0000" fill="currentColor"/>
+<g transform="translate(23.9640, -0.0000)">
+<rect x="0.0000" y="11.5392" width="0.1900" height="4.9500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(31.6301, 17.5258)">
-<rect x="0.0000" y="-2.0558" width="0.2120" height="4.0558" ry="0.0000" fill="currentColor"/>
+<g transform="translate(13.7620, 18.4892)">
+<rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(31.6301, 8.5258)">
-<rect x="0.0000" y="-2.0000" width="0.2120" height="4.0558" ry="0.0000" fill="currentColor"/>
+<g transform="translate(13.7620, 9.4892)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(92.1599, 8.5258)">
-<rect x="0.0000" y="-2.0000" width="0.2120" height="4.0558" ry="0.0000" fill="currentColor"/>
+<g transform="translate(34.1660, 9.4892)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(92.1599, 17.5258)">
-<rect x="0.0000" y="-2.0558" width="0.2120" height="4.0558" ry="0.0000" fill="currentColor"/>
+<g transform="translate(34.1660, 18.4892)">
+<rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(92.1599, -0.0000)">
-<rect x="0.0000" y="10.5816" width="0.2120" height="4.9442" ry="0.0000" fill="currentColor"/>
+<g transform="translate(34.1660, -0.0000)">
+<rect x="0.0000" y="11.5392" width="0.1900" height="4.9500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(122.9717, 8.5258)">
-<rect x="0.0000" y="-2.0000" width="0.2120" height="4.0558" ry="0.0000" fill="currentColor"/>
+<g transform="translate(44.8580, 9.4892)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(122.4248, 8.5258)">
-<rect x="0.0000" y="-2.0000" width="0.2120" height="4.0558" ry="0.0000" fill="currentColor"/>
+<g transform="translate(44.3680, 9.4892)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(122.9717, 17.5258)">
-<rect x="0.0000" y="-2.0558" width="0.2120" height="4.0558" ry="0.0000" fill="currentColor"/>
+<g transform="translate(44.8580, 18.4892)">
+<rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(122.4248, 17.5258)">
-<rect x="0.0000" y="-2.0558" width="0.2120" height="4.0558" ry="0.0000" fill="currentColor"/>
+<g transform="translate(44.3680, 18.4892)">
+<rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 5.5258)">
-<rect x="96.1083" y="-0.1058" width="2.9185" height="0.2116" ry="0.1058" fill="currentColor"/>
+<g transform="translate(0.0000, 6.4892)">
+<rect x="35.9155" y="-0.1000" width="2.9430" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 5.5258)">
-<rect x="35.5785" y="-0.1058" width="2.9185" height="0.2116" ry="0.1058" fill="currentColor"/>
+<g transform="translate(0.0000, 6.4892)">
+<rect x="15.5115" y="-0.1000" width="2.9430" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
-<g transform="translate(0.0000, 19.5258)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="123.1279" y2="0"/>
+<g transform="translate(0.0000, 20.4892)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.9980" y2="0"/>
 </g>
-<g transform="translate(0.0000, 18.5258)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="123.1279" y2="0"/>
+<g transform="translate(0.0000, 19.4892)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.9980" y2="0"/>
 </g>
-<g transform="translate(0.0000, 17.5258)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="123.1279" y2="0"/>
+<g transform="translate(0.0000, 18.4892)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.9980" y2="0"/>
 </g>
-<g transform="translate(0.0000, 16.5258)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="123.1279" y2="0"/>
+<g transform="translate(0.0000, 17.4892)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.9980" y2="0"/>
 </g>
-<g transform="translate(0.0000, 15.5258)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="123.1279" y2="0"/>
+<g transform="translate(0.0000, 16.4892)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.9980" y2="0"/>
 </g>
-<g transform="translate(122.9717, -0.0000)">
-<rect x="0.0000" y="10.5816" width="0.2120" height="4.9442" ry="0.0000" fill="currentColor"/>
+<g transform="translate(44.8580, -0.0000)">
+<rect x="0.0000" y="11.5392" width="0.1900" height="4.9500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(122.4248, -0.0000)">
-<rect x="0.0000" y="10.5816" width="0.2120" height="4.9442" ry="0.0000" fill="currentColor"/>
+<g transform="translate(44.3680, -0.0000)">
+<rect x="0.0000" y="11.5392" width="0.1900" height="4.9500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(65.1798, 15.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+<g transform="translate(25.0540, 15.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:27:7:8">
-<g transform="translate(96.5947, 9.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:27:10:11">
-<g transform="translate(96.5947, 8.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:27:16:17">
-<g transform="translate(96.5947, 7.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:27:20:21">
-<g transform="translate(96.5947, 5.5258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:34:25:26">
-<g transform="translate(66.3298, 17.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:34:27:28">
-<g transform="translate(66.3298, 15.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(64.8798, 8.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M0 117c0 9 6 18 15 21l43 16v157c0 11 8 19 19 19s20 -8 20 -19v-142l81 30v156c0 11 9 20 20 20s19 -9 19 -20v-142l28 11c3 1 5 1 8 1c12 0 22 -10 22 -23v-57c0 -9 -6 -18 -15 -21l-43 -16v-157l28 10c3 1 5 1 8 1c12 0 22 -9 22 -22v-57c0 -9 -6 -18 -15 -21l-43 -16
-v-157c0 -11 -8 -19 -19 -19s-20 8 -20 19v142l-81 -30v-156c0 -11 -9 -20 -20 -20s-19 9 -19 20v142l-28 -11c-3 -1 -5 -1 -8 -1c-12 0 -22 10 -22 23v57c0 9 6 18 15 21l43 16v157l-28 -10c-3 -1 -5 -1 -8 -1c-12 0 -22 9 -22 22v57zM178 94l-81 -30v-158l81 30v158z" fill="currentColor"/>
-</g>
-<g transform="translate(95.4447, 15.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:34:34:35">
-<g transform="translate(96.5947, 17.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:34:36:37">
-<g transform="translate(96.5947, 15.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:27:25:26">
-<g transform="translate(96.5947, 1.5172)">
-<text font-family="serif" font-weight="bold" font-size="1.9602" text-anchor="start" fill="currentColor">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:27:12:13">
+<g transform="translate(36.4060, 1.4892)">
+<text font-family="serif" font-weight="bold" font-size="1.9598" text-anchor="start" fill="currentColor">
 <tspan>C7(♭9)</tspan>
 </text>
 </g>
-<g transform="translate(96.5947, 4.5172)">
-<text font-family="serif" font-size="1.9602" text-anchor="start" fill="currentColor">
+<g transform="translate(36.4060, 4.4892)">
+<text font-family="serif" font-size="1.9598" text-anchor="start" fill="currentColor">
 <tspan>+octave</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(95.1447, 8.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M0 117c0 9 6 18 15 21l43 16v157c0 11 8 19 19 19s20 -8 20 -19v-142l81 30v156c0 11 9 20 20 20s19 -9 19 -20v-142l28 11c3 1 5 1 8 1c12 0 22 -10 22 -23v-57c0 -9 -6 -18 -15 -21l-43 -16v-157l28 10c3 1 5 1 8 1c12 0 22 -9 22 -22v-57c0 -9 -6 -18 -15 -21l-43 -16
-v-157c0 -11 -8 -19 -19 -19s-20 8 -20 19v142l-81 -30v-156c0 -11 -9 -20 -20 -20s-19 9 -19 20v142l-28 -11c-3 -1 -5 -1 -8 -1c-12 0 -22 10 -22 23v57c0 9 6 18 15 21l43 16v157l-28 -10c-3 -1 -5 -1 -8 -1c-12 0 -22 9 -22 22v57zM178 94l-81 -30v-158l81 30v158z" fill="currentColor"/>
-</g>
-<g transform="translate(4.3500, 8.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M0 117c0 9 6 18 15 21l43 16v157c0 11 8 19 19 19s20 -8 20 -19v-142l81 30v156c0 11 9 20 20 20s19 -9 19 -20v-142l28 11c3 1 5 1 8 1c12 0 22 -10 22 -23v-57c0 -9 -6 -18 -15 -21l-43 -16v-157l28 10c3 1 5 1 8 1c12 0 22 -9 22 -22v-57c0 -9 -6 -18 -15 -21l-43 -16
-v-157c0 -11 -8 -19 -19 -19s-20 8 -20 19v142l-81 -30v-156c0 -11 -9 -20 -20 -20s-19 9 -19 20v142l-28 -11c-3 -1 -5 -1 -8 -1c-12 0 -22 10 -22 23v57c0 9 6 18 15 21l43 16v157l-28 -10c-3 -1 -5 -1 -8 -1c-12 0 -22 9 -22 22v57zM178 94l-81 -30v-158l81 30v158z" fill="currentColor"/>
-</g>
-<g transform="translate(4.6500, 15.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:21:16:17">
-<g transform="translate(5.8000, 7.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:33:11:12">
+<g transform="translate(36.4060, 9.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(-0.3786, 13.0258)">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:33:14:15">
+<g transform="translate(36.4060, 8.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:33:20:21">
+<g transform="translate(36.4060, 7.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:42:25:26">
+<g transform="translate(26.2040, 17.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:42:27:28">
+<g transform="translate(26.2040, 15.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(24.7540, 8.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(35.2560, 15.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:42:34:35">
+<g transform="translate(36.4060, 17.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:42:36:37">
+<g transform="translate(36.4060, 15.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:33:24:25">
+<g transform="translate(36.4060, 6.4892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(34.9560, 8.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(4.3500, 8.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(4.6500, 15.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:30:14:15">
+<g transform="translate(5.8000, 8.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(-0.3600, 13.9892)">
 <path transform="scale(0.0040, -0.0040)" d="M-81 -366c0 255 -132 363 -132 366c0 18 132 96 132 366c0 261 -108 489 -108 780c0 189 45 366 177 501c15 15 39 -9 24 -24c-99 -99 -129 -225 -129 -360c0 -255 102 -480 102 -765c0 -186 -45 -363 -174 -498c129 -135 174 -312 174 -498c0 -285 -102 -510 -102 -765
 c0 -135 30 -261 129 -360c15 -15 -9 -39 -24 -24c-132 135 -177 312 -177 501c0 291 108 519 108 780z" fill="currentColor"/>
 </g>
-<g transform="translate(-0.0786, 13.0258)">
-<rect x="0.0000" y="-6.5558" width="0.1786" height="13.1116" ry="0.0558" fill="currentColor"/>
+<g transform="translate(-0.0600, 13.9892)">
+<rect x="0.0000" y="-6.5500" width="0.1600" height="13.1000" ry="0.0500" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:21:7:8">
-<g transform="translate(5.8000, 9.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:21:10:11">
-<g transform="translate(5.8000, 8.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:21:21:22">
-<g transform="translate(5.8000, 2.6023)">
-<text font-family="serif" font-weight="bold" font-size="1.9602" text-anchor="start" fill="currentColor">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:24:12:13">
+<g transform="translate(5.8000, 1.4892)">
+<text font-family="serif" font-weight="bold" font-size="1.9598" text-anchor="start" fill="currentColor">
 <tspan>C7(♭9)</tspan>
 </text>
 </g>
-<g transform="translate(5.8000, 5.6023)">
-<text font-family="serif" font-size="1.9602" text-anchor="start" fill="currentColor">
+<g transform="translate(5.8000, 4.4892)">
+<text font-family="serif" font-size="1.9598" text-anchor="start" fill="currentColor">
 <tspan>root pos</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(0.8000, 9.5258)">
-<path transform="scale(0.0040, -0.0040)" d="M646 2c0 -113 -74 -213 -180 -247c3 -34 5 -68 5 -102c0 -20 -1 -40 -2 -60c-7 -121 -91 -228 -209 -228c-108 0 -196 87 -196 196c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-10 0 -20 2 -29 6c26 -38 68 -63 116 -63h3c93 2 153 92 159 190
-c1 19 2 37 2 56c0 30 -2 60 -4 90c-5 -1 -43 -8 -88 -8c-194 0 -333 180 -333 375c0 177 130 307 246 442c-31 98 -53 170 -53 347c0 115 55 223 148 290c7 5 16 4 22 -1c68 -80 134 -243 134 -357c0 -143 -85 -255 -178 -364c21 -68 40 -137 57 -206c1 0 5 1 11 1
-c156 0 257 -129 257 -262zM462 -202c66 24 111 88 111 162c0 89 -65 178 -170 190c28 -135 50 -272 59 -352zM75 26c0 -145 141 -245 263 -245c1 0 46 0 81 6c-7 65 -27 206 -61 363c-79 -8 -124 -61 -124 -119c0 -43 25 -89 80 -121c5 -5 7 -11 7 -16
-c0 -12 -10 -23 -22 -23c-16 0 -127 63 -127 188c0 89 58 175 161 198c-14 58 -29 116 -46 173c-106 -122 -212 -244 -212 -404zM406 1042c-99 -47 -162 -148 -162 -257c0 -49 13 -111 38 -191c79 97 144 199 144 324c0 33 0 63 -20 124z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:30:11:12">
+<g transform="translate(5.8000, 9.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:30:20:21">
+<g transform="translate(5.8000, 7.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(0.8000, 10.4892)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:18:6:7">
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:34:7:8">
-<g transform="translate(5.8000, 17.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:42:7:8">
+<g transform="translate(5.8000, 17.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:34:9:10">
-<g transform="translate(5.8000, 15.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:42:9:10">
+<g transform="translate(5.8000, 15.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(0.8000, 16.5258)">
-<path transform="scale(0.0040, -0.0040)" d="M558 -125c0 28 22 51 50 51s51 -23 51 -51s-23 -51 -51 -51s-50 23 -50 51zM558 125c0 28 22 51 50 51s51 -23 51 -51s-23 -51 -51 -51s-50 23 -50 51zM231 264c172 0 294 -88 294 -251c0 -263 -262 -416 -515 -523c-3 -3 -7 -4 -10 -4c-7 0 -14 7 -14 14c0 3 1 7 4 10
-c201 118 410 265 410 492c0 119 -61 234 -169 234c-72 0 -124 -53 -148 -123c10 4 19 6 29 6c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 101 245 231 245z" fill="currentColor"/>
+<g transform="translate(0.8000, 17.4892)">
+<path transform="scale(0.0040, -0.0040)" d="M557 -125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM557 125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM232 263c172 0 293 -88 293 -251c0 -263 -263 -414 -516 -521c-3 -3 -6 -4 -9 -4c-7 0 -13 6 -13 13c0 3 1 6 4 9
+c202 118 412 265 412 493c0 120 -63 235 -171 235c-74 0 -129 -54 -154 -126c11 5 22 8 34 8c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 102 244 232 244z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:32:6:7">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:40:6:7">
 </a>
-<g transform="translate(34.6149, 8.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M0 117c0 9 6 18 15 21l43 16v157c0 11 8 19 19 19s20 -8 20 -19v-142l81 30v156c0 11 9 20 20 20s19 -9 19 -20v-142l28 11c3 1 5 1 8 1c12 0 22 -10 22 -23v-57c0 -9 -6 -18 -15 -21l-43 -16v-157l28 10c3 1 5 1 8 1c12 0 22 -9 22 -22v-57c0 -9 -6 -18 -15 -21l-43 -16
-v-157c0 -11 -8 -19 -19 -19s-20 8 -20 19v142l-81 -30v-156c0 -11 -9 -20 -20 -20s-19 9 -19 20v142l-28 -11c-3 -1 -5 -1 -8 -1c-12 0 -22 10 -22 23v57c0 9 6 18 15 21l43 16v157l-28 -10c-3 -1 -5 -1 -8 -1c-12 0 -22 9 -22 22v57zM178 94l-81 -30v-158l81 30v158z" fill="currentColor"/>
+<g transform="translate(14.5520, 8.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
 </g>
-<g transform="translate(34.9149, 15.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+<g transform="translate(14.8520, 15.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:25:7:8">
-<g transform="translate(66.3298, 9.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:25:10:11">
-<g transform="translate(66.3298, 8.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:25:17:18">
-<g transform="translate(66.3298, 2.9822)">
-<text font-family="serif" font-weight="bold" font-size="1.9602" text-anchor="start" fill="currentColor">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:26:12:13">
+<g transform="translate(26.2040, 1.4892)">
+<text font-family="serif" font-weight="bold" font-size="1.9598" text-anchor="start" fill="currentColor">
 <tspan>C7(♭9)</tspan>
 </text>
 </g>
-<g transform="translate(66.3298, 5.9822)">
-<text font-family="serif" font-size="1.9602" text-anchor="start" fill="currentColor">
+<g transform="translate(26.2040, 4.4892)">
+<text font-family="serif" font-size="1.9598" text-anchor="start" fill="currentColor">
 <tspan>cut off</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:23:7:8">
-<g transform="translate(36.0649, 8.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:32:11:12">
+<g transform="translate(26.2040, 9.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:23:13:14">
-<g transform="translate(36.0649, 7.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:32:14:15">
+<g transform="translate(26.2040, 8.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:23:17:18">
-<g transform="translate(36.0649, 5.5258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:23:22:23">
-<g transform="translate(36.0649, 1.4894)">
-<text font-family="serif" font-weight="bold" font-size="1.9602" text-anchor="start" fill="currentColor">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:25:12:13">
+<g transform="translate(16.0020, 1.4892)">
+<text font-family="serif" font-weight="bold" font-size="1.9598" text-anchor="start" fill="currentColor">
 <tspan>C7(♭9)</tspan>
 </text>
 </g>
-<g transform="translate(36.0649, 4.4894)">
-<text font-family="serif" font-size="1.9602" text-anchor="start" fill="currentColor">
+<g transform="translate(16.0020, 4.4892)">
+<text font-family="serif" font-size="1.9598" text-anchor="start" fill="currentColor">
 <tspan>1st inv</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:34:16:17">
-<g transform="translate(36.0649, 17.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:31:11:12">
+<g transform="translate(16.0020, 8.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:34:18:19">
-<g transform="translate(36.0649, 15.0258)">
-<path transform="scale(0.0040, -0.0040)" d="M211 111c-20 0 -68 -8 -68 -88c0 -100 89 -134 132 -134c20 0 68 8 68 88c0 100 -89 134 -132 134zM243 137c143 0 243 -65 243 -137s-100 -137 -243 -137s-243 65 -243 137s100 137 243 137z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:31:17:18">
+<g transform="translate(16.0020, 7.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(0.0000, 21.1016)">
-<text font-family="serif" font-style="italic" font-size="1.9602" text-anchor="start" fill="currentColor">
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:31:21:22">
+<g transform="translate(16.0020, 6.4892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:42:16:17">
+<g transform="translate(16.0020, 17.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///workspaces/Build-testing/assets/notation/jt12-us-var-amaj-c7.ly:42:18:19">
+<g transform="translate(16.0020, 15.9892)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(0.0000, 25.6259)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0" y1="0" x2="0" y2="-5"/>
+</g>
+</g>
+<g transform="translate(0.0000, 28.6259)">
+<text font-family="serif" font-style="italic" font-size="1.9598" text-anchor="start" fill="currentColor">
 <tspan>A major upper structure over C7: root position, 1st inversion, cut-off dyad, +octave</tspan>
 </text>
 </g>

@@ -14,8 +14,7 @@
     <p>
       Upper structure voicings are most commonly applied to <em>dominant 7th</em> chords,
       where the availability of altered extensions (♭9, ♯9, ♭13, ♯11) gives a wide choice
-      of upper structure triads. They were systematised by jazz pianist and educator
-      <term>Mark Levine</term> in his book <em>The Jazz Piano Book</em> and are labelled
+      of upper structure triads. They are labelled
       <term>US I</term> through <term>US VII</term> according to the diatonic degree on
       which the right-hand triad is built.
     </p>
@@ -109,7 +108,7 @@
 
   <!-- ============================================================ -->
   <subsection xml:id="subsec-us-application-g7">
-    <title>Application: US II and US ♭II over G7</title>
+    <title>Example: US II and US ♭II over G7</title>
 
     <p>
       The two most widely used upper structures over a dominant 7th are <term>US II</term>
@@ -119,7 +118,7 @@
     </p>
 
     <paragraphs>
-      <title>US II — A major triad over G7 shell</title>
+      <title>Example: US II — A major triad over G7 shell</title>
       <p>
         Left hand: B–F (3rd and 7th of G7, a tritone apart).
         Right hand: A–C♯–E (A major triad in root position or first inversion).
@@ -127,7 +126,7 @@
         and E is the 13th. This is one of the brightest, most colourful sounds in jazz
         harmony and is strongly associated with the Lydian dominant sound.
       </p>
-      <sidebyside width="55%" margins="22.5%">
+      <sidebyside width="100%" margins="0%">
         <image xml:id="img-us-II-over-G7" source="notation/us-II-over-G7">
           <shortdescription>
             Upper structure II voicing over G7: LH B–F (3rd and 7th shell),
@@ -147,7 +146,7 @@
         This is a darker, more dissonant sound often used in blues-influenced or
         tension-building contexts before resolution to C major.
       </p>
-      <sidebyside width="55%" margins="22.5%">
+      <sidebyside width="100%" margins="0%">
         <image xml:id="img-us-bII-over-G7" source="notation/us-bII-over-G7">
           <shortdescription>
             Upper structure flat-II voicing over G7: LH B–F (3rd and 7th shell),
@@ -179,7 +178,7 @@
       <li><p><em>Cmaj9 (rootless)</em>: E–G–B–D (3–5–7–9)</p></li>
     </ul>
 
-    <sidebyside width="80%" margins="10%">
+    <sidebyside width="100%" margins="0%">
       <image xml:id="img-us-ii-v-i-cmaj" source="notation/us-ii-v-i-cmaj">
         <shortdescription>
           IIm7–V7–Imaj7 in C major with upper structure voicing: Dm9 rootless A voicing
@@ -241,9 +240,9 @@
     </paragraphs>
 
     <paragraphs>
-      <title>Three recommended structures (Julian Bradley)</title>
+      <title>Three recommended structures</title>
       <p>
-        Bradley recommends three upper structures as the most useful starting point:
+        The following three upper structures are probably the most useful starting point:
       </p>
       <ul>
         <li><p><em>D major</em> (most used) — adds the bright <m>\sharp 11</m> sound.</p></li>
@@ -273,7 +272,7 @@
       </p>
 
       <p><em>D major variations:</em></p>
-      <sidebyside width="85%" margins="7.5%">
+      <sidebyside width="100%" margins="0%">
         <image xml:id="img-jt12-us-var-dmaj-c7" source="notation/jt12-us-var-dmaj-c7">
           <shortdescription>
             C7(♯11) with D major upper structure: root position (D–F♯–A), 1st inversion
@@ -283,7 +282,7 @@
       </sidebyside>
 
       <p><em>A<m>\flat</m> major variations:</em></p>
-      <sidebyside width="85%" margins="7.5%">
+      <sidebyside width="100%" margins="0%">
         <image xml:id="img-jt12-us-var-abmaj-c7" source="notation/jt12-us-var-abmaj-c7">
           <shortdescription>
             C7(♭13) with A♭ major upper structure: root position (A♭–C–E♭), 1st inversion
@@ -293,7 +292,7 @@
       </sidebyside>
 
       <p><em>A major variations:</em></p>
-      <sidebyside width="85%" margins="7.5%">
+      <sidebyside width="100%" margins="0%">
         <image xml:id="img-jt12-us-var-amaj-c7" source="notation/jt12-us-var-amaj-c7">
           <shortdescription>
             C7(♭9) with A major upper structure: root position (A–C♯–E), 1st inversion
@@ -314,9 +313,16 @@
       </p>
     </note>
 
-    <p>
-      <image source="Polychords.svg" width="80%" />
-    </p>
+    <figure xml:id="fig-polychords-c7">
+      <caption>Examples with C7 in bass showing treble upper structures.</caption>
+      <image xml:id="img-polychords-c7" source="notation/polychords-c7">
+        <shortdescription>
+          Polychord reference chart: each major, minor, augmented, and diminished triad
+          placed over a C7 shell (guide tones E–B♭) in the left hand, with the resulting
+          C7 alteration labelled beneath each voicing.
+        </shortdescription>
+      </image>
+    </figure>
 
   </subsection>
 
