@@ -55,11 +55,20 @@ var ptx_lunr_docs = [
   "body": " Accordion Keyboards Stradella Bass.     "
 },
 {
+  "id": "sec-stradella-complex-chords",
+  "level": "1",
+  "url": "sec-stradella-complex-chords.html",
+  "type": "Section",
+  "number": "1.3",
+  "title": "Building More Complex Chords Using the Stradella Bass System",
+  "body": " Building More Complex Chords Using the Stradella Bass System   The Stradella bass provides only four ready-made chord qualities: major, minor, dominant seventh and diminished seventh. This looks restrictive, but because each preset chord is a fixed three-note cell, richer chords such as major sevenths, minor sevenths, sixths, ninths and altered dominants can be assembled by combining either a single bass note with a chord button, or two chord buttons together. This section shows the most useful of these combinations.    What the Preset Chords Actually Contain  To combine chords sensibly it helps to know which notes each preset button supplies. So that a chord always fits under three fingers, some chord tones are omitted:       Button  Notes supplied (root C)  Note omitted    Major  C – E – G  none    Minor  C – E – G  none    Dominant 7th  C – E – B  5th (G)    Diminished 7th  C – E – A  5th (G )    Because the dominant 7th and diminished buttons already drop their fifth, they combine cleanly with a bass note or a second chord without producing muddy doublings.    Combining a Bass Note with a Chord Button  The simplest method is to sound the root on a bass button and play a chord button a third or so above it. The bass supplies the root and the chord button supplies the upper structure. Each example below is shown in the key of C, but the same shape moves to every key.        Target chord  Bass note  Chord button  Resulting notes    Major 7th (Cmaj7)  C  E minor  C – E – G – B    Minor 7th (Cm7)  C  E major  C – E – G – B    Half-diminished (Cm7 5)  C  E minor  C – E – G – B    Dominant 7 9 (C7 9)  C  D diminished  C – D – E – B    The last row is a particularly useful trick: a diminished seventh chord built a semitone above a bass note always produces the dominant 7 9 of that bass note. Because a diminished seventh is symmetrical, the same shape covers four different dominant 7 9 chords.    Combining Two Chord Buttons  Fuller five-note voicings are produced by pressing two chord buttons at once. The lower chord names the root; the upper chord adds the extensions.        Target chord  Lower chord  Upper chord  Resulting notes    Major 7th (Cmaj7)  C major  E minor (a major 3rd up)  C – E – G – B    Minor 7th (Cm7)  C minor  E major (a minor 3rd up)  C – E – G – B    Dominant 9th (C9)  C 7th  G minor (a 5th up)  C – E – G – B – D    Notice that a dominant ninth is simply the dominant 7th button combined with the minor chord a fifth above the root. The minor chord contributes the missing fifth and the ninth in a single press.    Sixth Chords and the Relative Minor  A major sixth chord contains exactly the same notes as the minor seventh chord a minor third below it: C6 (C – E – G – A) and Am7 (A – C – E – G) are the same four pitches. On the Stradella bass this means a sixth chord is easiest to voice through its relative minor. To sound a C6 colour, play the C major chord together with the A bass a major sixth above the root; the ear reads the lowest note and the chord quality together.  The same relationship works for minor sixth chords: Cm6 (C – E – G – A) shares its notes with Am7 5 (A – C – E – G), so a minor sixth is reached by combining the C minor chord with the A bass.    Practical Notes  A few points make these combinations reliable in performance:     Because the bass buttons are laid out in fifths, the chord button you need for a combination is almost always immediately next to the root, keeping the left hand compact.    The omitted fifths in the preset 7th and diminished chords are a feature, not a fault: they leave room for extensions without doubling and thickening the voicing.    Every shape shown here is isomorphic. Once a combination is learned in C it can be transposed to any of the twelve keys simply by moving the same buttons to a new root.      "
+},
+{
   "id": "sec-accordion-keyboards-layout-free-bass",
   "level": "1",
   "url": "sec-accordion-keyboards-layout-free-bass.html",
   "type": "Section",
-  "number": "1.3",
+  "number": "1.4",
   "title": "C System Accordion Keyboards with Free Bass",
   "body": " C System Accordion Keyboards with Free Bass  This section shows the complete accordion keyboard in Free Bass configuration. The left (bass) side shows the four chromatic free-bass columns alongside the standard Bass and Counter Bass columns. The right (treble) side is the same C system chromatic button layout as Section 1.3.1 Three faint vertical lines represent the bellows.   Accordion Keyboards Free Bass.      "
 },
@@ -68,7 +77,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-accordion-keyboards-layout-free-bass.html#fig-free-bass-accordion-layout",
   "type": "Figure",
-  "number": "1.3.1",
+  "number": "1.4.1",
   "title": "",
   "body": " Accordion Keyboards Free Bass.     "
 },
