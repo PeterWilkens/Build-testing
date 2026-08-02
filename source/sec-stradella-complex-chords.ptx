@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-stradella-complex-chords" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Building More Complex Chords Using the Stradella Bass System</title>
+
+  <introduction>
+    <p>
+      The Stradella bass provides only four ready-made chord qualities: major, minor,
+      dominant seventh and diminished seventh. This looks restrictive, but because each
+      preset chord is a fixed three-note cell, richer chords such as major sevenths,
+      minor sevenths, sixths, ninths and altered dominants can be assembled by
+      <em>combining</em> either a single bass note with a chord button, or two chord
+      buttons together. This section shows the most useful of these combinations.
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-stradella-preset-content">
+    <title>What the Preset Chords Actually Contain</title>
+    <p>
+      To combine chords sensibly it helps to know which notes each preset button
+      supplies. So that a chord always fits under three fingers, some chord tones are
+      omitted:
+    </p>
+    <tabular halign="left" top="medium" bottom="medium" left="medium" right="medium">
+      <col right="medium"/>
+      <col right="medium"/>
+      <col/>
+      <row header="yes" bottom="medium">
+        <cell>Button</cell>
+        <cell>Notes supplied (root C)</cell>
+        <cell>Note omitted</cell>
+      </row>
+      <row>
+        <cell>Major</cell>
+        <cell>C – E – G</cell>
+        <cell>none</cell>
+      </row>
+      <row>
+        <cell>Minor</cell>
+        <cell>C – E<flat/> – G</cell>
+        <cell>none</cell>
+      </row>
+      <row>
+        <cell>Dominant 7th</cell>
+        <cell>C – E – B<flat/></cell>
+        <cell>5th (G)</cell>
+      </row>
+      <row>
+        <cell>Diminished 7th</cell>
+        <cell>C – E<flat/> – A</cell>
+        <cell>5th (G<flat/>)</cell>
+      </row>
+    </tabular>
+    <p>
+      Because the dominant 7th and diminished buttons already drop their fifth, they
+      combine cleanly with a bass note or a second chord without producing muddy
+      doublings.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-stradella-bass-plus-chord">
+    <title>Combining a Bass Note with a Chord Button</title>
+    <p>
+      The simplest method is to sound the root on a bass button and play a chord button
+      a third or so above it. The bass supplies the root and the chord button supplies
+      the upper structure. Each example below is shown in the key of C, but the same
+      shape moves to every key.
+    </p>
+    <tabular halign="left" top="medium" bottom="medium" left="medium" right="medium">
+      <col right="medium"/>
+      <col right="medium"/>
+      <col right="medium"/>
+      <col/>
+      <row header="yes" bottom="medium">
+        <cell>Target chord</cell>
+        <cell>Bass note</cell>
+        <cell>Chord button</cell>
+        <cell>Resulting notes</cell>
+      </row>
+      <row>
+        <cell>Major 7th (Cmaj7)</cell>
+        <cell>C</cell>
+        <cell>E minor</cell>
+        <cell>C – E – G – B</cell>
+      </row>
+      <row>
+        <cell>Minor 7th (Cm7)</cell>
+        <cell>C</cell>
+        <cell>E<flat/> major</cell>
+        <cell>C – E<flat/> – G – B<flat/></cell>
+      </row>
+      <row>
+        <cell>Half-diminished (Cm7<flat/>5)</cell>
+        <cell>C</cell>
+        <cell>E<flat/> minor</cell>
+        <cell>C – E<flat/> – G<flat/> – B<flat/></cell>
+      </row>
+      <row>
+        <cell>Dominant 7<flat/>9 (C7<flat/>9)</cell>
+        <cell>C</cell>
+        <cell>D<flat/> diminished</cell>
+        <cell>C – D<flat/> – E – B<flat/></cell>
+      </row>
+    </tabular>
+    <p>
+      The last row is a particularly useful trick: a diminished seventh chord built a
+      semitone <em>above</em> a bass note always produces the dominant 7<flat/>9 of that
+      bass note. Because a diminished seventh is symmetrical, the same shape covers four
+      different dominant 7<flat/>9 chords.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-stradella-two-chords">
+    <title>Combining Two Chord Buttons</title>
+    <p>
+      Fuller five-note voicings are produced by pressing two chord buttons at once. The
+      lower chord names the root; the upper chord adds the extensions.
+    </p>
+    <tabular halign="left" top="medium" bottom="medium" left="medium" right="medium">
+      <col right="medium"/>
+      <col right="medium"/>
+      <col right="medium"/>
+      <col/>
+      <row header="yes" bottom="medium">
+        <cell>Target chord</cell>
+        <cell>Lower chord</cell>
+        <cell>Upper chord</cell>
+        <cell>Resulting notes</cell>
+      </row>
+      <row>
+        <cell>Major 7th (Cmaj7)</cell>
+        <cell>C major</cell>
+        <cell>E minor (a major 3rd up)</cell>
+        <cell>C – E – G – B</cell>
+      </row>
+      <row>
+        <cell>Minor 7th (Cm7)</cell>
+        <cell>C minor</cell>
+        <cell>E<flat/> major (a minor 3rd up)</cell>
+        <cell>C – E<flat/> – G – B<flat/></cell>
+      </row>
+      <row>
+        <cell>Dominant 9th (C9)</cell>
+        <cell>C 7th</cell>
+        <cell>G minor (a 5th up)</cell>
+        <cell>C – E – G – B<flat/> – D</cell>
+      </row>
+    </tabular>
+    <p>
+      Notice that a dominant ninth is simply the dominant 7th button combined with the
+      minor chord a fifth above the root. The minor chord contributes the missing fifth
+      and the ninth in a single press.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-stradella-sixth-chords">
+    <title>Sixth Chords and the Relative Minor</title>
+    <p>
+      A major sixth chord contains exactly the same notes as the minor seventh chord a
+      minor third below it: C6 (C – E – G – A) and Am7 (A – C – E – G) are the same four
+      pitches. On the Stradella bass this means a sixth chord is easiest to voice through
+      its relative minor. To sound a C6 colour, play the C major chord together with the
+      A bass a major sixth above the root; the ear reads the lowest note and the chord
+      quality together.
+    </p>
+    <p>
+      The same relationship works for minor sixth chords: Cm6 (C – E<flat/> – G – A)
+      shares its notes with Am7<flat/>5 (A – C – E<flat/> – G), so a minor sixth is
+      reached by combining the C minor chord with the A bass.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-stradella-practical-notes">
+    <title>Practical Notes</title>
+    <p>
+      A few points make these combinations reliable in performance:
+    </p>
+    <p>
+      <ul>
+        <li>
+          <p>
+            Because the bass buttons are laid out in fifths, the chord button you need for
+            a combination is almost always immediately next to the root, keeping the left
+            hand compact.
+          </p>
+        </li>
+        <li>
+          <p>
+            The omitted fifths in the preset 7th and diminished chords are a feature, not a
+            fault: they leave room for extensions without doubling and thickening the
+            voicing.
+          </p>
+        </li>
+        <li>
+          <p>
+            Every shape shown here is isomorphic. Once a combination is learned in C it can
+            be transposed to any of the twelve keys simply by moving the same buttons to a
+            new root.
+          </p>
+        </li>
+      </ul>
+    </p>
+  </subsection>
+</section>
