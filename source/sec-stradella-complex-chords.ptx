@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-stradella-complex-chords" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Building More Complex Chords Using the Stradella Bass System</title>
+
+  <introduction>
+    <p>
+      The Stradella bass provides only four ready-made chord qualities: major, minor, dominant
+      seventh and diminished seventh. This looks restrictive, but because each preset chord is a
+      fixed three-note cell, richer chords such as major sevenths, minor sevenths, sixths, ninths
+      and altered dominants can be assembled by combining either a single bass note with a chord
+      button, or two chord buttons together. This section shows the most useful of these
+      combinations.
+    </p>
+  </introduction>
+
+  <!-- ============================================================ -->
+  <subsection xml:id="subsec-stradella-preset-contents">
+    <title>What the Preset Chords Actually Contain</title>
+    <p>
+      To combine chords sensibly it helps to know which notes each preset button supplies. So
+      that a chord always fits under three fingers, some chord tones are omitted:
+    </p>
+    <table>
+      <title>Notes supplied by each preset chord button (root C)</title>
+      <tabular halign="left">
+        <row header="yes" bottom="medium">
+          <cell>Button</cell><cell>Notes supplied (root C)</cell><cell>Note omitted</cell>
+        </row>
+        <row><cell>Major</cell><cell>C – E – G</cell><cell>none</cell></row>
+        <row><cell>Minor</cell><cell>C – E<flat/> – G</cell><cell>none</cell></row>
+        <row><cell>Dominant 7th</cell><cell>C – E – B<flat/></cell><cell>5th (G)</cell></row>
+        <row bottom="minor"><cell>Diminished 7th</cell><cell>C – E<flat/> – A</cell><cell>5th (G<flat/>)</cell></row>
+      </tabular>
+    </table>
+    <p>
+      Because the dominant 7th and diminished buttons already drop their fifth, they combine
+      cleanly with a bass note or a second chord without producing muddy doublings.
+    </p>
+  </subsection>
+
+  <!-- ============================================================ -->
+  <subsection xml:id="subsec-stradella-bass-plus-button">
+    <title>Combining a Bass Note with a Chord Button</title>
+    <p>
+      The simplest method is to sound the root on a bass button and play a chord button a third
+      or so above it. The bass supplies the root and the chord button supplies the upper
+      structure. Each example below is shown in the key of C, but the same shape moves to every
+      key.
+    </p>
+    <table>
+      <title>Chords from a bass note plus a chord button</title>
+      <tabular halign="left">
+        <row header="yes" bottom="medium">
+          <cell>Target chord</cell><cell>Bass note</cell><cell>Chord button</cell><cell>Resulting notes</cell>
+        </row>
+        <row><cell>Major 7th (Cmaj7)</cell><cell>C</cell><cell>E minor</cell><cell>C – E – G – B</cell></row>
+        <row><cell>Minor 7th (Cm7)</cell><cell>C</cell><cell>E<flat/> major</cell><cell>C – E<flat/> – G – B<flat/></cell></row>
+        <row><cell>Half-diminished (Cm7<flat/>5)</cell><cell>C</cell><cell>E<flat/> minor</cell><cell>C – E<flat/> – G<flat/> – B<flat/></cell></row>
+        <row bottom="minor"><cell>Dominant 7<flat/>9 (C7<flat/>9)</cell><cell>C</cell><cell>D<flat/> diminished</cell><cell>C – D<flat/> – E – B<flat/></cell></row>
+      </tabular>
+    </table>
+    <p>
+      The last row is a particularly useful trick: a diminished seventh chord built a semitone
+      above a bass note always produces the dominant 7<flat/>9 of that bass note. Because a
+      diminished seventh is symmetrical, the same shape covers four different dominant 7<flat/>9
+      chords.
+    </p>
+  </subsection>
+
+  <!-- ============================================================ -->
+  <subsection xml:id="subsec-stradella-two-buttons">
+    <title>Combining Two Chord Buttons</title>
+    <p>
+      Fuller five-note voicings are produced by pressing two chord buttons at once. The lower
+      chord names the root; the upper chord adds the extensions.
+    </p>
+    <table>
+      <title>Chords from two chord buttons</title>
+      <tabular halign="left">
+        <row header="yes" bottom="medium">
+          <cell>Target chord</cell><cell>Lower chord</cell><cell>Upper chord</cell><cell>Resulting notes</cell>
+        </row>
+        <row><cell>Major 7th (Cmaj7)</cell><cell>C major</cell><cell>E minor (a major 3rd up)</cell><cell>C – E – G – B</cell></row>
+        <row><cell>Minor 7th (Cm7)</cell><cell>C minor</cell><cell>E<flat/> major (a minor 3rd up)</cell><cell>C – E<flat/> – G – B<flat/></cell></row>
+        <row bottom="minor"><cell>Dominant 9th (C9)</cell><cell>C 7th</cell><cell>G minor (a 5th up)</cell><cell>C – E – G – B<flat/> – D</cell></row>
+      </tabular>
+    </table>
+    <p>
+      Notice that a dominant ninth is simply the dominant 7th button combined with the minor
+      chord a fifth above the root. The minor chord contributes the missing fifth and the ninth
+      in a single press.
+    </p>
+  </subsection>
+
+  <!-- ============================================================ -->
+  <subsection xml:id="subsec-stradella-sixth-chords">
+    <title>Sixth Chords and the Relative Minor</title>
+    <p>
+      A major sixth chord contains exactly the same notes as the minor seventh chord a minor
+      third below it: C6 (C – E – G – A) and Am7 (A – C – E – G) are the same four pitches. On
+      the Stradella bass this means a sixth chord is easiest to voice through its relative minor.
+      To sound a C6 colour, play the C major chord together with the A bass a major sixth above
+      the root; the ear reads the lowest note and the chord quality together.
+    </p>
+    <p>
+      The same relationship works for minor sixth chords: Cm6 (C – E<flat/> – G – A) shares its
+      notes with Am7<flat/>5 (A – C – E<flat/> – G), so a minor sixth is reached by combining
+      the C minor chord with the A bass.
+    </p>
+  </subsection>
+
+  <!-- ============================================================ -->
+  <subsection xml:id="subsec-stradella-catalogue">
+    <title>A Fuller Catalogue of Combinations</title>
+    <p>
+    All the combinations that follow are specific to the Stradella bass and work only because of the particular notes produced and omitted on the accordion. Every combination is included for completeness, but some will be very difficult to play.
+    Each row names the buttons to press, the chord that results, and a short performance note where one is helpful. 
+    Because the layout is isomorphic, every combination transposes unchanged to the other eleven keys.
+    </p>
+
+    <table>
+      <title>C bass and one triad</title>
+      <tabular halign="left">
+        <row header="yes" bottom="medium">
+          <cell>Combination</cell><cell>Chord</cell><cell>Notes</cell>
+        </row>
+        <row><cell>C bass + D maj</cell><cell>D7/C</cell><cell>7th in the bass.</cell></row>
+        <row><cell>C bass + E<flat/> maj</cell><cell>Cm7</cell><cell>Use bass or counterbass; easy reach to both.</cell></row>
+        <row><cell>C bass + E maj</cell><cell>Cmaj7 (+5)</cell><cell>Good contemporary jazz chord.</cell></row>
+        <row><cell>C bass + G maj</cell><cell>G/C</cell><cell>Good traditional folk-style chord.</cell></row>
+        <row><cell>C bass + B<flat/> maj</cell><cell>B<flat/>/C</cell><cell>James Taylor chord; acts like a sus chord.</cell></row>
+        <row><cell>C bass + B maj</cell><cell>B/C</cell><cell>Jazz chord; use counterbass.</cell></row>
+        <row><cell>C bass + D min</cell><cell>F6/C or Dm7/C</cell><cell></cell></row>
+        <row><cell>C bass + E<flat/> min</cell><cell>Cm7(<flat/>5)</cell><cell>The half-diminished 7th chord.</cell></row>
+        <row><cell>C bass + E min</cell><cell>Cmaj7</cell><cell></cell></row>
+        <row><cell>C bass + A min</cell><cell>C6 or Am/C</cell><cell>Nice voicing of an ordinary chord.</cell></row>
+        <row><cell>C bass + B<flat/> min</cell><cell>C7sus(<flat/>9)</cell><cell>Dave Grusin jazz chord; heard often in Baroque music.</cell></row>
+        <row><cell>C bass + G min</cell><cell>C9 (no 3)</cell><cell></cell></row>
+        <row><cell>C bass + G7</cell><cell>G7/C</cell><cell>Common Baroque cadence chord.</cell></row>
+        <row><cell>C bass + B<flat/>7</cell><cell>C9(+5)</cell><cell>No third.</cell></row>
+        <row><cell>C bass + G dim7</cell><cell>C7</cell><cell>A 4-part rendition of a C7 chord.</cell></row>
+        <row><cell>C bass + B<flat/> dim7</cell><cell>C7(<flat/>9)</cell><cell>Missing the 3rd.</cell></row>
+        <row bottom="minor"><cell>C bass + F dim</cell><cell>Dm7(<flat/>5)/C or Fm6</cell><cell></cell></row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>C bass, C major and one other triad</title>
+      <tabular halign="left">
+        <row header="yes" bottom="medium">
+          <cell>Combination</cell><cell>Chord</cell><cell>Notes</cell>
+        </row>
+        <row><cell>C bass + C maj + G maj</cell><cell>Cmaj9</cell><cell></cell></row>
+        <row><cell>C bass + C maj + D min</cell><cell>F6/C</cell><cell></cell></row>
+        <row><cell>C bass + C maj + E min</cell><cell>Cmaj7</cell><cell>Difficult to reach.</cell></row>
+        <row><cell>C bass + C maj + G min</cell><cell>C9</cell><cell></cell></row>
+        <row><cell>C bass + C maj + A min</cell><cell>C6</cell><cell></cell></row>
+        <row><cell>C bass + C maj + B<flat/> min</cell><cell>C7sus(<flat/>9, add 3)</cell><cell>Contains a 3rd and 4th; a bit dissonant.</cell></row>
+        <row><cell>C bass + C maj + G dim</cell><cell>C7</cell><cell>A 4-part version of C7.</cell></row>
+        <row bottom="minor"><cell>C bass + C maj + B<flat/> dim</cell><cell>C7(<flat/>9)</cell><cell>Try thumb on B<flat/> dim.</cell></row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>C bass, C minor and one other triad</title>
+      <tabular halign="left">
+        <row header="yes" bottom="medium">
+          <cell>Combination</cell><cell>Chord</cell><cell>Notes</cell>
+        </row>
+        <row><cell>C bass + C min + E<flat/> maj</cell><cell>Cm7</cell><cell></cell></row>
+        <row><cell>C bass + C min + F maj</cell><cell>Cm13 (no 9)</cell><cell></cell></row>
+        <row><cell>C bass + C min + G maj</cell><cell>Cm(maj7)</cell><cell></cell></row>
+        <row><cell>C bass + C min + A<flat/> maj</cell><cell>A<flat/>maj7/C</cell><cell></cell></row>
+        <row><cell>C bass + C min + B<flat/> maj</cell><cell>Cm11</cell><cell></cell></row>
+        <row><cell>C bass + C min + D min</cell><cell>Cm13</cell><cell></cell></row>
+        <row><cell>C bass + C min + G min</cell><cell>Cm9</cell><cell></cell></row>
+        <row><cell>C bass + C min + C7</cell><cell>C7(+9)</cell><cell></cell></row>
+        <row><cell>C bass + C min + F7</cell><cell>F9/C</cell><cell></cell></row>
+        <row><cell>C bass + C min + G7</cell><cell>Cm(maj7,11)</cell><cell></cell></row>
+        <row bottom="minor"><cell>C bass + C min + C dim</cell><cell>Cm6</cell><cell>Same as Am7(<flat/>5)/C.</cell></row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>C bass, C7 and one other triad</title>
+      <tabular halign="left">
+        <row header="yes" bottom="medium">
+          <cell>Combination</cell><cell>Chord</cell><cell>Notes</cell>
+        </row>
+        <row><cell>C bass + C7 + D maj</cell><cell>C13(<sharp/>11)</cell><cell></cell></row>
+        <row><cell>C bass + C7 + E<flat/> maj</cell><cell>C7(<sharp/>9)</cell><cell></cell></row>
+        <row><cell>C bass + C7 + A maj</cell><cell>C13(<flat/>9)</cell><cell></cell></row>
+        <row><cell>C bass + C7 + C min</cell><cell>C7(<sharp/>9)</cell><cell></cell></row>
+        <row><cell>C bass + C7 + G min</cell><cell>C9</cell><cell></cell></row>
+        <row><cell>C bass + C7 + A min</cell><cell>C13</cell><cell></cell></row>
+        <row><cell>C bass + C7 + D7</cell><cell>C9(<sharp/>11)</cell><cell></cell></row>
+        <row><cell>C bass + C7 + A<flat/>7</cell><cell>C7(<sharp/>5,<sharp/>11)</cell><cell></cell></row>
+        <row><cell>C bass + C7 + E<flat/> dim</cell><cell>C7(<sharp/>9,<sharp/>11)</cell><cell>Try light reed settings, close voicing.</cell></row>
+        <row bottom="minor"><cell>C bass + C7 + B<flat/> dim</cell><cell>C7(<flat/>9)</cell><cell></cell></row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>C bass, C dim and one other triad</title>
+      <tabular halign="left">
+        <row header="yes" bottom="medium">
+          <cell>Combination</cell><cell>Chord</cell><cell>Notes</cell>
+        </row>
+        <row><cell>C bass + C dim + D maj</cell><cell>D7(<flat/>9)/C</cell><cell></cell></row>
+        <row><cell>C bass + C dim + G maj</cell><cell>Cmin(6,maj7,9)</cell><cell></cell></row>
+        <row><cell>C bass + C dim + C min</cell><cell>Cm6</cell><cell></cell></row>
+        <row><cell>C bass + C dim + F min</cell><cell>F7(<sharp/>9)/C</cell><cell></cell></row>
+        <row bottom="minor"><cell>C bass + C dim + D dim</cell><cell>F13(<sharp/>11)/C</cell><cell>Try thumb on D dim button.</cell></row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>C bass and two other triads</title>
+      <tabular halign="left">
+        <row header="yes" bottom="medium">
+          <cell>Combination</cell><cell>Chord</cell><cell>Notes</cell>
+        </row>
+        <row><cell>C bass + E<flat/> maj + F maj</cell><cell>Cm13</cell><cell></cell></row>
+        <row><cell>C bass + E<flat/> maj + B<flat/> maj</cell><cell>Cm11</cell><cell></cell></row>
+        <row><cell>C bass + E<flat/> maj + D min</cell><cell>Cm13</cell><cell></cell></row>
+        <row><cell>C bass + E<flat/> maj + G min</cell><cell>Cm9</cell><cell></cell></row>
+        <row><cell>C bass + G maj + D maj</cell><cell>Cmaj13(<sharp/>11)</cell><cell></cell></row>
+        <row><cell>C bass + G maj + E min</cell><cell>Cmaj9</cell><cell></cell></row>
+        <row><cell>C bass + G maj + A min</cell><cell>C(6,9)</cell><cell></cell></row>
+        <row><cell>C bass + B<flat/> maj + D min</cell><cell>Gm9/C</cell><cell></cell></row>
+        <row><cell>C bass + B<flat/> maj + F maj</cell><cell>Gm11/C</cell><cell></cell></row>
+        <row><cell>C bass + E<flat/> min + F min</cell><cell>Cm11(<flat/>5, 13, no 9) or A<flat/>13/C</cell><cell></cell></row>
+        <row><cell>C bass + E min + D maj</cell><cell>Cmaj13(<sharp/>11)</cell><cell></cell></row>
+        <row><cell>C bass + E min + A min</cell><cell>Cmaj7(6)</cell><cell></cell></row>
+        <row><cell>C bass + G min + D maj</cell><cell>C13(<sharp/>11)</cell><cell></cell></row>
+        <row><cell>C bass + G min + F maj</cell><cell>Gm11/C</cell><cell>More variations on the sus4 chord.</cell></row>
+        <row><cell>C bass + G min + D min</cell><cell>Gm9/C</cell><cell>More variations on the sus4 chord.</cell></row>
+        <row><cell>C bass + G min + A min</cell><cell>C13</cell><cell></cell></row>
+        <row><cell>C bass + G min + G dim</cell><cell>C9</cell><cell>A pleasant surprise; very useful.</cell></row>
+        <row><cell>C bass + A min + E min</cell><cell>C(maj7,6)</cell><cell></cell></row>
+        <row><cell>C bass + B<flat/> min + F min</cell><cell>B<flat/>min9/C</cell><cell></cell></row>
+        <row bottom="minor"><cell>C bass + G dim + D maj</cell><cell>C13(<sharp/>11)</cell><cell></cell></row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>C-row chords and one counterbass note</title>
+      <tabular halign="left">
+        <row header="yes" bottom="medium">
+          <cell>Combination</cell><cell>Chord</cell><cell>Notes</cell>
+        </row>
+        <row><cell>C maj + A (cb)</cell><cell>Am7</cell><cell></cell></row>
+        <row><cell>C maj + D (cb)</cell><cell>C/D or D11</cell><cell></cell></row>
+        <row><cell>C min + A (cb)</cell><cell>Am7(<flat/>5)</cell><cell></cell></row>
+        <row><cell>C7 + F<sharp/> (cb)</cell><cell>F<sharp/>7(<flat/>5)</cell><cell>Based on the so-called tritone substitution.</cell></row>
+        <row bottom="minor"><cell>C dim + F<sharp/> (cb)</cell><cell>F<sharp/>dim7</cell><cell>A true 4-part diminished 7th chord.</cell></row>
+      </tabular>
+    </table>
+  </subsection>
+
+  <!-- ============================================================ -->
+  <subsection xml:id="subsec-stradella-common-c-chords">
+    <title>Commonly Used Chords in the Key of C</title>
+    <p>
+      The chords below are the ones a player reaches for most often. Each is shown in accordion
+      notation: the <em>bass note</em> is written below the middle staff line and the
+      <em>chord</em> is written above it, exactly as the left hand sounds them. Where more than
+      one combination is listed, the first is usually the easiest to finger.
+    </p>
+
+    <figure xml:id="fig-common-c-chords-accordion">
+      <caption>
+        The most commonly used chords in the key of C, notated in accordion convention with the
+        bass note below the middle staff line and the chord above it.
+      </caption>
+      <image xml:id="img-common-c-chords-accordion" source="notation/common-c-chords-accordion" width="100%">
+        <description>
+          A bass-clef staff showing fourteen common C chords — C7, Cm7, Cmaj7, C9, C6, Cm9,
+          Cmaj9, Cm6, Cm7(flat 5), C6/9, Cdim7, Cm11, C11 and C13 — each with a low C bass note
+          below the middle line and the chord tones stacked above it.
+        </description>
+      </image>
+    </figure>
+
+    <dl>
+      <li>
+        <title>C7</title>
+        <p>C bass + G dim; C bass + C7; C bass + C maj + G dim.</p>
+      </li>
+      <li>
+        <title>Cm7</title>
+        <p>C bass + E<flat/> maj.</p>
+      </li>
+      <li>
+        <title>Cmaj7</title>
+        <p>C bass + E min; C bass + C maj + E min.</p>
+      </li>
+      <li>
+        <title>C9</title>
+        <p>C bass + C maj + G min; C bass + C7 + G min; C bass + G min + G dim.</p>
+      </li>
+      <li>
+        <title>C6</title>
+        <p>C bass + A min; C bass + C maj + A min.</p>
+      </li>
+      <li>
+        <title>Cm9</title>
+        <p>C bass + E<flat/> maj + G min.</p>
+      </li>
+      <li>
+        <title>Cmaj9</title>
+        <p>C bass + G maj + E min; C bass + C maj + G maj (easy to finger).</p>
+      </li>
+      <li>
+        <title>Cm6</title>
+        <p>C bass + C dim + C min; A bass + C min (Am7(<flat/>5) or Cm6/A).</p>
+      </li>
+      <li>
+        <title>Cm7(<flat/>5)</title>
+        <p>
+          C bass + E<flat/> min; G<flat/> bass + E<flat/> min + E<flat/> dim
+          (Cm7(<flat/>5)/G<flat/>) — good chord but difficult reach; try eliminating the bass
+          note (with A<flat/> as a bass note this becomes A<flat/>9).
+        </p>
+      </li>
+      <li>
+        <title>C(6,9)</title>
+        <p>C bass + G maj + A min.</p>
+      </li>
+      <li>
+        <title>Cdim7</title>
+        <p>C bass + G<flat/> dim (use counterbass).</p>
+      </li>
+      <li>
+        <title>Cm11</title>
+        <p>C bass + C min + B<flat/> maj; C bass + E<flat/> maj + B<flat/> maj.</p>
+      </li>
+      <li>
+        <title>C11</title>
+        <p>C bass + B<flat/> maj; C bass + B<flat/> maj + F maj (approximation).</p>
+      </li>
+      <li>
+        <title>C13</title>
+        <p>C bass + C7 + A min; C bass + G min + A min.</p>
+      </li>
+    </dl>
+  </subsection>
+
+  <!-- ============================================================ -->
+  <subsection xml:id="subsec-stradella-practical-notes">
+    <title>Practical Notes</title>
+    <p>
+      A few points make these combinations reliable in performance:
+    </p>
+    <ul>
+      <li>
+        <p>
+          Because the bass buttons are laid out in fifths, the chord button you need for a
+          combination is almost always immediately next to the root, keeping the left hand
+          compact.
+        </p>
+      </li>
+      <li>
+        <p>
+          The omitted fifths in the preset 7th and diminished chords are a feature, not a fault:
+          they leave room for extensions without doubling and thickening the voicing.
+        </p>
+      </li>
+      <li>
+        <p>
+          Every shape shown here is isomorphic. Once a combination is learned in C it can be
+          transposed to any of the twelve keys simply by moving the same buttons to a new root.
+        </p>
+      </li>
+    </ul>
+  </subsection>
+
+</section>
