@@ -61,7 +61,106 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "Building More Complex Chords Using the Stradella Bass System",
-  "body": " Building More Complex Chords Using the Stradella Bass System   The Stradella bass provides only four ready-made chord qualities: major, minor, dominant seventh and diminished seventh. This looks restrictive, but because each preset chord is a fixed three-note cell, richer chords such as major sevenths, minor sevenths, sixths, ninths and altered dominants can be assembled by combining either a single bass note with a chord button, or two chord buttons together. This section shows the most useful of these combinations.    What the Preset Chords Actually Contain  To combine chords sensibly it helps to know which notes each preset button supplies. So that a chord always fits under three fingers, some chord tones are omitted:       Button  Notes supplied (root C)  Note omitted    Major  C – E – G  none    Minor  C – E – G  none    Dominant 7th  C – E – B  5th (G)    Diminished 7th  C – E – A  5th (G )    Because the dominant 7th and diminished buttons already drop their fifth, they combine cleanly with a bass note or a second chord without producing muddy doublings.    Combining a Bass Note with a Chord Button  The simplest method is to sound the root on a bass button and play a chord button a third or so above it. The bass supplies the root and the chord button supplies the upper structure. Each example below is shown in the key of C, but the same shape moves to every key.        Target chord  Bass note  Chord button  Resulting notes    Major 7th (Cmaj7)  C  E minor  C – E – G – B    Minor 7th (Cm7)  C  E major  C – E – G – B    Half-diminished (Cm7 5)  C  E minor  C – E – G – B    Dominant 7 9 (C7 9)  C  D diminished  C – D – E – B    The last row is a particularly useful trick: a diminished seventh chord built a semitone above a bass note always produces the dominant 7 9 of that bass note. Because a diminished seventh is symmetrical, the same shape covers four different dominant 7 9 chords.    Combining Two Chord Buttons  Fuller five-note voicings are produced by pressing two chord buttons at once. The lower chord names the root; the upper chord adds the extensions.        Target chord  Lower chord  Upper chord  Resulting notes    Major 7th (Cmaj7)  C major  E minor (a major 3rd up)  C – E – G – B    Minor 7th (Cm7)  C minor  E major (a minor 3rd up)  C – E – G – B    Dominant 9th (C9)  C 7th  G minor (a 5th up)  C – E – G – B – D    Notice that a dominant ninth is simply the dominant 7th button combined with the minor chord a fifth above the root. The minor chord contributes the missing fifth and the ninth in a single press.    Sixth Chords and the Relative Minor  A major sixth chord contains exactly the same notes as the minor seventh chord a minor third below it: C6 (C – E – G – A) and Am7 (A – C – E – G) are the same four pitches. On the Stradella bass this means a sixth chord is easiest to voice through its relative minor. To sound a C6 colour, play the C major chord together with the A bass a major sixth above the root; the ear reads the lowest note and the chord quality together.  The same relationship works for minor sixth chords: Cm6 (C – E – G – A) shares its notes with Am7 5 (A – C – E – G), so a minor sixth is reached by combining the C minor chord with the A bass.    Practical Notes  A few points make these combinations reliable in performance:     Because the bass buttons are laid out in fifths, the chord button you need for a combination is almost always immediately next to the root, keeping the left hand compact.    The omitted fifths in the preset 7th and diminished chords are a feature, not a fault: they leave room for extensions without doubling and thickening the voicing.    Every shape shown here is isomorphic. Once a combination is learned in C it can be transposed to any of the twelve keys simply by moving the same buttons to a new root.      "
+  "body": " Building More Complex Chords Using the Stradella Bass System   The Stradella bass provides only four ready-made chord qualities: major, minor, dominant seventh and diminished seventh. This looks restrictive, but because each preset chord is a fixed three-note cell, richer chords such as major sevenths, minor sevenths, sixths, ninths and altered dominants can be assembled by combining either a single bass note with a chord button, or two chord buttons together. This section shows the most useful of these combinations.     What the Preset Chords Actually Contain  To combine chords sensibly it helps to know which notes each preset button supplies. So that a chord always fits under three fingers, some chord tones are omitted:   Notes supplied by each preset chord button (root C)    Button Notes supplied (root C) Note omitted   Major C – E – G none  Minor C – E – G none  Dominant 7th C – E – B 5th (G)  Diminished 7th C – E – A 5th (G )    Because the dominant 7th and diminished buttons already drop their fifth, they combine cleanly with a bass note or a second chord without producing muddy doublings.     Combining a Bass Note with a Chord Button  The simplest method is to sound the root on a bass button and play a chord button a third or so above it. The bass supplies the root and the chord button supplies the upper structure. Each example below is shown in the key of C, but the same shape moves to every key.   Chords from a bass note plus a chord button    Target chord Bass note Chord button Resulting notes   Major 7th (Cmaj7) C E minor C – E – G – B  Minor 7th (Cm7) C E major C – E – G – B  Half-diminished (Cm7 5) C E minor C – E – G – B  Dominant 7 9 (C7 9) C D diminished C – D – E – B    The last row is a particularly useful trick: a diminished seventh chord built a semitone above a bass note always produces the dominant 7 9 of that bass note. Because a diminished seventh is symmetrical, the same shape covers four different dominant 7 9 chords.     Combining Two Chord Buttons  Fuller five-note voicings are produced by pressing two chord buttons at once. The lower chord names the root; the upper chord adds the extensions.   Chords from two chord buttons    Target chord Lower chord Upper chord Resulting notes   Major 7th (Cmaj7) C major E minor (a major 3rd up) C – E – G – B  Minor 7th (Cm7) C minor E major (a minor 3rd up) C – E – G – B  Dominant 9th (C9) C 7th G minor (a 5th up) C – E – G – B – D    Notice that a dominant ninth is simply the dominant 7th button combined with the minor chord a fifth above the root. The minor chord contributes the missing fifth and the ninth in a single press.     Sixth Chords and the Relative Minor  A major sixth chord contains exactly the same notes as the minor seventh chord a minor third below it: C6 (C – E – G – A) and Am7 (A – C – E – G) are the same four pitches. On the Stradella bass this means a sixth chord is easiest to voice through its relative minor. To sound a C6 colour, play the C major chord together with the A bass a major sixth above the root; the ear reads the lowest note and the chord quality together.  The same relationship works for minor sixth chords: Cm6 (C – E – G – A) shares its notes with Am7 5 (A – C – E – G), so a minor sixth is reached by combining the C minor chord with the A bass.     A Fuller Catalogue of Combinations  All the combinations that follow are specific to the Stradella bass and work only because of the particular notes produced and omitted on the accordion. Every combination is included for completeness, but some will be very difficult to play. Each row names the buttons to press, the chord that results, and a short performance note where one is helpful. Because the layout is isomorphic, every combination transposes unchanged to the other eleven keys.   C bass and one triad    Combination Chord Notes   C bass + D maj D7\/C 7th in the bass.  C bass + E maj Cm7 Use bass or counterbass; easy reach to both.  C bass + E maj Cmaj7 (+5) Good contemporary jazz chord.  C bass + G maj G\/C Good traditional folk-style chord.  C bass + B maj B \/C James Taylor chord; acts like a sus chord.  C bass + B maj B\/C Jazz chord; use counterbass.  C bass + D min F6\/C or Dm7\/C  C bass + E min Cm7( 5) The half-diminished 7th chord.  C bass + E min Cmaj7  C bass + A min C6 or Am\/C Nice voicing of an ordinary chord.  C bass + B min C7sus( 9) Dave Grusin jazz chord; heard often in Baroque music.  C bass + G min C9 (no 3)  C bass + G7 G7\/C Common Baroque cadence chord.  C bass + B 7 C9(+5) No third.  C bass + G dim7 C7 A 4-part rendition of a C7 chord.  C bass + B dim7 C7( 9) Missing the 3rd.  C bass + F dim Dm7( 5)\/C or Fm6     C bass, C major and one other triad    Combination Chord Notes   C bass + C maj + G maj Cmaj9  C bass + C maj + D min F6\/C  C bass + C maj + E min Cmaj7 Difficult to reach.  C bass + C maj + G min C9  C bass + C maj + A min C6  C bass + C maj + B min C7sus( 9, add 3) Contains a 3rd and 4th; a bit dissonant.  C bass + C maj + G dim C7 A 4-part version of C7.  C bass + C maj + B dim C7( 9) Try thumb on B dim.     C bass, C minor and one other triad    Combination Chord Notes   C bass + C min + E maj Cm7  C bass + C min + F maj Cm13 (no 9)  C bass + C min + G maj Cm(maj7)  C bass + C min + A maj A maj7\/C  C bass + C min + B maj Cm11  C bass + C min + D min Cm13  C bass + C min + G min Cm9  C bass + C min + C7 C7(+9)  C bass + C min + F7 F9\/C  C bass + C min + G7 Cm(maj7,11)  C bass + C min + C dim Cm6 Same as Am7( 5)\/C.     C bass, C7 and one other triad    Combination Chord Notes   C bass + C7 + D maj C13( 11)  C bass + C7 + E maj C7( 9)  C bass + C7 + A maj C13( 9)  C bass + C7 + C min C7( 9)  C bass + C7 + G min C9  C bass + C7 + A min C13  C bass + C7 + D7 C9( 11)  C bass + C7 + A 7 C7( 5, 11)  C bass + C7 + E dim C7( 9, 11) Try light reed settings, close voicing.  C bass + C7 + B dim C7( 9)     C bass, C dim and one other triad    Combination Chord Notes   C bass + C dim + D maj D7( 9)\/C  C bass + C dim + G maj Cmin(6,maj7,9)  C bass + C dim + C min Cm6  C bass + C dim + F min F7( 9)\/C  C bass + C dim + D dim F13( 11)\/C Try thumb on D dim button.     C bass and two other triads    Combination Chord Notes   C bass + E maj + F maj Cm13  C bass + E maj + B maj Cm11  C bass + E maj + D min Cm13  C bass + E maj + G min Cm9  C bass + G maj + D maj Cmaj13( 11)  C bass + G maj + E min Cmaj9  C bass + G maj + A min C(6,9)  C bass + B maj + D min Gm9\/C  C bass + B maj + F maj Gm11\/C  C bass + E min + F min Cm11( 5, 13, no 9) or A 13\/C  C bass + E min + D maj Cmaj13( 11)  C bass + E min + A min Cmaj7(6)  C bass + G min + D maj C13( 11)  C bass + G min + F maj Gm11\/C More variations on the sus4 chord.  C bass + G min + D min Gm9\/C More variations on the sus4 chord.  C bass + G min + A min C13  C bass + G min + G dim C9 A pleasant surprise; very useful.  C bass + A min + E min C(maj7,6)  C bass + B min + F min B min9\/C  C bass + G dim + D maj C13( 11)     C-row chords and one counterbass note    Combination Chord Notes   C maj + A (cb) Am7  C maj + D (cb) C\/D or D11  C min + A (cb) Am7( 5)  C7 + F (cb) F 7( 5) Based on the so-called tritone substitution.  C dim + F (cb) F dim7 A true 4-part diminished 7th chord.       Commonly Used Chords in the Key of C  The chords below are the ones a player reaches for most often. Each is shown in accordion notation: the bass note is written below the middle staff line and the chord is written above it, exactly as the left hand sounds them. Where more than one combination is listed, the first is usually the easiest to finger.   The most commonly used chords in the key of C, notated in accordion convention with the bass note below the middle staff line and the chord above it.   A bass-clef staff showing fourteen common C chords — C7, Cm7, Cmaj7, C9, C6, Cm9, Cmaj9, Cm6, Cm7(flat 5), C6\/9, Cdim7, Cm11, C11 and C13 — each with a low C bass note below the middle line and the chord tones stacked above it.      C7  C bass + G dim; C bass + C7; C bass + C maj + G dim.    Cm7  C bass + E maj.    Cmaj7  C bass + E min; C bass + C maj + E min.    C9  C bass + C maj + G min; C bass + C7 + G min; C bass + G min + G dim.    C6  C bass + A min; C bass + C maj + A min.    Cm9  C bass + E maj + G min.    Cmaj9  C bass + G maj + E min; C bass + C maj + G maj (easy to finger).    Cm6  C bass + C dim + C min; A bass + C min (Am7( 5) or Cm6\/A).    Cm7( 5)  C bass + E min; G bass + E min + E dim (Cm7( 5)\/G ) — good chord but difficult reach; try eliminating the bass note (with A as a bass note this becomes A 9).    C(6,9)  C bass + G maj + A min.    Cdim7  C bass + G dim (use counterbass).    Cm11  C bass + C min + B maj; C bass + E maj + B maj.    C11  C bass + B maj; C bass + B maj + F maj (approximation).    C13  C bass + C7 + A min; C bass + G min + A min.       Practical Notes  A few points make these combinations reliable in performance:    Because the bass buttons are laid out in fifths, the chord button you need for a combination is almost always immediately next to the root, keeping the left hand compact.    The omitted fifths in the preset 7th and diminished chords are a feature, not a fault: they leave room for extensions without doubling and thickening the voicing.    Every shape shown here is isomorphic. Once a combination is learned in C it can be transposed to any of the twelve keys simply by moving the same button shape to a new root.     "
+},
+{
+  "id": "subsec-stradella-preset-contents-3",
+  "level": "2",
+  "url": "sec-stradella-complex-chords.html#subsec-stradella-preset-contents-3",
+  "type": "Table",
+  "number": "1.3.1",
+  "title": "Notes supplied by each preset chord button (root C)",
+  "body": " Notes supplied by each preset chord button (root C)    Button Notes supplied (root C) Note omitted   Major C – E – G none  Minor C – E – G none  Dominant 7th C – E – B 5th (G)  Diminished 7th C – E – A 5th (G )   "
+},
+{
+  "id": "subsec-stradella-bass-plus-button-3",
+  "level": "2",
+  "url": "sec-stradella-complex-chords.html#subsec-stradella-bass-plus-button-3",
+  "type": "Table",
+  "number": "1.3.2",
+  "title": "Chords from a bass note plus a chord button",
+  "body": " Chords from a bass note plus a chord button    Target chord Bass note Chord button Resulting notes   Major 7th (Cmaj7) C E minor C – E – G – B  Minor 7th (Cm7) C E major C – E – G – B  Half-diminished (Cm7 5) C E minor C – E – G – B  Dominant 7 9 (C7 9) C D diminished C – D – E – B   "
+},
+{
+  "id": "subsec-stradella-two-buttons-3",
+  "level": "2",
+  "url": "sec-stradella-complex-chords.html#subsec-stradella-two-buttons-3",
+  "type": "Table",
+  "number": "1.3.3",
+  "title": "Chords from two chord buttons",
+  "body": " Chords from two chord buttons    Target chord Lower chord Upper chord Resulting notes   Major 7th (Cmaj7) C major E minor (a major 3rd up) C – E – G – B  Minor 7th (Cm7) C minor E major (a minor 3rd up) C – E – G – B  Dominant 9th (C9) C 7th G minor (a 5th up) C – E – G – B – D   "
+},
+{
+  "id": "subsec-stradella-catalogue-3",
+  "level": "2",
+  "url": "sec-stradella-complex-chords.html#subsec-stradella-catalogue-3",
+  "type": "Table",
+  "number": "1.3.4",
+  "title": "C bass and one triad",
+  "body": " C bass and one triad    Combination Chord Notes   C bass + D maj D7\/C 7th in the bass.  C bass + E maj Cm7 Use bass or counterbass; easy reach to both.  C bass + E maj Cmaj7 (+5) Good contemporary jazz chord.  C bass + G maj G\/C Good traditional folk-style chord.  C bass + B maj B \/C James Taylor chord; acts like a sus chord.  C bass + B maj B\/C Jazz chord; use counterbass.  C bass + D min F6\/C or Dm7\/C  C bass + E min Cm7( 5) The half-diminished 7th chord.  C bass + E min Cmaj7  C bass + A min C6 or Am\/C Nice voicing of an ordinary chord.  C bass + B min C7sus( 9) Dave Grusin jazz chord; heard often in Baroque music.  C bass + G min C9 (no 3)  C bass + G7 G7\/C Common Baroque cadence chord.  C bass + B 7 C9(+5) No third.  C bass + G dim7 C7 A 4-part rendition of a C7 chord.  C bass + B dim7 C7( 9) Missing the 3rd.  C bass + F dim Dm7( 5)\/C or Fm6   "
+},
+{
+  "id": "subsec-stradella-catalogue-4",
+  "level": "2",
+  "url": "sec-stradella-complex-chords.html#subsec-stradella-catalogue-4",
+  "type": "Table",
+  "number": "1.3.5",
+  "title": "C bass, C major and one other triad",
+  "body": " C bass, C major and one other triad    Combination Chord Notes   C bass + C maj + G maj Cmaj9  C bass + C maj + D min F6\/C  C bass + C maj + E min Cmaj7 Difficult to reach.  C bass + C maj + G min C9  C bass + C maj + A min C6  C bass + C maj + B min C7sus( 9, add 3) Contains a 3rd and 4th; a bit dissonant.  C bass + C maj + G dim C7 A 4-part version of C7.  C bass + C maj + B dim C7( 9) Try thumb on B dim.   "
+},
+{
+  "id": "subsec-stradella-catalogue-5",
+  "level": "2",
+  "url": "sec-stradella-complex-chords.html#subsec-stradella-catalogue-5",
+  "type": "Table",
+  "number": "1.3.6",
+  "title": "C bass, C minor and one other triad",
+  "body": " C bass, C minor and one other triad    Combination Chord Notes   C bass + C min + E maj Cm7  C bass + C min + F maj Cm13 (no 9)  C bass + C min + G maj Cm(maj7)  C bass + C min + A maj A maj7\/C  C bass + C min + B maj Cm11  C bass + C min + D min Cm13  C bass + C min + G min Cm9  C bass + C min + C7 C7(+9)  C bass + C min + F7 F9\/C  C bass + C min + G7 Cm(maj7,11)  C bass + C min + C dim Cm6 Same as Am7( 5)\/C.   "
+},
+{
+  "id": "subsec-stradella-catalogue-6",
+  "level": "2",
+  "url": "sec-stradella-complex-chords.html#subsec-stradella-catalogue-6",
+  "type": "Table",
+  "number": "1.3.7",
+  "title": "C bass, C7 and one other triad",
+  "body": " C bass, C7 and one other triad    Combination Chord Notes   C bass + C7 + D maj C13( 11)  C bass + C7 + E maj C7( 9)  C bass + C7 + A maj C13( 9)  C bass + C7 + C min C7( 9)  C bass + C7 + G min C9  C bass + C7 + A min C13  C bass + C7 + D7 C9( 11)  C bass + C7 + A 7 C7( 5, 11)  C bass + C7 + E dim C7( 9, 11) Try light reed settings, close voicing.  C bass + C7 + B dim C7( 9)   "
+},
+{
+  "id": "subsec-stradella-catalogue-7",
+  "level": "2",
+  "url": "sec-stradella-complex-chords.html#subsec-stradella-catalogue-7",
+  "type": "Table",
+  "number": "1.3.8",
+  "title": "C bass, C dim and one other triad",
+  "body": " C bass, C dim and one other triad    Combination Chord Notes   C bass + C dim + D maj D7( 9)\/C  C bass + C dim + G maj Cmin(6,maj7,9)  C bass + C dim + C min Cm6  C bass + C dim + F min F7( 9)\/C  C bass + C dim + D dim F13( 11)\/C Try thumb on D dim button.   "
+},
+{
+  "id": "subsec-stradella-catalogue-8",
+  "level": "2",
+  "url": "sec-stradella-complex-chords.html#subsec-stradella-catalogue-8",
+  "type": "Table",
+  "number": "1.3.9",
+  "title": "C bass and two other triads",
+  "body": " C bass and two other triads    Combination Chord Notes   C bass + E maj + F maj Cm13  C bass + E maj + B maj Cm11  C bass + E maj + D min Cm13  C bass + E maj + G min Cm9  C bass + G maj + D maj Cmaj13( 11)  C bass + G maj + E min Cmaj9  C bass + G maj + A min C(6,9)  C bass + B maj + D min Gm9\/C  C bass + B maj + F maj Gm11\/C  C bass + E min + F min Cm11( 5, 13, no 9) or A 13\/C  C bass + E min + D maj Cmaj13( 11)  C bass + E min + A min Cmaj7(6)  C bass + G min + D maj C13( 11)  C bass + G min + F maj Gm11\/C More variations on the sus4 chord.  C bass + G min + D min Gm9\/C More variations on the sus4 chord.  C bass + G min + A min C13  C bass + G min + G dim C9 A pleasant surprise; very useful.  C bass + A min + E min C(maj7,6)  C bass + B min + F min B min9\/C  C bass + G dim + D maj C13( 11)   "
+},
+{
+  "id": "subsec-stradella-catalogue-9",
+  "level": "2",
+  "url": "sec-stradella-complex-chords.html#subsec-stradella-catalogue-9",
+  "type": "Table",
+  "number": "1.3.10",
+  "title": "C-row chords and one counterbass note",
+  "body": " C-row chords and one counterbass note    Combination Chord Notes   C maj + A (cb) Am7  C maj + D (cb) C\/D or D11  C min + A (cb) Am7( 5)  C7 + F (cb) F 7( 5) Based on the so-called tritone substitution.  C dim + F (cb) F dim7 A true 4-part diminished 7th chord.   "
+},
+{
+  "id": "fig-common-c-chords-accordion",
+  "level": "2",
+  "url": "sec-stradella-complex-chords.html#fig-common-c-chords-accordion",
+  "type": "Figure",
+  "number": "1.3.11",
+  "title": "",
+  "body": " The most commonly used chords in the key of C, notated in accordion convention with the bass note below the middle staff line and the chord above it.   A bass-clef staff showing fourteen common C chords — C7, Cm7, Cmaj7, C9, C6, Cm9, Cmaj9, Cm6, Cm7(flat 5), C6\/9, Cdim7, Cm11, C11 and C13 — each with a low C bass note below the middle line and the chord tones stacked above it.   "
 },
 {
   "id": "sec-accordion-keyboards-layout-free-bass",
