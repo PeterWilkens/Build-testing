@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="ch-29-jazz-piano-licks" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>29 Jazz Piano Licks</title>
+
+  <introduction>
+    <p>
+      This chapter reproduces the JT5 exercise set, <q>29 Sweet Jazz Piano Licks</q>, by
+      Julian Bradley. The material is organised into major ii-V-I licks, major ii-V-I-VI
+      licks, minor ii-V-I licks, and minor chord licks.
+    </p>
+    <p>
+      Source: Julian Bradley, <url href="https://www.jazztutorial.com">www.JazzTutorial.com</url>
+      and <url href="https://www.youtube.com/@JazzTutorialOfficial">@JazzTutorialOfficial</url>.
+    </p>
+    <p>
+      Although these examples are written for piano, their melodic language transfers directly
+      to the chromatic button accordion. Practise each lick first as a right-hand line, then
+      transpose it through all twelve keys using the instrument's repeating button patterns.
+      Free-bass players can realise the left-hand voicings as written; Stradella players can
+      treat them as harmonic models and focus on the melodic line, target notes, and rhythm.
+    </p>
+    <p>
+      Practise slowly enough to hear how each phrase defines the harmony at the chord changes,
+      especially the 3rd and 7th of the dominant and tonic chords. Once a lick is secure,
+      isolate its underlying device, whether chord tones, half-step-below approaches, bebop
+      scale motion, diminished language, or altered dominant colour, and apply it to your own
+      ii-V-I and minor-cadence improvisations.
+    </p>
+  </introduction>
+
+  <section xml:id="sec-jt5-major-ii-v-i-licks">
+    <title>Major ii-V-I Licks</title>
+
+    <p>
+      The opening pages focus on major ii-V-I vocabulary in C major, beginning with chord-tone
+      lines and diatonic material, then expanding to bebop, diminished, altered, and rhythmic
+      sequence ideas.
+    </p>
+
+    <figure xml:id="fig-jt5-major-ii-v-i-p1">
+      <caption>
+        JT5, page 1. Licks 1 to 6: major ii-V-I lines introducing chord tones, C-major scale
+        language, triplet variation, and half-step-below approaches at the chord changes.
+      </caption>
+      <image xml:id="img-jt5-major-ii-v-i-p1"
+             source="notation/jt5-29-jazz-licks-p1.png"
+             width="100%" />
+    </figure>
+
+    <figure xml:id="fig-jt5-major-ii-v-i-p2">
+      <caption>
+        JT5, page 2. Licks 7 to 11: major ii-V-I lines using the G diminished scale, G altered
+        scale, rootless dominant voicings, rests, and melodic sequences.
+      </caption>
+      <image xml:id="img-jt5-major-ii-v-i-p2"
+             source="notation/jt5-29-jazz-licks-p2.png"
+             width="100%" />
+    </figure>
+  </section>
+
+  <section xml:id="sec-jt5-major-ii-v-i-vi-licks">
+    <title>Major ii-V-I-VI Licks</title>
+
+    <p>
+      These examples extend the major cadence by adding the VI7 chord, creating a loopable
+      ii-V-I-VI progression with additional chromatic enclosures and altered dominant colours.
+    </p>
+
+    <figure xml:id="fig-jt5-major-ii-v-i-vi-p3">
+      <caption>
+        JT5, page 3. Licks 12 to 17: major ii-V-I-VI vocabulary with D-minor bebop, G diminished,
+        altered dominant colour, chromatic enclosures, and stride-style left-hand textures.
+      </caption>
+      <image xml:id="img-jt5-major-ii-v-i-vi-p3"
+             source="notation/jt5-29-jazz-licks-p3.png"
+             width="100%" />
+    </figure>
+  </section>
+
+  <section xml:id="sec-jt5-minor-ii-v-i-licks">
+    <title>Minor ii-V-I Licks</title>
+
+    <p>
+      The next page shifts to minor ii-V-I language, combining D locrian, G diminished or altered,
+      and C dorian ideas across the cadence.
+    </p>
+
+    <figure xml:id="fig-jt5-minor-ii-v-i-p4">
+      <caption>
+        JT5, page 4. Licks 18 to 24: minor ii-V-I lines with chord-tone soloing, locrian and dorian
+        scale material, diminished and altered dominant colour, rests, and rootless voicings.
+      </caption>
+      <image xml:id="img-jt5-minor-ii-v-i-p4"
+             source="notation/jt5-29-jazz-licks-p4.png"
+             width="100%" />
+    </figure>
+  </section>
+
+  <section xml:id="sec-jt5-minor-chord-licks">
+    <title>Minor Chord Licks</title>
+
+    <p>
+      The final page isolates minor-chord vocabulary written for straight time, drawing mainly
+      from dorian and minor blues language with left-hand accompaniment patterns.
+    </p>
+
+    <figure xml:id="fig-jt5-minor-chord-p5">
+      <caption>
+        JT5, page 5. Licks 25 to 29: minor chord ideas in straight time using dorian scale motion,
+        minor blues vocabulary, bossa-nova accompaniment, paradiddle-style texture, and a minor
+        pentatonic cell.
+      </caption>
+      <image xml:id="img-jt5-minor-chord-p5"
+             source="notation/jt5-29-jazz-licks-p5.png"
+             width="100%" />
+    </figure>
+  </section>
+</chapter>
