@@ -4,7 +4,6 @@
 
   <!-- ===== Row 1: Shapes 1-4 ===== -->
   <figure xml:id="fig-blank-tpl-r1">
-    <caption></caption>
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <image xml:id="img-blank-tpl-r1-g1">
@@ -204,7 +203,6 @@
 
   <!-- ===== Row 2: Shapes 5-8 ===== -->
   <figure xml:id="fig-blank-tpl-r2">
-    <caption></caption>
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <image xml:id="img-blank-tpl-r2-g1">
@@ -404,7 +402,6 @@
 
   <!-- ===== Row 3: Shapes 9-12 ===== -->
   <figure xml:id="fig-blank-tpl-r3">
-    <caption></caption>
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <image xml:id="img-blank-tpl-r3-g1">

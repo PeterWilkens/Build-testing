@@ -12,7 +12,187 @@
 
   <!-- <solutions divisional="solution"> <title>Selected Solutions</title> </solutions> -->
 
-  <!-- <appendix> <title>List of Symbols</title> <notation-list/> </appendix> -->
+  <appendix xml:id="app-glossary">
+    <title>Glossary</title>
+
+    <p>
+      This glossary gathers the principal theoretical and accordion-specific terms
+      used throughout the book into one reference section.
+    </p>
+
+    <table xml:id="table-glossary">
+      <title>Glossary of Terms</title>
+      <tabular halign="left" top="major" bottom="minor" left="minor" right="minor">
+        <col width="28%" />
+        <col width="72%" />
+        <row header="yes" bottom="major">
+          <cell>Term</cell>
+          <cell>Definition</cell>
+        </row>
+        <row>
+          <cell>Interval</cell>
+          <cell>The distance between two notes, measured by scale position or by number of semitones.</cell>
+        </row>
+        <row>
+          <cell>Triad</cell>
+          <cell>A three-note chord built by stacking two thirds above a root note.</cell>
+        </row>
+        <row>
+          <cell>Chord</cell>
+          <cell>A group of notes sounded together to create a harmonic sonority.</cell>
+        </row>
+        <row>
+          <cell>Diatonic Chord</cell>
+          <cell>A chord whose notes all belong to a given scale or key.</cell>
+        </row>
+        <row>
+          <cell>Seventh Chord</cell>
+          <cell>A chord formed by adding a further third above a triad so that the upper note is a seventh above the root.</cell>
+        </row>
+        <row>
+          <cell>Chord Progression</cell>
+          <cell>A sequence of chords whose movement establishes harmonic direction.</cell>
+        </row>
+        <row>
+          <cell>Mode</cell>
+          <cell>A scale pattern defined both by its collection of notes and by its tonal centre.</cell>
+        </row>
+        <row>
+          <cell>Chord Voicing</cell>
+          <cell>A specific arrangement of chord tones in register and spacing.</cell>
+        </row>
+        <row>
+          <cell>Circle of Fifths</cell>
+          <cell>A cyclic arrangement of the twelve pitch classes showing relationships among key signatures, roots, and common chord motions.</cell>
+        </row>
+        <row>
+          <cell>Grip Method</cell>
+          <cell>The book's moveable treble-hand shape system for generating several useful chords from a small set of recurring button patterns.</cell>
+        </row>
+        <row bottom="minor">
+          <cell>Barry Harris System</cell>
+          <cell>A harmonic approach centred on the relationship between a major 6th chord and its companion diminished 7th chord, together with associated scale and movement patterns.</cell>
+        </row>
+      </tabular>
+    </table>
+  </appendix>
+
+  <appendix xml:id="app-symbol-list">
+    <title>Symbol List</title>
+
+    <p>
+      The following symbols and abbreviations appear regularly in the text, chord
+      labels, and musical examples.
+    </p>
+
+    <table xml:id="table-symbol-list">
+      <title>Common Symbols and Abbreviations</title>
+      <tabular halign="left" top="major" bottom="minor" left="minor" right="minor">
+        <col width="28%" />
+        <col width="72%" />
+        <row header="yes" bottom="major">
+          <cell>Symbol</cell>
+          <cell>Meaning</cell>
+        </row>
+        <row>
+          <cell><sharp /></cell>
+          <cell>Sharp: raises a note by one semitone.</cell>
+        </row>
+        <row>
+          <cell><flat /></cell>
+          <cell>Flat: lowers a note by one semitone.</cell>
+        </row>
+        <row>
+          <cell><natural /></cell>
+          <cell>Natural: cancels a previous sharp or flat.</cell>
+        </row>
+        <row>
+          <cell>maj7</cell>
+          <cell>Major seventh chord.</cell>
+        </row>
+        <row>
+          <cell>m7</cell>
+          <cell>Minor seventh chord.</cell>
+        </row>
+        <row>
+          <cell>7</cell>
+          <cell>Dominant seventh chord.</cell>
+        </row>
+        <row>
+          <cell>dim7</cell>
+          <cell>Diminished seventh chord.</cell>
+        </row>
+        <row>
+          <cell>m7<flat />5</cell>
+          <cell>Half-diminished seventh chord.</cell>
+        </row>
+        <row>
+          <cell>sus4</cell>
+          <cell>Suspended chord with the third replaced by the fourth.</cell>
+        </row>
+        <row>
+          <cell>add9</cell>
+          <cell>A chord with an added ninth but no seventh.</cell>
+        </row>
+        <row>
+          <cell>6/9</cell>
+          <cell>A major chord coloured with an added 6th and 9th.</cell>
+        </row>
+        <row>
+          <cell>alt</cell>
+          <cell>Altered dominant shorthand, usually implying one or more altered 5ths or 9ths.</cell>
+        </row>
+        <row>
+          <cell><flat />5</cell>
+          <cell>Lowered fifth extension or chord alteration.</cell>
+        </row>
+        <row>
+          <cell>#5</cell>
+          <cell>Raised fifth extension or chord alteration.</cell>
+        </row>
+        <row>
+          <cell>#11</cell>
+          <cell>Raised eleventh extension.</cell>
+        </row>
+        <row>
+          <cell>#9</cell>
+          <cell>Raised ninth extension, often associated with altered dominant harmony.</cell>
+        </row>
+        <row>
+          <cell><flat />9</cell>
+          <cell>Lowered ninth extension.</cell>
+        </row>
+        <row>
+          <cell><flat />13</cell>
+          <cell>Lowered thirteenth extension.</cell>
+        </row>
+        <row>
+          <cell>I</cell>
+          <cell>Roman-numeral analysis symbol for the tonic degree or tonic chord.</cell>
+        </row>
+        <row>
+          <cell>ii</cell>
+          <cell>Roman-numeral analysis symbol for the supertonic chord; lowercase indicates minor quality in diatonic usage.</cell>
+        </row>
+        <row>
+          <cell>V</cell>
+          <cell>Roman-numeral analysis symbol for the dominant degree or dominant chord.</cell>
+        </row>
+        <row>
+          <cell>ii-V-I</cell>
+          <cell>A common functional progression moving from supertonic to dominant to tonic.</cell>
+        </row>
+        <row bottom="minor">
+          <cell>V/ii</cell>
+          <cell>A secondary dominant: the dominant chord that resolves to ii rather than directly to I.</cell>
+        </row>
+        <row bottom="minor">
+          <cell>V7</cell>
+          <cell>The dominant seventh chord built on the fifth degree of a key.</cell>
+        </row>
+      </tabular>
+    </table>
+  </appendix>
 
   <index>
     <title>Index</title>

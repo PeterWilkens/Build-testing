@@ -7,7 +7,6 @@
 
   <!-- ===== Row 1: Root positions ===== -->
   <figure xml:id="fig-triad-grids-row1">
-    <caption></caption>
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <!-- Grid 1: C Major (C, E, G) -->
@@ -227,7 +226,6 @@
 
   <!-- ===== Row 2: Inversions ===== -->
   <figure xml:id="fig-triad-grids-row2">
-    <caption></caption>
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <!-- Grid 5: C Major 1st inversion (E, G, C) -->

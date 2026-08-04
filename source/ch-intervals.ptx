@@ -3,7 +3,7 @@
   <title>Intervals and the Button Keyboard</title>
   
   <introduction> 
-    <p> An understanding of Intervals and their relative position on the keyboard are an essential requirement in gaining a thorough understanding of the accordion; as well as, in their practice, developing a muscle memory of the relationships on an instrument where you are unable to view the keyboard directly.</p> 
+    <p> An understanding of intervals and their relative position on the keyboard is an essential requirement for gaining a thorough understanding of the accordion and, in practice, developing a muscle memory of the relationships on an instrument where you are unable to view the keyboard directly.</p> 
     <p>Because of the isomorphic nature of the Button Accordion, for any particular interval, the relative button positions remain the same all over the keyboard. It is therefore easy to identify the interval between notes once the physical button relationships are understood </p>
   <p>The next part of this chapter will provide diagrams showing the main intervals as configured on the accordion keyboard.</p>  </introduction>
   
@@ -16,7 +16,7 @@
 
   <!-- ===== Row 1: Interval grids 1–4 ===== -->
   <figure xml:id="fig-interval-grids-row1">
-    <caption></caption>
+    <caption>Interval grids showing minor seconds, a major second, and a minor third on the treble keyboard.</caption>
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <!-- Grid 1: minor 2nd pairs with loop outlines -->
@@ -289,7 +289,7 @@
 
   <!-- ===== Row 2: Interval grids 5–8 ===== -->
   <figure xml:id="fig-interval-grids-row2">
-    <caption></caption>
+    <caption>Interval grids showing a major third, a perfect fifth, a flat fifth, and a perfect fourth on the treble keyboard.</caption>
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <!-- Grid 5: placeholder -->

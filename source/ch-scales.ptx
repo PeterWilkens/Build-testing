@@ -4,11 +4,11 @@
 
    <introduction>
       
-     <p><idx>interval</idx><idx>scale</idx>Before discussing scales it is useful to understand how the distance between notes is described. The musical distance between notes on your instrument keyboard or on a musical staff is known as an <term>interval</term>. This interval is dependent on the number of semitones between notes and the Interval is described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;</p>
-     <p>The interval between two notes can be obtained by counting between notes on the keyboard or staff but, when counting, the first note, should be counted as one and not zero. Using this type of count the actual number of semitones
-     is 1 less than the count. Considering the C Major scale in Figure 2.1.1 the interval C to D is a Major second because there are 2 semitones between C and D. The Count is 3. That is, C to C<sharp/>:1 semitone. C<sharp/> to D:1 semitone. CountC is 1, C<sharp/> is 2 and D is 3.
-    Similarly E to F is a Minor Second. One semitone between E and F and a count of 2. Count 1 at E and 2 at F.</p>
-    <p> There are a number of different scale types eg; Major, Minor, Diminished etc;. Different Scale Types are characterised by the interval between each successive  note. A Major Scale has a sequence of whole tone, whole tone, half tone, whole tone,whole tone, whole tone, half tone between the tonic notes.</p>
+    <p><idx>interval</idx><idx>scale</idx>Before discussing scales it is useful to understand how the distance between notes is described. The musical distance between notes on your instrument keyboard or on a musical staff is known as an <term>interval</term>. This interval is dependent on the number of semitones between notes and is described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th, etc.</p>
+    <p>The interval between two notes can be obtained by counting between notes on the keyboard or staff but, when counting, the first note should be counted as one and not zero. Using this type of count the actual number of semitones
+    is 1 less than the count. Considering the C major scale in Figure 2.1.1, the interval C to D is a major second because there are 2 semitones between C and D. The count is 3. That is, C to C<sharp/>: 1 semitone. C<sharp/> to D: 1 semitone. Count C is 1, C<sharp/> is 2 and D is 3.
+      Similarly E to F is a minor second. There is one semitone between E and F and a count of 2. Count 1 at E and 2 at F.</p>
+      <p> There are a number of different scale types, e.g. major, minor, and diminished. Different scale types are characterised by the interval between each successive note. A major scale has a sequence of whole tone, whole tone, half tone, whole tone, whole tone, whole tone, half tone between the tonic notes.</p>
      <p> The interval structure of each of the main scale types will be discussed in the following sections of this chapter.</p>
    
     </introduction>

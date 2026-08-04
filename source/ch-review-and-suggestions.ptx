@@ -5,86 +5,11 @@
   <introduction>
     <p>
       This chapter is an editorial appendix rather than instructional material. It
-      tracks review findings for the manual: the items already addressed in this
-      revision, and those still outstanding. It is intended as a working checklist for
-      the author and can be removed from the final published version once the remaining
-      items have been resolved.
+      tracks the remaining review findings for the manual. It is intended as a working
+      checklist for the author and can be removed from the final published version once
+      the remaining items have been resolved.
     </p>
   </introduction>
-
-  <!-- ============================================================= -->
-  <section xml:id="sec-review-resolved">
-    <title>Resolved in This Revision</title>
-
-    <p>The following corrections have been applied to the source:</p>
-    <ul>
-      <li>
-        <p>
-          <term>Cross-references.</term> Hard-coded chapter and section numbers
-          (<q>See Chapter 5</q>, <q>Section 1.2</q>, etc.) have been replaced with
-          PreTeXt <c>&lt;xref&gt;</c> elements that resolve automatically. This fixed
-          the two factually incorrect references — the <q>Chapter 3 Scales and
-          Intervals</q> pointer in the Chords chapter, and the <q>Section 13.5</q>
-          pointer to the <q>How High the Moon</q> score.
-        </p>
-      </li>
-      <li>
-        <p>
-          <term>Chapter identifiers.</term> The scales and modes chapters now use the
-          <c>ch-</c> prefix (<c>ch-scales</c>, <c>ch-scales-modes-and-chords</c>) in
-          line with every other chapter.
-        </p>
-      </li>
-      <li>
-        <p>
-          <term>Filename with a space.</term> <c>sec-intervals-C natural-minor-scale.ptx</c>
-          was renamed to <c>sec-intervals-C-natural-minor-scale.ptx</c> and the
-          <c>xi:include</c> updated.
-        </p>
-      </li>
-      <li>
-        <p>
-          <term>Roman-numeral case.</term> The diatonic-seventh-chord table now uses
-          lowercase for minor degrees (ii, iii, vi) and <c>vii°</c> for the
-          half-diminished degree, matching the Chord Progressions chapter.
-        </p>
-      </li>
-      <li>
-        <p>
-          <term>Chord symbols.</term> The Grip Method chapter now writes
-          <c>maj7♭5</c> with a proper flat sign instead of a plain <c>b</c>.
-        </p>
-      </li>
-      <li>
-        <p>
-          <term>Spelling.</term> Corrected <q>seperated</q>, <q>circe</q>,
-          <q>independantly</q>, <q>dependant</q>, and the possessive <q>its'</q>.
-        </p>
-      </li>
-      <li>
-        <p>
-          <term>Dead markup.</term> Removed the <q>content tbe</q> placeholder from the
-          first interval grid, and moved the stray caption text in the Circle of Fifths
-          figure out of the rendered body.
-        </p>
-      </li>
-      <li>
-        <p>
-          <term>Metadata.</term> The copyright year range now ends in 2026, and the
-          frontmatter website link's target now matches its displayed text.
-        </p>
-      </li>
-      <li>
-        <p>
-          <term>Index.</term> The backmatter <c>&lt;index&gt;</c> has been enabled and
-          seeded with <c>&lt;idx&gt;</c> entries on the principal defined terms
-          (interval, chord, triad, diatonic chord, seventh chord, chord progression,
-          circle of fifths, mode, chord voicing, the Grip Method, and the Barry Harris
-          system). Further entries can be added as the text grows.
-        </p>
-      </li>
-    </ul>
-  </section>
 
   <!-- ============================================================= -->
   <section xml:id="sec-review-outstanding">
@@ -101,42 +26,7 @@
           frontmatter, and add explicit source citations. <em>(Deferred for now.)</em>
         </p>
       </li>
-      <li>
-        <p>
-          <term>Commented-out includes.</term> The opening chapter still carries
-          commented <c>xi:include</c> lines for <c>sec-treble-keyboard-layout</c>,
-          <c>sec-free-bass-keyboard-layout</c> and <c>sec-stradella-bass-keyboard-layout</c>.
-          Decide whether those sections are superseded (delete the dead lines) or should
-          be re-enabled.
-        </p>
-      </li>
-      <li>
-        <p>
-          <term>Orphaned <c>.bak</c> assets.</term> The <c>assets/</c> folder holds many
-          <c>.pdf.bak</c> and <c>.svg.bak</c> files for the <q>How High The Moon</q>
-          fragments. Remove them from version control if superseded.
-        </p>
-      </li>
-      <li>
-        <p>
-          <term>Index and glossary.</term> The index is now enabled and populated (see
-          above). A dedicated glossary or symbol list could still be added if desired.
-        </p>
-      </li>
-      <li>
-        <p>
-          <term>Empty captions.</term> Some figures have empty
-          <c>&lt;caption&gt;&lt;/caption&gt;</c> elements (for example the interval-grid
-          rows). Populate or omit them.
-        </p>
-      </li>
-      <li>
-        <p>
-          <term>House style.</term> A broader pass could standardise abbreviations
-          (<q>etc;</q>/<q>eg;</q> &#8594; <q>etc.</q>/<q>e.g.</q>) and reduce the
-          mid-sentence capitalisation of common nouns (Interval, Key, Chord, Root).
-        </p>
-      </li>
+      
     </ul>
   </section>
 

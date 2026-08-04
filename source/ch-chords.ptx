@@ -222,7 +222,7 @@
 
     <conclusion>
       <p>
-        The table below summarises the four triad types using C as the root. The number in brackets in this case is the "Interval Count" — see the introduction to <xref ref="ch-scales"/> for an explanation of Interval Count which is always 1 more than the number of semitones:
+        The table below summarises the four triad types using C as the root. The number in brackets in this case is the "interval count" — see the introduction to <xref ref="ch-scales"/> for an explanation of interval count, which is always 1 more than the number of semitones:
       </p>
       <table xml:id="table-triad-summary">
         <title>Summary of Triad Types (Root: C)</title>
