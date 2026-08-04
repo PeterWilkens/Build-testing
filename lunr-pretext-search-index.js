@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Preface",
   "number": "",
   "title": "About This Document",
-  "body": " About This Document  The material in this document is written for the C System Chromatic Button Accordion with both Stradella and Free Bass.  It is not an Accordion Tutor but covers material that I have found useful in learning about the Accordion after many years of playing the Guitar.  Where I have covered a topic I have attempted to include as much information as is needed to assist someone new to this type of Accordion to understand the topic.  The manual will focus primarily on chord and scale construction on both treble and free-bass keyboards.  I was drawn to the button accordion, rather than the piano accordion, noting that chord and scale construction on this type of keyboard allow the use of moveable shapes specific to different chord and scale types. Each shape may be moved anywhere on the keyboard, giving a chord or scale identified by the tonic in the shape.  Thus knowledge of any single shape enables the player to generate the chord type represented by that shape all over the keyboard in all keys.  This use of keyboard shapes is similar to the way in which different chords and scales are represented in many resources used by guitar players, removing the need to read music whilst still being able to learn about scale and chord construction.  The shapes shown for the treble keyboard are mirrored on the free-bass keyboard so it is easy to generate the chord shapes for the bass once you have grasped how the treble side works.  As a matter of interest, on the button accordion, chord shapes are consistent across the keyboard, unlike on the guitar where the interval between strings alters between the third and second string, which necessitates some alteration of chord shapes in that area of the fingerboard.  The main scales and chord types, in various inversions, will be considered.   "
+  "body": " About This Document  The material in this document is written for the C System Chromatic Button Accordion with both Stradella and Free Bass.  It is not an Accordion Tutor but covers material that I have found useful in learning about the Accordion after many years of playing the Guitar.  Where I have covered a topic I have attempted to include as much information as is needed to assist someone new to this type of Accordion to understand the topic.  The manual will focus primarily on chord and scale construction on both treble and free-bass keyboards but includes a summary about chord construction using Stradella Bass preset chords.  I was drawn to the button accordion, rather than the piano accordion, noting that chord and scale construction on this type of keyboard allow the use of moveable shapes specific to different chord and scale types. Each shape may be moved anywhere on the keyboard, giving a chord or scale identified by the tonic in the shape.  Thus knowledge of any single shape enables the player to generate the chord type represented by that shape all over the keyboard in all keys.  This use of keyboard shapes is similar to the way in which different chords and scales are represented in many resources used by guitar players, removing the need to read music whilst still being able to learn about scale and chord construction.  The shapes shown for the treble keyboard are mirrored on the free-bass keyboard so it is easy to generate the chord shapes for the bass once you have grasped how the treble side works.  As a matter of interest, on the button accordion, chord shapes are consistent across the keyboard, unlike on the guitar where the interval between strings alters between the third and second string, which necessitates some alteration of chord shapes in that area of the fingerboard.  The main scales and chord types, in various inversions, will be considered.  "
 },
 {
   "id": "front-colophon",
@@ -43,7 +43,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "C System Accordion Keyboards with Stradella Bass",
-  "body": " C System Accordion Keyboards with Stradella Bass  This section shows the complete accordion keyboard in Stradella Bass configuration. The left (bass) side shows the Counter Bass column closest to the bellows then the Standard Bass, Major Chord, Minor Chord, 7th Chord and Diminished Chord columns.  The right (treble) side is the same C system chromatic button layout as Section 1.2.1. Three faint vertical lines represent the bellows.   Accordion Keyboards Stradella Bass.      "
+  "body": " C System Accordion Keyboards with Stradella Bass  This section shows the complete accordion keyboard in Stradella Bass configuration. The left (bass) side shows the Counter Bass column closest to the bellows then the Standard Bass, Major Chord, Minor Chord, 7th Chord and Diminished Chord columns.  The right (treble) side is the same C system chromatic button layout shown in . Three faint vertical lines represent the bellows.   Accordion Keyboards Stradella Bass.      "
 },
 {
   "id": "fig-stradella-bass-accordion-layout",
@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "Building More Complex Chords Using the Stradella Bass System",
-  "body": " Building More Complex Chords Using the Stradella Bass System   The Stradella bass provides only four ready-made chord qualities: major, minor, dominant seventh and diminished seventh. This looks restrictive, but because each preset chord is a fixed three-note cell, richer chords such as major sevenths, minor sevenths, sixths, ninths and altered dominants can be assembled by combining either a single bass note with a chord button, or two chord buttons together. This section shows the most useful of these combinations.     What the Preset Chords Actually Contain  To combine chords sensibly it helps to know which notes each preset button supplies. So that a chord always fits under three fingers, some chord tones are omitted:   Notes supplied by each preset chord button (root C)    Button Notes supplied (root C) Note omitted   Major C – E – G none  Minor C – E – G none  Dominant 7th C – E – B 5th (G)  Diminished 7th C – E – A 5th (G )    Because the dominant 7th and diminished buttons already drop their fifth, they combine cleanly with a bass note or a second chord without producing muddy doublings.     Combining a Bass Note with a Chord Button  The simplest method is to sound the root on a bass button and play a chord button a third or so above it. The bass supplies the root and the chord button supplies the upper structure. Each example below is shown in the key of C, but the same shape moves to every key.   Chords from a bass note plus a chord button    Target chord Bass note Chord button Resulting notes   Major 7th (Cmaj7) C E minor C – E – G – B  Minor 7th (Cm7) C E major C – E – G – B  Half-diminished (Cm7 5) C E minor C – E – G – B  Dominant 7 9 (C7 9) C D diminished C – D – E – B    The last row is a particularly useful trick: a diminished seventh chord built a semitone above a bass note always produces the dominant 7 9 of that bass note. Because a diminished seventh is symmetrical, the same shape covers four different dominant 7 9 chords.     Combining Two Chord Buttons  Fuller five-note voicings are produced by pressing two chord buttons at once. The lower chord names the root; the upper chord adds the extensions.   Chords from two chord buttons    Target chord Lower chord Upper chord Resulting notes   Major 7th (Cmaj7) C major E minor (a major 3rd up) C – E – G – B  Minor 7th (Cm7) C minor E major (a minor 3rd up) C – E – G – B  Dominant 9th (C9) C 7th G minor (a 5th up) C – E – G – B – D    Notice that a dominant ninth is simply the dominant 7th button combined with the minor chord a fifth above the root. The minor chord contributes the missing fifth and the ninth in a single press.     Sixth Chords and the Relative Minor  A major sixth chord contains exactly the same notes as the minor seventh chord a minor third below it: C6 (C – E – G – A) and Am7 (A – C – E – G) are the same four pitches. On the Stradella bass this means a sixth chord is easiest to voice through its relative minor. To sound a C6 colour, play the C major chord together with the A bass a major sixth above the root; the ear reads the lowest note and the chord quality together.  The same relationship works for minor sixth chords: Cm6 (C – E – G – A) shares its notes with Am7 5 (A – C – E – G), so a minor sixth is reached by combining the C minor chord with the A bass.     A Fuller Catalogue of Combinations  All the combinations that follow are specific to the Stradella bass and work only because of the particular notes produced and omitted on the accordion. Every combination is included for completeness, but some will be very difficult to play. Each row names the buttons to press, the chord that results, and a short performance note where one is helpful. Because the layout is isomorphic, every combination transposes unchanged to the other eleven keys.   C bass and one triad    Combination Chord Notes   C bass + D maj D7\/C 7th in the bass.  C bass + E maj Cm7 Use bass or counterbass; easy reach to both.  C bass + E maj Cmaj7 (+5) Good contemporary jazz chord.  C bass + G maj G\/C Good traditional folk-style chord.  C bass + B maj B \/C James Taylor chord; acts like a sus chord.  C bass + B maj B\/C Jazz chord; use counterbass.  C bass + D min F6\/C or Dm7\/C  C bass + E min Cm7( 5) The half-diminished 7th chord.  C bass + E min Cmaj7  C bass + A min C6 or Am\/C Nice voicing of an ordinary chord.  C bass + B min C7sus( 9) Dave Grusin jazz chord; heard often in Baroque music.  C bass + G min C9 (no 3)  C bass + G7 G7\/C Common Baroque cadence chord.  C bass + B 7 C9(+5) No third.  C bass + G dim7 C7 A 4-part rendition of a C7 chord.  C bass + B dim7 C7( 9) Missing the 3rd.  C bass + F dim Dm7( 5)\/C or Fm6     C bass, C major and one other triad    Combination Chord Notes   C bass + C maj + G maj Cmaj9  C bass + C maj + D min F6\/C  C bass + C maj + E min Cmaj7 Difficult to reach.  C bass + C maj + G min C9  C bass + C maj + A min C6  C bass + C maj + B min C7sus( 9, add 3) Contains a 3rd and 4th; a bit dissonant.  C bass + C maj + G dim C7 A 4-part version of C7.  C bass + C maj + B dim C7( 9) Try thumb on B dim.     C bass, C minor and one other triad    Combination Chord Notes   C bass + C min + E maj Cm7  C bass + C min + F maj Cm13 (no 9)  C bass + C min + G maj Cm(maj7)  C bass + C min + A maj A maj7\/C  C bass + C min + B maj Cm11  C bass + C min + D min Cm13  C bass + C min + G min Cm9  C bass + C min + C7 C7(+9)  C bass + C min + F7 F9\/C  C bass + C min + G7 Cm(maj7,11)  C bass + C min + C dim Cm6 Same as Am7( 5)\/C.     C bass, C7 and one other triad    Combination Chord Notes   C bass + C7 + D maj C13( 11)  C bass + C7 + E maj C7( 9)  C bass + C7 + A maj C13( 9)  C bass + C7 + C min C7( 9)  C bass + C7 + G min C9  C bass + C7 + A min C13  C bass + C7 + D7 C9( 11)  C bass + C7 + A 7 C7( 5, 11)  C bass + C7 + E dim C7( 9, 11) Try light reed settings, close voicing.  C bass + C7 + B dim C7( 9)     C bass, C dim and one other triad    Combination Chord Notes   C bass + C dim + D maj D7( 9)\/C  C bass + C dim + G maj Cmin(6,maj7,9)  C bass + C dim + C min Cm6  C bass + C dim + F min F7( 9)\/C  C bass + C dim + D dim F13( 11)\/C Try thumb on D dim button.     C bass and two other triads    Combination Chord Notes   C bass + E maj + F maj Cm13  C bass + E maj + B maj Cm11  C bass + E maj + D min Cm13  C bass + E maj + G min Cm9  C bass + G maj + D maj Cmaj13( 11)  C bass + G maj + E min Cmaj9  C bass + G maj + A min C(6,9)  C bass + B maj + D min Gm9\/C  C bass + B maj + F maj Gm11\/C  C bass + E min + F min Cm11( 5, 13, no 9) or A 13\/C  C bass + E min + D maj Cmaj13( 11)  C bass + E min + A min Cmaj7(6)  C bass + G min + D maj C13( 11)  C bass + G min + F maj Gm11\/C More variations on the sus4 chord.  C bass + G min + D min Gm9\/C More variations on the sus4 chord.  C bass + G min + A min C13  C bass + G min + G dim C9 A pleasant surprise; very useful.  C bass + A min + E min C(maj7,6)  C bass + B min + F min B min9\/C  C bass + G dim + D maj C13( 11)     C-row chords and one counterbass note    Combination Chord Notes   C maj + A (cb) Am7  C maj + D (cb) C\/D or D11  C min + A (cb) Am7( 5)  C7 + F (cb) F 7( 5) Based on the so-called tritone substitution.  C dim + F (cb) F dim7 A true 4-part diminished 7th chord.       Commonly Used Chords in the Key of C  The chords below are the ones a player reaches for most often. Each is shown in accordion notation: the bass note is written below the middle staff line and the chord is written above it, exactly as the left hand sounds them. Where more than one combination is listed, the first is usually the easiest to finger.   The most commonly used chords in the key of C, notated in accordion convention with the bass note below the middle staff line and the chord above it.   A bass-clef staff showing fourteen common C chords — C7, Cm7, Cmaj7, C9, C6, Cm9, Cmaj9, Cm6, Cm7(flat 5), C6\/9, Cdim7, Cm11, C11 and C13 — each with a low C bass note below the middle line and the chord tones stacked above it.      C7  C bass + G dim; C bass + C7; C bass + C maj + G dim.    Cm7  C bass + E maj.    Cmaj7  C bass + E min; C bass + C maj + E min.    C9  C bass + C maj + G min; C bass + C7 + G min; C bass + G min + G dim.    C6  C bass + A min; C bass + C maj + A min.    Cm9  C bass + E maj + G min.    Cmaj9  C bass + G maj + E min; C bass + C maj + G maj (easy to finger).    Cm6  C bass + C dim + C min; A bass + C min (Am7( 5) or Cm6\/A).    Cm7( 5)  C bass + E min; G bass + E min + E dim (Cm7( 5)\/G ) — good chord but difficult reach; try eliminating the bass note (with A as a bass note this becomes A 9).    C(6,9)  C bass + G maj + A min.    Cdim7  C bass + G dim (use counterbass).    Cm11  C bass + C min + B maj; C bass + E maj + B maj.    C11  C bass + B maj; C bass + B maj + F maj (approximation).    C13  C bass + C7 + A min; C bass + G min + A min.       Practical Notes  A few points make these combinations reliable in performance:    Because the bass buttons are laid out in fifths, the chord button you need for a combination is almost always immediately next to the root, keeping the left hand compact.    The omitted fifths in the preset 7th and diminished chords are a feature, not a fault: they leave room for extensions without doubling and thickening the voicing.    Every shape shown here is isomorphic. Once a combination is learned in C it can be transposed to any of the twelve keys simply by moving the same button shape to a new root.     "
+  "body": " Building More Complex Chords Using the Stradella Bass System   The Stradella bass provides only four ready-made chord qualities: major, minor, dominant seventh and diminished seventh. This looks restrictive, but because each preset chord is a fixed three-note cell, richer chords such as major sevenths, minor sevenths, sixths, ninths and altered dominants can be assembled by combining either a single bass note with a chord button, or two chord buttons together. This section shows the most useful of these combinations.     What the Preset Chords Actually Contain  Chords produced by the button accordion Stradella Bass only contain 3 notes, some chord tones are omitted. To combine chords sensibly it helps to know which notes each preset button supplies.   Notes supplied by each preset chord button (root C)    Button Notes supplied (root C) Note omitted   Major C – E – G none  Minor C – E – G none  Dominant 7th C – E – B 5th (G)  Diminished 7th C – E – A 5th (G )    Because the dominant 7th and diminished buttons already drop their fifth, they combine cleanly with a bass note or a second chord without producing muddy doublings.     Combining a Bass Note with a Chord Button  The simplest method is to sound the root on a bass button and play a chord button a third or so above it. The bass supplies the root and the chord button supplies the upper structure. Each example below is shown in the key of C, but the same shape moves to every key.   Chords from a bass note plus a chord button    Target chord Bass note Chord button Resulting notes   Major 7th (Cmaj7) C E minor C – E – G – B  Minor 7th (Cm7) C E major C – E – G – B  Half-diminished (Cm7 5) C E minor C – E – G – B  Dominant 7 9 (C7 9) C D diminished C – D – E – B    The last row is a particularly useful trick: a diminished seventh chord built a semitone above a bass note always produces the dominant 7 9 of that bass note. Because a diminished seventh is symmetrical, the same shape covers four different dominant 7 9 chords.     Combining Two Chord Buttons  Fuller five-note voicings are produced by pressing two chord buttons at once. The lower chord names the root; the upper chord adds the extensions.   Chords from two chord buttons    Target chord Lower chord Upper chord Resulting notes   Major 7th (Cmaj7) C major E minor (a major 3rd up) C – E – G – B  Minor 7th (Cm7) C minor E major (a minor 3rd up) C – E – G – B  Dominant 9th (C9) C 7th G minor (a 5th up) C – E – G – B – D    Notice that a dominant ninth is simply the dominant 7th button combined with the minor chord a fifth above the root. The minor chord contributes the missing fifth and the ninth in a single press.     Sixth Chords and the Relative Minor  A major sixth chord contains exactly the same notes as the minor seventh chord a minor third below it: C6 (C – E – G – A) and Am7 (A – C – E – G) are the same four pitches. On the Stradella bass this means a sixth chord is easiest to voice through its relative minor. To sound a C6 colour, play the C major chord together with the A bass a major sixth above the root; the ear reads the lowest note and the chord quality together.  The same relationship works for minor sixth chords: Cm6 (C – E – G – A) shares its notes with Am7 5 (A – C – E – G), so a minor sixth is reached by combining the C minor chord with the A bass.     A Fuller Catalogue of Combinations  All the combinations that follow are specific to the Stradella bass and work only because of the particular notes produced and omitted on the accordion. Every combination is included for completeness, but some will be very difficult to play. Each row names the buttons to press, the chord that results, and a short performance note where one is helpful. Because the layout is isomorphic, every combination transposes unchanged to the other eleven keys.   C bass and one triad    Combination Chord Notes   C bass + D maj D7\/C 7th in the bass.  C bass + E maj Cm7 Use bass or counterbass; easy reach to both.  C bass + E maj Cmaj7 (+5) Good contemporary jazz chord.  C bass + G maj G\/C Good traditional folk-style chord.  C bass + B maj B \/C James Taylor chord; acts like a sus chord.  C bass + B maj B\/C Jazz chord; use counterbass.  C bass + D min F6\/C or Dm7\/C  C bass + E min Cm7( 5) The half-diminished 7th chord.  C bass + E min Cmaj7  C bass + A min C6 or Am\/C Nice voicing of an ordinary chord.  C bass + B min C7sus( 9) Dave Grusin jazz chord; heard often in Baroque music.  C bass + G min C9 (no 3)  C bass + G7 G7\/C Common Baroque cadence chord.  C bass + B 7 C9(+5) No third.  C bass + G dim7 C7 A 4-part rendition of a C7 chord.  C bass + B dim7 C7( 9) Missing the 3rd.  C bass + F dim Dm7( 5)\/C or Fm6     C bass, C major and one other triad    Combination Chord Notes   C bass + C maj + G maj Cmaj9  C bass + C maj + D min F6\/C  C bass + C maj + E min Cmaj7 Difficult to reach.  C bass + C maj + G min C9  C bass + C maj + A min C6  C bass + C maj + B min C7sus( 9, add 3) Contains a 3rd and 4th; a bit dissonant.  C bass + C maj + G dim C7 A 4-part version of C7.  C bass + C maj + B dim C7( 9) Try thumb on B dim.     C bass, C minor and one other triad    Combination Chord Notes   C bass + C min + E maj Cm7  C bass + C min + F maj Cm13 (no 9)  C bass + C min + G maj Cm(maj7)  C bass + C min + A maj A maj7\/C  C bass + C min + B maj Cm11  C bass + C min + D min Cm13  C bass + C min + G min Cm9  C bass + C min + C7 C7(+9)  C bass + C min + F7 F9\/C  C bass + C min + G7 Cm(maj7,11)  C bass + C min + C dim Cm6 Same as Am7( 5)\/C.     C bass, C7 and one other triad    Combination Chord Notes   C bass + C7 + D maj C13( 11)  C bass + C7 + E maj C7( 9)  C bass + C7 + A maj C13( 9)  C bass + C7 + C min C7( 9)  C bass + C7 + G min C9  C bass + C7 + A min C13  C bass + C7 + D7 C9( 11)  C bass + C7 + A 7 C7( 5, 11)  C bass + C7 + E dim C7( 9, 11) Try light reed settings, close voicing.  C bass + C7 + B dim C7( 9)     C bass, C dim and one other triad    Combination Chord Notes   C bass + C dim + D maj D7( 9)\/C  C bass + C dim + G maj Cmin(6,maj7,9)  C bass + C dim + C min Cm6  C bass + C dim + F min F7( 9)\/C  C bass + C dim + D dim F13( 11)\/C Try thumb on D dim button.     C bass and two other triads    Combination Chord Notes   C bass + E maj + F maj Cm13  C bass + E maj + B maj Cm11  C bass + E maj + D min Cm13  C bass + E maj + G min Cm9  C bass + G maj + D maj Cmaj13( 11)  C bass + G maj + E min Cmaj9  C bass + G maj + A min C(6,9)  C bass + B maj + D min Gm9\/C  C bass + B maj + F maj Gm11\/C  C bass + E min + F min Cm11( 5, 13, no 9) or A 13\/C  C bass + E min + D maj Cmaj13( 11)  C bass + E min + A min Cmaj7(6)  C bass + G min + D maj C13( 11)  C bass + G min + F maj Gm11\/C More variations on the sus4 chord.  C bass + G min + D min Gm9\/C More variations on the sus4 chord.  C bass + G min + A min C13  C bass + G min + G dim C9 A pleasant surprise; very useful.  C bass + A min + E min C(maj7,6)  C bass + B min + F min B min9\/C  C bass + G dim + D maj C13( 11)     C-row chords and one counterbass note    Combination Chord Notes   C maj + A (cb) Am7  C maj + D (cb) C\/D or D11  C min + A (cb) Am7( 5)  C7 + F (cb) F 7( 5) Based on the so-called tritone substitution.  C dim + F (cb) F dim7 A true 4-part diminished 7th chord.       Commonly Used Chords in the Key of C  The chords below are the ones a player reaches for most often. Each is shown in accordion notation: the bass note is written below the middle staff line and the chord is written above it, exactly as the left hand sounds them. Where more than one combination is listed, the first is usually the easiest to finger.   The most commonly used chords in the key of C, notated in accordion convention with the bass note below the middle staff line and the chord above it.   A bass-clef staff showing fourteen common C chords — C7, Cm7, Cmaj7, C9, C6, Cm9, Cmaj9, Cm6, Cm7(flat 5), C6\/9, Cdim7, Cm11, C11 and C13 — each with a low C bass note below the middle line and the chord tones stacked above it.      C7  C bass + G dim; C bass + C7; C bass + C maj + G dim.    Cm7  C bass + E maj.    Cmaj7  C bass + E min; C bass + C maj + E min.    C9  C bass + C maj + G min; C bass + C7 + G min; C bass + G min + G dim.    C6  C bass + A min; C bass + C maj + A min.    Cm9  C bass + E maj + G min.    Cmaj9  C bass + G maj + E min; C bass + C maj + G maj (easy to finger).    Cm6  C bass + C dim + C min; A bass + C min (Am7( 5) or Cm6\/A).    Cm7( 5)  C bass + E min; G bass + E min + E dim (Cm7( 5)\/G ) — good chord but difficult reach; try eliminating the bass note (with A as a bass note this becomes A 9).    C(6,9)  C bass + G maj + A min.    Cdim7  C bass + G dim (use counterbass).    Cm11  C bass + C min + B maj; C bass + E maj + B maj.    C11  C bass + B maj; C bass + B maj + F maj (approximation).    C13  C bass + C7 + A min; C bass + G min + A min.       Practical Notes  A few points make these combinations reliable in performance:    Because the bass buttons are laid out in fifths, the chord button you need for a combination is almost always immediately next to the root, keeping the left hand compact.    The omitted fifths in the preset 7th and diminished chords are a feature, not a fault: they leave room for extensions without doubling and thickening the voicing.    Every shape shown here is isomorphic. Once a combination is learned in C it can be transposed to any of the twelve keys simply by moving the same button shape to a new root.     "
 },
 {
   "id": "subsec-stradella-preset-contents-3",
@@ -169,7 +169,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.4",
   "title": "C System Accordion Keyboards with Free Bass",
-  "body": " C System Accordion Keyboards with Free Bass  This section shows the complete accordion keyboard in Free Bass configuration. The left (bass) side shows the four chromatic free-bass columns alongside the standard Bass and Counter Bass columns. The right (treble) side is the same C system chromatic button layout as Section 1.3.1 Three faint vertical lines represent the bellows.   Accordion Keyboards Free Bass.      "
+  "body": " C System Accordion Keyboards with Free Bass  This section shows the complete accordion keyboard in Free Bass configuration. The left (bass) side shows the four chromatic free-bass columns alongside the standard Bass and Counter Bass columns. The right (treble) side is the same C system chromatic button layout shown in . Three faint vertical lines represent the bellows.   Accordion Keyboards Free Bass.      "
 },
 {
   "id": "fig-free-bass-accordion-layout",
@@ -331,7 +331,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.1",
   "title": "Intervals on the Keyboard",
-  "body": " Intervals on the Keyboard   The following grid diagrams shows examples of interval pairs on the chromatic button accordion keyboard. Each grid highlights two notes; the interval is identified by the number of semitones between them.        content tbe                   Minor 2nd  Minor 2nd  Major 2nd  Minor 3rd      Lowest minor 2nd pair: C–D flat    Lowest minor 2nd pair: F–G flat    Lowest major 2nd pair: C–D    Lowest minor 3rd pair: C–E flat                            Major 3rd  Perfect 5th  Flat 5  4th      Lowest major 3rd pair: C–E    Lowest perfect 5th pair: C–G    Lowest flat 5 pair: C–Gb    Lowest perfect 4th pair: C–F    "
+  "body": " Intervals on the Keyboard   The following grid diagrams shows examples of interval pairs on the chromatic button accordion keyboard. Each grid highlights two notes; the interval is identified by the number of semitones between them.     Interval grids showing minor seconds, a major second, and a minor third on the treble keyboard.                       Minor 2nd  Minor 2nd  Major 2nd  Minor 3rd      Lowest minor 2nd pair: C–D flat    Lowest minor 2nd pair: F–G flat    Lowest major 2nd pair: C–D    Lowest minor 3rd pair: C–E flat      Interval grids showing a major third, a perfect fifth, a flat fifth, and a perfect fourth on the treble keyboard.                       Major 3rd  Perfect 5th  Flat 5  4th      Lowest major 3rd pair: C–E    Lowest perfect 5th pair: C–G    Lowest flat 5 pair: C–Gb    Lowest perfect 4th pair: C–F    "
 },
 {
   "id": "fig-interval-grids-row1",
@@ -340,7 +340,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "3.1.1",
   "title": "",
-  "body": "    content tbe                "
+  "body": " Interval grids showing minor seconds, a major second, and a minor third on the treble keyboard.                    "
 },
 {
   "id": "fig-interval-grids-row2",
@@ -349,7 +349,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "3.1.2",
   "title": "",
-  "body": "                    "
+  "body": " Interval grids showing a major third, a perfect fifth, a flat fifth, and a perfect fourth on the treble keyboard.                    "
 },
 {
   "id": "sec-interval-relationships-all",
@@ -358,7 +358,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.2",
   "title": "Interval Relationships on Both Keyboards",
-  "body": " Interval Relationships on Both Keyboards   The following diagrams show the Free Bass keyboard (left) and the Treble keyboard (right) side by side as they appear on the accordion. The bellows are indicated by the vertical lines between the two keyboards.                               "
+  "body": " Interval Relationships on Both Keyboards   The following diagrams show the Free Bass keyboard (left) and the Treble keyboard (right) side by side as they appear on the accordion. The bellows are indicated by the vertical lines between the two keyboards.                             "
 },
 {
   "id": "fig-ir-all-pair-1",
@@ -367,7 +367,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "3.2.1",
   "title": "",
-  "body": "            "
+  "body": "           "
 },
 {
   "id": "fig-ir-all-pair-2",
@@ -376,7 +376,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "3.2.2",
   "title": "",
-  "body": "            "
+  "body": "           "
 },
 {
   "id": "sec-intervals-keyboard-navigation",
@@ -385,7 +385,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.3",
   "title": "Using Intervals to Navigate the C System Keyboard",
-  "body": " Using Intervals to Navigate the C System Keyboard   Because the C System Free Bass mirrors the arrangement of the Treble keyboard, every interval on the freebass keyboard is a mirror image of the shape on the treble keyboard. The diagrams below show the Free Bass keyboard (left) and the Treble keyboard (right) side by side, as they appear on the accordion. The bellows are indicated by the four vertical lines between the two keyboards. Recognising these physical relationships is important as the player is unable to view the keyboards directly and must rely on tactile feedback and muscle memory to navigate the buttons.  It is also important to recognise the four directions that are used for navigating the buttons of the keyboard. The playing directions are vertical, horizontal and diagonal as shown below. This aspect of the accordion will be discussed further in this chapter.     Playing Directions on each keyboard                The Vertical Direction   Now considering first the vertical direction. The treble keyboard has 5 vertical columns and the freebass keyboard has 4 useable vertical columns. Any 2 immediately adjacent vertical buttons on either keyboard, played together, form a minor third eg; C and E , D and F, E and G, F and A , G and B etc.  If a 2nd minor third is stacked on top of the first this forms a tritone (an interval consisting of 3 whole tones). For example C to E to G , D to F to A . The tritone being the interval between C and G , D and A etc.  Continuing in a vertical direction adding a third minor third gives a minor 6th interval eg: C to A, D to B etc; Adding a fourth minor third forms a perfect octave: C to C, C to C etc.              ===== Grid Pair 3 ===== -->  Stacking minor 3rds. A summary              "
+  "body": " Using Intervals to Navigate the C System Keyboard   Because the C System Free Bass mirrors the arrangement of the Treble keyboard, every interval on the freebass keyboard is a mirror image of the shape on the treble keyboard. The diagrams below show the Free Bass keyboard (left) and the Treble keyboard (right) side by side, as they appear on the accordion. The bellows are indicated by the four vertical lines between the two keyboards. Recognising these physical relationships is important as the player is unable to view the keyboards directly and must rely on tactile feedback and muscle memory to navigate the buttons.  It is also important to recognise the four directions that are used for navigating the buttons of the keyboard. The playing directions are vertical, horizontal and diagonal as shown below. This aspect of the accordion will be discussed further in this chapter.     Playing Directions on each keyboard                The Vertical Direction   Now considering first the vertical direction. The treble keyboard has 5 vertical columns and the free-bass keyboard has 4 usable vertical columns. Any 2 immediately adjacent vertical buttons on either keyboard, played together, form a minor third, e.g. C and E , D and F, E and G, F and A , G and B , etc.  If a 2nd minor third is stacked on top of the first this forms a tritone (an interval consisting of 3 whole tones). For example C to E to G , D to F to A . The tritone is the interval between C and G , D and A , etc.  Continuing in a vertical direction, adding a third minor third gives a minor 6th interval, e.g. C to A, D to B, etc. Adding a fourth minor third forms a perfect octave: C to C, C to C , etc.              ===== Grid Pair 3 ===== -->  Stacking minor 3rds. A summary              "
 },
 {
   "id": "fig-nav-pair-1",
@@ -403,7 +403,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "3.3.2",
   "title": "",
-  "body": " The Vertical Direction   Now considering first the vertical direction. The treble keyboard has 5 vertical columns and the freebass keyboard has 4 useable vertical columns. Any 2 immediately adjacent vertical buttons on either keyboard, played together, form a minor third eg; C and E , D and F, E and G, F and A , G and B etc.  If a 2nd minor third is stacked on top of the first this forms a tritone (an interval consisting of 3 whole tones). For example C to E to G , D to F to A . The tritone being the interval between C and G , D and A etc.  Continuing in a vertical direction adding a third minor third gives a minor 6th interval eg: C to A, D to B etc; Adding a fourth minor third forms a perfect octave: C to C, C to C etc.             "
+  "body": " The Vertical Direction   Now considering first the vertical direction. The treble keyboard has 5 vertical columns and the free-bass keyboard has 4 usable vertical columns. Any 2 immediately adjacent vertical buttons on either keyboard, played together, form a minor third, e.g. C and E , D and F, E and G, F and A , G and B , etc.  If a 2nd minor third is stacked on top of the first this forms a tritone (an interval consisting of 3 whole tones). For example C to E to G , D to F to A . The tritone is the interval between C and G , D and A , etc.  Continuing in a vertical direction, adding a third minor third gives a minor 6th interval, e.g. C to A, D to B, etc. Adding a fourth minor third forms a perfect octave: C to C, C to C , etc.             "
 },
 {
   "id": "fig-nav-pair-3",
@@ -421,7 +421,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.1",
   "title": "C Major Basic Scale Shape",
-  "body": " C Major Basic Scale Shape   Use this shape to form other major scales starting from the same column, for example E♭\/D♯, F♯\/G♭, A. The fingering is then transferable using the same pattern. Similarly where there are five columns the same major scale pattern can be used when starting from any root note in the second or third column from the extreme right column.    Basic C Major Scale Shape   Basic C shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
+  "body": " C Major Basic Scale Shape   Use this shape to form other major scales starting from the same column, for example E♭\/D♯, F♯\/G♭, A. The fingering is then transferable using the same pattern. Similarly where there are five columns the same major scale pattern can be used when starting from any root note in the second or third column from the extreme right column.    Basic C Major Scale Shape   Basic C shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.              "
 },
 {
   "id": "fig-C-major-scale-shape",
@@ -439,7 +439,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.1.2",
   "title": "",
-  "body": "       "
+  "body": "      "
 },
 {
   "id": "sec-D-major-scale-shape",
@@ -448,7 +448,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.2",
   "title": "D Major Basic Scale Shape",
-  "body": " D Major Basic Scale Shape   Use this shape to form other major scales where the shape fits, for example F, G♯ A♭, B.    Basic D Major Scale Shape   Basic D shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
+  "body": " D Major Basic Scale Shape   Use this shape to form other major scales where the shape fits, for example F, G♯ A♭, B.    Basic D Major Scale Shape   Basic D shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.              "
 },
 {
   "id": "fig-D-major-scale-shape",
@@ -466,7 +466,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.2.2",
   "title": "",
-  "body": "       "
+  "body": "      "
 },
 {
   "id": "sec-G-major-scale-shape",
@@ -475,7 +475,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.3",
   "title": "G Major Basic Scale Shape",
-  "body": " G Major Basic Scale Shape   Use this shape to form other major scales where the shape fits, for example A♯ B♭, C♯ D♭, E.    Basic G Major Scale Shape   Basic G shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
+  "body": " G Major Basic Scale Shape   Use this shape to form other major scales where the shape fits, for example A♯ B♭, C♯ D♭, E.    Basic G Major Scale Shape   Basic G shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.              "
 },
 {
   "id": "fig-G-major-scale-shape",
@@ -493,7 +493,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.3.2",
   "title": "",
-  "body": "       "
+  "body": "      "
 },
 {
   "id": "sec-basic-scale-shape-overview",
@@ -520,7 +520,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.5",
   "title": "C Harmonic Minor Scale Shape",
-  "body": " C Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic C Harmonic Minor Shape   Basic C harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
+  "body": " C Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic C Harmonic Minor Shape   Basic C harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.              "
 },
 {
   "id": "fig-C-harmonic-minor-scale-shape",
@@ -538,7 +538,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.5.2",
   "title": "",
-  "body": "       "
+  "body": "      "
 },
 {
   "id": "sec-C-melodic-minor-scale-shape",
@@ -547,7 +547,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.6",
   "title": "C Melodic Minor Scale Shape Ascending",
-  "body": " C Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits, ie; starting from the same column or using the same pattern in different positions. Scale name will be given by the first note of the scale.    Basic C Melodic Minor Shape   Basic C melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
+  "body": " C Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits, ie; starting from the same column or using the same pattern in different positions. Scale name will be given by the first note of the scale.    Basic C Melodic Minor Shape   Basic C melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.              "
 },
 {
   "id": "fig-C-melodic-minor-scale-shape",
@@ -565,7 +565,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.6.2",
   "title": "",
-  "body": "       "
+  "body": "      "
 },
 {
   "id": "sec-C-melodic-minor-descending-scale-shape",
@@ -574,7 +574,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.7",
   "title": "C Melodic Minor Descending Scale Shape",
-  "body": " C Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other melodic minor scales where the shape fits, ie; starting from the same column or using the same pattern in different positions. Scale name will be given by the first note of the scale.    Basic C Melodic Minor Descending Shape   Basic C melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.               "
+  "body": " C Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other melodic minor scales where the shape fits, ie; starting from the same column or using the same pattern in different positions. Scale name will be given by the first note of the scale.    Basic C Melodic Minor Descending Shape   Basic C melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.              "
 },
 {
   "id": "fig-C-melodic-minor-descending-scale-shape",
@@ -592,7 +592,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.7.2",
   "title": "",
-  "body": "       "
+  "body": "      "
 },
 {
   "id": "sec-C-melodic-minor-asc-desc-overview",
@@ -619,7 +619,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.9",
   "title": "D Harmonic Minor Scale Shape",
-  "body": " D Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic D Harmonic Minor Shape   Basic D harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
+  "body": " D Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic D Harmonic Minor Shape   Basic D harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.              "
 },
 {
   "id": "fig-D-harmonic-minor-scale-shape",
@@ -637,7 +637,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.9.2",
   "title": "",
-  "body": "       "
+  "body": "      "
 },
 {
   "id": "sec-D-melodic-minor-scale-shape",
@@ -646,7 +646,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.10",
   "title": "D Melodic Minor Scale Shape Ascending",
-  "body": " D Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits.    Basic D Melodic Minor Shape   Basic D melodic minor shape. Ascending fingering numbers appear at the top of each button.               "
+  "body": " D Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits.    Basic D Melodic Minor Shape   Basic D melodic minor shape. Ascending fingering numbers appear at the top of each button.              "
 },
 {
   "id": "fig-D-melodic-minor-scale-shape",
@@ -664,7 +664,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.10.2",
   "title": "",
-  "body": "       "
+  "body": "      "
 },
 {
   "id": "sec-D-melodic-minor-descending-scale-shape",
@@ -673,7 +673,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.11",
   "title": "D Melodic Minor Descending Scale Shape",
-  "body": " D Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other descending melodic minor scales where the shape fits.    Basic D Melodic Minor Descending Shape   Basic D melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.               "
+  "body": " D Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other descending melodic minor scales where the shape fits.    Basic D Melodic Minor Descending Shape   Basic D melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.              "
 },
 {
   "id": "fig-D-melodic-minor-descending-scale-shape",
@@ -691,7 +691,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.11.2",
   "title": "",
-  "body": "       "
+  "body": "      "
 },
 {
   "id": "sec-D-melodic-minor-asc-desc-overview",
@@ -718,7 +718,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.13",
   "title": "G Harmonic Minor Scale Shape",
-  "body": " G Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic G Harmonic Minor Shape   Basic G harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.               "
+  "body": " G Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic G Harmonic Minor Shape   Basic G harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.              "
 },
 {
   "id": "fig-G-harmonic-minor-scale-shape",
@@ -736,7 +736,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.13.2",
   "title": "",
-  "body": "       "
+  "body": "      "
 },
 {
   "id": "sec-G-melodic-minor-scale-shape",
@@ -745,7 +745,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.14",
   "title": "G Melodic Minor Scale Shape Ascending",
-  "body": " G Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits.    Basic G Melodic Minor Shape   Basic G melodic minor shape. Ascending fingering numbers appear at the top of each button.               "
+  "body": " G Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits.    Basic G Melodic Minor Shape   Basic G melodic minor shape. Ascending fingering numbers appear at the top of each button.              "
 },
 {
   "id": "fig-G-melodic-minor-scale-shape",
@@ -763,7 +763,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.14.2",
   "title": "",
-  "body": "       "
+  "body": "      "
 },
 {
   "id": "sec-G-melodic-minor-descending-scale-shape",
@@ -772,7 +772,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.15",
   "title": "G Melodic Minor Descending Scale Shape",
-  "body": " G Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other descending melodic minor scales where the shape fits.    Basic G Melodic Minor Descending Shape   Basic G melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.               "
+  "body": " G Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other descending melodic minor scales where the shape fits.    Basic G Melodic Minor Descending Shape   Basic G melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.              "
 },
 {
   "id": "fig-G-melodic-minor-descending-scale-shape",
@@ -790,7 +790,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.15.2",
   "title": "",
-  "body": "       "
+  "body": "      "
 },
 {
   "id": "sec-G-melodic-minor-asc-desc-overview",
@@ -817,7 +817,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.1",
   "title": "Building Chords from Intervals",
-  "body": " Building Chords from Intervals   Chords are built by stacking intervals above a root note . The root is the note that names the chord — for example, the root of a C major chord is C. The other notes of the chord are determined by the specific intervals measured from the root.    Stacking Thirds  The most common way to construct a chord is by stacking intervals of a third above the root. There are two types of third:    A major third spans 4 semitones (e.g. C up to E).    A minor third spans 3 semitones (e.g. C up to E ).    By choosing which type of third to place at each position in the stack, we produce chords with different qualities. A basic three-note chord built by stacking two thirds is called a triad .  Just as the twelve notes of the chromatic scale can be arranged around a clock face to visualise scale construction by stacking 2nds (one step clockwise each time), the seven notes of any scale can be arranged around a smaller circle to visualise chord construction by stacking 3rds. Moving two steps clockwise at each turn skips one scale note and lands on the next chord tone — the interval of a third. The dashed triangle in the figure below connects scale degrees 1, 3, and 5: these are the three notes of a triad. Continuing the same two-step pattern extends the chord: degree 7 gives a seventh chord, degree 9 (= 2) gives a ninth chord, degree 11 (= 4) an eleventh chord, and degree 13 (= 6) a thirteenth chord. The note names shown are those of the C major scale, but the degree numbers apply to any major scale — replace the note names with those of the chosen scale and the pattern is identical.   The 7 notes of the C major scale placed at their correct semitone positions around a 12-note circle (Root = C at 12 o'clock, one step = one semitone). Small grey ticks mark the 5 chromatic passing notes that fall between whole-tone scale steps. Moving two scale-degree steps clockwise at a time stacks thirds and builds chord tones: the dashed triangle connects the triad (1–3–5).        The Triad Formula  Every triad consists of three notes:   The root — the note the chord is named after.  The third — a third above the root (major or minor).  The fifth — a third above the third (which lands a fifth above the root).   The interval from the root to the fifth may be a perfect fifth (7 semitones), an augmented fifth (8 semitones), or a diminished fifth (6 semitones), depending on the combination of thirds used.   "
+  "body": " Building Chords from Intervals   Chords are built by stacking intervals above a root note . The root is the note root note that names the chord — for example, the root of a C major chord is C. The other notes of the chord are determined by the specific intervals measured from the root.    Stacking Thirds  The most common way to construct a chord is by stacking intervals of a third above the root. There are two types of third:    A major third spans 4 semitones (e.g. C up to E).    A minor third spans 3 semitones (e.g. C up to E ).    By choosing which type of third to place at each position in the stack, we produce chords with triad different qualities. A basic three-note chord built by stacking two thirds is called a triad .  Just as the twelve notes of the chromatic scale can be arranged around a clock face to visualise scale construction by stacking 2nds (one step clockwise each time), the seven notes of any scale can be arranged around a smaller circle to visualise chord construction by stacking 3rds. Moving two steps clockwise at each turn skips one scale note and lands on the next chord tone — the interval of a third. The dashed triangle in the figure below connects scale degrees 1, 3, and 5: these are the three notes of a triad. Continuing the same two-step pattern extends the chord: degree 7 gives a seventh chord, degree 9 (= 2) gives a ninth chord, degree 11 (= 4) an eleventh chord, and degree 13 (= 6) a thirteenth chord. The note names shown are those of the C major scale, but the degree numbers apply to any major scale — replace the note names with those of the chosen scale and the pattern is identical.   The 7 notes of the C major scale placed at their correct semitone positions around a 12-note circle (Root = C at 12 o'clock, one step = one semitone). Small grey ticks mark the 5 chromatic passing notes that fall between whole-tone scale steps. Moving two scale-degree steps clockwise at a time stacks thirds and builds chord tones: the dashed triangle connects the triad (1–3–5).        The Triad Formula  Every triad consists of three notes:   The root — the note the chord is named after.  The third — a third above the root (major or minor).  The fifth — a third above the third (which lands a fifth above the root).   The interval from the root to the fifth may be a perfect fifth (7 semitones), an augmented fifth (8 semitones), or a diminished fifth (6 semitones), depending on the combination of thirds used.   "
 },
 {
   "id": "sec-chords-from-intervals-2-1",
@@ -916,7 +916,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.2",
   "title": "Types of Triad",
-  "body": " Types of Triad   The four main triad types differ in the intervals between their notes. Using C as the root, the notes and interval structure for each type are as follows.    Major Triad  A major triad is built from a major third followed by a minor third :   Root to third: major third (4 semitones) — e.g. C to E  Third to fifth: minor third (3 semitones) — e.g. E to G  Root to fifth: perfect fifth (7 semitones) — e.g. C to G   The major triad has a bright, stable sound. The C major triad consists of the notes C, E, and G.    Minor Triad  A minor triad is built from a minor third followed by a major third :   Root to third: minor third (3 semitones) — e.g. C to E  Third to fifth: major third (4 semitones) — e.g. E to G  Root to fifth: perfect fifth (7 semitones) — e.g. C to G   The minor triad has a darker, more melancholic sound. The C minor triad consists of the notes C, E , and G.    Augmented Triad  An augmented triad is built from two consecutive major thirds :   Root to third: major third (4 semitones) — e.g. C to E  Third to fifth: major third (4 semitones) — e.g. E to G  Root to fifth: augmented fifth (8 semitones) — e.g. C to G   The raised fifth gives the augmented triad a tense, unresolved quality. The C augmented triad consists of the notes C, E, and G .    Diminished Triad  A diminished triad is built from two consecutive minor thirds :   Root to third: minor third (3 semitones) — e.g. C to E  Third to fifth: minor third (3 semitones) — e.g. E to G  Root to fifth: diminished fifth (6 semitones) — e.g. C to G   The diminished fifth (also called a tritone) gives the diminished triad a dissonant, unstable sound that strongly seeks resolution. The C diminished triad consists of the notes C, E , and G .    The table below summarises the four triad types using C as the root. The number in brackets in this case is the \"Interval Count\" See the 2nd paragraph in Chapter 3 Scales and Intervals for an explanation of Interval Count which is always 1 more than the number of semitones:   Summary of Triad Types (Root: C)         Triad Type  Root–3rd  3rd–5th  Root–5th  Notes (C root)    Major  Major 3rd (5)  Minor 3rd (4)  Perfect 5th (8)  C – E – G    Minor  Minor 3rd (4)  Major 3rd (5)  Perfect 5th (8)  C – E – G    Augmented  Major 3rd (5)  Major 3rd (5)  Aug. 5th (9)  C – E – G    Diminished  Minor 3rd (4)  Minor 3rd (4)  Dim. 5th (7)  C – E – G      "
+  "body": " Types of Triad   The four main triad types differ in the intervals between their notes. Using C as the root, the notes and interval structure for each type are as follows.    Major Triad  A major triad is built from a major third followed by a minor third :   Root to third: major third (4 semitones) — e.g. C to E  Third to fifth: minor third (3 semitones) — e.g. E to G  Root to fifth: perfect fifth (7 semitones) — e.g. C to G   The major triad has a bright, stable sound. The C major triad consists of the notes C, E, and G.    Minor Triad  A minor triad is built from a minor third followed by a major third :   Root to third: minor third (3 semitones) — e.g. C to E  Third to fifth: major third (4 semitones) — e.g. E to G  Root to fifth: perfect fifth (7 semitones) — e.g. C to G   The minor triad has a darker, more melancholic sound. The C minor triad consists of the notes C, E , and G.    Augmented Triad  An augmented triad is built from two consecutive major thirds :   Root to third: major third (4 semitones) — e.g. C to E  Third to fifth: major third (4 semitones) — e.g. E to G  Root to fifth: augmented fifth (8 semitones) — e.g. C to G   The raised fifth gives the augmented triad a tense, unresolved quality. The C augmented triad consists of the notes C, E, and G .    Diminished Triad  A diminished triad is built from two consecutive minor thirds :   Root to third: minor third (3 semitones) — e.g. C to E  Third to fifth: minor third (3 semitones) — e.g. E to G  Root to fifth: diminished fifth (6 semitones) — e.g. C to G   The diminished fifth (also called a tritone) gives the diminished triad a dissonant, unstable sound that strongly seeks resolution. The C diminished triad consists of the notes C, E , and G .    The table below summarises the four triad types using C as the root. The number in brackets in this case is the \"interval count\" — see the introduction to for an explanation of interval count, which is always 1 more than the number of semitones:   Summary of Triad Types (Root: C)         Triad Type  Root–3rd  3rd–5th  Root–5th  Notes (C root)    Major  Major 3rd (5)  Minor 3rd (4)  Perfect 5th (8)  C – E – G    Minor  Minor 3rd (4)  Major 3rd (5)  Perfect 5th (8)  C – E – G    Augmented  Major 3rd (5)  Major 3rd (5)  Aug. 5th (9)  C – E – G    Diminished  Minor 3rd (4)  Minor 3rd (4)  Dim. 5th (7)  C – E – G      "
 },
 {
   "id": "subsec-major-triad-2",
@@ -1321,7 +1321,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.1",
   "title": "Major and Minor Triads",
-  "body": " Major and Minor Triads   These triad shapes are moveable: the shape stays the same regardless of which button you start on, taking the name of the root note. The first row shows the four root-position triad types; the second row shows their common inversions.                            C major triad notation    C minor triad notation    C augmented triad notation    C diminished triad notation                             C major 1st inversion notation    C minor 1st inversion notation    C major 2nd inversion notation    C minor 2nd inversion notation    "
+  "body": " Major and Minor Triads   These triad shapes are moveable: the shape stays the same regardless of which button you start on, taking the name of the root note. The first row shows the four root-position triad types; the second row shows their common inversions.                           C major triad notation    C minor triad notation    C augmented triad notation    C diminished triad notation                            C major 1st inversion notation    C minor 1st inversion notation    C major 2nd inversion notation    C minor 2nd inversion notation    "
 },
 {
   "id": "fig-triad-grids-row1",
@@ -1330,7 +1330,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "7.1.1",
   "title": "",
-  "body": "                    "
+  "body": "                   "
 },
 {
   "id": "fig-triad-grids-row2",
@@ -1339,7 +1339,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "7.1.2",
   "title": "",
-  "body": "                    "
+  "body": "                   "
 },
 {
   "id": "sec-seventh-chords",
@@ -1672,7 +1672,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.2",
   "title": "2-5-1 Progressions of Maj7 Chords with Voice Leading (naturally follows Circle of Fifths)",
-  "body": " 2-5-1 Progressions of Maj7 Chords with Voice Leading (naturally follows Circle of Fifths)                                                                          "
+  "body": " 2-5-1 Progressions of Maj7 Chords with Voice Leading (naturally follows Circle of Fifths)                                                                      "
 },
 {
   "id": "fig-251-p1r1",
@@ -1681,7 +1681,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "9.2.1",
   "title": "",
-  "body": "                "
+  "body": "               "
 },
 {
   "id": "fig-251-p1r2",
@@ -1690,7 +1690,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "9.2.2",
   "title": "",
-  "body": "                "
+  "body": "               "
 },
 {
   "id": "fig-251-p2r1",
@@ -1699,7 +1699,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "9.2.3",
   "title": "",
-  "body": "                "
+  "body": "               "
 },
 {
   "id": "fig-251-p2r2",
@@ -1708,7 +1708,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "9.2.4",
   "title": "",
-  "body": "                "
+  "body": "               "
 },
 {
   "id": "sec-2-5-1-closed-in-C-Maj",
@@ -1717,7 +1717,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.3",
   "title": "2-5-1 Closed in C Major",
-  "body": " 2-5-1 Closed in C Major  This progression is built from a 4 note grip (chord formed by content of the grip shown above the shape) and a bass note that is the Root of the Progression Chord (named in the notation).  ===== Row 1: Shapes 1-4 =====-->                    Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips                                          "
+  "body": " 2-5-1 Closed in C Major  This progression is built from a 4 note grip (chord formed by content of the grip shown above the shape) and a bass note that is the root of the progression chord (named in the notation).  ===== Row 1: Shapes 1-4 =====-->                   Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips                                        "
 },
 {
   "id": "fig-251-cmaj-r1",
@@ -1726,7 +1726,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "9.3.1",
   "title": "",
-  "body": "                   Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips     "
+  "body": "                  Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips     "
 },
 {
   "id": "fig-251-cmaj-r2",
@@ -1735,7 +1735,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "9.3.2",
   "title": "",
-  "body": "                "
+  "body": "               "
 },
 {
   "id": "fig-251-cmaj-r3",
@@ -1744,7 +1744,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "9.3.3",
   "title": "",
-  "body": "                "
+  "body": "               "
 },
 {
   "id": "sec-circle-structure",
@@ -1753,7 +1753,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.1",
   "title": "Structure of the Circle",
-  "body": " Structure of the Circle   The Circle of Fifths. Outer circle contains Major Keys, the adjacent inner circle shows the Relative Minor.   A circle divided into twelve segments showing all major keys arranged by perfect fifths, with key signature accidental counts.  Shaded circe contains Major Keys the adjacent inner circle shows the Relative Minor.  Starting from C at the top of the circle and moving clockwise by perfect fifths, the twelve keys appear in the following order:  C G D A E B F \/G  D  A  E  B  F back to C.  Each step clockwise adds one sharp to the key signature. Each step anticlockwise adds one flat. The key of C major, at the top, has no sharps or flats.   Key Signatures Around the Circle of Fifths    Key  Sharps \/ Flats  Key Signature    C major  0  —    G major  1  F    D major  2  F , C    A major  3  F , C , G    E major  4  F , C , G , D    B major  5  F , C , G , D , A    F \/G major  6 \/ 6  Enharmonic equivalent    D major  5  B , E , A , D , G    A major  4  B , E , A , D    E major  3  B , E , A    B major  2  B , E    F major  1  B     "
+  "body": " Structure of the Circle   The Circle of Fifths. The outer circle contains major keys; the adjacent inner circle shows the relative minors.   A circle divided into twelve segments showing all major keys arranged by perfect fifths, with key signature accidental counts.    Starting from C at the top of the circle and moving clockwise by perfect fifths, the twelve keys appear in the following order:  C G D A E B F \/G  D  A  E  B  F back to C.  Each step clockwise adds one sharp to the key signature. Each step anticlockwise adds one flat. The key of C major, at the top, has no sharps or flats.   Key Signatures Around the Circle of Fifths    Key  Sharps \/ Flats  Key Signature    C major  0  —    G major  1  F    D major  2  F , C    A major  3  F , C , G    E major  4  F , C , G , D    B major  5  F , C , G , D , A    F \/G major  6 \/ 6  Enharmonic equivalent    D major  5  B , E , A , D , G    A major  4  B , E , A , D    E major  3  B , E , A    B major  2  B , E    F major  1  B     "
 },
 {
   "id": "fig-circle-of-fifths",
@@ -1762,7 +1762,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.1.1",
   "title": "",
-  "body": " The Circle of Fifths. Outer circle contains Major Keys, the adjacent inner circle shows the Relative Minor.   A circle divided into twelve segments showing all major keys arranged by perfect fifths, with key signature accidental counts.  Shaded circe contains Major Keys the adjacent inner circle shows the Relative Minor. "
+  "body": " The Circle of Fifths. The outer circle contains major keys; the adjacent inner circle shows the relative minors.   A circle divided into twelve segments showing all major keys arranged by perfect fifths, with key signature accidental counts.   "
 },
 {
   "id": "sec-circle-structure-6",
@@ -1807,7 +1807,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.3",
   "title": "Chord Progressions and the Circle",
-  "body": " Chord Progressions and the Circle  An accordion player can access important Chord Progressions Using The Circle of Fifths:    By adding a Chord Quality to each Pitch Identity on the Circle some of the most important Chord Progressions, used in all types of music, can be obtained by using the Circle Diagram.  For this purpose all cycling through the Circle will be Counterclockwise.  Direction of travel Chordwise will therefore be C to F to B to E and so on using the \"pitch labels\" in the Circle.  Figure 8.3.1 illustrates all the possible ii-V-I progressions. Probably the most frequently occurring progression in all modern music.  Figure 8.3.1 also shows one of the more important chord resolutions in music, The Dominant 7 (V7) to Major(Maj7)  Figure 8.3.1 illustrates all the Dominants of Dominants, another frequently used chordal device. V7 to V7.  In this discussion the information given in the Diagram remains the same. The \"main-note-name\" positions around the circle, remain fixed but the Chord Quality changes eg; from a Major Chord to a Minor etc; .  All progressions cycle in an anticlockwise direction through the same Root note sequence, but with different Chord Qualities.    In Summary,the Circle of Fifths reveals the most common chord progressions in Western music. Chords that are adjacent on the circle sound naturally connected. The most important progressions follow the circle:     V I (dominant to tonic) : Moving one step anticlockwise. For example, G to C. This is the strongest resolution in tonal music.     ii V I : Moving two steps anticlockwise. For example, Dm G C. This is the most common jazz and popular music progression.     IV I (subdominant to tonic) : Moving one step clockwise. For example, F to C. A plagal cadence, often heard as the Amen cadence.     I IV V I : The three primary chords of any key are always adjacent on the circle. In C major: C, F, and G sit next to each other.    Recognising these relationships on the Circle of Fifths helps the accordion player anticipate chord changes and navigate progressions fluently across the keyboard.   Example of ii-V-I progression using the circle diagram. .      The three inner rings show how the ii–V–I progression — the most common chord movement in tonal music — sits within each key around the circle. For any major key in the outer ring, the IMaj7, iim7 and V7 chords always appear together in the same shaded section in the annular bands. Reading anticlockwise, the pattern repeats every three segments: the V7 chord resolves to the IMaj7, and the iim7 chord sets up the V7. Because the circle is arranged in fifths, every adjacent key shares two of these three chords, which is why modulation between neighbouring keys sounds so natural.  "
+  "body": " Chord Progressions and the Circle  An accordion player can access important chord progressions using The Circle of Fifths:    By adding a chord quality to each pitch identity on the circle, some of the most important chord progressions used in all types of music can be obtained from the circle diagram.  For this purpose all cycling through the circle will be counterclockwise.  Direction of travel chordwise will therefore be C to F to B to E and so on, using the \"pitch labels\" in the circle.  Figure 8.3.1 illustrates all the possible ii-V-I progressions. Probably the most frequently occurring progression in all modern music.  Figure 8.3.1 also shows one of the more important chord resolutions in music: the dominant 7th (V7) to major 7th (Maj7).  Figure 8.3.1 illustrates all the Dominants of Dominants, another frequently used chordal device. V7 to V7.  In this discussion the information given in the diagram remains the same. The \"main-note-name\" positions around the circle remain fixed, but the chord quality changes, e.g. from a major chord to a minor chord, etc.  All progressions cycle in an anticlockwise direction through the same root note sequence, but with different chord qualities.    In summary, the Circle of Fifths reveals the most common chord progressions in Western music. Chords that are adjacent on the circle sound naturally connected. The most important progressions follow the circle:     V I (dominant to tonic) : Moving one step anticlockwise. For example, G to C. This is the strongest resolution in tonal music.     ii V I : Moving two steps anticlockwise. For example, Dm G C. This is the most common jazz and popular music progression.     IV I (subdominant to tonic) : Moving one step clockwise. For example, F to C. A plagal cadence, often heard as the Amen cadence.     I IV V I : The three primary chords of any key are always adjacent on the circle. In C major: C, F, and G sit next to each other.    Recognising these relationships on the Circle of Fifths helps the accordion player anticipate chord changes and navigate progressions fluently across the keyboard.   Example of an ii-V-I progression shown on the circle diagram.   A circle-of-fifths diagram annotated to show ii-V-I groupings around the twelve keys.    The three inner rings show how the ii–V–I progression — the most common chord movement in tonal music — sits within each key around the circle. For any major key in the outer ring, the IMaj7, iim7 and V7 chords always appear together in the same shaded section in the annular bands. Reading anticlockwise, the pattern repeats every three segments: the V7 chord resolves to the IMaj7, and the iim7 chord sets up the V7. Because the circle is arranged in fifths, every adjacent key shares two of these three chords, which is why modulation between neighbouring keys sounds so natural.  "
 },
 {
   "id": "sec-circle-chord-progressions-2",
@@ -1861,7 +1861,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.3.1",
   "title": "",
-  "body": " Example of ii-V-I progression using the circle diagram. .     "
+  "body": " Example of an ii-V-I progression shown on the circle diagram.   A circle-of-fifths diagram annotated to show ii-V-I groupings around the twelve keys.   "
 },
 {
   "id": "sec-circle-chord-progressions-8",
@@ -1882,45 +1882,45 @@ var ptx_lunr_docs = [
   "body": " The Circle of Fifths on the Chromatic Button Accordion  On the C-system chromatic button accordion, the perfect fifth interval always corresponds to the same physical movement on the keyboard, regardless of the starting note. This means that moving around the Circle of Fifths is a repeating geometric pattern on the instrument.  On the Stradella bass system, the Circle of Fifths is built directly into the layout. The bass note rows are arranged in fifths, so adjacent bass buttons follow the circle exactly. This makes common chord progressions (such as ii V I) physically adjacent on the bass side of the instrument.  Practising scales and chord progressions around the Circle of Fifths is one of the most effective ways to build fluency on the chromatic button accordion. Start from any key, move through all twelve keys by fifths, and observe how the same finger patterns repeat across the entire keyboard.  "
 },
 {
-  "id": "scales-modes-and-chords",
+  "id": "ch-scales-modes-and-chords",
   "level": "1",
-  "url": "scales-modes-and-chords.html",
+  "url": "ch-scales-modes-and-chords.html",
   "type": "Chapter",
   "number": "11",
   "title": "Scales, Modes and Chords",
-  "body": " Scales, Modes and Chords   Chords, Scales and Modes are constructed from the same collection of notes. Scales are constructed by stacking 2nds on the Root of a Chromatic Scale (See Chapter 2.1) and Chords are constructed by stacking 3rds on the Root of Scale. (See Chapter 5). Whilst scales have notes which are played sequentially and arranged horizontally, chords notes are diatonic to a scale and are drawn from that scale. Chords notes are arranged vertically and the notes are played simultaneously. Modes are just a different way of thinking about scales and keys. A mode\/scale can be assigned to every single chord in a progression.   A scale or mode is a subset of the 12 notes of a chromatic scale (See Chapter 2.1) of one octave; it has two components:   1. The notes they are comprised of;  2. A tonal centre (or root note).    The Seven Modes of the Major Scale (C Major)        Mode  Degree  Scale Notation  Scale Formula    Ionian  I   1 2 3 4 5 6 7    Dorian  II   1 2 3 4 5 6 7    Phrygian  III   1 2 3 4 5 6 7    Lydian  IV   1 2 3 4 5 6 7    Mixolydian  V   1 2 3 4 5 6 7    Aeolian  VI   1 2 3 4 5 6 7    Locrian  VII   1 2 3 4 5 6 7     NB The Natural 11th is the 4th degree of the scale and is a perfect 4th above the root, but the natural 11th, interferes with our ability to hear the root and clashes with the 3rd of a chord, thereforethe 11th is generally ignored when thinking about chords and scales.  The following are examples of the relationship between Scales and Chords    The C major scale or C Ionian mode (C D E F G A B) has the same notes as a CMaj13 chord (C E G B D F A). The natural 11th (F) is present in both the scale and the chord, but we ignore it when thinking about the chord and scale relationship. The clash with the 3rd is the problem. The 3rd and 7th are responsible for describing the quality of the chord and are therefore very important notes, but the 5th (if it's a perfect 5th) doesn't really add anything. So the 5th is also often omitted from a voicing, whether because it's clashing or because we don't have enough fingers.  The C Mixolydian scale or mode (C D E F G A B♭) has the same notes as a C13 chord (C E G B♭ D F A) (ignoring the ♮11).  The C Lydian scale or mode (C D E F# G A B) has the same notes as a CMaj13#11 chord (C E G B D F# A).   These scales could be used to improvise over these chords.   A table identifying all Major and Melodic Minor Modes and associated Chords       Mode  Chord  Chord Tone Notation (1 3 5 7 9 11 13)    Major Modes:    C Ionian  CMaj13     C Dorian  Cmin13     C Phrygian  Cmin13 9 13     C Lydian  CMaj13 11     C Mixolydian  C13     C Aeolian  Cmin7 13     C Locrian  Cmin7 5 9 13     Melodic Minor Modes:    C Melodic Minor  CminMaj7     C Phrygian 6  Cmin13 9     C Lydian Augmented  CMaj13 5 11     C Lydian Dominant  C13 11     C Mixolydian 6  C11 13     C Half Diminished  Cmin7 5 13     C Altered  C7 5 9 9 13 (C7 alt)     Other Modes:    C Harmonic Minor  CminMaj7 13     Other Unknown  C7 5 9 11 13      A 13th chord uses all the notes in the scale to which it is diatonic (C Major ). This means that chords not extended all the way to the 13th are slightly ambiguous, as they are missing some chord (and therefore scale) notes. The key they appear in depends on the surrounding chords in the progression. It is therefore possible to play multiple scales over the same chord (provided the chord is not a 13th chord). For example, because a CMaj7 chord (C E G B) does not contain an F, you can use either of the following scales to improvise over it:   C Ionian (C D E F G A B); or  C Lydian (C D E F# G A B).   Both scales contain all the notes that comprise the CMaj7 chord. Because the CMaj7 does not have a 9th, 11th or 13th, we do not know what key it is in, and therefore we can use both scales over this chord. When thinking in terms of keys (rather than modes) we can say that the CMaj7 chord can be derived from both the key of C Major and G Major (C Lydian).  Looking at the whole chord progression, the CMaj7 chord is preceded by a G7 chord, so it's reasonable to assume that the CMaj7 chord is in the key of C Major (rather than G Major). That doesn’t mean that we cannot use the C Lydian mode over the CMaj7 chord. The Chord-Scale System looks at individual chords in isolation and allocates scales to each individual chord. We do NOT need to know what key a particular chord is in, in order to choose a scale to play over that chord. In the above example, it doesn’t matter what key the CMaj7 chord is in, we can use both scales to improvise over it. It’s often preferable to choose the scale outside the key of the chord progression in order to give a more harmonically complex and jazzy sound. If we had the chord progression: | G7 | CMaj7 || Many Jazz musicians would use the C Lydian mode over the CMaj7 chord precisely because the chord progression is NOT in the key of C Lydian (G Major).  Similarly, you could use the following scales over a Cm7 chord:   C Dorian (C D E♭ F G A B♭);  C Aeolian (C D E♭ F G A♭ B♭).   You could use the following scales over a C7 chord:   C Mixolydian (C D E F G A B♭);  C Lydian Dominant (C D E F# G A B♭).   Chords and scales both consist of the same limited number of notes. All music theory can be broken down into notes and intervals. Scales and Chords are constructed from the 12 notes of the octave.   Using Different Scales Over the Same Chord  When improvising, you can use any scale over a particular chord, as long as that scale has all the notes found in that particular chord. This works even if the whole progression is in a particular key. For example, considering a II-V-I in C Major:   II-V-I chord progressions using scales from different keys    Comments  II  V  I    Chord progression is IN the key of C Major. All chords are FROM the key of C Major.  Dm7  G7  CMaj7    Chord progression is IN the key of C Major. II-V are FROM the key of C Aeolian.  Dm7♭5  Gm7  CMaj7      Even though the top chord progression is IN the key of C Major, we can still use the C Lydian scale (G Major) to improvise over the CMaj7 chord.  Even though a chord progression is in the key of C Major, we can still borrow chords from a different key. In the case of the bottom chord progression, we borrowed the II-V chords from the key of C Aeolian (E♭ Major).     Omitting and Changing Notes  The most important notes of a chord are the Guide Tones (3rd & 7th) and to a lesser extent the root (which establishes tonality). The 5th isn't required which means you can play any scale over a chord, provided that scale contains the root, 3rd and 7th of the chord. For example, you can use any scale with a C, E and B in it over a CMaj7 chord, even if it doesn’t contain a G.  The following also applies:   You can omit notes; and  You can treat notes enharmonically (i.e. as a different chord degree).   Where a scale has BOTH a minor 3rd and a Major 3rd, the Major 3rd is the True 3rd and the minor 3rd is a disguised #9. And it is possible for a scale to omit the 3rd or 7th of a chord and yet still work over that chord — the 3rd or 7th is implied by the harmony. For example, you can use a scale that omits the 3rd over a CMaj7 chord, and the 3rd is implied by the chord.  Considering the C7 chord, the following scales can be used to improvise over it.   Scales that work over a C7 chord    Scale  Degrees  Comments    C Dominant Bebop scale  1 2 3 4 5 6 ♭7 7  Maj 7 used as passing note    Whole-tone scale  1 2 3 ♭5 ♭6 ♭7  1, 3 & ♭7    Altered scale  1 ♭2 ♭3 ♭4 ♭5 ♭6 ♭7  ♭3 = #2 = #9; ♭4 = 3    Blues scale  1 ♭3 4 #4 5 ♭7  ♭3 = #2 = #9; Omits 3      The C Dominant Bebop scale fits perfectly over a C7 chord because it starts on the root (C) and has the 3 and ♭7. The ♮7 acts only as a passing note.  The C Wholetone scale fits perfectly over a C7 chord because it starts on the root (C) and has the 3 and ♭7.  The C Altered scale also fits over a C7 chord even though it has a ♭3 (E♭). This is because the ♭3 acts as a #9 (D#) and the True 3rd is the ♭4 (E). So the ♭3 is enharmonically the same as a #9 and the ♭4 is enharmonically the same as a ♮3. So this scale fits over a C7 chord.  The C Blues scale also fits over a C7 chord. The ♭3 is treated as a #9 and the ♮3 is omitted. The ♮3 is implied by the chord C7. The scale then has an implied ♮3 and a ♭7, so fits over C7.   (Note #1: The ♮3 always overrides the minor ♭3 and turns it into a #9. This generally only applies to V7 chords and works because the #9 is an available tension over a C7 chord).  (Note #2: This idea does NOT apply to 7ths. You cannot turn a ♭7 into a #6 or #13. This is because a #13 is not an available tension over any chord).    Conclusion  Below is a selection of scales that can be used over particular chords, since they share the root, 3rd and 7th of the chord.   Scales for common chord types, examples in C    Chord  Possible Scale  Degrees  From C    Major 7 (any scale with Maj 3 & Maj 7)  Ionian  1 2 3 4 5 6 7  C D E F G A B    Lydian  1 2 3 #4 5 6 7  C D E F# G A B    Lydian Augmented  1 2 3 #4 #5 6 7  C D E F# G# A B    Major Bebop Scale  1 2 3 4 5 ♭6 6 7  C D E F G A♭ A B    Minor 7 (any scale with min 3 & min 7)  Aeolian  1 2 ♭3 4 5 ♭6 ♭7  C D E♭ F G A♭ B♭    Dorian  1 2 ♭3 4 5 6 ♭7  C D E♭ F G A B♭    Phrygian  1 ♭2 ♭3 4 5 ♭6 ♭7  C D♭ E♭ F G A♭ B♭    Half Diminished (any scale with min 3, ♭5 & min 7)  Locrian  1 ♭2 ♭3 4 ♭5 ♭6 ♭7  C D♭ E♭ F G♭ A♭ B♭    Half-diminished  1 2 ♭3 4 ♭5 ♭6 ♭7  C D E♭ F G♭ A♭ B♭    Dominant 7 (any scale with Maj 3 & min 7)  Mixolydian  1 2 3 4 5 6 ♭7  C D E F G A B♭    Lydian Dominant  1 2 3 #4 5 6 ♭7  C D E F# G A B♭    Mixolydian ♭6 Scale  1 2 3 4 5 ♭6 ♭7  C D E F G A♭ B♭    Altered  1 ♭2 ♭3 ♭4 ♭5 ♭6 ♭7  C D♭ E♭ F♭ G♭ A♭ B♭    Dorian ♭2  1 ♭2 ♭3 4 5 6 ♭7  C D♭ E♭ F G A B♭    Major Pentatonic  1 2 3 5 6  C D E G A    Blues  1 ♭3 4 #4 5 ♭7  C E♭ F F# G B♭    5th mode of Harmonic Minor  1 ♭2 3 4 5 ♭6 ♭7  C D♭ E F G A♭ B♭    5th mode of Harmonic Major  1 ♭2 3 4 5 6 ♭7  C D♭ E F G A B♭    Dominant Bebop  1 2 3 4 5 6 ♭7 7  C D E F G A B♭ B    Dominant Diminished  1 ♭2 #2 3 #4 5 6 ♭7  C D♭ D# E F# G A B♭    Whole Tone  1 2 3 #4 #5 ♭7  C D E G♭ A♭ B♭      "
+  "body": " Scales, Modes and Chords    mode Chords, scales and modes are constructed from the same collection of notes. Scales are constructed by stacking 2nds on the root of a chromatic scale (see ) and chords are constructed by stacking 3rds on the root of a scale (see ). Whilst scales have notes which are played sequentially and arranged horizontally, chord notes are diatonic to a scale and are drawn from that scale. Chord notes are arranged vertically and the notes are played simultaneously. Modes are just a different way of thinking about scales and keys. A mode\/scale can be assigned to every single chord in a progression.   A scale or mode is a subset of the 12 notes of a chromatic scale (see ) of one octave; it has two components:   1. The notes they are comprised of;  2. A tonal centre (or root note).    The Seven Modes of the Major Scale (C Major)        Mode  Degree  Scale Notation  Scale Formula    Ionian  I   1 2 3 4 5 6 7    Dorian  II   1 2 3 4 5 6 7    Phrygian  III   1 2 3 4 5 6 7    Lydian  IV   1 2 3 4 5 6 7    Mixolydian  V   1 2 3 4 5 6 7    Aeolian  VI   1 2 3 4 5 6 7    Locrian  VII   1 2 3 4 5 6 7     NB The Natural 11th is the 4th degree of the scale and is a perfect 4th above the root, but the natural 11th, interferes with our ability to hear the root and clashes with the 3rd of a chord, thereforethe 11th is generally ignored when thinking about chords and scales.  The following are examples of the relationship between scales and chords    The C major scale or C Ionian mode (C D E F G A B) has the same notes as a CMaj13 chord (C E G B D F A). The natural 11th (F) is present in both the scale and the chord, but we ignore it when thinking about the chord and scale relationship. The clash with the 3rd is the problem. The 3rd and 7th are responsible for describing the quality of the chord and are therefore very important notes, but the 5th (if it's a perfect 5th) doesn't really add anything. So the 5th is also often omitted from a voicing, whether because it's clashing or because we don't have enough fingers.  The C Mixolydian scale or mode (C D E F G A B♭) has the same notes as a C13 chord (C E G B♭ D F A) (ignoring the ♮11).  The C Lydian scale or mode (C D E F# G A B) has the same notes as a CMaj13#11 chord (C E G B D F# A).   These scales could be used to improvise over these chords.   A table identifying all Major and Melodic Minor Modes and associated Chords       Mode  Chord  Chord Tone Notation (1 3 5 7 9 11 13)    Major Modes:    C Ionian  CMaj13     C Dorian  Cmin13     C Phrygian  Cmin13 9 13     C Lydian  CMaj13 11     C Mixolydian  C13     C Aeolian  Cmin7 13     C Locrian  Cmin7 5 9 13     Melodic Minor Modes:    C Melodic Minor  CminMaj7     C Phrygian 6  Cmin13 9     C Lydian Augmented  CMaj13 5 11     C Lydian Dominant  C13 11     C Mixolydian 6  C11 13     C Half Diminished  Cmin7 5 13     C Altered  C7 5 9 9 13 (C7 alt)     Other Modes:    C Harmonic Minor  CminMaj7 13     Other Unknown  C7 5 9 11 13      A 13th chord uses all the notes in the scale to which it is diatonic (C major). This means that chords not extended all the way to the 13th are slightly ambiguous, as they are missing some chord (and therefore scale) notes. The key they appear in depends on the surrounding chords in the progression. It is therefore possible to play multiple scales over the same chord (provided the chord is not a 13th chord). For example, because a CMaj7 chord (C E G B) does not contain an F, you can use either of the following scales to improvise over it:   C Ionian (C D E F G A B); or  C Lydian (C D E F# G A B).   Both scales contain all the notes that comprise the CMaj7 chord. Because the CMaj7 does not have a 9th, 11th or 13th, we do not know what key it is in, and therefore we can use both scales over this chord. When thinking in terms of keys (rather than modes) we can say that the CMaj7 chord can be derived from both the key of C major and G major (C Lydian).  Looking at the whole chord progression, the CMaj7 chord is preceded by a G7 chord, so it's reasonable to assume that the CMaj7 chord is in the key of C major (rather than G major). That doesn’t mean that we cannot use the C Lydian mode over the CMaj7 chord. The chord-scale system looks at individual chords in isolation and allocates scales to each individual chord. We do not need to know what key a particular chord is in, in order to choose a scale to play over that chord. In the above example, it doesn’t matter what key the CMaj7 chord is in; we can use both scales to improvise over it. It’s often preferable to choose the scale outside the key of the chord progression in order to give a more harmonically complex and jazzy sound. If we had the chord progression: | G7 | CMaj7 || Many jazz musicians would use the C Lydian mode over the CMaj7 chord precisely because the chord progression is not in the key of C Lydian (G major).  Similarly, you could use the following scales over a Cm7 chord:   C Dorian (C D E♭ F G A B♭);  C Aeolian (C D E♭ F G A♭ B♭).   You could use the following scales over a C7 chord:   C Mixolydian (C D E F G A B♭);  C Lydian Dominant (C D E F# G A B♭).   Chords and scales both consist of the same limited number of notes. All music theory can be broken down into notes and intervals. Scales and chords are constructed from the 12 notes of the octave.   Using Different Scales Over the Same Chord  When improvising, you can use any scale over a particular chord, as long as that scale has all the notes found in that particular chord. This works even if the whole progression is in a particular key. For example, considering a II-V-I in C major:   II-V-I chord progressions using scales from different keys    Comments  II  V  I    Chord progression is in the key of C major. All chords are from the key of C major.  Dm7  G7  CMaj7    Chord progression is in the key of C major. II-V are from the key of C Aeolian.  Dm7♭5  Gm7  CMaj7      Even though the top chord progression is in the key of C major, we can still use the C Lydian scale (G major) to improvise over the CMaj7 chord.  Even though a chord progression is in the key of C major, we can still borrow chords from a different key. In the case of the bottom chord progression, we borrowed the II-V chords from the key of C Aeolian (E♭ major).     Omitting and Changing Notes  The most important notes of a chord are the guide tones (3rd & 7th) and to a lesser extent the root (which establishes tonality). The 5th isn't required which means you can play any scale over a chord, provided that scale contains the root, 3rd and 7th of the chord. For example, you can use any scale with a C, E and B in it over a CMaj7 chord, even if it doesn’t contain a G.  The following also applies:   You can omit notes; and  You can treat notes enharmonically (i.e. as a different chord degree).   Where a scale has both a minor 3rd and a major 3rd, the major 3rd is the true 3rd and the minor 3rd is a disguised #9. And it is possible for a scale to omit the 3rd or 7th of a chord and yet still work over that chord — the 3rd or 7th is implied by the harmony. For example, you can use a scale that omits the 3rd over a CMaj7 chord, and the 3rd is implied by the chord.  Considering the C7 chord, the following scales can be used to improvise over it.   Scales that work over a C7 chord    Scale  Degrees  Comments    C Dominant Bebop scale  1 2 3 4 5 6 ♭7 7  Maj 7 used as passing note    Whole-tone scale  1 2 3 ♭5 ♭6 ♭7  1, 3 & ♭7    Altered scale  1 ♭2 ♭3 ♭4 ♭5 ♭6 ♭7  ♭3 = #2 = #9; ♭4 = 3    Blues scale  1 ♭3 4 #4 5 ♭7  ♭3 = #2 = #9; Omits 3      The C Dominant Bebop scale fits perfectly over a C7 chord because it starts on the root (C) and has the 3 and ♭7. The ♮7 acts only as a passing note.  The C Wholetone scale fits perfectly over a C7 chord because it starts on the root (C) and has the 3 and ♭7.  The C Altered scale also fits over a C7 chord even though it has a ♭3 (E♭). This is because the ♭3 acts as a #9 (D#) and the true 3rd is the ♭4 (E). So the ♭3 is enharmonically the same as a #9 and the ♭4 is enharmonically the same as a ♮3. So this scale fits over a C7 chord.  The C Blues scale also fits over a C7 chord. The ♭3 is treated as a #9 and the ♮3 is omitted. The ♮3 is implied by the chord C7. The scale then has an implied ♮3 and a ♭7, so fits over C7.   (Note #1: The ♮3 always overrides the minor ♭3 and turns it into a #9. This generally only applies to V7 chords and works because the #9 is an available tension over a C7 chord).  (Note #2: This idea does NOT apply to 7ths. You cannot turn a ♭7 into a #6 or #13. This is because a #13 is not an available tension over any chord).    Conclusion  Below is a selection of scales that can be used over particular chords, since they share the root, 3rd and 7th of the chord.   Scales for common chord types, examples in C    Chord  Possible Scale  Degrees  From C    Major 7 (any scale with Maj 3 & Maj 7)  Ionian  1 2 3 4 5 6 7  C D E F G A B    Lydian  1 2 3 #4 5 6 7  C D E F# G A B    Lydian Augmented  1 2 3 #4 #5 6 7  C D E F# G# A B    Major Bebop Scale  1 2 3 4 5 ♭6 6 7  C D E F G A♭ A B    Minor 7 (any scale with min 3 & min 7)  Aeolian  1 2 ♭3 4 5 ♭6 ♭7  C D E♭ F G A♭ B♭    Dorian  1 2 ♭3 4 5 6 ♭7  C D E♭ F G A B♭    Phrygian  1 ♭2 ♭3 4 5 ♭6 ♭7  C D♭ E♭ F G A♭ B♭    Half Diminished (any scale with min 3, ♭5 & min 7)  Locrian  1 ♭2 ♭3 4 ♭5 ♭6 ♭7  C D♭ E♭ F G♭ A♭ B♭    Half-diminished  1 2 ♭3 4 ♭5 ♭6 ♭7  C D E♭ F G♭ A♭ B♭    Dominant 7 (any scale with Maj 3 & min 7)  Mixolydian  1 2 3 4 5 6 ♭7  C D E F G A B♭    Lydian Dominant  1 2 3 #4 5 6 ♭7  C D E F# G A B♭    Mixolydian ♭6 Scale  1 2 3 4 5 ♭6 ♭7  C D E F G A♭ B♭    Altered  1 ♭2 ♭3 ♭4 ♭5 ♭6 ♭7  C D♭ E♭ F♭ G♭ A♭ B♭    Dorian ♭2  1 ♭2 ♭3 4 5 6 ♭7  C D♭ E♭ F G A B♭    Major Pentatonic  1 2 3 5 6  C D E G A    Blues  1 ♭3 4 #4 5 ♭7  C E♭ F F# G B♭    5th mode of Harmonic Minor  1 ♭2 3 4 5 ♭6 ♭7  C D♭ E F G A♭ B♭    5th mode of Harmonic Major  1 ♭2 3 4 5 6 ♭7  C D♭ E F G A B♭    Dominant Bebop  1 2 3 4 5 6 ♭7 7  C D E F G A B♭ B    Dominant Diminished  1 ♭2 #2 3 #4 5 6 ♭7  C D♭ D# E F# G A B♭    Whole Tone  1 2 3 #4 #5 ♭7  C D E G♭ A♭ B♭      "
 },
 {
-  "id": "scales-modes-and-chords-5",
+  "id": "ch-scales-modes-and-chords-5",
   "level": "2",
-  "url": "scales-modes-and-chords.html#scales-modes-and-chords-5",
+  "url": "ch-scales-modes-and-chords.html#ch-scales-modes-and-chords-5",
   "type": "Table",
   "number": "11.0.1",
   "title": "The Seven Modes of the Major Scale (C Major)",
   "body": " The Seven Modes of the Major Scale (C Major)        Mode  Degree  Scale Notation  Scale Formula    Ionian  I   1 2 3 4 5 6 7    Dorian  II   1 2 3 4 5 6 7    Phrygian  III   1 2 3 4 5 6 7    Lydian  IV   1 2 3 4 5 6 7    Mixolydian  V   1 2 3 4 5 6 7    Aeolian  VI   1 2 3 4 5 6 7    Locrian  VII   1 2 3 4 5 6 7    "
 },
 {
-  "id": "scales-modes-and-chords-6",
+  "id": "ch-scales-modes-and-chords-6",
   "level": "2",
-  "url": "scales-modes-and-chords.html#scales-modes-and-chords-6",
+  "url": "ch-scales-modes-and-chords.html#ch-scales-modes-and-chords-6",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "NB The Natural 11th "
 },
 {
-  "id": "scales-modes-and-chords-7",
+  "id": "ch-scales-modes-and-chords-7",
   "level": "2",
-  "url": "scales-modes-and-chords.html#scales-modes-and-chords-7",
+  "url": "ch-scales-modes-and-chords.html#ch-scales-modes-and-chords-7",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "The following are examples of the relationship between Scales and Chords "
+  "body": "The following are examples of the relationship between scales and chords "
 },
 {
-  "id": "scales-modes-and-chords-10",
+  "id": "ch-scales-modes-and-chords-10",
   "level": "2",
-  "url": "scales-modes-and-chords.html#scales-modes-and-chords-10",
+  "url": "ch-scales-modes-and-chords.html#ch-scales-modes-and-chords-10",
   "type": "Table",
   "number": "11.0.2",
   "title": "A table identifying all Major and Melodic Minor Modes and associated Chords",
@@ -1929,16 +1929,16 @@ var ptx_lunr_docs = [
 {
   "id": "why-multiple-scales-over-chord-3",
   "level": "2",
-  "url": "scales-modes-and-chords.html#why-multiple-scales-over-chord-3",
+  "url": "ch-scales-modes-and-chords.html#why-multiple-scales-over-chord-3",
   "type": "Table",
   "number": "11.0.3",
   "title": "II-V-I chord progressions using scales from different keys",
-  "body": " II-V-I chord progressions using scales from different keys    Comments  II  V  I    Chord progression is IN the key of C Major. All chords are FROM the key of C Major.  Dm7  G7  CMaj7    Chord progression is IN the key of C Major. II-V are FROM the key of C Aeolian.  Dm7♭5  Gm7  CMaj7    "
+  "body": " II-V-I chord progressions using scales from different keys    Comments  II  V  I    Chord progression is in the key of C major. All chords are from the key of C major.  Dm7  G7  CMaj7    Chord progression is in the key of C major. II-V are from the key of C Aeolian.  Dm7♭5  Gm7  CMaj7    "
 },
 {
   "id": "omitting-and-changing-notes-7",
   "level": "2",
-  "url": "scales-modes-and-chords.html#omitting-and-changing-notes-7",
+  "url": "ch-scales-modes-and-chords.html#omitting-and-changing-notes-7",
   "type": "Table",
   "number": "11.0.4",
   "title": "Scales that work over a C7 chord",
@@ -1947,7 +1947,7 @@ var ptx_lunr_docs = [
 {
   "id": "conclusion-scales-over-chords-3",
   "level": "2",
-  "url": "scales-modes-and-chords.html#conclusion-scales-over-chords-3",
+  "url": "ch-scales-modes-and-chords.html#conclusion-scales-over-chords-3",
   "type": "Table",
   "number": "11.0.5",
   "title": "Scales for common chord types, examples in C",
@@ -2212,7 +2212,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "13.1",
   "title": "The Four Core Grips",
-  "body": " The Four Core Grips  The grids below show four important grips that will be used in progressions later in this section with different base notes. The chord produced by the grip is dependant on the bass note (not shown in grid below). Highlighted buttons are the chord tones; the label above each grid shows the grip name and quality; the label below shows the note names and their chord-tone functions.   (The Lydian Dominant grip is a maj7 voicing with a flattened 5th)         Staff notation for Grip 1a: F A C E   Grip 1a  Cat A maj7 grip  Dm9 if bass is D         Staff notation for Grip 2a: F A B E   Grip 2a  Cat A Lyd. Dom grip.  D9 if bass is D         Staff notation for Grip 1b: F A Bb D   Grip 1b   Cat B maj7 grip  Inversion of Grip 1a         Staff notation for Grip 2b: E A Bb D   Grip 2b   Cat B Lyd. Dom grip.  Inversion of Grip 2a     "
+  "body": " The Four Core Grips  The grids below show four important grips that will be used in progressions later in this section with different base notes. The chord produced by the grip is dependent on the bass note (not shown in grid below). Highlighted buttons are the chord tones; the label above each grid shows the grip name and quality; the label below shows the note names and their chord-tone functions.   (The Lydian Dominant grip is a maj7 voicing with a flattened 5th)         Staff notation for Grip 1a: F A C E   Grip 1a  Cat A maj7 grip  Dm9 if bass is D         Staff notation for Grip 2a: F A B E   Grip 2a  Cat A Lyd. Dom grip.  D9 if bass is D         Staff notation for Grip 1b: F A Bb D   Grip 1b   Cat B maj7 grip  Inversion of Grip 1a         Staff notation for Grip 2b: E A Bb D   Grip 2b   Cat B Lyd. Dom grip.  Inversion of Grip 2a     "
 },
 {
   "id": "fig-gm-all-four",
@@ -2230,7 +2230,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "13.2",
   "title": "Alternative fingerings of the four grips on the chromatic button accordion",
-  "body": " Alternative fingerings of the four grips on the chromatic button accordion  The grids below show alternative fingerings for the four important grips. On the chromatic button accordion. Buttons in column 4 and 5 on the treble keyboard are duplicates, which enables alternative fingerings of identical notes. This is particularly important where chords are at the exteme left or right of the keyboard.   (The Lydian Dominant grip is a maj7 voicing with a flattened 5th)         Staff notation for Grip 1a: F A C E   Grip 1a  Cat A maj7 grip  Dmaj9 if bass is D         Staff notation for Grip 2a: F A B E   Grip 2a  Cat A Lyd. Dom grip.  D9 if bass is D         Staff notation for Grip 1b: F A Bb D   Grip 1b   Cat B maj7 grip  Inversion of Grip 1a         Staff notation for Grip 2b: E A Bb D   Grip 2b   Cat B Lyd. Dom grip.  Inversion of Grip 2a         Staff notation for Grip 2b: E A Bb D   Grip 2b   Cat B Lyd. Dom grip.  Inversion of Grip 2a     "
+  "body": " Alternative fingerings of the four grips on the chromatic button accordion  The grids below show alternative fingerings for the four important grips on the chromatic button accordion. Buttons in columns 4 and 5 on the treble keyboard are duplicates, which enables alternative fingerings of identical notes. This is particularly important where chords are at the extreme left or right of the keyboard.   (The Lydian Dominant grip is a maj7 voicing with a flattened 5th)         Staff notation for Grip 1a: F A C E   Grip 1a  Cat A maj7 grip  Dmaj9 if bass is D         Staff notation for Grip 2a: F A B E   Grip 2a  Cat A Lyd. Dom grip.  D9 if bass is D         Staff notation for Grip 1b: F A Bb D   Grip 1b   Cat B maj7 grip  Inversion of Grip 1a         Staff notation for Grip 2b: E A Bb D   Grip 2b   Cat B Lyd. Dom grip.  Inversion of Grip 2a         Staff notation for Grip 2b: E A Bb D   Grip 2b   Cat B Lyd. Dom grip.  Inversion of Grip 2a     "
 },
 {
   "id": "fig-gm-all-four-alt",
@@ -2698,7 +2698,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "15.1",
   "title": "The Exercise",
-  "body": " The Exercise  Learn a song and connect each chord to the right scale.  Using How High The Moon See Section 13.5 for the score. Play the scale that matches each chord in the progression.  This will help you understand the song's structure, the chord changes, and the scale that fits each chord:    If a chord lasts one bar (like Gm7 to C7), play the chord's scale from the root to the 7th note of the scale.   Gm7 and C7 each lasting one bar — scale played from root to 7th ( From The Root To The 7th ).      If a chord lasts two bars (like the first two bars), play root up to 7th, then back down to the root again.     Gmaj7 over two bars — scale ascending from root to 7th, then descending back to root ( Up & Down From The Root ).    This helps you to understand how the chords and scales relate to each other. Now build the solo by replacing scales with solo phrases.  "
+  "body": " The Exercise  Learn a song and connect each chord to the right scale.  Using How High The Moon (see for the score). Play the scale that matches each chord in the progression.  This will help you understand the song's structure, the chord changes, and the scale that fits each chord:    If a chord lasts one bar (like Gm7 to C7), play the chord's scale from the root to the 7th note of the scale.   Gm7 and C7 each lasting one bar — scale played from root to 7th ( From The Root To The 7th ).      If a chord lasts two bars (like the first two bars), play root up to 7th, then back down to the root again.     Gmaj7 over two bars — scale ascending from root to 7th, then descending back to root ( Up & Down From The Root ).    This helps you to understand how the chords and scales relate to each other. Now build the solo by replacing scales with solo phrases.  "
 },
 {
   "id": "fig-how-high-the-moon-one-bar",
@@ -3085,7 +3085,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "17.1",
   "title": "Blank Chord Shape Template",
-  "body": " Blank Chord Shape Template                                                        "
+  "body": " Blank Chord Shape Template                                                     "
 },
 {
   "id": "fig-blank-tpl-r1",
@@ -3094,7 +3094,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "17.1.1",
   "title": "",
-  "body": "                "
+  "body": "               "
 },
 {
   "id": "fig-blank-tpl-r2",
@@ -3103,7 +3103,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "17.1.2",
   "title": "",
-  "body": "                "
+  "body": "               "
 },
 {
   "id": "fig-blank-tpl-r3",
@@ -3112,7 +3112,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "17.1.3",
   "title": "",
-  "body": "                "
+  "body": "               "
 },
 {
   "id": "sec-chord-progression-template",
@@ -3121,7 +3121,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "17.2",
   "title": "Extended Chord Progression Template",
-  "body": " Extended Chord Progression Template  This template uses the shared 52-node extended 11-row grid layout, including the added lower and upper extension nodes.                                                        "
+  "body": " Extended Chord Progression Template  This template uses the shared 52-node extended 11-row grid layout, including the added lower and upper extension nodes.                                                     "
 },
 {
   "id": "fig-chord-prog-tpl-r1",
@@ -3130,7 +3130,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "17.2.1",
   "title": "",
-  "body": "                "
+  "body": "               "
 },
 {
   "id": "fig-chord-prog-tpl-r2",
@@ -3139,7 +3139,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "17.2.2",
   "title": "",
-  "body": "                "
+  "body": "               "
 },
 {
   "id": "fig-chord-prog-tpl-r3",
@@ -3148,7 +3148,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "17.2.3",
   "title": "",
-  "body": "                "
+  "body": "               "
 },
 {
   "id": "sec-node-reference-grid",
@@ -3205,9 +3205,72 @@ var ptx_lunr_docs = [
   "body": " Extended 11-row reference showing note labels and identification numbers for all 55 positions in the shared extended grid layout.     "
 },
 {
-  "id": "backmatter-2",
+  "id": "sec-review-outstanding",
   "level": "1",
-  "url": "backmatter-2.html",
+  "url": "sec-review-outstanding.html",
+  "type": "Section",
+  "number": "18.1",
+  "title": "Outstanding Items",
+  "body": " Outstanding Items  The following are left for the author's decision:     Attribution and permissions. The additional-information chapter credits Jens Larsen's videos, and the Barry Harris chapter builds directly on Harris's teaching. Confirm that reproducing these exercises and any quoted material is compatible with the CC BY-SA 4.0 licence stated in the frontmatter, and add explicit source citations. (Deferred for now.)     "
+},
+{
+  "id": "sec-review-outstanding-3-1-1",
+  "level": "2",
+  "url": "sec-review-outstanding.html#sec-review-outstanding-3-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Attribution and permissions. "
+},
+{
+  "id": "app-glossary",
+  "level": "1",
+  "url": "app-glossary.html",
+  "type": "Appendix",
+  "number": "A",
+  "title": "Glossary",
+  "body": " Glossary  This glossary gathers the principal theoretical and accordion-specific terms used throughout the book into one reference section.   Glossary of Terms      Term  Definition    Interval  The distance between two notes, measured by scale position or by number of semitones.    Triad  A three-note chord built by stacking two thirds above a root note.    Chord  A group of notes sounded together to create a harmonic sonority.    Diatonic Chord  A chord whose notes all belong to a given scale or key.    Seventh Chord  A chord formed by adding a further third above a triad so that the upper note is a seventh above the root.    Chord Progression  A sequence of chords whose movement establishes harmonic direction.    Mode  A scale pattern defined both by its collection of notes and by its tonal centre.    Chord Voicing  A specific arrangement of chord tones in register and spacing.    Circle of Fifths  A cyclic arrangement of the twelve pitch classes showing relationships among key signatures, roots, and common chord motions.    Grip Method  The book's moveable treble-hand shape system for generating several useful chords from a small set of recurring button patterns.    Barry Harris System  A harmonic approach centred on the relationship between a major 6th chord and its companion diminished 7th chord, together with associated scale and movement patterns.     "
+},
+{
+  "id": "table-glossary",
+  "level": "2",
+  "url": "app-glossary.html#table-glossary",
+  "type": "Table",
+  "number": "A.0.1",
+  "title": "Glossary of Terms",
+  "body": " Glossary of Terms      Term  Definition    Interval  The distance between two notes, measured by scale position or by number of semitones.    Triad  A three-note chord built by stacking two thirds above a root note.    Chord  A group of notes sounded together to create a harmonic sonority.    Diatonic Chord  A chord whose notes all belong to a given scale or key.    Seventh Chord  A chord formed by adding a further third above a triad so that the upper note is a seventh above the root.    Chord Progression  A sequence of chords whose movement establishes harmonic direction.    Mode  A scale pattern defined both by its collection of notes and by its tonal centre.    Chord Voicing  A specific arrangement of chord tones in register and spacing.    Circle of Fifths  A cyclic arrangement of the twelve pitch classes showing relationships among key signatures, roots, and common chord motions.    Grip Method  The book's moveable treble-hand shape system for generating several useful chords from a small set of recurring button patterns.    Barry Harris System  A harmonic approach centred on the relationship between a major 6th chord and its companion diminished 7th chord, together with associated scale and movement patterns.    "
+},
+{
+  "id": "app-symbol-list",
+  "level": "1",
+  "url": "app-symbol-list.html",
+  "type": "Appendix",
+  "number": "B",
+  "title": "Symbol List",
+  "body": " Symbol List  The following symbols and abbreviations appear regularly in the text, chord labels, and musical examples.   Common Symbols and Abbreviations      Symbol  Meaning     Sharp: raises a note by one semitone.     Flat: lowers a note by one semitone.     Natural: cancels a previous sharp or flat.    maj7  Major seventh chord.    m7  Minor seventh chord.    7  Dominant seventh chord.    dim7  Diminished seventh chord.    m7 5  Half-diminished seventh chord.    sus4  Suspended chord with the third replaced by the fourth.    add9  A chord with an added ninth but no seventh.    6\/9  A major chord coloured with an added 6th and 9th.    alt  Altered dominant shorthand, usually implying one or more altered 5ths or 9ths.    5  Lowered fifth extension or chord alteration.    #5  Raised fifth extension or chord alteration.    #11  Raised eleventh extension.    #9  Raised ninth extension, often associated with altered dominant harmony.    9  Lowered ninth extension.    13  Lowered thirteenth extension.    I  Roman-numeral analysis symbol for the tonic degree or tonic chord.    ii  Roman-numeral analysis symbol for the supertonic chord; lowercase indicates minor quality in diatonic usage.    V  Roman-numeral analysis symbol for the dominant degree or dominant chord.    ii-V-I  A common functional progression moving from supertonic to dominant to tonic.    V\/ii  A secondary dominant: the dominant chord that resolves to ii rather than directly to I.    V7  The dominant seventh chord built on the fifth degree of a key.     "
+},
+{
+  "id": "table-symbol-list",
+  "level": "2",
+  "url": "app-symbol-list.html#table-symbol-list",
+  "type": "Table",
+  "number": "B.0.1",
+  "title": "Common Symbols and Abbreviations",
+  "body": " Common Symbols and Abbreviations      Symbol  Meaning     Sharp: raises a note by one semitone.     Flat: lowers a note by one semitone.     Natural: cancels a previous sharp or flat.    maj7  Major seventh chord.    m7  Minor seventh chord.    7  Dominant seventh chord.    dim7  Diminished seventh chord.    m7 5  Half-diminished seventh chord.    sus4  Suspended chord with the third replaced by the fourth.    add9  A chord with an added ninth but no seventh.    6\/9  A major chord coloured with an added 6th and 9th.    alt  Altered dominant shorthand, usually implying one or more altered 5ths or 9ths.    5  Lowered fifth extension or chord alteration.    #5  Raised fifth extension or chord alteration.    #11  Raised eleventh extension.    #9  Raised ninth extension, often associated with altered dominant harmony.    9  Lowered ninth extension.    13  Lowered thirteenth extension.    I  Roman-numeral analysis symbol for the tonic degree or tonic chord.    ii  Roman-numeral analysis symbol for the supertonic chord; lowercase indicates minor quality in diatonic usage.    V  Roman-numeral analysis symbol for the dominant degree or dominant chord.    ii-V-I  A common functional progression moving from supertonic to dominant to tonic.    V\/ii  A secondary dominant: the dominant chord that resolves to ii rather than directly to I.    V7  The dominant seventh chord built on the fifth degree of a key.    "
+},
+{
+  "id": "backmatter-4",
+  "level": "1",
+  "url": "backmatter-4.html",
+  "type": "Index",
+  "number": "",
+  "title": "Index",
+  "body": " Index   "
+},
+{
+  "id": "backmatter-5",
+  "level": "1",
+  "url": "backmatter-5.html",
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
