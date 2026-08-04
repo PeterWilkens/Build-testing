@@ -20,7 +20,7 @@
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <!-- Grid 1: minor 2nd pairs with loop outlines -->
-      <image xml:id="img-interval-grid-1"> content tbe 
+      <image xml:id="img-interval-grid-1">
         <latex-image>
 \begin{tikzpicture}[scale=0.65, transform shape]
 \pgfmathsetmacro{\isoangle}{60}

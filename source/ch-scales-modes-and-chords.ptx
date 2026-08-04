@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter xml:id="scales-modes-and-chords" xmlns:xi="http://www.w3.org/2001/XInclude">
+<chapter xml:id="ch-scales-modes-and-chords" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Scales, Modes and Chords</title>
 
 
   <introduction>
     <p>
-    Chords, Scales and Modes are constructed from the same collection of notes. Scales are constructed by stacking 2nds on the Root of a Chromatic Scale (See Chapter 2.1) and Chords are constructed by stacking 3rds on the Root of Scale.
-     (See Chapter 5). Whilst scales have notes which are played sequentially and arranged horizontally, chords notes are diatonic to a scale and are drawn from that scale. Chords notes are arranged vertically and the notes are played simultaneously.  Modes are just a different way of thinking about scales and keys. A mode/scale can be assigned to every single chord in a progression.
+    <idx>mode</idx>
+    Chords, Scales and Modes are constructed from the same collection of notes. Scales are constructed by stacking 2nds on the Root of a Chromatic Scale (see <xref ref="sec-intervals-c-major-scale"/>) and Chords are constructed by stacking 3rds on the Root of Scale.
+     (see <xref ref="ch-chords"/>). Whilst scales have notes which are played sequentially and arranged horizontally, chords notes are diatonic to a scale and are drawn from that scale. Chords notes are arranged vertically and the notes are played simultaneously.  Modes are just a different way of thinking about scales and keys. A mode/scale can be assigned to every single chord in a progression.
     </p>
   </introduction>
 
   
-   <p> A scale or mode is a subset of the 12 notes of a chromatic scale (See Chapter 2.1) of one octave; it has two components:</p>
+   <p> A scale or mode is a subset of the 12 notes of a chromatic scale (see <xref ref="sec-intervals-c-major-scale"/>) of one octave; it has two components:</p>
    <ol>
     <li>1. The notes they are comprised of;</li>
     <li>2. A tonal centre (or root note).</li>

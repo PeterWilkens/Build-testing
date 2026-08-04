@@ -6,6 +6,7 @@
 
   <introduction>
     <p>
+      <idx>chord</idx>
       A <term>chord</term> is a combination of three or more notes played simultaneously. Chords are the 
       harmonic building blocks of music — they define the tonal colour and emotional feel of a piece. 
       Understanding how chords are constructed from intervals gives the accordion player the ability to 
@@ -25,7 +26,7 @@
 
     <introduction>
       <p>
-        Chords are built by stacking intervals above a <term>root note</term>. The root is the note 
+        Chords are built by stacking intervals above a <term>root note</term>. The root is the note <idx>root note</idx>
         that names the chord — for example, the root of a C major chord is C. The other notes of the 
         chord are determined by the specific intervals measured from the root.
       </p>
@@ -50,7 +51,7 @@
         </li>
       </ul>
       <p>
-        By choosing which type of third to place at each position in the stack, we produce chords with 
+        By choosing which type of third to place at each position in the stack, we produce chords with <idx>triad</idx>
         different qualities. A basic three-note chord built by stacking two thirds is called a 
         <term>triad</term>.
       </p>
@@ -221,7 +222,7 @@
 
     <conclusion>
       <p>
-        The table below summarises the four triad types using C as the root. The number in brackets in this case is the "Interval Count" See the 2nd paragraph in Chapter 3 Scales and Intervals for an explanation of Interval Count which is always 1 more than the number of semitones:
+        The table below summarises the four triad types using C as the root. The number in brackets in this case is the "Interval Count" — see the introduction to <xref ref="ch-scales"/> for an explanation of Interval Count which is always 1 more than the number of semitones:
       </p>
       <table xml:id="table-triad-summary">
         <title>Summary of Triad Types (Root: C)</title>

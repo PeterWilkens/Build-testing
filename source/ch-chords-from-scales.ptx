@@ -4,13 +4,13 @@
 
   <introduction>
     <p>
-      Any major scale can be used as a source for building chords. By stacking thirds at 
+      Any major scale can be used as a source for building chords. By stacking thirds at <idx>diatonic chord</idx>
       each scale degree — <term>selecting every other note of the scale above a starting note</term> — 
       we produce a <term>diatonic</term> chord: a chord whose notes all belong to that key.
     </p>
     <p>
       Adding a second stacked third (a fourth note) above the initial triad produces a 
-      <term>seventh chord</term>. Seventh chords add harmonic richness and are 
+      <term>seventh chord</term>.<idx>seventh chord</idx> Seventh chords add harmonic richness and are 
       fundamental to jazz, classical, and popular music. There are exactly seven diatonic 
       seventh chords in every major key — one built on each scale degree.
     </p>
@@ -41,14 +41,14 @@
       </row>
       <row>
         <cell>2nd — D</cell>
-        <cell>II</cell>
+        <cell>ii</cell>
         <cell>Dm7</cell>
         <cell>D, F, A, C</cell>
         <cell>Minor 7th</cell>
       </row>
       <row>
         <cell>3rd — E</cell>
-        <cell>III</cell>
+        <cell>iii</cell>
         <cell>Em7</cell>
         <cell>E, G, B, D</cell>
         <cell>Minor 7th</cell>
@@ -69,14 +69,14 @@
       </row>
       <row>
         <cell>6th — A</cell>
-        <cell>VI</cell>
+        <cell>vi</cell>
         <cell>Am7</cell>
         <cell>A, C, E, G</cell>
         <cell>Minor 7th</cell>
       </row>
       <row bottom="minor">
         <cell>7th — B</cell>
-        <cell>VII</cell>
+        <cell>vii°</cell>
         <cell>Bm7<flat />5</cell>
         <cell>B, D, F, A</cell>
         <cell>Half-Diminished 7th</cell>

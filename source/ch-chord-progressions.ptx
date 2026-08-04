@@ -3,6 +3,7 @@
   <title>Chord Progressions</title>
 <introduction>
   <p>
+    <idx>chord progression</idx>
     A chord progression is a sequence of chords played in a specific order. They act as the harmonic foundation of the music, creating a journey of tension (pulling the listener away from the <q>home</q> note) and resolution (returning to a stable, familiar sound).
   </p>
 
@@ -34,7 +35,7 @@
 
   <paragraphs>
     <title>Roman Numeral Analysis</title>
-    <p>Roman numerals are used to write down chord progressions so they can be easily understood and played in any key.</p>
+    <p>Roman numerals are used to write down chord progressions so they can be easily understood and played in any key.<idx>Roman numeral analysis</idx></p>
     <ul>
       <li><p>Uppercase numerals (I, IV, V) indicate major chords.</p></li>
       <li><p>Lowercase numerals (ii, iii, vi) indicate minor chords.</p></li>
