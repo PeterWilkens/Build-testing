@@ -1717,7 +1717,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.3",
   "title": "2-5-1 Closed in C Major",
-  "body": " 2-5-1 Closed in C Major  This progression is built from a 4 note grip (chord formed by content of the grip shown above the shape) and a bass note that is the root of the progression chord (named in the notation).  ===== Row 1: Shapes 1-4 =====-->                   Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips                                        "
+  "body": " 2-5-1 Closed in C Major  This progression is built from a 4 note grip (chord formed by content of the grip shown above the shape) and a bass note that is the root of the progression chord (named in the notation).  ===== Row 1: Shapes 1-4 =====-->                   Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips        2-5-1 in C major. 4 th chord Cm7 is the start of next 2-5-1 in Bb major                  Piano staff notation showing Dm7, G7, CMaj7, and Cm7 with bass notes D, G, C, and C                      "
 },
 {
   "id": "fig-251-cmaj-r1",
@@ -1735,7 +1735,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "9.3.2",
   "title": "",
-  "body": "               "
+  "body": " 2-5-1 in C major. 4 th chord Cm7 is the start of next 2-5-1 in Bb major                  Piano staff notation showing Dm7, G7, CMaj7, and Cm7 with bass notes D, G, C, and C    "
 },
 {
   "id": "fig-251-cmaj-r3",
