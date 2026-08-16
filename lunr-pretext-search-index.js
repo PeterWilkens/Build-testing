@@ -1675,6 +1675,24 @@ var ptx_lunr_docs = [
   "body": " 2-5-1 progression in C major.                "
 },
 {
+  "id": "sec-extended-grid-practice",
+  "level": "1",
+  "url": "sec-extended-grid-practice.html",
+  "type": "Section",
+  "number": "9.4",
+  "title": "Extended Grid Practice",
+  "body": " Extended Grid Practice  Use these extended grids to practice locating notes and building shapes across the full 55-node layout.   Extended grid practice page.                                      "
+},
+{
+  "id": "fig-extended-grid-practice-page",
+  "level": "2",
+  "url": "sec-extended-grid-practice.html#fig-extended-grid-practice-page",
+  "type": "Figure",
+  "number": "9.4.1",
+  "title": "",
+  "body": " Extended grid practice page.                                     "
+},
+{
   "id": "sec-circle-structure",
   "level": "1",
   "url": "sec-circle-structure.html",
