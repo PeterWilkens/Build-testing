@@ -235,6 +235,7 @@
     </figure>
 
     <figure xml:id="fig-G-harmonic-minor-scale-shape-notation">
+      <caption>G harmonic minor scale notation: bass-hand shape (left) and two-octave treble-hand run (right).</caption>
       <sidebyside widths="45% 4% 45%" margins="2%">
         <image xml:id="img-G-harmonic-minor-scale-shape-lh-notation" source="notation/g-harmonic-minor-bass-shape" width="100%" />
         <p></p>

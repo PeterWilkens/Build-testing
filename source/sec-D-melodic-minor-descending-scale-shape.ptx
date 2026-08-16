@@ -219,6 +219,7 @@
     </figure>
 
     <figure xml:id="fig-D-melodic-minor-descending-scale-shape-notation">
+      <caption>D melodic minor (descending form) scale notation: bass-hand shape (left) and two-octave treble-hand run (right).</caption>
       <sidebyside widths="45% 4% 45%" margins="2%">
         <image xml:id="img-D-melodic-minor-descending-scale-shape-lh-notation" source="notation/d-melodic-minor-bass-shape" width="100%" />
         <p></p>

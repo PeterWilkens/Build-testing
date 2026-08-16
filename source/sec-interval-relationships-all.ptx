@@ -11,7 +11,6 @@
   </introduction>
 
   <!-- ===== Grid Pair 1 ===== -->
-  <figure xml:id="fig-ir-all-pair-1">
     <sidebyside widths="45% 45%" margins="2%">
 
       <!-- Free Bass: 4 columns wide, lowest left note C -->
@@ -142,10 +141,8 @@
       </image>
 
     </sidebyside>
-  </figure>
 
   <!-- ===== Grid Pair 2 ===== -->
-  <figure xml:id="fig-ir-all-pair-2">
     <sidebyside widths="45% 45%" margins="2%">
 
       <!-- Free Bass: 4 columns wide, lowest left note C -->
@@ -248,6 +245,5 @@
       </image>
 
     </sidebyside>
-  </figure>
 
 </section>

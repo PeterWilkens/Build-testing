@@ -234,6 +234,7 @@
     </figure>
 
     <figure xml:id="fig-C-harmonic-minor-scale-shape-notation">
+      <caption>C harmonic minor scale notation: bass-hand shape (left) and two-octave treble-hand run (right).</caption>
       <sidebyside widths="45% 4% 45%" margins="2%">
         <image xml:id="img-C-harmonic-minor-scale-shape-lh-notation" source="notation/c-harmonic-minor-bass-shape" width="100%" />
         <p></p>

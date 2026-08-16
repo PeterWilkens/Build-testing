@@ -3,7 +3,6 @@
   <title>2-5-1 Progressions of Maj7 Chords with Voice Leading (naturally follows Circle of Fifths)</title>
 
   <!-- ===== Page 1, Row 1 ===== -->
-  <figure xml:id="fig-251-p1r1">
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <image xml:id="img-251-p1r1-g1">
@@ -199,10 +198,8 @@
       </image>
 
     </sidebyside>
-  </figure>
 
   <!-- ===== Page 1, Row 2 ===== -->
-  <figure xml:id="fig-251-p1r2">
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <image xml:id="img-251-p1r2-g1">
@@ -398,10 +395,8 @@
       </image>
 
     </sidebyside>
-  </figure>
 
   <!-- ===== Page 2, Row 1 ===== -->
-  <figure xml:id="fig-251-p2r1">
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <image xml:id="img-251-p2r1-g1">
@@ -597,10 +592,8 @@
       </image>
 
     </sidebyside>
-  </figure>
 
   <!-- ===== Page 2, Row 2 ===== -->
-  <figure xml:id="fig-251-p2r2">
     <sidebyside widths="22% 22% 22% 22%" margins="3%">
 
       <image xml:id="img-251-p2r2-g1">
@@ -796,6 +789,5 @@
       </image>
 
     </sidebyside>
-  </figure>
 
 </section>
