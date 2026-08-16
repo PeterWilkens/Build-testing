@@ -358,25 +358,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.2",
   "title": "Interval Relationships on Both Keyboards",
-  "body": " Interval Relationships on Both Keyboards   The following diagrams show the Free Bass keyboard (left) and the Treble keyboard (right) side by side as they appear on the accordion. The bellows are indicated by the vertical lines between the two keyboards.                             "
-},
-{
-  "id": "fig-ir-all-pair-1",
-  "level": "2",
-  "url": "sec-interval-relationships-all.html#fig-ir-all-pair-1",
-  "type": "Figure",
-  "number": "3.2.1",
-  "title": "",
-  "body": "           "
-},
-{
-  "id": "fig-ir-all-pair-2",
-  "level": "2",
-  "url": "sec-interval-relationships-all.html#fig-ir-all-pair-2",
-  "type": "Figure",
-  "number": "3.2.2",
-  "title": "",
-  "body": "           "
+  "body": " Interval Relationships on Both Keyboards   The following diagrams show the Free Bass keyboard (left) and the Treble keyboard (right) side by side as they appear on the accordion. The bellows are indicated by the vertical lines between the two keyboards.                         "
 },
 {
   "id": "sec-intervals-keyboard-navigation",
@@ -421,7 +403,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.1",
   "title": "C Major Basic Scale Shape",
-  "body": " C Major Basic Scale Shape   Use this shape to form other major scales starting from the same column, for example E♭\/D♯, F♯\/G♭, A. The fingering is then transferable using the same pattern. Similarly where there are five columns the same major scale pattern can be used when starting from any root note in the second or third column from the extreme right column.    Basic C Major Scale Shape   Basic C shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.              "
+  "body": " C Major Basic Scale Shape   Use this shape to form other major scales starting from the same column, for example E♭\/D♯, F♯\/G♭, A. The fingering is then transferable using the same pattern. Similarly where there are five columns the same major scale pattern can be used when starting from any root note in the second or third column from the extreme right column.    Basic C Major Scale Shape   Basic C shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.       C major scale notation: bass-hand shape (left) and two-octave treble-hand run (right).         "
 },
 {
   "id": "fig-C-major-scale-shape",
@@ -439,7 +421,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.1.2",
   "title": "",
-  "body": "      "
+  "body": " C major scale notation: bass-hand shape (left) and two-octave treble-hand run (right).       "
 },
 {
   "id": "sec-D-major-scale-shape",
@@ -448,7 +430,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.2",
   "title": "D Major Basic Scale Shape",
-  "body": " D Major Basic Scale Shape   Use this shape to form other major scales where the shape fits, for example F, G♯ A♭, B.    Basic D Major Scale Shape   Basic D shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.              "
+  "body": " D Major Basic Scale Shape   Use this shape to form other major scales where the shape fits, for example F, G♯ A♭, B.    Basic D Major Scale Shape   Basic D shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.       D major scale notation: bass-hand shape (left) and two-octave treble-hand run (right).         "
 },
 {
   "id": "fig-D-major-scale-shape",
@@ -466,7 +448,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.2.2",
   "title": "",
-  "body": "      "
+  "body": " D major scale notation: bass-hand shape (left) and two-octave treble-hand run (right).       "
 },
 {
   "id": "sec-G-major-scale-shape",
@@ -475,7 +457,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.3",
   "title": "G Major Basic Scale Shape",
-  "body": " G Major Basic Scale Shape   Use this shape to form other major scales where the shape fits, for example A♯ B♭, C♯ D♭, E.    Basic G Major Scale Shape   Basic G shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.              "
+  "body": " G Major Basic Scale Shape   Use this shape to form other major scales where the shape fits, for example A♯ B♭, C♯ D♭, E.    Basic G Major Scale Shape   Basic G shape scale. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.       G major scale notation: bass-hand shape (left) and two-octave treble-hand run (right).         "
 },
 {
   "id": "fig-G-major-scale-shape",
@@ -493,7 +475,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.3.2",
   "title": "",
-  "body": "      "
+  "body": " G major scale notation: bass-hand shape (left) and two-octave treble-hand run (right).       "
 },
 {
   "id": "sec-basic-scale-shape-overview",
@@ -520,7 +502,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.5",
   "title": "C Harmonic Minor Scale Shape",
-  "body": " C Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic C Harmonic Minor Shape   Basic C harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.              "
+  "body": " C Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic C Harmonic Minor Shape   Basic C harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.       C harmonic minor scale notation: bass-hand shape (left) and two-octave treble-hand run (right).         "
 },
 {
   "id": "fig-C-harmonic-minor-scale-shape",
@@ -538,7 +520,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.5.2",
   "title": "",
-  "body": "      "
+  "body": " C harmonic minor scale notation: bass-hand shape (left) and two-octave treble-hand run (right).       "
 },
 {
   "id": "sec-C-melodic-minor-scale-shape",
@@ -547,7 +529,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.6",
   "title": "C Melodic Minor Scale Shape Ascending",
-  "body": " C Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits, ie; starting from the same column or using the same pattern in different positions. Scale name will be given by the first note of the scale.    Basic C Melodic Minor Shape   Basic C melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.              "
+  "body": " C Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits, ie; starting from the same column or using the same pattern in different positions. Scale name will be given by the first note of the scale.    Basic C Melodic Minor Shape   Basic C melodic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.       C melodic minor scale notation: bass-hand shape (left) and two-octave treble-hand run (right).         "
 },
 {
   "id": "fig-C-melodic-minor-scale-shape",
@@ -565,7 +547,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.6.2",
   "title": "",
-  "body": "      "
+  "body": " C melodic minor scale notation: bass-hand shape (left) and two-octave treble-hand run (right).       "
 },
 {
   "id": "sec-C-melodic-minor-descending-scale-shape",
@@ -574,7 +556,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.7",
   "title": "C Melodic Minor Descending Scale Shape",
-  "body": " C Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other melodic minor scales where the shape fits, ie; starting from the same column or using the same pattern in different positions. Scale name will be given by the first note of the scale.    Basic C Melodic Minor Descending Shape   Basic C melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.              "
+  "body": " C Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other melodic minor scales where the shape fits, ie; starting from the same column or using the same pattern in different positions. Scale name will be given by the first note of the scale.    Basic C Melodic Minor Descending Shape   Basic C melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.       C melodic minor (descending form) scale notation: bass-hand shape (left) and two-octave treble-hand run (right).         "
 },
 {
   "id": "fig-C-melodic-minor-descending-scale-shape",
@@ -592,7 +574,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.7.2",
   "title": "",
-  "body": "      "
+  "body": " C melodic minor (descending form) scale notation: bass-hand shape (left) and two-octave treble-hand run (right).       "
 },
 {
   "id": "sec-C-melodic-minor-asc-desc-overview",
@@ -619,7 +601,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.9",
   "title": "D Harmonic Minor Scale Shape",
-  "body": " D Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic D Harmonic Minor Shape   Basic D harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.              "
+  "body": " D Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic D Harmonic Minor Shape   Basic D harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.       D harmonic minor scale notation: bass-hand shape (left) and two-octave treble-hand run (right).         "
 },
 {
   "id": "fig-D-harmonic-minor-scale-shape",
@@ -637,7 +619,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.9.2",
   "title": "",
-  "body": "      "
+  "body": " D harmonic minor scale notation: bass-hand shape (left) and two-octave treble-hand run (right).       "
 },
 {
   "id": "sec-D-melodic-minor-scale-shape",
@@ -646,7 +628,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.10",
   "title": "D Melodic Minor Scale Shape Ascending",
-  "body": " D Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits.    Basic D Melodic Minor Shape   Basic D melodic minor shape. Ascending fingering numbers appear at the top of each button.              "
+  "body": " D Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits.    Basic D Melodic Minor Shape   Basic D melodic minor shape. Ascending fingering numbers appear at the top of each button.       D melodic minor scale notation: bass-hand shape (left) and two-octave treble-hand run (right).         "
 },
 {
   "id": "fig-D-melodic-minor-scale-shape",
@@ -664,7 +646,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.10.2",
   "title": "",
-  "body": "      "
+  "body": " D melodic minor scale notation: bass-hand shape (left) and two-octave treble-hand run (right).       "
 },
 {
   "id": "sec-D-melodic-minor-descending-scale-shape",
@@ -673,7 +655,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.11",
   "title": "D Melodic Minor Descending Scale Shape",
-  "body": " D Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other descending melodic minor scales where the shape fits.    Basic D Melodic Minor Descending Shape   Basic D melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.              "
+  "body": " D Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other descending melodic minor scales where the shape fits.    Basic D Melodic Minor Descending Shape   Basic D melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.       D melodic minor (descending form) scale notation: bass-hand shape (left) and two-octave treble-hand run (right).         "
 },
 {
   "id": "fig-D-melodic-minor-descending-scale-shape",
@@ -691,7 +673,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.11.2",
   "title": "",
-  "body": "      "
+  "body": " D melodic minor (descending form) scale notation: bass-hand shape (left) and two-octave treble-hand run (right).       "
 },
 {
   "id": "sec-D-melodic-minor-asc-desc-overview",
@@ -718,7 +700,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.13",
   "title": "G Harmonic Minor Scale Shape",
-  "body": " G Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic G Harmonic Minor Shape   Basic G harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.              "
+  "body": " G Harmonic Minor Scale Shape   Use this shape to form other harmonic minor scales where the shape fits.    Basic G Harmonic Minor Shape   Basic G harmonic minor shape. Ascending fingering numbers appear at the top of each button and descending fingering numbers at the bottom.       G harmonic minor scale notation: bass-hand shape (left) and two-octave treble-hand run (right).         "
 },
 {
   "id": "fig-G-harmonic-minor-scale-shape",
@@ -736,7 +718,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.13.2",
   "title": "",
-  "body": "      "
+  "body": " G harmonic minor scale notation: bass-hand shape (left) and two-octave treble-hand run (right).       "
 },
 {
   "id": "sec-G-melodic-minor-scale-shape",
@@ -745,7 +727,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.14",
   "title": "G Melodic Minor Scale Shape Ascending",
-  "body": " G Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits.    Basic G Melodic Minor Shape   Basic G melodic minor shape. Ascending fingering numbers appear at the top of each button.              "
+  "body": " G Melodic Minor Scale Shape Ascending   Use this shape to form other melodic minor scales where the shape fits.    Basic G Melodic Minor Shape   Basic G melodic minor shape. Ascending fingering numbers appear at the top of each button.       G melodic minor scale notation: bass-hand shape (left) and two-octave treble-hand run (right).         "
 },
 {
   "id": "fig-G-melodic-minor-scale-shape",
@@ -763,7 +745,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.14.2",
   "title": "",
-  "body": "      "
+  "body": " G melodic minor scale notation: bass-hand shape (left) and two-octave treble-hand run (right).       "
 },
 {
   "id": "sec-G-melodic-minor-descending-scale-shape",
@@ -772,7 +754,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.15",
   "title": "G Melodic Minor Descending Scale Shape",
-  "body": " G Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other descending melodic minor scales where the shape fits.    Basic G Melodic Minor Descending Shape   Basic G melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.              "
+  "body": " G Melodic Minor Descending Scale Shape   The descending form of the melodic minor scale is the same as the natural minor scale. Use this shape to form other descending melodic minor scales where the shape fits.    Basic G Melodic Minor Descending Shape   Basic G melodic minor descending shape (natural minor). Descending fingering numbers appear at the bottom of each button.       G melodic minor (descending form) scale notation: bass-hand shape (left) and two-octave treble-hand run (right).         "
 },
 {
   "id": "fig-G-melodic-minor-descending-scale-shape",
@@ -790,7 +772,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.15.2",
   "title": "",
-  "body": "      "
+  "body": " G melodic minor (descending form) scale notation: bass-hand shape (left) and two-octave treble-hand run (right).       "
 },
 {
   "id": "sec-G-melodic-minor-asc-desc-overview",
@@ -1321,25 +1303,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.1",
   "title": "Major and Minor Triads",
-  "body": " Major and Minor Triads   These triad shapes are moveable: the shape stays the same regardless of which button you start on, taking the name of the root note. The first row shows the four root-position triad types; the second row shows their common inversions.                           C major triad notation    C minor triad notation    C augmented triad notation    C diminished triad notation                            C major 1st inversion notation    C minor 1st inversion notation    C major 2nd inversion notation    C minor 2nd inversion notation    "
-},
-{
-  "id": "fig-triad-grids-row1",
-  "level": "2",
-  "url": "sec-major-minor-triads.html#fig-triad-grids-row1",
-  "type": "Figure",
-  "number": "7.1.1",
-  "title": "",
-  "body": "                   "
-},
-{
-  "id": "fig-triad-grids-row2",
-  "level": "2",
-  "url": "sec-major-minor-triads.html#fig-triad-grids-row2",
-  "type": "Figure",
-  "number": "7.1.2",
-  "title": "",
-  "body": "                   "
+  "body": " Major and Minor Triads   These triad shapes are moveable: the shape stays the same regardless of which button you start on, taking the name of the root note. The first row shows the four root-position triad types; the second row shows their common inversions.                         C major triad notation    C minor triad notation    C augmented triad notation    C diminished triad notation                          C major 1st inversion notation    C minor 1st inversion notation    C major 2nd inversion notation    C minor 2nd inversion notation    "
 },
 {
   "id": "sec-seventh-chords",
@@ -1672,66 +1636,30 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.2",
   "title": "2-5-1 Progressions of Maj7 Chords with Voice Leading (naturally follows Circle of Fifths)",
-  "body": " 2-5-1 Progressions of Maj7 Chords with Voice Leading (naturally follows Circle of Fifths)                                                                      "
+  "body": " 2-5-1 Progressions of Maj7 Chords with Voice Leading (naturally follows Circle of Fifths)                                                              "
 },
 {
-  "id": "fig-251-p1r1",
-  "level": "2",
-  "url": "sec-2-5-1-progressions.html#fig-251-p1r1",
-  "type": "Figure",
-  "number": "9.2.1",
-  "title": "",
-  "body": "               "
-},
-{
-  "id": "fig-251-p1r2",
-  "level": "2",
-  "url": "sec-2-5-1-progressions.html#fig-251-p1r2",
-  "type": "Figure",
-  "number": "9.2.2",
-  "title": "",
-  "body": "               "
-},
-{
-  "id": "fig-251-p2r1",
-  "level": "2",
-  "url": "sec-2-5-1-progressions.html#fig-251-p2r1",
-  "type": "Figure",
-  "number": "9.2.3",
-  "title": "",
-  "body": "               "
-},
-{
-  "id": "fig-251-p2r2",
-  "level": "2",
-  "url": "sec-2-5-1-progressions.html#fig-251-p2r2",
-  "type": "Figure",
-  "number": "9.2.4",
-  "title": "",
-  "body": "               "
-},
-{
-  "id": "sec-2-5-1-closed-in-C-Maj",
+  "id": "sec-practicing-2-5-1-progressions",
   "level": "1",
-  "url": "sec-2-5-1-closed-in-C-Maj.html",
+  "url": "sec-practicing-2-5-1-progressions.html",
   "type": "Section",
   "number": "9.3",
-  "title": "2-5-1 Closed in C Major",
-  "body": " 2-5-1 Closed in C Major  This progression is built from a 4 note grip (chord formed by content of the grip shown above the shape) and a bass note that is the root of the progression chord (named in the notation).  ===== Row 1: Shapes 1-4 =====-->                   Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips        2-5-1 in C major. 4 th chord Cm7 is the start of next 2-5-1 in Bb major                  Piano staff notation showing Dm7, G7, CMaj7, and Cm7 with bass notes D, G, C, and C                      "
+  "title": "Practicing 2-5-1 Progressions",
+  "body": " Practicing 2-5-1 Progressions  This progression is built from a 4 note grip (chord formed by content of the grip shown above the shape) and a bass note that is the root of the progression chord (named in the notation).  ===== Row 1: Shapes 1-4 =====-->  Shapes 1-4 for the 2-5-1 progression in C major.                   Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips        2-5-1 in C major. 4 th chord Cm7 is the start of next 2-5-1 in Bb major                  Piano staff notation showing Dm7, G7, CMaj7, and Cm7 with bass notes D, G, C, and C       2-5-1 progression in C major.                  Cycling through Major 2-5-1's  Continue through the following 2-5-1 progressions:   Dm7, G7, Cmaj7   Cm7, F7, Bbmaj7    Bbm7, Eb7, Abmaj7   Abm7, Db7, Gbmaj7    Gbm7, C7, Fmaj7   Fm7, Bb7, Ebmaj7    Ebm7, Ab7, Dbmaj7   Dbm7, Gb7, Cbmaj7    Bm7, E7, Amaj7   Am7, D7, Gmaj7    Gm7, C7, Fmaj7   F#m7, B7, Emaj7    Em7, A7, Dmaj7       Cycling through Minor 2-5-1's  Continue through the following minor 2-5-1 progressions:   Dm7b5, G7, Cm7   Cm7b5, F7, Bbm7    Bbm7b5, Eb7, Abm7   Abm7b5, Db7, Gbm7    Gbm7b5, C7, Fm7   Fm7b5, Bb7, Ebm7    Ebm7b5, Ab7, Dbm7   Dbm7b5, Gb7, Cbm7    Bm7b5, E7, Am7   Am7b5, D7, Gm7    Gm7b5, C7, Fm7   F#m7b5, B7, Em7    Em7b5, A7, Dm7      "
 },
 {
   "id": "fig-251-cmaj-r1",
   "level": "2",
-  "url": "sec-2-5-1-closed-in-C-Maj.html#fig-251-cmaj-r1",
+  "url": "sec-practicing-2-5-1-progressions.html#fig-251-cmaj-r1",
   "type": "Figure",
   "number": "9.3.1",
   "title": "",
-  "body": "                  Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips     "
+  "body": " Shapes 1-4 for the 2-5-1 progression in C major.                   Piano staff notation showing Dmi9, G13, CMaj9, and A7(b9#5) chords with FMaj7, F Lydian, Emi7, and Gmi7b5 grips     "
 },
 {
   "id": "fig-251-cmaj-r2",
   "level": "2",
-  "url": "sec-2-5-1-closed-in-C-Maj.html#fig-251-cmaj-r2",
+  "url": "sec-practicing-2-5-1-progressions.html#fig-251-cmaj-r2",
   "type": "Figure",
   "number": "9.3.2",
   "title": "",
@@ -1740,11 +1668,11 @@ var ptx_lunr_docs = [
 {
   "id": "fig-251-cmaj-r3",
   "level": "2",
-  "url": "sec-2-5-1-closed-in-C-Maj.html#fig-251-cmaj-r3",
+  "url": "sec-practicing-2-5-1-progressions.html#fig-251-cmaj-r3",
   "type": "Figure",
   "number": "9.3.3",
   "title": "",
-  "body": "               "
+  "body": " 2-5-1 progression in C major.                "
 },
 {
   "id": "sec-circle-structure",
@@ -3166,34 +3094,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "18.1",
   "title": "Blank Chord Shape Template",
-  "body": " Blank Chord Shape Template                                                     "
-},
-{
-  "id": "fig-blank-tpl-r1",
-  "level": "2",
-  "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r1",
-  "type": "Figure",
-  "number": "18.1.1",
-  "title": "",
-  "body": "               "
-},
-{
-  "id": "fig-blank-tpl-r2",
-  "level": "2",
-  "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r2",
-  "type": "Figure",
-  "number": "18.1.2",
-  "title": "",
-  "body": "               "
-},
-{
-  "id": "fig-blank-tpl-r3",
-  "level": "2",
-  "url": "sec-blank-chord-shape-template.html#fig-blank-tpl-r3",
-  "type": "Figure",
-  "number": "18.1.3",
-  "title": "",
-  "body": "               "
+  "body": " Blank Chord Shape Template                                               "
 },
 {
   "id": "sec-chord-progression-template",
@@ -3202,34 +3103,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "18.2",
   "title": "Extended Chord Progression Template",
-  "body": " Extended Chord Progression Template  This template uses the shared 52-node extended 11-row grid layout, including the added lower and upper extension nodes.                                                     "
-},
-{
-  "id": "fig-chord-prog-tpl-r1",
-  "level": "2",
-  "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r1",
-  "type": "Figure",
-  "number": "18.2.1",
-  "title": "",
-  "body": "               "
-},
-{
-  "id": "fig-chord-prog-tpl-r2",
-  "level": "2",
-  "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r2",
-  "type": "Figure",
-  "number": "18.2.2",
-  "title": "",
-  "body": "               "
-},
-{
-  "id": "fig-chord-prog-tpl-r3",
-  "level": "2",
-  "url": "sec-chord-progression-template.html#fig-chord-prog-tpl-r3",
-  "type": "Figure",
-  "number": "18.2.3",
-  "title": "",
-  "body": "               "
+  "body": " Extended Chord Progression Template  This template uses the shared 52-node extended 11-row grid layout, including the added lower and upper extension nodes.                                               "
 },
 {
   "id": "sec-node-reference-grid",
