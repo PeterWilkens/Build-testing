@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="sec-minor-extended-grid-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Minor ii-V-I Keyboard Familiarisation</title>
+  <p>Use these blank extended grids to practice minor ii-V-I progressions across the full 55-node layout.</p>
+  <pagebreak/>
+  <figure xml:id="fig-minor-extended-grid-practice">
+    <caption>Blank extended grids for minor ii-V-I practice.</caption>
+    <sbsgroup>
+      <sidebyside widths="31% 31% 31%" margins="2%">
+        <image xml:id="img-minor-extended-grid-practice-1">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridreferencenodes
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-minor-extended-grid-practice-2">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridreferencenodes
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-minor-extended-grid-practice-3">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridreferencenodes
+\end{tikzpicture}
+          </latex-image>
+        </image>
+      </sidebyside>
+      <sidebyside widths="31% 31% 31%" margins="2%">
+        <image xml:id="img-minor-extended-grid-practice-4">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridreferencenodes
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-minor-extended-grid-practice-5">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridreferencenodes
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-minor-extended-grid-practice-6">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridreferencenodes
+\end{tikzpicture}
+          </latex-image>
+        </image>
+      </sidebyside>
+      <sidebyside widths="31% 31% 31%" margins="2%">
+        <image xml:id="img-minor-extended-grid-practice-7">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridreferencenodes
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-minor-extended-grid-practice-8">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridreferencenodes
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-minor-extended-grid-practice-9">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridreferencenodes
+\end{tikzpicture}
+          </latex-image>
+        </image>
+      </sidebyside>
+    </sbsgroup>
+  </figure>
+</section>

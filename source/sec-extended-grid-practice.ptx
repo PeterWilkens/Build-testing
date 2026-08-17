@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="sec-extended-grid-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Extended Grid Practice</title>
-  <p>Use these extended grids to practice locating notes and building shapes across the full 55-node layout.</p>
+  <title>Major ii-V-I Keyboard Familiarisation</title>
+  <p>Practice consecutive ii-V-I progresssions across the keyboard. In all cases the ii chord is in root position the V chord is in 2nd inversion and the I chord in root. Transition to the next ii-V-I starting each progression with the mi7 chord of the last maj7. Practicing these progressions is useful for establishing muscle memory and an auditory memory of these important ii V I progression.</p>
   <pagebreak/>
-  <figure xml:id="fig-extended-grid-practice-page">
-    <caption>Extended grid practice page.</caption>
-    <sbsgroup>
+  <sbsgroup>
       <sidebyside widths="31% 31% 31%" margins="2%">
         <image xml:id="img-extended-grid-practice-1">
           <latex-image>
@@ -21,6 +19,11 @@
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
 \extendedgridnotes
+\gn{2}{6}{F$\sharp$/G$\flat$}{1}
+\gn{2}{7}{A}{1}
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{1}
+\gn{1}{9.5}{E}{1}
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {F$\sharp$m7};
 \end{tikzpicture}
           </latex-image>
         </image>
@@ -38,6 +41,11 @@
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
 \extendedgridnotes
+\gn{2}{6}{F$\sharp$/G$\flat$}{1}
+\gn{2}{7}{A}{1}
+\gn{3}{7.5}{B}{1}
+\gn{2}{9}{E$\flat$/D$\sharp$}{1}
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {B7};
 \end{tikzpicture}
           </latex-image>
         </image>
@@ -55,6 +63,11 @@
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
 \extendedgridnotes
+\gn{4}{5}{E}{1}
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{1}
+\gn{3}{7.5}{B}{1}
+\gn{5}{8.5}{E$\flat$/D$\sharp$}{1}
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Emaj7};
 \end{tikzpicture}
           </latex-image>
         </image>
@@ -74,6 +87,10 @@
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
 \extendedgridnotes
+\gn{4}{5}{E}{1}
+\gn{4}{6}{G}{1}
+\gn{3}{7.5}{B}{1}
+\gn{3}{8.5}{D}{1}
 \end{tikzpicture}
           </latex-image>
         </image>
@@ -91,6 +108,11 @@
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
 \extendedgridnotes
+\gn{4}{5}{E}{1}
+\gn{4}{6}{G}{1}
+\gn{5}{6.5}{A}{1}
+\gn{4}{8}{C$\sharp$/D$\flat$}{1}
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {A7};
 \end{tikzpicture}
           </latex-image>
         </image>
@@ -108,6 +130,11 @@
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
 \extendedgridnotes
+\gn{3}{4.5}{D}{1}
+\gn{2}{6}{F$\sharp$/G$\flat$}{1}
+\gn{2}{7}{A}{1}
+\gn{1}{8.5}{C$\sharp$/D$\flat$}{1}
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Dmaj7};
 \end{tikzpicture}
           </latex-image>
         </image>
@@ -127,6 +154,11 @@
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
 \extendedgridnotes
+\gn{3}{4.5}{D}{1}
+\gn{3}{5.5}{F}{1}
+\gn{2}{7}{A}{1}
+\gn{2}{8}{C}{1}
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Dm7};
 \end{tikzpicture}
           </latex-image>
         </image>
@@ -144,6 +176,11 @@
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
 \extendedgridnotes
+\gn{3}{4.5}{D}{1}
+\gn{3}{5.5}{F}{1}
+\gn{4}{6}{G}{1}
+\gn{3}{7.5}{B}{1}
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {G7};
 \end{tikzpicture}
           </latex-image>
         </image>
@@ -161,6 +198,220 @@
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
 \extendedgridnotes
+\gn{5}{3.5}{C}{1}
+\gn{4}{5}{E}{1}
+\gn{4}{6}{G}{1}
+\node[circle,draw=gray,fill=white,inner sep=0.4pt,font=\fontsize{4}{4}\selectfont\bfseries,xshift=5pt,yshift=4pt] at (3*\hlen,7.5*\vlen) {42};
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Cmaj7};
+\end{tikzpicture}
+          </latex-image>
+        </image>
+      </sidebyside>
+  </sbsgroup>
+  <pagebreak/>
+  <figure xml:id="fig-extended-grid-practice-page-2">
+    <caption>Major ii-V-I progressions across keyboard.</caption>
+    <sbsgroup>
+      <sidebyside widths="31% 31% 31%" margins="2%">
+        <image xml:id="img-extended-grid-practice-cm7">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridnotes
+\gn{5}{3.5}{C}{1}
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{1}
+\gn{4}{6}{G}{1}
+\gn{4}{7}{B$\flat$/A$\sharp$}{1}
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Cm7};
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-extended-grid-practice-f7">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridnotes
+\gn{5}{3.5}{C}{1}
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{1}
+\gn{3}{5.5}{F}{1}
+\gn{5}{6.5}{A}{1}
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {F7};
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-extended-grid-practice-bbmaj7">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridnotes
+\gn{4}{3}{B$\flat$/A$\sharp$}{1}
+\gn{3}{4.5}{D}{1}
+\gn{3}{5.5}{F}{1}
+\gn{5}{6.5}{A}{1}
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {B$\flat$maj7};
+\end{tikzpicture}
+          </latex-image>
+        </image>
+      </sidebyside>
+      <sidebyside widths="31% 31% 31%" margins="2%">
+        <image xml:id="img-extended-grid-practice-10">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridnotes
+\gn{4}{3}{B$\flat$/A$\sharp$}{1}
+\gn{4}{4}{C$\sharp$/D$\flat$}{1}
+\gn{3}{5.5}{F}{1}
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{1}
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {B$\flat$m7};
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-extended-grid-practice-11">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridnotes
+\gn{4}{3}{B$\flat$/A$\sharp$}{1}
+\gn{4}{4}{C$\sharp$/D$\flat$}{1}
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{1}
+\gn{4}{6}{G}{1}
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {E$\flat$7};
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-extended-grid-practice-12">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridnotes
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{1}
+\gn{2}{4}{C}{1}
+\gn{2}{5}{E$\flat$/D$\sharp$}{1}
+\gn{4}{6}{G}{1}
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {A$\flat$maj7};
+\end{tikzpicture}
+          </latex-image>
+        </image>
+      </sidebyside>
+      <sidebyside widths="31% 31% 31%" margins="2%">
+        <image xml:id="img-extended-grid-practice-13">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridnotes
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{1}
+\gn{3}{3.5}{B}{1}
+\gn{2}{5}{E$\flat$/D$\sharp$}{1}
+\gn{2}{6}{F$\sharp$/G$\flat$}{1}
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {A$\flat$m7};
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-extended-grid-practice-14">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridnotes
+\gn{3}{2.5}{A$\flat$/G$\sharp$}{1}
+\gn{3}{3.5}{B}{1}
+\gn{4}{4}{C$\sharp$/D$\flat$}{1}
+\gn{3}{5.5}{F}{1}
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {D$\flat$7};
+\end{tikzpicture}
+          </latex-image>
+        </image>
+        <image xml:id="img-extended-grid-practice-15">
+          <latex-image>
+\begin{tikzpicture}[scale=0.30, transform shape]
+\pgfmathsetmacro{\isoangle}{60}
+\pgfmathsetmacro{\vv}{11}
+\pgfmathsetmacro{\hh}{6}
+\pgfmathsetmacro{\vlen}{0.85}
+\pgfmathsetmacro{\ang}{\isoangle/2}
+\pgfmathsetmacro{\dlen}{(\vlen/2) / sin(\ang)}
+\pgfmathsetmacro{\hlen}{(\vlen/2) / tan(\ang)}
+\pgfmathsetmacro{\xmax}{\hh*\hlen}
+\pgfmathsetmacro{\ymax}{\vv*\vlen}
+\drawgridandnotes
+\extendedgridnotes
+\gn{5}{1.5}{F$\sharp$/G$\flat$}{1}
+\gn{4}{3}{B$\flat$/A$\sharp$}{1}
+\gn{4}{4}{C$\sharp$/D$\flat$}{1}
+\gn{3}{5.5}{F}{1}
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {G$\flat$maj7};
 \end{tikzpicture}
           </latex-image>
         </image>
