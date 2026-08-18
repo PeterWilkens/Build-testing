@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="sec-minor-extended-grid-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Minor ii-V-I Keyboard Familiarisation</title>
-  <p>Use these blank extended grids to practice minor ii-V-I progressions across the full 55-node layout.</p>
+  <p>Practice consecutive Minor ii-V-I progressions across the keyboard. In all cases the ii chord is in root position the V chord is in 2nd inversion and the I chord in root. Transition to the next ii-V-I starting each progression with the half diminished chord of the last minor 7. To be entirely accurate (chords developed from the harmonic minor scale) the i chord should be a miMaj7 but in nearly all use cases this is changed to a m7 . Practicing these progressions is useful for establishing muscle memory and an auditory memory of these important minor ii V I progression.</p>
   <pagebreak/>
   <figure xml:id="fig-minor-extended-grid-practice">
-    <caption>Blank extended grids for minor ii-V-I practice.</caption>
+    <caption> Minor ii-V-I practice. Continue pattern through the other ii V I's</caption>
     <sbsgroup>
       <sidebyside widths="31% 31% 31%" margins="2%">
         <image xml:id="img-minor-extended-grid-practice-1">
@@ -20,7 +20,12 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\extendedgridreferencenodes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {F$\sharp$m7$\flat$5};
+\extendedgridnotes
+\gn{2}{6}{F$\sharp$/G$\flat$}{1}
+\gn{2}{7}{A}{1}
+\gn{2}{8}{C}{1}
+\gn{1}{9.5}{E}{1}
 \end{tikzpicture}
           </latex-image>
         </image>
@@ -37,7 +42,12 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\extendedgridreferencenodes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {B7};
+\extendedgridnotes
+\gn{2}{6}{F$\sharp$/G$\flat$}{1}
+\gn{2}{7}{A}{1}
+\gn{3}{7.5}{B}{1}
+\gn{2}{9}{E$\flat$/D$\sharp$}{1}
 \end{tikzpicture}
           </latex-image>
         </image>
@@ -54,7 +64,12 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\extendedgridreferencenodes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Em7};
+\extendedgridnotes
+\gn{4}{5}{E}{1}
+\gn{4}{6}{G}{1}
+\gn{3}{7.5}{B}{1}
+\gn{3}{8.5}{D}{1}
 \end{tikzpicture}
           </latex-image>
         </image>
@@ -73,7 +88,12 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\extendedgridreferencenodes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Em7$\flat$5};
+\extendedgridnotes
+\gn{4}{5}{E}{1}
+\gn{4}{6}{G}{1}
+\gn{4}{7}{B$\flat$/A$\sharp$}{1}
+\gn{3}{8.5}{D}{1}
 \end{tikzpicture}
           </latex-image>
         </image>
@@ -90,7 +110,12 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\extendedgridreferencenodes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {A7};
+\extendedgridnotes
+\gn{4}{5}{E}{1}
+\gn{4}{6}{G}{1}
+\gn{5}{6.5}{A}{1}
+\gn{4}{8}{C$\sharp$/D$\flat$}{1}
 \end{tikzpicture}
           </latex-image>
         </image>
@@ -107,7 +132,12 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\extendedgridreferencenodes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Dm7};
+\extendedgridnotes
+\gn{3}{4.5}{D}{1}
+\gn{3}{5.5}{F}{1}
+\gn{2}{7}{A}{1}
+\gn{2}{8}{C}{1}
 \end{tikzpicture}
           </latex-image>
         </image>
@@ -126,7 +156,12 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\extendedgridreferencenodes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Dm7$\flat$5};
+\extendedgridnotes
+\gn{3}{4.5}{D}{1}
+\gn{3}{5.5}{F}{1}
+\gn{3}{6.5}{A$\flat$/G$\sharp$}{1}
+\gn{2}{8}{C}{1}
 \end{tikzpicture}
           </latex-image>
         </image>
@@ -143,7 +178,12 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\extendedgridreferencenodes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {G7};
+\extendedgridnotes
+\gn{3}{4.5}{D}{1}
+\gn{3}{5.5}{F}{1}
+\gn{4}{6}{G}{1}
+\gn{3}{7.5}{B}{1}
 \end{tikzpicture}
           </latex-image>
         </image>
@@ -160,7 +200,12 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\extendedgridreferencenodes
+\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Cm7};
+\extendedgridnotes
+\gn{5}{3.5}{C}{1}
+\gn{5}{4.5}{E$\flat$/D$\sharp$}{1}
+\gn{4}{6}{G}{1}
+\gn{4}{7}{B$\flat$/A$\sharp$}{1}
 \end{tikzpicture}
           </latex-image>
         </image>

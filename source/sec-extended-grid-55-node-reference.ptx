@@ -10,7 +10,7 @@
   </p>
 
   <figure xml:id="fig-extended-grid-55-node-reference">
-    <caption>Extended 11-row reference showing note labels and identification numbers for all 55 positions in the shared extended grid layout.</caption>
+    <caption>Extended Grid 1 — 55-node reference lookup.</caption>
     <image xml:id="img-chord-progression-grid-highlight-55" width="42%">
       <latex-image>
 \begin{tikzpicture}[scale=0.58, transform shape]
@@ -24,7 +24,6 @@
 \pgfmathsetmacro{\xmax}{\hh*\hlen}
 \pgfmathsetmacro{\ymax}{\vv*\vlen}
 \drawgridandnotes
-\node[font=\small\bfseries] at ({\xmax/2},{11.3*\vlen}) {Extended Grid 1};
 \extendedgridreferencenodes
 \end{tikzpicture}
       </latex-image>
