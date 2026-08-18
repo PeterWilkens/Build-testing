@@ -1312,7 +1312,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.2",
   "title": "Seventh Chords",
-  "body": " Seventh Chords   The Chord Shapes shown can be moved to different positions on the keyboard and take the name of the Root Chord. Thus, if you know the shape of one chord type, you know the shape of all chords of that type in that shape or inversion.     7th Chords Root Position                        Cmaj7 chord on treble staff    C7 chord on treble staff    Cm7 chord on treble staff    Cm7b5 chord on treble staff      7th Chords 1st Inversion                        Cmaj7 1st inversion chord on treble staff    C7 1st inversion chord on treble staff    Cm7 1st inversion chord on treble staff    Cm7b5 1st inversion chord on treble staff    "
+  "body": " Seventh Chords   The Chord Shapes shown can be moved to different positions on the keyboard and take the name of the Root Chord. Thus, if you know the shape of one chord type, you know the shape of all chords of that type in that shape or inversion.     7th Chords Root Position                        Cmaj7 chord on treble staff    C7 chord on treble staff    Cm7 chord on treble staff    Cm7b5 chord on treble staff      7th Chords 1st Inversion                    Cmaj7 1st inversion chord on treble staff    C7 1st inversion chord on treble staff    Cm7 1st inversion chord on treble staff    Cm7b5 1st inversion chord on treble staff    "
 },
 {
   "id": "fig-chord-grids-row1",
@@ -1330,7 +1330,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "7.2.2",
   "title": "",
-  "body": " 7th Chords 1st Inversion                    "
+  "body": " 7th Chords 1st Inversion                "
 },
 {
   "id": "sec-seventh-chords-page2",
@@ -1680,17 +1680,35 @@ var ptx_lunr_docs = [
   "url": "sec-extended-grid-practice.html",
   "type": "Section",
   "number": "9.4",
-  "title": "Extended Grid Practice",
-  "body": " Extended Grid Practice  Use these extended grids to practice locating notes and building shapes across the full 55-node layout.   Extended grid practice page.                                      "
+  "title": "Major ii-V-I Keyboard Familiarisation",
+  "body": " Major ii-V-I Keyboard Familiarisation  Practice consecutive ii-V-I progresssions across the keyboard. In all cases the ii chord is in root position the V chord is in 2nd inversion and the I chord in root. Transition to the next ii-V-I starting each progression with the mi7 chord of the last maj7. Practicing these progressions is useful for establishing muscle memory and an auditory memory of these important ii V I progression.                                      Major ii-V-I progressions across keyboard.                                      "
 },
 {
-  "id": "fig-extended-grid-practice-page",
+  "id": "fig-extended-grid-practice-page-2",
   "level": "2",
-  "url": "sec-extended-grid-practice.html#fig-extended-grid-practice-page",
+  "url": "sec-extended-grid-practice.html#fig-extended-grid-practice-page-2",
   "type": "Figure",
   "number": "9.4.1",
   "title": "",
-  "body": " Extended grid practice page.                                     "
+  "body": " Major ii-V-I progressions across keyboard.                                     "
+},
+{
+  "id": "sec-minor-extended-grid-practice",
+  "level": "1",
+  "url": "sec-minor-extended-grid-practice.html",
+  "type": "Section",
+  "number": "9.5",
+  "title": "Minor ii-V-I Keyboard Familiarisation",
+  "body": " Minor ii-V-I Keyboard Familiarisation  Practice consecutive Minor ii-V-I progressions across the keyboard. In all cases the ii chord is in root position the V chord is in 2nd inversion and the I chord in root. Transition to the next ii-V-I starting each progression with the half diminished chord of the last minor 7. To be entirely accurate (chords developed from the harmonic minor scale) the i chord should be a miMaj7 but in nearly all use cases this is changed to a m7 . Practicing these progressions is useful for establishing muscle memory and an auditory memory of these important minor ii V I progression.   Minor ii-V-I practice. Continue pattern through the other ii V I's                                      "
+},
+{
+  "id": "fig-minor-extended-grid-practice",
+  "level": "2",
+  "url": "sec-minor-extended-grid-practice.html#fig-minor-extended-grid-practice",
+  "type": "Figure",
+  "number": "9.5.1",
+  "title": "",
+  "body": " Minor ii-V-I practice. Continue pattern through the other ii V I's                                     "
 },
 {
   "id": "sec-circle-structure",
@@ -3166,7 +3184,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "18.5",
   "title": "Extended Grid 1 — 55-Node Reference",
-  "body": " Extended Grid 1 — 55-Node Reference  This reference shows all positions in the extended 11-row grid, with each node retaining its note label and carrying an identification number, including the added lower and upper extension nodes used by the drop-2 and chord-progression template figures.   Extended 11-row reference showing note labels and identification numbers for all 55 positions in the shared extended grid layout.      "
+  "body": " Extended Grid 1 — 55-Node Reference  This reference shows all positions in the extended 11-row grid, with each node retaining its note label and carrying an identification number, including the added lower and upper extension nodes used by the drop-2 and chord-progression template figures.   Extended Grid 1 — 55-node reference lookup.      "
 },
 {
   "id": "fig-extended-grid-55-node-reference",
@@ -3175,7 +3193,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "18.5.1",
   "title": "",
-  "body": " Extended 11-row reference showing note labels and identification numbers for all 55 positions in the shared extended grid layout.     "
+  "body": " Extended Grid 1 — 55-node reference lookup.     "
 },
 {
   "id": "sec-review-outstanding",
